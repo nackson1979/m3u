@@ -1,0 +1,43 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO S1
+http://mytv.tranvinh.tk/?id=redhbo&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/hbo-ad" group-title="PHIM QUỐC TẾ", HBO S2
+http://mytv.tranvinh.tk/?id=hbosd&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/fox-mv" group-title="PHIM QUỐC TẾ", Fox Movies HD
+http://hplus.tranvinh.tk/?id=foxmovies-hd&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxlife" group-title="PHIM QUỐC TẾ", Fox Life HD
+http://hplus.tranvinh.tk/?id=foxlife-hd&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/red-hbo" group-title="PHIM QUỐC TẾ", Red By HBO HD
+http://hplus.tranvinh.tk/?id=redhbo&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/warner" group-title="PHIM QUỐC TẾ", WarnerTV HD
+http://hplus.tranvinh.tk/?id=warner-tv&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cinemaworld" group-title="PHIM QUỐC TẾ", Cinema World 
+http://hplus.tranvinh.tk/?id=cinemaworld&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN T.Việt 
+http://hplus.tranvinh.tk/?id=axn&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/foxfamily" group-title="PHIM QUỐC TẾ", Fox Family 
+http://tranvinh.xyz/play/hplus.php?id=foxfamilymovies&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/zee-tv" group-title="PHIM QUỐC TẾ", Zee TV T.Việt
+http://tranvinh.xyz/play/hplus.php?id=zeetv&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/axn-hd" group-title="PHIM QUỐC TẾ", AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/nhk-w" group-title="TIN TỨC", NHK World HD S2
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vi-tv" group-title="TIN TỨC", VITV
+http://14.160.54.166:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/france24" group-title="TIN TỨC", France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/arisenews" group-title="TIN TỨC", Arise News
+http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-ad" group-title="FASHION", Fashion TV HD
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ftv-lt" group-title="FASHION", HD Fashion & Lifestyle
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cartoon-nw" group-title="KID", Cartoon Network T.Việt 
+http://hplus.tranvinh.tk/?id=cartoon&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boomerang-tv" group-title="KID", Boomerang T.Việt
+http://hplus.tranvinh.tk/?id=boomerang&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/disney-cn" group-title="KID", Disney Channel T.Việt
+http://mytv.tranvinh.tk/?id=disney&type=playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/davici" group-title="KID", Da Vinci Learning 
+http://mytv.tranvinh.tk/?id=davinci&type=playlist.m3u8
