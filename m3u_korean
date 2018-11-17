@@ -1,0 +1,90 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/arirang-tv" group-title="TV HÀN", ARIRANG S1
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b1728000_sleng.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/arirang-tv" group-title="TV HÀN", ARIRANG S2
+http://edge1.everyon.tv/etv1/phd36/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ALL THE K-POP
+https://stream-02.nyc.dailymotion.com/01/dm/3/x4kzk1v/live-3.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", M Net Countdown 
+http://d1cdshhn0sj9xt.cloudfront.net/529/QualityLevels(2628000,as=video)/Fragments(video=i,format=hls).m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Kênh A
+http://lgedge1.everyon.tv/lgetv1/phd1158/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Kênh A Plus
+http://lgedge1.everyon.tv/lgetv1/phd1143/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KBSN PLUS
+http://edge1.everyon.tv:1935/etv1/phd1327/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Chosun TV
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KCTV
+http://122.202.129.136:1935/live/ch5/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", KTV
+http://218.38.152.69:1935/da_live/72136989/mp4:ch001/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", MBN S1
+http://lgedge1.everyon.tv/lgetv1/phd1108/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", MBN S2
+http://edge2.everyon.tv/etv2sb/phd17/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Tin tức LHQ
+http://edge2.everyon.tv/etv2sb/phd133/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", HISTORY
+http://edge1.everyon.tv/etv1sb/phd551/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", The Movie
+http://edge2.everyon.tv/etv2/phd8/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", YTN
+http://lgedge1.everyon.tv/lgetv1/phd1110/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", YTN Life
+http://lgedge1.everyon.tv/lgetv1/phd1129/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", MBC
+http://edge2.everyon.tv/etv2/phd847/HasBahCa.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", C TIME
+http://edge2.everyon.tv:1935/etv2/phd21/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", SBS G1
+rtmp://smart.igtb.co.kr/live/stream.sdp
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ESB1
+http://ebsonair.ebs.co.kr:1935/groundwavefamilypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ESB2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", EBS+2
+http://ebsonair.ebs.co.kr:1935/plus2familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ESBe
+http://ebsonair.ebs.co.kr:1935/plus3familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", EBSi
+http://ebsonair.ebs.co.kr:1935/plus1familypc/familypc1m/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ESB Kids
+rtmp://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", ONT
+http://lgedge1.everyon.tv/lgetv1/phd1161/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", OBS
+http://lgedge1.everyon.tv/lgetv1/phd1113/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", TRENDY
+http://edge2.everyon.tv/etv2sb/phd753/chunklist_w881820644.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", CMC Family Entertainment
+http://edge1.everyon.tv:1935/etv1sb/phd1/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Everything TV
+http://edge1.everyon.tv/etv1sb/phd129/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Korean variety
+http://edge1.everyon.tv/etv1sb/phd957/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Arte
+http://edge1.everyon.tv/etv1/phd35/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", CTS
+http://edge1.everyon.tv/etv1/phd28/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", CGV
+http://edge1.everyon.tv/etv1sb/phd957/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", K-BADUK
+http://edge1.everyon.tv/etv1/phd207/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", CHING M
+http://edge1.everyon.tv/etv1sb/phd783/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", YTN
+http://edge2.everyon.tv/etv2sb/phd20/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", CHINGA Chinese Taiwan 
+http://edge1.everyon.tv/etv1/pld1016/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", BBS
+http://edge1.everyon.tv/etv1/phd553/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", TBS
+http://edge2.everyon.tv/etv2/phd40/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", MTN
+http://edge1.everyon.tv/etv1sb/pld18/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", Korean songs
+http://edge1.everyon.tv/etv1/pld849/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/korea-tv" group-title="TV HÀN", CGNTV
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_kr02/chunklist.m3u8
