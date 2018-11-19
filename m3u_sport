@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/tt-tv" group-title="SPORT", Thể Thao TV HD
-http://tranvinh.xyz/hplus.php?id=thethaotvhd
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/bd-tv" group-title="SPORT", Bóng Đá TV HD
-http://tranvinh.xyz/hplus.php?id=bongdatvhd
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 1 (Chỉ phát khi có bóng đá) 
 http://cdn2.xoilac.tv/template_mitomtv/live1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/livebd" group-title="SPORT", Trực Tiếp 2 (Chỉ phát khi có bóng đá) 
