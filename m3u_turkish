@@ -1,0 +1,133 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="TR: A HABER HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: A HABER HD
+http://212.8.253.47:88/329056230761828/329056230761828/3034
+#EXTINF:-1 tvg-name="TR: Kral POP" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Kral POP
+http://212.8.253.47:88/329056230761828/329056230761828/3033
+#EXTINF:-1 tvg-name="TR: A Spor HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: A Spor HD
+http://212.8.253.47:88/329056230761828/329056230761828/3032
+#EXTINF:-1 tvg-name="TR: A2 Tv" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: A2 Tv
+http://212.8.253.47:88/329056230761828/329056230761828/3031
+#EXTINF:-1 tvg-name="TR: Animal Planet" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Animal Planet
+http://212.8.253.47:88/329056230761828/329056230761828/3030
+#EXTINF:-1 tvg-name="TR: Bein Gurme" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Bein Gurme
+http://212.8.253.47:88/329056230761828/329056230761828/3027
+#EXTINF:-1 tvg-name="TR:Bengu Turk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Bengu Turk
+http://212.8.253.47:88/329056230761828/329056230761828/3026
+#EXTINF:-1 tvg-name="TR:Beyaz HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Beyaz HD
+http://212.8.253.47:88/329056230761828/329056230761828/3025
+#EXTINF:-1 tvg-name="TR: Bloomberg" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Bloomberg
+http://212.8.253.47:88/329056230761828/329056230761828/3024
+#EXTINF:-1 tvg-name="TR: BS TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: BS TV
+http://212.8.253.47:88/329056230761828/329056230761828/3023
+#EXTINF:-1 tvg-name="TR: Cartoon Network" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Cartoon Network
+http://212.8.253.47:88/329056230761828/329056230761828/3022
+#EXTINF:-1 tvg-name="TR: Cem TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Cem TV
+http://212.8.253.47:88/329056230761828/329056230761828/3021
+#EXTINF:-1 tvg-name="TR: DaVinci Learning" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: DaVinci Learning
+http://212.8.253.47:88/329056230761828/329056230761828/3018
+#EXTINF:-1 tvg-name="TR:Discovery Channel HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Discovery Channel HD
+http://212.8.253.47:88/329056230761828/329056230761828/3015
+#EXTINF:-1 tvg-name="TR: Discovery Science" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Discovery Science
+http://212.8.253.47:88/329056230761828/329056230761828/3014
+#EXTINF:-1 tvg-name="TR:Discovery ID" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Discovery ID
+http://212.8.253.47:88/329056230761828/329056230761828/3013
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Disney Channel HD
+http://212.8.253.47:88/329056230761828/329056230761828/3012
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Disney Junior
+http://212.8.253.47:88/329056230761828/329056230761828/3011
+#EXTINF:-1 tvg-name="TR:Digimax" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Digimax
+http://212.8.253.47:88/329056230761828/329056230761828/3010
+#EXTINF:-1 tvg-name="TR:Dream Turk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Dream Turk
+http://212.8.253.47:88/329056230761828/329056230761828/3007
+#EXTINF:-1 tvg-name="Dream TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Dream TV
+http://212.8.253.47:88/329056230761828/329056230761828/3006
+#EXTINF:-1 tvg-name="TR:Cay TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Cay TV
+http://212.8.253.47:88/329056230761828/329056230761828/3004
+#EXTINF:-1 tvg-name="TR:Eurosport 2" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Eurosport 2
+http://212.8.253.47:88/329056230761828/329056230761828/3003
+#EXTINF:-1 tvg-name="TR: Euro D" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Euro D
+http://212.8.253.47:88/329056230761828/329056230761828/3002
+#EXTINF:-1 tvg-name="TR: Power HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Power HD
+http://212.8.253.47:88/329056230761828/329056230761828/3001
+#EXTINF:-1 tvg-name="TR: Nat Geo" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Nat Geo
+http://212.8.253.47:88/329056230761828/329056230761828/3000
+#EXTINF:-1 tvg-name="TR:FB TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:FB TV
+http://212.8.253.47:88/329056230761828/329056230761828/2999
+#EXTINF:-1 tvg-name="TR:BJK TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:BJK TV
+http://212.8.253.47:88/329056230761828/329056230761828/2997
+#EXTINF:-1 tvg-name="TR: Nat Geo Wild" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Nat Geo Wild
+http://212.8.253.47:88/329056230761828/329056230761828/2994
+#EXTINF:-1 tvg-name="TR:GS TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:GS TV
+http://212.8.253.47:88/329056230761828/329056230761828/2993
+#EXTINF:-1 tvg-name="TR:Haber Turk HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Haber Turk HD
+http://212.8.253.47:88/329056230761828/329056230761828/2992
+#EXTINF:-1 tvg-name="TR:Halk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Halk
+http://212.8.253.47:88/329056230761828/329056230761828/2991
+#EXTINF:-1 tvg-name="TR: TV 8 Int" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TV 8 Int
+http://212.8.253.47:88/329056230761828/329056230761828/2990
+#EXTINF:-1 tvg-name="TR: Aksu Tv" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Aksu Tv
+http://212.8.253.47:88/329056230761828/329056230761828/2988
+#EXTINF:-1 tvg-name="TR: Kanal 24" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Kanal 24
+http://212.8.253.47:88/329056230761828/329056230761828/2987
+#EXTINF:-1 tvg-name="TR: Kanal 7 Avrupa" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Kanal 7 Avrupa
+http://212.8.253.47:88/329056230761828/329056230761828/2984
+#EXTINF:-1 tvg-name="TR: Kanal B" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Kanal B
+http://212.8.253.47:88/329056230761828/329056230761828/2983
+#EXTINF:-1 tvg-name="TR: EM TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: EM TV
+http://212.8.253.47:88/329056230761828/329056230761828/2981
+#EXTINF:-1 tvg-name="TR:Flash TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Flash TV
+http://212.8.253.47:88/329056230761828/329056230761828/2980
+#EXTINF:-1 tvg-name="TR: Minika Cocuk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Minika Cocuk
+http://212.8.253.47:88/329056230761828/329056230761828/2976
+#EXTINF:-1 tvg-name="TR: Minika Go" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Minika Go
+http://212.8.253.47:88/329056230761828/329056230761828/2975
+#EXTINF:-1 tvg-name="TR: Nickelodeon" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Nickelodeon
+http://212.8.253.47:88/329056230761828/329056230761828/2969
+#EXTINF:-1 tvg-name="TR: NR1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: NR1 HD
+http://212.8.253.47:88/329056230761828/329056230761828/2968
+#EXTINF:-1 tvg-name="NTV Spor HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",NTV Spor HD
+http://212.8.253.47:88/329056230761828/329056230761828/2967
+#EXTINF:-1 tvg-name="TR: Planete Cocuk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Planete Cocuk
+http://212.8.253.47:88/329056230761828/329056230761828/2966
+#EXTINF:-1 tvg-name="Planete Mutfak" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Planete Mutfak
+http://212.8.253.47:88/329056230761828/329056230761828/2965
+#EXTINF:-1 tvg-name="TR: NTV HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: NTV HD
+http://212.8.253.47:88/329056230761828/329056230761828/2964
+#EXTINF:-1 tvg-name="TR-BeinFestival" tvg-logo="http://logo.ndasat.com/iptv/images/52749_movipremium.png" group-title="{BOUQUET_NAME}",TR-BeinFestival
+http://212.8.253.47:88/329056230761828/329056230761828/793
+#EXTINF:-1 tvg-name="TR-BeinStar" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR-BeinStar
+http://212.8.253.47:88/329056230761828/329056230761828/2972
+#EXTINF:-1 tvg-name="TR: TRT AVAZ HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TRT AVAZ HD
+http://212.8.253.47:88/329056230761828/329056230761828/2950
+#EXTINF:-1 tvg-name="TR: TRT Belgesel HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TRT Belgesel HD
+http://212.8.253.47:88/329056230761828/329056230761828/2949
+#EXTINF:-1 tvg-name="TR: TRT OKUL" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TRT OKUL
+http://212.8.253.47:88/329056230761828/329056230761828/2948
+#EXTINF:-1 tvg-name="TR: TRT Turk HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TRT Turk HD
+http://212.8.253.47:88/329056230761828/329056230761828/2947
+#EXTINF:-1 tvg-name="TR: TRT World HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TRT World HD
+http://212.8.253.47:88/329056230761828/329056230761828/2946
+#EXTINF:-1 tvg-name="TR: TV 2 HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TV 2 HD
+http://212.8.253.47:88/329056230761828/329056230761828/2944
+#EXTINF:-1 tvg-name="TR: TRT Diyanet" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TRT Diyanet
+http://212.8.253.47:88/329056230761828/329056230761828/2943
+#EXTINF:-1 tvg-name="TV 6" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TV 6
+http://212.8.253.47:88/329056230761828/329056230761828/2942
+#EXTINF:-1 tvg-name="TR: TV Net" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TV Net
+http://212.8.253.47:88/329056230761828/329056230761828/2940
+#EXTINF:-1 tvg-name="TR-BeinSport4" tvg-logo="http://logo.ndasat.com/iptv/images/69400_bein4.jpg" group-title="{BOUQUET_NAME}",TR-BeinSport4
+http://212.8.253.47:88/329056230761828/329056230761828/2939
+#EXTINF:-1 tvg-name="TR-BeinIZ" tvg-logo="http://logo.ndasat.com/iptv/images/63215_ntvsport.jpg" group-title="{BOUQUET_NAME}",TR-BeinIZ
+http://212.8.253.47:88/329056230761828/329056230761828/788
+#EXTINF:-1 tvg-name="TR-BeinSport1" tvg-logo="http://logo.ndasat.com/iptv/images/60199_bein1.png" group-title="{BOUQUET_NAME}",TR-BeinSport1
+http://212.8.253.47:88/329056230761828/329056230761828/526
+#EXTINF:-1 tvg-name="TR-BeinSport2" tvg-logo="http://logo.ndasat.com/iptv/images/56752_1353.png" group-title="{BOUQUET_NAME}",TR-BeinSport2
+http://212.8.253.47:88/329056230761828/329056230761828/525
+#EXTINF:-1 tvg-name="TR-BeinSport3" tvg-logo="http://logo.ndasat.com/iptv/images/14264_Ligtv3.png" group-title="{BOUQUET_NAME}",TR-BeinSport3
+http://212.8.253.47:88/329056230761828/329056230761828/524
+#EXTINF:-1 tvg-name="TR: TGRT Haber" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TGRT Haber
+http://212.8.253.47:88/329056230761828/329056230761828/2955
+#EXTINF:-1 tvg-name="TR: TLC" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TLC
+http://212.8.253.47:88/329056230761828/329056230761828/2952
+#EXTINF:-1 tvg-name="TR-BeinAction" tvg-logo="http://logo.ndasat.com/iptv/images/7641_moviemax.png" group-title="{BOUQUET_NAME}",TR-BeinAction
+http://212.8.253.47:88/329056230761828/329056230761828/792
