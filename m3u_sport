@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BesTV Sport 1 FHD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226642/index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", BesTV Sport 2 FHD
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226646/index.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/astroarena" group-title="SPORT", Astro Arena HD
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/workpoint" group-title="SPORT", WorkPoint FHD
+https://stream-04.sg1.dailymotion.com/dm/3/x6g9qjj/live-4.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 1 HD 
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 2 HD 
