@@ -1,110 +1,40 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: 24 TV 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: A HABER HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/56.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: A HABER 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/238.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: A HABER (1+) 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/3.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: AKSARAY TV W 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/76.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: AKSU TV 
 http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ANIMAL PLANET 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/88.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ATV HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/55.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ATV 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/2.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ATV AVRUPA 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/73.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: BEIN IZ TV 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/11397.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: BENGUTURK TV 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/195.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: BJK TV 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/11403.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: BRT 1 
 http://wms.brtk.net:1935/live/brt1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: BRT 2 
 http://wms.brtk.net:1935/live/brt2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: CAY TV 
 http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: CLIC HD
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11251.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: CLIC 3 
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11260.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: CLIC HQ 
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11391.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: CORAZ HD
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11250.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: CORAZ 
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11397.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: CORAZON HD
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/13989.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY AKSIYON 2 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/185.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY AKSIYON 3 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/184.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY AKSIYON 5 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/182.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY AKSIYON 6 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/181.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY BILIMKURGU 3 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/178.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY DRAMA 2 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/176.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY KOMEDI 3 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/163.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY KOMEDI 4 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/162.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY KORKU 2 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/159.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY KORKU 3 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/158.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DADDY T 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/154.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DISCOVERY HD
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/93.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DISCOVERY SCIENCE 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/94.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DISCOVERY SHOWCASE HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/585.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DISCOVERY SHOWCASE 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/89.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DOST TV 
 http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DREAM HD
 http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1944.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DREAM 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/205.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DREAM TURK 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/21.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DREAM TV 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/22.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DREAM TV W 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/85.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DREAMTURK TV 
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: EGE TV 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/11393.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: EKIN TV 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/215.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: EKIN TV (1+) 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/11389.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ETV EDIRNE 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/11391.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: EURO D 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/253.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: EURO STAR 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/26.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: EUROD 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/86.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: EUROSTAR 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/257.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: FB TV HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/11404.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: FB TV 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/28.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: FLASH TV 
@@ -115,10 +45,6 @@ http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/30.m3u8
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/75.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: FRM TV 
 http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: GS TV 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/11405.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: GUNES TV 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/261.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: HABER HD
 http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1995.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: HABER (1+) HD
@@ -135,22 +61,14 @@ http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/33.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL 7 LIFESTYLE 
 http://livede.gostream.nl/kanal7hq/kanal7hq/chunklist_w1242178276.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL D 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/254.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL D (1+) 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/34.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL D OPT 1 
 http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL D OPT 2 
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL KABE LIFESTYLE 
 http://livetr.gostream.nl/mekke/mekke/chunklist_w2007164765.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL URFA 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/35.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL7 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/60.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KIDZ 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/226.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KRAL 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/36.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: LOCA 1 
@@ -161,10 +79,6 @@ http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/38.m3u8
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/39.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: MECLIS TV 
 http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: MINIKA COCUK 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/230.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: MUNDO HD
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/11249.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: MUZ TV 
 http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NATIONAL GEO PEOPLE 
@@ -175,16 +89,12 @@ http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/92.m3u8
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/91.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NR 1 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/40.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NR1 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/68.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NR1 (1+) HD
 http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1942.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NTV 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/41.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NUMBER ONE TURK 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/43.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: PLANET 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/225.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: PLANET MUTFAK 
 http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/223.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: POWER HD
@@ -197,8 +107,6 @@ http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/66.ts
 http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: SEMERKAND 
 http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: SHOW MAX 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/113.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: SHOW TV 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/45.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: SKY 360 
@@ -207,8 +115,6 @@ http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
 http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/114.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: STAR TV 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/50.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TARIM TV W 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/116.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TGRT BELGESEL 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/51.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TGRT BELGESEL (1+) 
@@ -223,8 +129,6 @@ http://tjktv.ercdn.net/tjktv_576p.m3u8
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/62.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT (1+) HD
 http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1931.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT 1 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/237.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT 1 (1+) 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/55.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT 1 (2+) 
@@ -265,27 +169,9 @@ http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/66.m3u8
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/69.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TV RECUERDOS 
 http://media.az-streamingserver.com:1935/7230/7230/chunklist_w107238539.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TV2 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/214.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TV2 (1+) 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/67.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TV360 W 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/125.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TV8 HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/73.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ULKE 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/71.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: XICO HD
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14356.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: XICO (1+) HD
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14364.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: XICO (2+) HD
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14365.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: XICO 
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14090.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: XICO (1+) 
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14091.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: XICO (2+) 
-http://iptv.wtf:25461/live/wxarhpon/rnh86C1v6O/14092.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: YABAN 
 http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/72.m3u8
