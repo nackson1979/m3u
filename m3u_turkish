@@ -1,177 +1,114 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: 24 TV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/1.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: A HABER (1+) 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/3.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: AKSU TV 
-http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ANIMAL PLANET 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/88.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ATV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/2.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ATV AVRUPA 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/73.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: BRT 1 
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: BRT 2 
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: CAY TV 
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DISCOVERY HD
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/93.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DISCOVERY SCIENCE 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/94.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DISCOVERY SHOWCASE 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/89.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DOST TV 
-http://yayin.dosttv.com:1935/dosttv/dosttv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DREAM HD
-http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1944.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DREAM TURK 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/21.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: DREAM TV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/22.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: EURO STAR 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/26.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: EUROD 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/86.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: FB TV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/28.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: FLASH TV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/29.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: FOX HD
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/30.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: FOX TV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/75.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: FRM TV 
-http://185.50.68.221:1935/live/myStream/iptvdelisi.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: HABER HD
-http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1995.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: HABER (1+) HD
-http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/2023.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: HABERTURK 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/31.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: HALK TV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/32.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: HISTORY HD
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/95.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL 19 W 
-http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL 7 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/33.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL 7 LIFESTYLE 
-http://livede.gostream.nl/kanal7hq/kanal7hq/chunklist_w1242178276.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL D (1+) 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/34.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL D OPT 1 
-http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL KABE LIFESTYLE 
-http://livetr.gostream.nl/mekke/mekke/chunklist_w2007164765.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KANAL URFA 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/35.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: KRAL 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/36.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: LOCA 1 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/37.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: LOCA 2 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/38.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: LOCA 3 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/39.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: MECLIS TV 
-http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: MUZ TV 
-http://85.132.78.6:1935/live/muztv.stream/younessiptv.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NATIONAL GEO PEOPLE 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/90.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NATIONAL GEO WILD 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/92.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NATIONAL GEOGRAPHIC 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/91.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NR 1 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/40.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NR1 (1+) HD
-http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1942.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NTV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/41.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: NUMBER ONE TURK 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/43.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: PLANET MUTFAK 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/223.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: POWER HD
-http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1940.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: POWER TURK 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/44.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: POWER TV HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/66.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: SEMERKAND HD
-http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: SEMERKAND 
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: SHOW TV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/45.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: SKY 360 
-http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: STAR HD
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/114.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: STAR TV 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/50.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TGRT BELGESEL 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/51.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TGRT BELGESEL (1+) 
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TGRT HABER 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/52.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TGRT HABER W 
-http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt2/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TJK TV 
-http://tjktv.ercdn.net/tjktv_576p.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT HD
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/62.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT (1+) HD
-http://ulusaltr.dyndns.tv:2018/live/selcuk720p/H4WOJepjLv/1931.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT 1 (1+) 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/55.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT 1 (2+) 
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT ARABIC 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/56.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT AVAZ 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/57.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT BELGESEL 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/58.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT BELGESEL (1+) 
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT COCUK 
-http://daddyiptv.com:8000/live/PPXxGlnjDc/yPPT8iL2Su/232.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT COCUK (1+) 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/59.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT DIYANET 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/60.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT HABER HD
-http://trt-live.ercdn.net/trthaber/trthaber_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT HABER (1+) HD
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/61.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT HABER 
-http://178.132.6.97:8080/TR:TRTHABER1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT HABER (1+) 
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT HABER 1 HD
-https://trt-live.ercdn.net/trthaber/trthaber_1.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT MUZIK 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/63.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT MUZIK (1+) 
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT OKUL 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/64.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TRT TURK 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/66.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TV 8 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/69.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TV RECUERDOS 
-http://media.az-streamingserver.com:1935/7230/7230/chunklist_w107238539.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: TV2 (1+) 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/67.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: ULKE 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/71.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png"  group-title="TR: _",TR: YABAN 
-http://51.15.2.143:8000/live/live:mtg_2406_1/OoO7NI86Df/72.m3u8
+#EXTINF:-1 tvg-name="TR: A HABER HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: A HABER HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/3034.m3u8
+#EXTINF:-1 tvg-name="TR: Kral POP" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Kral POP
+http://212.8.253.47:88/live/555155895930609/555155895930609/3033.m3u8
+#EXTINF:-1 tvg-name="TR: A Spor HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: A Spor HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/3032.m3u8
+#EXTINF:-1 tvg-name="TR: A2 Tv" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: A2 Tv
+http://212.8.253.47:88/live/555155895930609/555155895930609/3031.m3u8
+#EXTINF:-1 tvg-name="TR: Animal Planet" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Animal Planet
+http://212.8.253.47:88/live/555155895930609/555155895930609/3030.m3u8
+#EXTINF:-1 tvg-name="TR: Bein Gurme" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Bein Gurme
+http://212.8.253.47:88/live/555155895930609/555155895930609/3027.m3u8
+#EXTINF:-1 tvg-name="TR:Bengu Turk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Bengu Turk
+http://212.8.253.47:88/live/555155895930609/555155895930609/3026.m3u8
+#EXTINF:-1 tvg-name="TR:Beyaz HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Beyaz HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/3025.m3u8
+#EXTINF:-1 tvg-name="TR: Bloomberg" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Bloomberg
+http://212.8.253.47:88/live/555155895930609/555155895930609/3024.m3u8
+#EXTINF:-1 tvg-name="TR: BS TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: BS TV
+http://212.8.253.47:88/live/555155895930609/555155895930609/3023.m3u8
+#EXTINF:-1 tvg-name="TR: Cartoon Network" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Cartoon Network
+http://212.8.253.47:88/live/555155895930609/555155895930609/3022.m3u8
+#EXTINF:-1 tvg-name="TR: Cem TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Cem TV
+http://212.8.253.47:88/live/555155895930609/555155895930609/3021.m3u8
+#EXTINF:-1 tvg-name="AR:Hala Bollywood" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",AR:Hala Bollywood
+http://212.8.253.47:88/live/555155895930609/555155895930609/3020.m3u8
+#EXTINF:-1 tvg-name="TR: DaVinci Learning" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: DaVinci Learning
+http://212.8.253.47:88/live/555155895930609/555155895930609/3018.m3u8
+#EXTINF:-1 tvg-name="TR:Discovery Channel HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Discovery Channel HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/3015.m3u8
+#EXTINF:-1 tvg-name="TR: Discovery Science" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Discovery Science
+http://212.8.253.47:88/live/555155895930609/555155895930609/3014.m3u8
+#EXTINF:-1 tvg-name="TR:Discovery ID" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Discovery ID
+http://212.8.253.47:88/live/555155895930609/555155895930609/3013.m3u8
+#EXTINF:-1 tvg-name="Disney Channel HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Disney Channel HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/3012.m3u8
+#EXTINF:-1 tvg-name="Disney Junior" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Disney Junior
+http://212.8.253.47:88/live/555155895930609/555155895930609/3011.m3u8
+#EXTINF:-1 tvg-name="TR:Digimax" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Digimax
+http://212.8.253.47:88/live/555155895930609/555155895930609/3010.m3u8
+#EXTINF:-1 tvg-name="UK:Kooora1" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",UK:Kooora1
+http://93.190.141.193:8080/live/atlasuk/34HJXu2w5t/1.m3u8
+#EXTINF:-1 tvg-name="Libya Mostakbal" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Libya Mostakbal
+http://212.8.253.47:88/live/555155895930609/555155895930609/3008.m3u8
+#EXTINF:-1 tvg-name="TR:Dream Turk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Dream Turk
+http://212.8.253.47:88/live/555155895930609/555155895930609/3007.m3u8
+#EXTINF:-1 tvg-name="Dream TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Dream TV
+http://212.8.253.47:88/live/555155895930609/555155895930609/3006.m3u8
+#EXTINF:-1 tvg-name="TR:Cay TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Cay TV
+http://212.8.253.47:88/live/555155895930609/555155895930609/3004.m3u8
+#EXTINF:-1 tvg-name="TR:Eurosport 2" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Eurosport 2
+http://212.8.253.47:88/live/555155895930609/555155895930609/3003.m3u8
+#EXTINF:-1 tvg-name="TR: Euro D" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Euro D
+http://212.8.253.47:88/live/555155895930609/555155895930609/3002.m3u8
+#EXTINF:-1 tvg-name="TR: Power HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Power HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/3001.m3u8
+#EXTINF:-1 tvg-name="TR: Nat Geo" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Nat Geo
+http://212.8.253.47:88/live/555155895930609/555155895930609/3000.m3u8
+#EXTINF:-1 tvg-name="TR:FB TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:FB TV
+http://212.8.253.47:88/live/555155895930609/555155895930609/2999.m3u8
+#EXTINF:-1 tvg-name="Quest Arabia" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Quest Arabia
+http://212.8.253.47:88/live/555155895930609/555155895930609/2998.m3u8
+#EXTINF:-1 tvg-name="TR:BJK TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:BJK TV
+http://212.8.253.47:88/live/555155895930609/555155895930609/2997.m3u8
+#EXTINF:-1 tvg-name="UK:Kooora2" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",UK:Kooora2
+http://93.190.141.193:8080/live/atlasuk/34HJXu2w5t/2.m3u8
+#EXTINF:-1 tvg-name="TR: Nat Geo Wild" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Nat Geo Wild
+http://212.8.253.47:88/live/555155895930609/555155895930609/2994.m3u8
+#EXTINF:-1 tvg-name="TR:GS TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:GS TV
+http://212.8.253.47:88/live/555155895930609/555155895930609/2993.m3u8
+#EXTINF:-1 tvg-name="TR:Haber Turk HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Haber Turk HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/2992.m3u8
+#EXTINF:-1 tvg-name="TR:Halk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Halk
+http://212.8.253.47:88/live/555155895930609/555155895930609/2991.m3u8
+#EXTINF:-1 tvg-name="TR: TV 8 Int" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: TV 8 Int
+http://212.8.253.47:88/live/555155895930609/555155895930609/2990.m3u8
+#EXTINF:-1 tvg-name="TR: Aksu Tv" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Aksu Tv
+http://212.8.253.47:88/live/555155895930609/555155895930609/2988.m3u8
+#EXTINF:-1 tvg-name="TR: Kanal 24" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Kanal 24
+http://212.8.253.47:88/live/555155895930609/555155895930609/2987.m3u8
+#EXTINF:-1 tvg-name="Libya Al Jamahiria" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Libya Al Jamahiria
+http://212.8.253.47:88/live/555155895930609/555155895930609/2986.m3u8
+#EXTINF:-1 tvg-name="TR: Kanal 7 Avrupa" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Kanal 7 Avrupa
+http://212.8.253.47:88/live/555155895930609/555155895930609/2984.m3u8
+#EXTINF:-1 tvg-name="TR: Kanal B" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Kanal B
+http://212.8.253.47:88/live/555155895930609/555155895930609/2983.m3u8
+#EXTINF:-1 tvg-name="TR: EM TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: EM TV
+http://212.8.253.47:88/live/555155895930609/555155895930609/2981.m3u8
+#EXTINF:-1 tvg-name="TR:Flash TV" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR:Flash TV
+http://212.8.253.47:88/live/555155895930609/555155895930609/2980.m3u8
+#EXTINF:-1 tvg-name="TR: Minika Cocuk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Minika Cocuk
+http://212.8.253.47:88/live/555155895930609/555155895930609/2976.m3u8
+#EXTINF:-1 tvg-name="TR: Minika Go" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Minika Go
+http://212.8.253.47:88/live/555155895930609/555155895930609/2975.m3u8
+#EXTINF:-1 tvg-name="AR:Hala Movies" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",AR:Hala Movies
+http://212.8.253.47:88/live/555155895930609/555155895930609/2974.m3u8
+#EXTINF:-1 tvg-name="AR:Hala Series" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",AR:Hala Series
+http://212.8.253.47:88/live/555155895930609/555155895930609/2973.m3u8
+#EXTINF:-1 tvg-name="BE:La Deux" tvg-logo="http://logo.ndasat.com/iptv/images/95000_819.png" group-title="{BOUQUET_NAME}",BE:La Deux
+http://212.8.253.47:88/live/555155895930609/555155895930609/776.m3u8
+#EXTINF:-1 tvg-name="Nick JR" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Nick JR
+http://212.8.253.47:88/live/555155895930609/555155895930609/2970.m3u8
+#EXTINF:-1 tvg-name="TR: Nickelodeon" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Nickelodeon
+http://212.8.253.47:88/live/555155895930609/555155895930609/2969.m3u8
+#EXTINF:-1 tvg-name="TR: NR1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: NR1 HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/2968.m3u8
+#EXTINF:-1 tvg-name="NTV Spor HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",NTV Spor HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/2967.m3u8
+#EXTINF:-1 tvg-name="TR: Planete Cocuk" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: Planete Cocuk
+http://212.8.253.47:88/live/555155895930609/555155895930609/2966.m3u8
+#EXTINF:-1 tvg-name="Planete Mutfak" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",Planete Mutfak
+http://212.8.253.47:88/live/555155895930609/555155895930609/2965.m3u8
+#EXTINF:-1 tvg-name="TR: NTV HD" tvg-logo="http://logo.ndasat.com/iptv/images/68982_turkey.jpg" group-title="{BOUQUET_NAME}",TR: NTV HD
