@@ -2,12 +2,6 @@
 
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/astroarena" group-title="SPORT", Astro Arena HD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8_05.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 1 HD 
-http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", AD Sport 2 HD 
-http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", DSPORT HD
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8|User-Agent=VLC/3.0.0-git LibVLC/3.0.0-git
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/real-tv" group-title="SPORT", Realmadrid TV 
 https://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/sport-ad" group-title="SPORT", MLB NETWORK
