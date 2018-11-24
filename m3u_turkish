@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Semerkand HD (Turkey)
+http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Star 1280×720
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",NTV 1280×720
