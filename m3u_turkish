@@ -1,18 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",FOX TV (1920X1080)
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/6.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",ATV (1920X1080)
-http://31.177.62.134:8003/play/s15
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",A SPOR (1920X1080)
-http://31.177.62.134:8003/play/s17
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",A HABER (1920X1080)
-http://31.177.62.134:8003/play/s16
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Star 1280×720
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",NTV 1280×720
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TV8 HD (1920X1080)
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/7.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",KanalD 720×404
 http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TEVE 2 720×576
@@ -27,54 +17,16 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TRT Çocuk 1280×720
 http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",SPOR GLOBAL TV 1280X720
-http://87.98.162.77:8090/playlist
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",SİNEMA TV 1920×1080
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/73.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:CINEBOX AKSiYON HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1298.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:CINEBOX 1 HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1302.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:CINEBOX 2 HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1842.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:CINEBOX 3 HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1301.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:CINEBOX 4 HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1838.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:CINEBOX 5 HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1299.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:CINEBOX 6 HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1841.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:CINEBOX 7 HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1300.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",KANAL7 (1920X1080)
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/9.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TLC 1280×720
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TV 8.5 1280×720
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/12.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TELE 1 1280×720
 http://stream-04.dc3.dailymotion.com/dm/3/x6sd3io/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",CNNTÜRK 720X576
 http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:EUROSPORT 1 HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1272.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:EUROSPORT 2 HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1271.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",D MAX HD 1280×720
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist-ugpwhvm5d_b2128000_sltur.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",İdman TV 1 1280×720
 https://streaming.kovalchuk.me/idman/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",İdman TV 2 1280×720
-http://94.20.74.243:4022/udp/239.254.10.8:1234
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR: ULUSAL KANAL
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/277.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:HALK TV HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/281.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:TGRT HABER HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/374.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",SİNEMA Türk HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/286.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",UçanKuş (1280×720)
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Beyaz TV (1280×720)
@@ -89,23 +41,9 @@ http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/mani
 http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Kral TV 1280×720
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Show TV HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/4.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Power 1920X1080
 http://powertv.listenpowerapp.com/powertv/abr/powertv/720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Powertürk 1920X1080
 http://powerturktv.listenpowerapp.com/powerturktv/abr/powerturktv/720/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:NAT GEO WILD HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1291.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:NAT GEOGRAPHIC HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1290.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:DISCOVERY IDX HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1286.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TR:DISCOVERY HD
-http://wowstream.net:25461/live/kingtivimedya4/iptv01/1287.ts
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",1 beIN FUTBOL (720X480)
-http://87.98.162.77:8000/tr1
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",2 SÜPER LİG TV (720X480)
-http://46.105.233.106:6060/superlig.ts
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",3 SÜPER LİG HD (720X480)
 http://46.105.233.106:6060/hls/superlig/playlist.m3u8
