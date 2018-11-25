@@ -31,10 +31,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-choice" group-title="MUSIC", Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-one" group-title="MUSIC", ONE 1080P
-http://rtmp.one.by:1300
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-one" group-title="MUSIC", ONE RUSIA 1080P 
-http://rtmp.one.by:2300
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="MUSIC", O 1080P
 http://77.232.128.68/bks.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-1hd" group-title="MUSIC", 1 HD MUSIC
@@ -43,5 +39,3 @@ http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
 http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vibee-tv" group-title="MUSIC", V2BEAT HD
 http://139.59.166.48:8081/live/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-bolero" group-title="MUSIC", Nhạc Bolero
-http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8
