@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Horror, Comedy
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://media1.popsugar-assets.com/files/thumbor/R2_QMLh7826dbWm_iBmZiQzdz7U/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2013/12/08/391/n/1922283/9d0616c919fb935d_comedies.jpg" group-title="TV TÀU", Horror, Comedy
 http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/44/Major_Konoha.jpg" group-title="TV TÀU", Naruto
 http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
