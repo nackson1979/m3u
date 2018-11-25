@@ -21,10 +21,6 @@ http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vietteen" group-title="MUSIC", Vietteen
 http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/keeng" group-title="MUSIC", KEENG MUSIC
-http://media5.keeng.vn/livetv/keeng.m3u8 
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/keeng" group-title="PHIM TỔNG HỢP", KEENG MOVIES
-http://vip.media5.keeng.vn/5dtv/5dtv.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/heart-tv" group-title="MUSIC", Heart TV 
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boxhits" group-title="MUSIC", Box Hits
