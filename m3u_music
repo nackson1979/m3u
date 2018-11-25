@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,MCM TOP
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,MostVideo TV HD
+http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,MostVideo TV HD
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,Music Box Gold
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,Music Box Gold
+http://stream.euroasia.lfstrm.tv/musicbox/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,Music Box UA
+http://95.67.49.203:9990/OTV
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,Muzlife TV
+http://stream.euroasia.lfstrm.tv/muzlife/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-country" group-title="MUSIC", Nhạc Country
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vietteen" group-title="MUSIC", Vietteen
