@@ -5,7 +5,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/70.m3u8
 http://61.216.177.73/sta/ch91865001.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",Sport
 http://gorod.tv/s/live/3/86.169.51.136/0/0.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",cctv5 hd
+#EXTINF:-1 tvg-logo="http://tv.itver.cc/wp-content/uploads/2014/09/CCTV5+.jpg",cctv5 hd
 http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",Sport TV HD
 https://nn3.azureedge.net//hls1/sportv1.m3u8
@@ -15,7 +15,7 @@ https://nn3.azureedge.net//hls1/sportv2.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/71.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",ON Sport
+#EXTINF:-1 tvg-logo="http://www.egypttoday.com/images/larg/15272.jpg",ON Sport
 http://rb-group-server.com:25461/live/888888/777777/2913.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",AD Sport1
 http://rb-group-server.com:25461/live/888888/777777/3137.m3u8
