@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", A HABER
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", A SPOR
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", Beyaz TV
+https://stream-15.dc3.dailymotion.com/dm/3/x4kopfq/live-4.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", DREAMTÜRK
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", Number one tv
+https://stream-15.dc3.dailymotion.com/dm/3/x67c77j/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", Number one TÜRK
+https://stream-15.dc3.dailymotion.com/dm/3/x67cguc/live-2.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", TMB TV
+rtmp://tmbtv.mediatriple.net:1935/tmbtv/tmbtv2
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", ULUSAL TV
+http://98.142.98.125:1935/ulusaltv/ulusaltv/iptvdelisi.m3u8
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", TGRT HABER
+rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Semerkand HD (Turkey)
 http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Star 1280×720
