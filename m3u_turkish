@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", A HABER
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/93/A_News_HD_kurumsal_logo.jpg", A HABER
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", A SPOR
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
