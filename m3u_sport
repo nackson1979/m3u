@@ -39,7 +39,7 @@ http://rb-group-server.com:25461/live/888888/777777/3150.m3u8
 http://rb-group-server.com:25461/live/888888/777777/12075.m3u8
 #EXTINF:-1 tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/3/3a/BE_IN_SPORT_2_HD_2013.jpg",beIN SPORTS HD2
 http://rb-group-server.com:25461/live/888888/777777/12076.m3u8
-#EXTINF:-1 tvg-logo="http://3hsudanese.com/wp-content/uploads/2017/07/beIN-SPORTS.jpg",beIN SPORTS HD3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png",beIN SPORTS HD3
 http://rb-group-server.com:25461/live/888888/777777/3165.m3u8
 #EXTINF:-1 tvg-logo="http://3hsudanese.com/wp-content/uploads/2017/07/beIN-SPORTS.jpg",beIN SPORTS HD4
 http://rb-group-server.com:25461/live/888888/777777/3164.m3u8
