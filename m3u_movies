@@ -1,0 +1,21 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Horror, Comedy
+http://alhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/44/Major_Konoha.jpg" group-title="TV TÀU", Naruto
+http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://image1.infogame.vn/2018/09/19/1-su-that-ve-trum-cuoi-trong-tham-tu-lung-danh-conan-1442496956781-0-0-325-636-crop-1442497058898.jpg" group-title="TV TÀU", Conan
+http://alhls.cdn.zhanqi.tv/zqlive/174685_XWnGj.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="http://photoservice.gamesao.vn/Resources/Upload/Images/News/b939fe9a-5e34-4957-be98-0e120466a933.jpg" group-title="TV TÀU", One piece
+http://alhls.cdn.zhanqi.tv/zqlive/37119_4ibXM.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/china-tv" group-title="TV TÀU", Jackie Chan
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="http://images4.fanpop.com/image/photos/20600000/Walt-Disney-Characters-Wallpaper-walt-disney-characters-20639991-1440-900.jpg" group-title="TV TÀU", Disney
+http://aldirect.hls.huya.com/huyalive/29106097-2689406818-11550914328949424128-2789274560-10057-A-1525417691-1_1200.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg" group-title="TV TÀU", Hollywood
+http://ws4.streamhls.huya.com/huyalive/30765679-2484192572-10669525853706125312-2847687498-10057-A-1521100607-1_1200/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://media1.mensxp.com/media/content/2017/Sep/upcoming-hollywood-movies-you-shouldnt-miss-1400x653-1505901970_1100x513.jpg" group-title="TV TÀU", Infinity War
+http://js.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://data1.ibtimes.co.in/cache-img-900-0-photo/en/full/63957/1492062294_fast-furious-8-upcoming-hollywood-action-film-directed-by-f-gary-gray-written-by-chris-morgan.jpg" group-title="TV TÀU", Fast and Furious
+http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
