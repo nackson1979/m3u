@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Bein Sport 2 HD" tvg-logo="http://logo.ndasat.com/iptv/images/70321_112.png" group-title="{BOUQUET_NAME}",Bein Sport 2 HD
+#EXTINF:-1 tvg-logo="http://logo.ndasat.com/iptv/images/70321_112.png" ,Bein Sport 2 HD
 http://212.8.253.47:88/live/555155895930609/555155895930609/70.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 3 HD" tvg-logo="http://logo.ndasat.com/iptv/images/37013_113.png" group-title="{BOUQUET_NAME}",Bein Sport 3 HD
+#EXTINF:-1 tvg-logo="http://logo.ndasat.com/iptv/images/37013_113.png" ,Bein Sport 3 HD
 http://212.8.253.47:88/live/555155895930609/555155895930609/71.m3u8
-#EXTINF:-1 tvg-name="BEIN SPORT MAX4" tvg-logo="http://logo.ndasat.com/iptv/images/57944_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX4
+#EXTINF:-1 tvg-logo="http://logo.ndasat.com/iptv/images/57944_bmmn.png" ,BEIN SPORT MAX4
 http://212.8.253.47:88/live/555155895930609/555155895930609/978.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORT MAX5" tvg-logo="http://logo.ndasat.com/iptv/images/42861_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX5
 http://212.8.253.47:88/live/555155895930609/555155895930609/979.m3u8
