@@ -23,8 +23,8 @@ http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
 https://nn3.azureedge.net//hls1/sportv1.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",SporTV 2
 https://nn3.azureedge.net//hls1/sportv2.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",SporTV 3
-https://nn3.azureedge.net//hls1/sportv3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png",Bein Sport 3
+http://212.8.253.47:88/live/555155895930609/555155895930609/71.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",ON Sport
