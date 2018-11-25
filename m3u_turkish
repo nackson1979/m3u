@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/93/A_News_HD_kurumsal_logo.jpg", A HABER
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", A SPOR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTCTiAARUg0Pvdf0yWRpR9X5RO6MIHT3j_FMx0DEPUkKl6Xy_", A SPOR
 http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", Beyaz TV
+#EXTINF:-1 tvg-logo="http://www.ecanlihdtvizle.com/wp-content/uploads/2012/08/beyazhd.png", Beyaz TV
 https://stream-15.dc3.dailymotion.com/dm/3/x4kopfq/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", DREAMTÜRK
 http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
