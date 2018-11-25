@@ -1,4 +1,39 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Bein Sport 2 HD" tvg-logo="http://logo.ndasat.com/iptv/images/70321_112.png" group-title="{BOUQUET_NAME}",Bein Sport 2 HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/70.m3u8
+#EXTINF:-1 tvg-name="Bein Sport 3 HD" tvg-logo="http://logo.ndasat.com/iptv/images/37013_113.png" group-title="{BOUQUET_NAME}",Bein Sport 3 HD
+http://212.8.253.47:88/live/555155895930609/555155895930609/71.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORT MAX4" tvg-logo="http://logo.ndasat.com/iptv/images/57944_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX4
+http://212.8.253.47:88/live/555155895930609/555155895930609/978.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORT MAX5" tvg-logo="http://logo.ndasat.com/iptv/images/42861_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX5
+http://212.8.253.47:88/live/555155895930609/555155895930609/979.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORT MAX6" tvg-logo="http://logo.ndasat.com/iptv/images/49607_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX6
+http://212.8.253.47:88/live/555155895930609/555155895930609/980.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORT MAX7" tvg-logo="http://logo.ndasat.com/iptv/images/39770_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX7
+http://212.8.253.47:88/live/555155895930609/555155895930609/981.m3u8
+#EXTINF:-1 tvg-name="BEIN SPORT MAX8" tvg-logo="http://logo.ndasat.com/iptv/images/73757_bmmn.png" group-title="{BOUQUET_NAME}",BEIN SPORT MAX8
+http://212.8.253.47:88/live/555155895930609/555155895930609/982.m3u8
+#EXTINF:-1 tvg-name="FR:RMC Sport 1" tvg-logo="http://logo.ndasat.com/iptv/images/26403_sfr1.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 1
+http://212.8.253.47:88/live/555155895930609/555155895930609/1554.m3u8
+#EXTINF:-1 tvg-name="FR:RMC Sport 2" tvg-logo="http://logo.ndasat.com/iptv/images/52324_sfr2.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 2
+http://212.8.253.47:88/live/555155895930609/555155895930609/1555.m3u8
+#EXTINF:-1 tvg-name="FR:RMC Sport 3" tvg-logo="http://logo.ndasat.com/iptv/images/65878_sfr3.jpg" group-title="{BOUQUET_NAME}",FR:RMC Sport 3
+http://212.8.253.47:88/live/555155895930609/555155895930609/1556.m3u8
+#EXTINF:-1 tvg-name="FR:RMC Sport 4" tvg-logo="http://logo.ndasat.com/iptv/images/62380_sfr5.png" group-title="{BOUQUET_NAME}",FR:RMC Sport 4
+http://212.8.253.47:88/live/555155895930609/555155895930609/1612.m3u8
+#EXTINF:-1 tvg-name="Foot 24" tvg-logo="http://logo.ndasat.com/iptv/images/62683_CHN43FB_542.PNG" group-title="{BOUQUET_NAME}",Foot 24
+http://212.8.253.47:88/live/555155895930609/555155895930609/975.m3u8
+#EXTINF:-1 tvg-name="Eurosport" tvg-logo="http://logo.ndasat.com/iptv/images/10651_Eurosport1.jpg" group-title="{BOUQUET_NAME}",Eurosport
+http://212.8.253.47:88/live/555155895930609/555155895930609/572.m3u8
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-logo="http://logo.ndasat.com/iptv/images/33563_744.png" group-title="{BOUQUET_NAME}",Eurosport 2
+http://212.8.253.47:88/live/555155895930609/555155895930609/287.m3u8
+#EXTINF:-1 tvg-name="Equipe 21" tvg-logo="http://logo.ndasat.com/iptv/images/67164_267.png" group-title="{BOUQUET_NAME}",Equipe 21
+http://212.8.253.47:88/live/555155895930609/555155895930609/580.m3u8
+#EXTINF:-1 tvg-name="Equidia live fr" tvg-logo="http://logo.ndasat.com/iptv/images/55236_logoequidia.png" group-title="{BOUQUET_NAME}",Equidia live fr
+http://212.8.253.47:88/live/555155895930609/555155895930609/1409.m3u8
+#EXTINF:-1 tvg-name="Equidia life" tvg-logo="http://logo.ndasat.com/iptv/images/77855_oltv.jpg" group-title="{BOUQUET_NAME}",Equidia life
+http://212.8.253.47:88/live/555155895930609/555155895930609/1532.m3u8
+#EXTINF:-1 tvg-name="GOLF + HD" tvg-logo="http://logo.ndasat.com/iptv/images/25669_glf.png" group-title="{BOUQUET_NAME}",GOLF + HD
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",Sport
 http://hlstv.kem.211.ru/239.211.211.27/stream.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",Sport
