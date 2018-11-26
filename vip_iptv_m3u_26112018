@@ -41,23 +41,23 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3666.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3667.m3u8
 #EXTINF:-1 tvg-name="Other7" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Other7
 http://212.8.253.47:88/live/555155895930609/555155895930609/3668.m3u8
-#EXTINF:-1 tvg-name="france1" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",france1
+#EXTINF:-1 tvg-name="france1" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",france1
 http://212.8.253.47:88/live/555155895930609/555155895930609/3689.m3u8
-#EXTINF:-1 tvg-name="Iptv4sat.com :france-2" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Iptv4sat.com :france-2
+#EXTINF:-1 tvg-name="Iptv4sat.com :france-2" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",Iptv4sat.com :france-2
 http://212.8.253.47:88/live/555155895930609/555155895930609/3690.m3u8
-#EXTINF:-1 tvg-name="France-3" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",France-3
+#EXTINF:-1 tvg-name="France-3" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",France-3
 http://212.8.253.47:88/live/555155895930609/555155895930609/3712.m3u8
-#EXTINF:-1 tvg-name="France-4" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",France-4
+#EXTINF:-1 tvg-name="France-4" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",France-4
 http://212.8.253.47:88/live/555155895930609/555155895930609/3692.m3u8
-#EXTINF:-1 tvg-name="France-5" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",France-5
+#EXTINF:-1 tvg-name="France-5" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",France-5
 http://212.8.253.47:88/live/555155895930609/555155895930609/3693.m3u8
 #EXTINF:-1 tvg-name="France-6" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Iptv4sat.com :France-6
 http://212.8.253.47:88/live/555155895930609/555155895930609/3694.m3u8
-#EXTINF:-1 tvg-name="france_7" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",france_7
+#EXTINF:-1 tvg-name="france_7" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",france_7
 http://212.8.253.47:88/live/555155895930609/555155895930609/3695.m3u8
-#EXTINF:-1 tvg-name="france_8" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",france_8
+#EXTINF:-1 tvg-name="france_8" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",france_8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3696.m3u8
-#EXTINF:-1 tvg-name="france_9" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",france_9
+#EXTINF:-1 tvg-name="france_9" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",france_9
 http://212.8.253.47:88/live/555155895930609/555155895930609/3697.m3u8
 #EXTINF:-1 tvg-name="Adil_Imam1" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Adil_Imam1
 http://212.8.253.47:88/live/555155895930609/555155895930609/3677.m3u8
@@ -179,13 +179,13 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/467.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/1415.m3u8
 #EXTINF:-1 tvg-name="Cine FX" tvg-logo="http://logo.ndasat.com/iptv/images/7056_cinefx.jpg" group-title="Vip",Cine Iptv4sat.com FX
 http://212.8.253.47:88/live/555155895930609/555155895930609/2163.m3u8
-#EXTINF:-1 tvg-name="OCS-MAX" tvg-logo="http://logo.ndasat.com/iptv/images/60723_ocsmax.png" group-title="Vip",OCS-MAX
+#EXTINF:-1 tvg-name="OCS-MAX" tvg-logo="http://www.firstonetv.net/images/logos/fr/OCSCHOC.png" group-title="Vip",OCS-MAX
 http://212.8.253.47:88/live/555155895930609/555155895930609/1018.m3u8
-#EXTINF:-1 tvg-name="OCS-GEANT" tvg-logo="http://logo.ndasat.com/iptv/images/7712_ocsgeant.png" group-title="Vip",OCS-GEANT
+#EXTINF:-1 tvg-name="OCS-GEANT" tvg-logo="http://www.firstonetv.net/images/logos/fr/OCSCHOC.png" group-title="Vip",OCS-GEANT
 http://212.8.253.47:88/live/555155895930609/555155895930609/1016.m3u8
-#EXTINF:-1 tvg-name="OCS-CITY" tvg-logo="http://logo.ndasat.com/iptv/images/34555_ocscity.png" group-title="Vip",OCS-CITY
+#EXTINF:-1 tvg-name="OCS-CITY" tvg-logo="http://www.firstonetv.net/images/logos/fr/OCSCHOC.png" group-title="Vip",OCS-CITY
 http://212.8.253.47:88/live/555155895930609/555155895930609/1019.m3u8
-#EXTINF:-1 tvg-name="OCS-CHOC" tvg-logo="http://logo.ndasat.com/iptv/images/97904_ocschoc.png" group-title="Vip",OCS-CHOC
+#EXTINF:-1 tvg-name="OCS-CHOC" tvg-logo="http://www.firstonetv.net/images/logos/fr/OCSCHOC.png" group-title="Vip",OCS-CHOC
 http://212.8.253.47:88/live/555155895930609/555155895930609/1017.m3u8
 #EXTINF:-1 tvg-name="Action hd" tvg-logo="http://logo.ndasat.com/iptv/images/26355_action.jpg" group-title="Vip",Action hd
 http://212.8.253.47:88/live/555155895930609/555155895930609/296.m3u8
