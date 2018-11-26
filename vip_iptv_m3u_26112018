@@ -41,7 +41,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3666.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3667.m3u8
 #EXTINF:-1 tvg-name="Other7" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Other7
 http://212.8.253.47:88/live/555155895930609/555155895930609/3668.m3u8
-#EXTINF:-1 tvg-name="france1" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",france1
+#EXTINF:-1 tvg-name="France1" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",France1
 http://212.8.253.47:88/live/555155895930609/555155895930609/3689.m3u8
 #EXTINF:-1 tvg-name="
 france-2" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",France-2
@@ -96,7 +96,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3708.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3709.m3u8
 #EXTINF:-1 tvg-name="iraq-Al Turkeminiya" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",iraq-Al Turkeminiya
 http://212.8.253.47:88/live/555155895930609/555155895930609/3710.m3u8
-#EXTINF:-1 tvg-name="AR:Souriya" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",AR:Iptv4sat.com Souriya
+#EXTINF:-1 tvg-name="AR:Souriya" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",AR:Souriya
 http://212.8.253.47:88/live/555155895930609/555155895930609/3711.m3u8
 #EXTINF:-1 tvg-name="TF1" tvg-logo="http://logo.ndasat.com/iptv/images/67591_207.png" group-title="Vip",TF1
 http://212.8.253.47:88/live/555155895930609/555155895930609/295.m3u8
@@ -134,7 +134,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/293.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/1485.m3u8
 #EXTINF:-1 tvg-name="Numero 23" tvg-logo="http://logo.ndasat.com/iptv/images/52912_numero23.jpg" group-title="Vip",Numero 23
 http://212.8.253.47:88/live/555155895930609/555155895930609/1533.m3u8
-#EXTINF:-1 tvg-name="Teva HD" tvg-logo="http://logo.ndasat.com/iptv/images/40479_230.png" group-title="Vip",Iptv4sat.com Teva HD
+#EXTINF:-1 tvg-name="Teva HD" tvg-logo="http://logo.ndasat.com/iptv/images/40479_230.png" group-title="Vip",Teva HD
 http://212.8.253.47:88/live/555155895930609/555155895930609/286.m3u8
 #EXTINF:-1 tvg-name="TV5 monde Europe" tvg-logo="http://logo.ndasat.com/iptv/images/57087_tv5monde.png" group-title="Vip",TV5 monde Europe
 http://212.8.253.47:88/live/555155895930609/555155895930609/1528.m3u8
@@ -148,13 +148,13 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/303.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/283.m3u8
 #EXTINF:-1 tvg-name="BFM Business" tvg-logo="http://logo.ndasat.com/iptv/images/6840_bfmbus.png" group-title="Vip",BFM Business
 http://212.8.253.47:88/live/555155895930609/555155895930609/1486.m3u8
-#EXTINF:-1 tvg-name="BFM Sports" tvg-logo="http://logo.ndasat.com/iptv/images/50837_bfmsport.jpg" group-title="Vip",Iptv4sat.com BFM Sports
+#EXTINF:-1 tvg-name="BFM Sports" tvg-logo="http://logo.ndasat.com/iptv/images/50837_bfmsport.jpg" group-title="Vip",BFM Sports
 http://212.8.253.47:88/live/555155895930609/555155895930609/2161.m3u8
 #EXTINF:-1 tvg-name="LCP" tvg-logo="http://logo.ndasat.com/iptv/images/62040_606-cfii-lcp_an_fr.jpg" group-title="Vip",LCP
 http://212.8.253.47:88/live/555155895930609/555155895930609/1414.m3u8
 #EXTINF:-1 tvg-name="Arte" tvg-logo="http://logo.ndasat.com/iptv/images/67328_arte_logo.png" group-title="Vip",Arte
 http://212.8.253.47:88/live/555155895930609/555155895930609/494.m3u8
-#EXTINF:-1 tvg-name="RTS UN" tvg-logo="http://logo.ndasat.com/iptv/images/3891_640.jpg" group-title="Vip",RTS Iptv4sat.com UN
+#EXTINF:-1 tvg-name="RTS UN" tvg-logo="http://logo.ndasat.com/iptv/images/3891_640.jpg" group-title="Vip",RTS UN
 http://212.8.253.47:88/live/555155895930609/555155895930609/570.m3u8
 #EXTINF:-1 tvg-name="RTS DEUX" tvg-logo="http://logo.ndasat.com/iptv/images/79027_640 (1).jpg" group-title="Vip",RTS DEUX
 http://212.8.253.47:88/live/555155895930609/555155895930609/571.m3u8
@@ -178,7 +178,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/468.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/467.m3u8
 #EXTINF:-1 tvg-name="Cine Polar" tvg-logo="http://logo.ndasat.com/iptv/images/62720_CINE_POLAR_HD.png" group-title="Vip",Cine Polar
 http://212.8.253.47:88/live/555155895930609/555155895930609/1415.m3u8
-#EXTINF:-1 tvg-name="Cine FX" tvg-logo="http://logo.ndasat.com/iptv/images/7056_cinefx.jpg" group-title="Vip",Cine Iptv4sat.com FX
+#EXTINF:-1 tvg-name="Cine FX" tvg-logo="http://logo.ndasat.com/iptv/images/7056_cinefx.jpg" group-title="Vip",Cine FX
 http://212.8.253.47:88/live/555155895930609/555155895930609/2163.m3u8
 #EXTINF:-1 tvg-name="OCS-MAX" tvg-logo="http://www.firstonetv.net/images/logos/fr/OCSCHOC.png" group-title="Vip",OCS-MAX
 http://212.8.253.47:88/live/555155895930609/555155895930609/1018.m3u8
@@ -200,7 +200,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/290.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/2162.m3u8
 #EXTINF:-1 tvg-name="Viceland FR" tvg-logo="http://logo.ndasat.com/iptv/images/40750_latele.jpg" group-title="Vip",Viceland FR
 http://212.8.253.47:88/live/555155895930609/555155895930609/2168.m3u8
-#EXTINF:-1 tvg-name="13 Rue" tvg-logo="http://logo.ndasat.com/iptv/images/97242_13eme_rue.jpg" group-title="Vip",Iptv4sat.com 13 Rue
+#EXTINF:-1 tvg-name="13 Rue" tvg-logo="http://logo.ndasat.com/iptv/images/97242_13eme_rue.jpg" group-title="Vip",13 Rue
 http://212.8.253.47:88/live/555155895930609/555155895930609/482.m3u8
 #EXTINF:-1 tvg-name="SERIE CLUB" tvg-logo="http://logo.ndasat.com/iptv/images/59246_sÃ©rieclub.jpg" group-title="Vip",SERIE CLUB
 http://212.8.253.47:88/live/555155895930609/555155895930609/497.m3u8
@@ -222,7 +222,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/486.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/484.m3u8
 #EXTINF:-1 tvg-name="USHUAIA TV HD" tvg-logo="http://logo.ndasat.com/iptv/images/86345_242.png" group-title="Vip",USHUAIA TV HD
 http://212.8.253.47:88/live/555155895930609/555155895930609/483.m3u8
-#EXTINF:-1 tvg-name="ANIMAUX" tvg-logo="http://logo.ndasat.com/iptv/images/48207_CHN43FB_503.PNG" group-title="Vip",Iptv4sat.com ANIMAUX
+#EXTINF:-1 tvg-name="ANIMAUX" tvg-logo="http://logo.ndasat.com/iptv/images/48207_CHN43FB_503.PNG" group-title="Vip",ANIMAUX
 http://212.8.253.47:88/live/555155895930609/555155895930609/284.m3u8
 #EXTINF:-1 tvg-name="Discovery Science fr" tvg-logo="http://logo.ndasat.com/iptv/images/40282_discovery_science_global.png" group-title="Vip",Discovery Science fr
 http://212.8.253.47:88/live/555155895930609/555155895930609/465.m3u8
@@ -284,7 +284,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3670.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/1524.m3u8
 #EXTINF:-1 tvg-name="InfoSport" tvg-logo="http://logo.ndasat.com/iptv/images/19280_infosport.jpg" group-title="Vip",InfoSport
 http://212.8.253.47:88/live/555155895930609/555155895930609/500.m3u8
-#EXTINF:-1 tvg-name="Bein Sport 1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/97180_111.png" group-title="Vip",Iptv4sat.com Bein Sport 1 HD
+#EXTINF:-1 tvg-name="Bein Sport 1 HD" tvg-logo="http://logo.ndasat.com/iptv/images/97180_111.png" group-title="Vip",Bein Sport 1 HD
 http://212.8.253.47:88/live/555155895930609/555155895930609/69.m3u8
 #EXTINF:-1 tvg-name="Bein Sport 2 HD" tvg-logo="http://logo.ndasat.com/iptv/images/70321_112.png" group-title="Vip",Bein Sport 2 HD
 http://212.8.253.47:88/live/555155895930609/555155895930609/70.m3u8
@@ -324,7 +324,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/1532.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/1372.m3u8
 #EXTINF:-1 tvg-name="AB Moteur" tvg-logo="http://logo.ndasat.com/iptv/images/22422_abmoteur.png" group-title="Vip",AB Moteur
 http://212.8.253.47:88/live/555155895930609/555155895930609/1525.m3u8
-#EXTINF:-1 tvg-name="E!" tvg-logo="http://logo.ndasat.com/iptv/images/8912_entraintement tv.png" group-title="Vip",Iptv4sat.com E!
+#EXTINF:-1 tvg-name="E!" tvg-logo="http://logo.ndasat.com/iptv/images/8912_entraintement tv.png" group-title="Vip",E!
 http://212.8.253.47:88/live/555155895930609/555155895930609/1535.m3u8
 #EXTINF:-1 tvg-name="NRJ12" tvg-logo="http://logo.ndasat.com/iptv/images/96427_214.png" group-title="Vip",NRJ12
 http://212.8.253.47:88/live/555155895930609/555155895930609/285.m3u8
@@ -342,7 +342,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/302.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3675.m3u8
 #EXTINF:-1 tvg-name="Discovery Science" tvg-logo="http://logo.ndasat.com/iptv/images/71706_5847_india_country_flag_decal_sticker_small.png" group-title="Vip",Discovery Science
 http://212.8.253.47:88/live/555155895930609/555155895930609/1950.m3u8
-#EXTINF:-1 tvg-name="PPV-CanalPlay01" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="Vip",Iptv4sat.com PPV-CanalPlay01
+#EXTINF:-1 tvg-name="PPV-CanalPlay01" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="Vip",PPV-CanalPlay01
 http://212.8.253.47:88/live/555155895930609/555155895930609/884.m3u8
 #EXTINF:-1 tvg-name="PPV-CanalPlay02" tvg-logo="http://logo.ndasat.com/iptv/images/50111_alacarte.png" group-title="Vip",PPV-CanalPlay02
 http://212.8.253.47:88/live/555155895930609/555155895930609/885.m3u8
@@ -368,7 +368,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/5143.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/5144.m3u8
 #EXTINF:-1 tvg-name="AR:Bein Sports NBA" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",AR:Bein Sports NBA
 http://212.8.253.47:88/live/555155895930609/555155895930609/5145.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 1 SD" tvg-logo="http://logo.ndasat.com/iptv/images/21337_111.png" group-title="Vip",AR:BeinSports 1 Iptv4sat.com SD
+#EXTINF:-1 tvg-name="AR:BeinSports 1 SD" tvg-logo="http://logo.ndasat.com/iptv/images/21337_111.png" group-title="Vip",AR:BeinSports 1 SD
 http://212.8.253.47:88/live/555155895930609/555155895930609/1072.m3u8
 #EXTINF:-1 tvg-name="AR:BeinSports 2 SD" tvg-logo="http://logo.ndasat.com/iptv/images/38610_112.png" group-title="Vip",AR:BeinSports 2 SD
 http://212.8.253.47:88/live/555155895930609/555155895930609/1073.m3u8
@@ -378,13 +378,13 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/1074.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/1070.m3u8
 #EXTINF:-1 tvg-name="AR:BeinSports 5 SD" tvg-logo="http://logo.ndasat.com/iptv/images/46828_115.png" group-title="Vip",AR:BeinSports 5 SD
 http://212.8.253.47:88/live/555155895930609/555155895930609/1071.m3u8
-#EXTINF:-1 tvg-name="AR:BeinSports 6 SD" tvg-logo="http://logo.ndasat.com/iptv/images/87606_116.png" group-title="Vip",Iptv4sat.com AR:BeinSports 6 SD
+#EXTINF:-1 tvg-name="AR:BeinSports 6 SD" tvg-logo="http://logo.ndasat.com/iptv/images/87606_116.png" group-title="Vip",AR:BeinSports 6 SD
 http://212.8.253.47:88/live/555155895930609/555155895930609/77.m3u8
 #EXTINF:-1 tvg-name="AR:BeinSports 7 SD" tvg-logo="http://logo.ndasat.com/iptv/images/84881_117.png" group-title="Vip",AR:BeinSports 7 SD
 http://212.8.253.47:88/live/555155895930609/555155895930609/78.m3u8
 #EXTINF:-1 tvg-name="Al AoulaHD" tvg-logo="http://logo.ndasat.com/iptv/images/71731_729.png" group-title="Vip",Al AoulaHD
 http://212.8.253.47:88/live/555155895930609/555155895930609/453.m3u8
-#EXTINF:-1 tvg-name="2M Maroc" tvg-logo="http://logo.ndasat.com/iptv/images/36067_121.png" group-title="Vip",Iptv4sat.com 2M Maroc
+#EXTINF:-1 tvg-name="2M Maroc" tvg-logo="http://logo.ndasat.com/iptv/images/36067_121.png" group-title="Vip",2M Maroc
 http://212.8.253.47:88/live/555155895930609/555155895930609/1069.m3u8
 #EXTINF:-1 tvg-name="Tele Maroc" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Tele Maroc
 http://212.8.253.47:88/live/555155895930609/555155895930609/3611.m3u8
@@ -428,7 +428,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/1044.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/446.m3u8
 #EXTINF:-1 tvg-name="dzair news" tvg-logo="http://logo.ndasat.com/iptv/images/39166_logomobiledzair.png" group-title="Vip",dzair news
 http://212.8.253.47:88/live/555155895930609/555155895930609/565.m3u8
-#EXTINF:-1 tvg-name="El Bilad News dz" tvg-logo="http://logo.ndasat.com/iptv/images/49301_biladnews.jpg" group-title="Vip",Iptv4sat.com El Bilad News dz
+#EXTINF:-1 tvg-name="El Bilad News dz" tvg-logo="http://logo.ndasat.com/iptv/images/49301_biladnews.jpg" group-title="Vip",El Bilad News dz
 http://212.8.253.47:88/live/555155895930609/555155895930609/428.m3u8
 #EXTINF:-1 tvg-name="Chams TV" tvg-logo="http://logo.ndasat.com/iptv/images/83843_kbc.jpg" group-title="Vip",Chams TV
 http://212.8.253.47:88/live/555155895930609/555155895930609/533.m3u8
