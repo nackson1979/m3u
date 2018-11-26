@@ -5,7 +5,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3751.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3752.m3u8
 #EXTINF:-1 tvg-name="Eng3" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Eng3
 http://212.8.253.47:88/live/555155895930609/555155895930609/3753.m3u8
-#EXTINF:-1 tvg-name="Eng4" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Iptv4sat.com :Eng4
+#EXTINF:-1 tvg-name="Eng4" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Eng4
 http://212.8.253.47:88/live/555155895930609/555155895930609/3754.m3u8
 #EXTINF:-1 tvg-name="Eng5" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Eng5
 http://212.8.253.47:88/live/555155895930609/555155895930609/3755.m3u8
@@ -17,7 +17,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3757.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3762.m3u8
 #EXTINF:-1 tvg-name="Eng9" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Eng9
 http://212.8.253.47:88/live/555155895930609/555155895930609/3763.m3u8
-#EXTINF:-1 tvg-name="Other1" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Iptv4sat.com :Other1
+#EXTINF:-1 tvg-name="Other1" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Other1
 http://212.8.253.47:88/live/555155895930609/555155895930609/3699.m3u8
 #EXTINF:-1 tvg-name="Other2" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Other2
 http://212.8.253.47:88/live/555155895930609/555155895930609/3700.m3u8
@@ -43,7 +43,8 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3667.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3668.m3u8
 #EXTINF:-1 tvg-name="france1" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",france1
 http://212.8.253.47:88/live/555155895930609/555155895930609/3689.m3u8
-#EXTINF:-1 tvg-name="Iptv4sat.com :france-2" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",Iptv4sat.com :france-2
+#EXTINF:-1 tvg-name="
+france-2" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",France-2
 http://212.8.253.47:88/live/555155895930609/555155895930609/3690.m3u8
 #EXTINF:-1 tvg-name="France-3" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",France-3
 http://212.8.253.47:88/live/555155895930609/555155895930609/3712.m3u8
@@ -51,7 +52,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3712.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3692.m3u8
 #EXTINF:-1 tvg-name="France-5" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",France-5
 http://212.8.253.47:88/live/555155895930609/555155895930609/3693.m3u8
-#EXTINF:-1 tvg-name="France-6" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Iptv4sat.com :France-6
+#EXTINF:-1 tvg-name="France-6" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",France-6
 http://212.8.253.47:88/live/555155895930609/555155895930609/3694.m3u8
 #EXTINF:-1 tvg-name="france_7" tvg-logo="https://study-eu.s3.amazonaws.com/uploads/country/france-12-logo.png" group-title="Vip",france_7
 http://212.8.253.47:88/live/555155895930609/555155895930609/3695.m3u8
@@ -65,7 +66,7 @@ http://212.8.253.47:88/live/555155895930609/555155895930609/3677.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/3678.m3u8
 #EXTINF:-1 tvg-name="Ahmed_Hilmi1" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Ahmed_Hilmi1
 http://212.8.253.47:88/live/555155895930609/555155895930609/3679.m3u8
-#EXTINF:-1 tvg-name="Kabour2018" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Iptv4sat.com :Kabour2018
+#EXTINF:-1 tvg-name="Kabour2018" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Kabour2018
 http://212.8.253.47:88/live/555155895930609/555155895930609/3680.m3u8
 #EXTINF:-1 tvg-name="Kabour2017" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Kabour2017
 http://212.8.253.47:88/live/555155895930609/555155895930609/3681.m3u8
