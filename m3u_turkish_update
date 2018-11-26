@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/trt-1.png" group-title="YILMAZ TV",TRT 1 
-https://sorf.tvizlehd.com/trt1.m3u8?tkn=Vr-0ZnfkZ5h-OrQqSP9grg&tms=1543161642
 #EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/kanal-d.png" group-title="YILMAZ TV",KANAL D
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/cnnturk.png" group-title="YILMAZ TV",CNN TÜRK
