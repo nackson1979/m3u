@@ -1,4 +1,49 @@
-#EXTM3U
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/kanal-d.png" group-title="YILMAZ TV",KANAL D
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/cnnturk.png" group-title="YILMAZ TV",CNN TÜRK
+https://212224109111.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.livetvs.io/logo/medeniyet-tv.png" group-title="YILMAZ TV",MEDENIYET TV SD
+http://nocvp-usd.noccdn.net/asset/7AR6BjyV/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/trtworld.png" group-title="YILMAZ TV",TRTWORLD HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438599669_trthaber.png" group-title="YILMAZ TV",TRT HABER HD izle
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438631355_trt1.png" group-title="YILMAZ TV",TRT 1 HD izle
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1437563828_ntv.png" group-title="YILMAZ TV",NTV HD izle
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438273544_trtturk.png" group-title="YILMAZ TV",TRT TÜRK HD izle
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438127596_flash.png" group-title="YILMAZ TV",FLASH TV HD izle
+http://98.142.98.125:1935/flashtv/flashtvmob/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438631296_ulusalkanal.png" group-title="YILMAZ TV",ULUSAL KANAL HD izle
+http://98.142.98.125:1935/ulusaltv/ulusaltv/chunklist_w362686710.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438599705_tgrthaber.png" group-title="YILMAZ TV",TGRT HABER HD izle
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1437751075_tjk.png" group-title="YILMAZ TV",TJK TV HD izle
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438206131_taytv.png" group-title="YILMAZ TV",TAY TV HD izle
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438125096_tgrtbelgesel.png" group-title="YILMAZ TV",TGRT BELGESEL HD izle
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438202337_skyturk.png" group-title="YILMAZ TV",SKY TÜRK 360 HD izle
+http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438207856_trtmuzik.png" group-title="YILMAZ TV",TRT MÜZİK HD izle
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438599962_tgrteu1.png" group-title="YILMAZ TV",TGRT AVRUPA HD izle
+http://cdn1.streamencoding.com:1935/tgrt_eu/amlst:live-32/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438201725_trtkurd.png" group-title="YILMAZ TV",TRT 6 ŞEŞ HD izle
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438201585_trtarapca.png" group-title="YILMAZ TV",TRT ARAPÇA HD izle
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/wdr.png" group-title="YILMAZ TV",WDR HD
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/hr.png" group-title="YILMAZ TV",HR HD
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/wdw.png" group-title="YILMAZ TV",WELT DER WUNDER TV
+http://live.vidoo.de/live/weltderwunder/chunklist_w1438632583.m3u8
+#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/tlc.png" group-title="YILMAZ TV",TLC HD
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/93/A_News_HD_kurumsal_logo.jpg", A HABER
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTCTiAARUg0Pvdf0yWRpR9X5RO6MIHT3j_FMx0DEPUkKl6Xy_", A SPOR
