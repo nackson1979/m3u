@@ -18,6 +18,10 @@ https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/4bc_brisbane.png" group-title="AUSTRALIA",4BC Brisbane
 http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8
 
+#EXTINF:-1 tvg-name="Eng1" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Eng Film
+http://212.8.253.47:88/live/555155895930609/555155895930609/3751.m3u8
+#EXTINF:-1 tvg-name="Eng2" tvg-logo="https://troypoint.com/wp-content/uploads/2017/11/iptv.png" group-title="Vip",Eng2 Film
+
 #EXTINF:-1 tvg-logo="http://i.imgur.com/tpqKLRl.jpg" group-title="UK",AXN
 https://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/AXN_HD/AXN_HD_800.m3u8
 
