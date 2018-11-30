@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",FoxSportsHD
-http://tv.woonet.co/direct_tv/freetv/freetv/foxsportshd.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",FoxSports2HD
-http://tv.woonet.co/direct_tv/freetv/freetv/foxsports2hd.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",HistoryChannel
-http://tv.woonet.co/direct_tv/freetv/freetv/history.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",DiscoveryScience
-http://tv.woonet.co/direct_tv/freetv/freetv/discoveryscience.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",FashionTVHD
-http://tv.woonet.co/direct_tv/freetv/freetv/fashionhd.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",FashionOne
-http://tv.woonet.co/direct_tv/freetv/freetv/fashionone.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",TennisChannel
-http://tv.woonet.co/direct_tv/freetv/freetv/tennis.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",WWE
-http://tv.woonet.co/direct_tv/freetv/freetv/wwe.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/39fa914d-0f72-418b-8966-f672d6b103e7-profile_image-300x300.png", Combat Go 
 http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/90/c4/e8/90c4e8c79bc4ceba4b6f5ca29f09db43.jpg", Lucha Libre AAA 
