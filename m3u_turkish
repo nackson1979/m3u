@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUteGqFGJrWRkC3ct7CHZbJLP5r7yTBCHSnjJamxxq5X0VQQM",TRT Diyanet
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jWP3ntl64I4/maxresdefault_live.jpg",Star 
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png",TEVE 2 
