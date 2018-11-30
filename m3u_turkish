@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jWP3ntl64I4/maxresdefault_live.jpg",Star 
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png",TEVE 2 
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
 #EXTINF:-1,A1 World
 http://178.132.6.97:8080/A1World1/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/kanal-d.png" group-title="YILMAZ TV",KANAL D
@@ -68,14 +72,12 @@ http://98.142.98.125:1935/ulusaltv/ulusaltv/iptvdelisi.m3u8
 rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3
 #EXTINF:-1 tvg-logo="https://www.batitrakya.org/wp-content/uploads/2016/01/semerkand-tv.jpg",Semerkand HD (Turkey)
 http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Star 
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",NTV 
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",KanalD 
 http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TEVE 2 
-http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TRT1 
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TRT Spor 
