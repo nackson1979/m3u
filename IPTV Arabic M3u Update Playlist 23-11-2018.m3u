@@ -36,22 +36,12 @@ http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai TV*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai One
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai One*
-http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai One**
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai Zaman
-http://dmivll.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai Zaman*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai Sports
-http://selevision9888-i.akamaihd.net/hls/live/219305/98888/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai Sports*
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Sama Dubai
-http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Sama Dubai*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",YAS Sports
