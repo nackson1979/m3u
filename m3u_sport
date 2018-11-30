@@ -1,11 +1,8 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/39fa914d-0f72-418b-8966-f672d6b103e7-profile_image-300x300.png", Combat Go 
 http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/90/c4/e8/90c4e8c79bc4ceba4b6f5ca29f09db43.jpg", Lucha Libre AAA 
 http://swf.x10.bz/swe/twich.php?canal=luchalibreaaa&f=.m3u8
-
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L.png", ESPN 
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/2f/Beinsport2.jpg/revision/latest?cb=20170302102513",Bein Sport 2 HD
@@ -18,8 +15,19 @@ http://gorod.tv/s/live/3/86.169.51.136/0/0.m3u8
 http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png",Bein Sport 3
 http://212.8.253.47:88/live/555155895930609/555155895930609/71.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/oC2FzqY.png" group-title="UK",Sky News
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,ElevenSports1 Extra m3u8
+http://hotiptv.ddns.net:8000/live/rosario/rosario/7.m3u8
+#EXTINF:-1,ElevenSports 2 m3u8
+http://hotiptv.ddns.net:8000/live/rosario/rosario/2.m3u8
+#EXTINF:-1,ElevenSports 3 m3u8
+http://hotiptv.ddns.net:8000/live/rosario/rosario/3.m3u8
+#EXTINF:-1,ElevenSports 4 m3u8
+http://hotiptv.ddns.net:8000/live/rosario/rosario/32.m3u8
+#EXTINF:-1,ElevenSports 5 m3u8
+http://hotiptv.ddns.net:8000/live/rosario/rosario/34.m3u8
+#EXTINF:-1,ElevenSports 6 m3u8
+http://hotiptv.ddns.net:8000/live/rosario/rosario/36.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.egypttoday.com/images/larg/15272.jpg",ON Sport
 http://rb-group-server.com:25461/live/888888/777777/2913.m3u8
 #EXTINF:-1 tvg-logo="http://www.koora.com/sites/default/files/images/articles/adsports.jpg",AD Sport1
