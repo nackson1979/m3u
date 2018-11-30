@@ -15,7 +15,7 @@ http://gorod.tv/s/live/3/86.169.51.136/0/0.m3u8
 http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/BeIN_Sports_3_HD.png",Bein Sport 3
 http://212.8.253.47:88/live/555155895930609/555155895930609/71.m3u8
-#EXTINF:-1 tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png",ElevenSports1 Extra m3u8
+#EXTINF:-1 tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png",ElevenSports1 Extra
 http://hotiptv.ddns.net:8000/live/rosario/rosario/7.m3u8
 #EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg",ElevenSports 2
 http://hotiptv.ddns.net:8000/live/rosario/rosario/2.m3u8
