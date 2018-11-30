@@ -7,52 +7,19 @@ http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Deutsche Welle
 http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",NRT
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",TRT
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",~ Lebanon TV ~
-http://www.lengua.com/anthems/Lebanon.mp3
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",LBCi
-http://selevision9891-i.akamaihd.net/hls/live/219336/98919/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Future TV
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Arabica TV
-https://svs.itworkscdn.net/arabicatvlive/arabicatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Hawacom TV
-http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Mayadeen
 http://lmd.cdn.octivid.com/lmd/smil:switch.smil/chunklist_b850000_t64NTc2cA==.m3u8?v=1599780920
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Manar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",~ Syria TV ~
-http://www.lengua.com/anthems/Syria.mp3
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Sama TV
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Syria TV
-http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Nabd Syria
 http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=nabdsyria
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",~ Jordan TV  ~
-http://www.lengua.com/anthems/Jordan.mp3
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Taghier
-http://stream1.joinvisions.net:1935/taglive/taghier/media_b340674_w2040724908.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Amen FM 89.5
 http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Semsem
-http://streaming.i-sat.tv:1935/live/semsem/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",~ Palestine TV ~
-http://users.atw.hu/szbszig/palestine.mp3
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Aqsa
-http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",~ Iraq TV ~
-http://www.lengua.com/anthems/Iraq.mp3
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Forat
-http://alforatlive.nanocdn.com:1935/live/alforat256/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Rasheed
-http://streamer11.elementssys.com:8080/alrashid/alrashid_850kbps/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Sharqiya News
