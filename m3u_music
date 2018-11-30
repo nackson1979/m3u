@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Hit TV
+http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/MCM_TOP_logo_2017.png/revision/latest?cb=20180412180054" ,MCM TOP
 http://ott-cdn.ucom.am/s49/04.m3u8
 #EXTINF:-1 tvg-logo="https://mostvideo.tv/bitrix/templates/most_video_2016/images/logo.png" ,MostVideo TV HD
