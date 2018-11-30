@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/39fa914d-0f72-418b-8966-f672d6b103e7-profile_image-300x300.png",Combat Go
+#EXTINF:-1 tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/39fa914d-0f72-418b-8966-f672d6b103e7-profile_image-300x300.png",Combat Go
 http://bcoveliveios-i.akamaihd.net/hls/live/632424/5725327446001_02/playlist.m3u8
-#EXTINF:1 tvg-logo="https://i.pinimg.com/originals/90/c4/e8/90c4e8c79bc4ceba4b6f5ca29f09db43.jpg",Lucha Libre AAA
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/90/c4/e8/90c4e8c79bc4ceba4b6f5ca29f09db43.jpg",Lucha Libre AAA
 http://swf.x10.bz/swe/twich.php?canal=luchalibreaaa&f=.m3u8
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/21h-OE4-X7L.png", ESPN 
 http://80.80.160.168/live/6/live.m3u8
