@@ -17,15 +17,15 @@ http://183.230.80.60/000000001000/reallive-cctv5/1.m3u8
 http://212.8.253.47:88/live/555155895930609/555155895930609/71.m3u8
 #EXTINF:-1 tvg-logo="http://www.pisanews.net/wp-content/uploads/2018/08/eleven_image.png",ElevenSports1 Extra m3u8
 http://hotiptv.ddns.net:8000/live/rosario/rosario/7.m3u8
-#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg",ElevenSports 2 m3u8
+#EXTINF:-1 tvg-logo="https://www.freqsat.com/wp-content/uploads/2018/08/Eleven-Sports-2-HD-TV.jpg",ElevenSports 2
 http://hotiptv.ddns.net:8000/live/rosario/rosario/2.m3u8
-#EXTINF:-1,ElevenSports 3 m3u8
+#EXTINF:-1,ElevenSports 3
 http://hotiptv.ddns.net:8000/live/rosario/rosario/3.m3u8
-#EXTINF:-1,ElevenSports 4 m3u8
+#EXTINF:-1,ElevenSports 4
 http://hotiptv.ddns.net:8000/live/rosario/rosario/32.m3u8
-#EXTINF:-1,ElevenSports 5 m3u8
+#EXTINF:-1,ElevenSports 5
 http://hotiptv.ddns.net:8000/live/rosario/rosario/34.m3u8
-#EXTINF:-1,ElevenSports 6 m3u8
+#EXTINF:-1,ElevenSports 6
 http://hotiptv.ddns.net:8000/live/rosario/rosario/36.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",AD Sport3
 http://rb-group-server.com:25461/live/888888/777777/3134.m3u8
