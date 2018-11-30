@@ -25,69 +25,20 @@ http://kstv.xyz:8080/live/Whaley/8225411730/24049.m3u8
 http://kstv.xyz:8080/live/Whaley/8225411730/24047.m3u8
 #EXTINF:-1,FR - A LA CARTE 8
 http://kstv.xyz:8080/live/Whaley/8225411730/24043.m3u8
-
-#EXTINF:-1,FR - Ocs Choc HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23980.m3u8
-#EXTINF:-1,FR - Ocs City HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23979.m3u8
-#EXTINF:-1,FR - Ocs Geant HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23978.m3u8
-#EXTINF:-1,FR - Ocs Max HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23977.m3u8
-#EXTINF:-1,FR - Paramount Channel HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23976.m3u8
-#EXTINF:-1,FR - Paris Premiere HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23975.m3u8
-#EXTINF:-1,FR - Piwi HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23974.m3u8
-#EXTINF:-1,FR - Planete  AE HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23973.m3u8
-#EXTINF:-1,FR - Planete  CI HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23972.m3u8
-#EXTINF:-1,FR - Planete  HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23971.m3u8
-#EXTINF:-1,FR - RTL9
-http://kstv.xyz:8080/live/Whaley/8225411730/23970.m3u8
-#EXTINF:-1,FR - SFR Sport 1 HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23969.m3u8
-#EXTINF:-1,FR - SFR Sport 2 HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23968.m3u8
-#EXTINF:-1,FR - SFR Sport 3 HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23967.m3u8
-#EXTINF:-1,FR - Science & Vie
-http://kstv.xyz:8080/live/Whaley/8225411730/23966.m3u8
-#EXTINF:-1,FR - Serie Club
-http://kstv.xyz:8080/live/Whaley/8225411730/23965.m3u8
-#EXTINF:-1,FR - Syfy HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23964.m3u8
 #EXTINF:-1,FR - TF1 HD
 http://kstv.xyz:8080/live/Whaley/8225411730/23963.m3u8
-#EXTINF:-1,FR - TMC
-http://kstv.xyz:8080/live/Whaley/8225411730/23962.m3u8
-#EXTINF:-1,FR - TRACE URBAN HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23961.m3u8
-#EXTINF:-1,FR - TV Breizh HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23960.m3u8
-#EXTINF:-1,FR - Teletoon HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23959.m3u8
-#EXTINF:-1,FR - Teva HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23958.m3u8
-#EXTINF:-1,FR - Toute l'histoire
-http://kstv.xyz:8080/live/Whaley/8225411730/23957.m3u8
-#EXTINF:-1,FR - Ushuaia HD
-http://kstv.xyz:8080/live/Whaley/8225411730/23956.m3u8
 #EXTINF:-1,FR - W9 HD
 http://kstv.xyz:8080/live/Whaley/8225411730/23955.m3u8
 #EXTINF:-1,FR - Weo
 http://kstv.xyz:8080/live/Whaley/8225411730/23954.m3u8
 #EXTINF:-1,FR - iTele
 http://kstv.xyz:8080/live/Whaley/8225411730/23990.m3u8
-
 #EXTINF:-1,FR_6ter_FullHD
 http://i.ucertech.net:80/HDZGybR9Mx/MXcZu4kPU3/43108
 #EXTINF:-1,FR_6ter_HD
 http://i.ucertech.net:80/HDZGybR9Mx/MXcZu4kPU3/43208
 #EXTINF:-1,FR_A _FullHD
+
 http://i.ucertech.net:80/HDZGybR9Mx/MXcZu4kPU3/43137
 #EXTINF:-1,FR_A_LA_CARTE_01
 http://i.ucertech.net:80/HDZGybR9Mx/MXcZu4kPU3/43278
