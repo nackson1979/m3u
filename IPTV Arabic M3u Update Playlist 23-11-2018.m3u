@@ -24,32 +24,16 @@ http://185.27.116.54:1935/live/amn/chunklist_w1521888123.m3u8
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",~ KSA TV ~
-http://www.lengua.com/anthems/SaudiArabia.mp3
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Masdar TV
 http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Rotana Cinema
-http://185.27.116.54:1935/live/rotanacinema/gmswf.m3u8?v=1599780920
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Rotana Classic
-http://185.27.116.54:1935/live/rotanaclassic/gmswf.m3u8?v=1599780920
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Rotana Clip
-http://185.27.116.54:1935/live/rotanaclip/gmswf.m3u8?v=1599780920
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Wanasah
-http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/live/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",~ UAE TV ~
-http://www.lengua.com/anthems/UnitedArabEmirates.mp3
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Aan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/chunklist_w636969599_b800000_t64NTc2cA==.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Al Dafrah TV
 http://live.aldafrah.tv:1935/live/myStream3/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",CNBC Arabiya
-http://199.167.151.237:1935/live/sp15_37.stream/gmswf.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai TV
-http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai TV*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai One
