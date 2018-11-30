@@ -2,7 +2,8 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NatGeoWILDHD
 http://tv.woonet.co/direct_tv/freetv/freetv/ngwhd.m3u8
-
+#EXTINF:-1,IMPACT Wrestling
+http://swf.x10.bz/swe/twich.php?canal=impactwrestling&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static-25.sinclairstoryline.com/resources/assets/tennischannel/images/TennisChannel.whiteBg.png",TennisChannel 
 http://tv.woonet.co/direct_tv/freetv/freetv/tennis.m3u8
 #EXTINF:-1,Real Madrid TV
@@ -68,3 +69,14 @@ http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae",FOX HD
 #EXTINF:-1,ASTRO ARENA HD
 http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+
+#EXTINF:-1,RedBull 
+http://swf.x10.bz/swe/twich.php?canal=redbull&f=.m3u8
+#EXTINF:-1,Eleven Sports Next
+http://swf.x10.bz/swe/twich.php?canal=elevensportsnext&f=.m3u8
+#EXTINF:-1,FailArmy
+http://swf.x10.bz/swe/twich.php?canal=failarmy&f=.m3u8
+#EXTINF:-1,7 poker
+http://swf.x10.bz/swe/twich.php?canal=runitup247&f=.m3u8
+#EXTINF:-1,Live Gaming News
+http://swf.x10.bz/swe/twich.php?canal=allkeyshop_tv&f=.m3u8
