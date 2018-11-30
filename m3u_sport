@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NatGeoWILDHD
+http://tv.woonet.co/direct_tv/freetv/freetv/ngwhd.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-25.sinclairstoryline.com/resources/assets/tennischannel/images/TennisChannel.whiteBg.png",TennisChannel 
 http://tv.woonet.co/direct_tv/freetv/freetv/tennis.m3u8
 
