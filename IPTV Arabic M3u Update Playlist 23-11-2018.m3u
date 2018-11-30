@@ -44,20 +44,10 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Sama Dubai*
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",YAS Sports
-http://selevision9878-i.akamaihd.net/hls/live/219130/98782/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai Racing 1
-http://dmivll.mangomolo.com/events/smil:events.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Dubai Racing 2
-http://dmivll.mangomolo.com/dubairacing/smil:dubairacing.smil/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",National Geographic
-http://adtv.ercdn.net/adnatgeo/adnatgeo.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Zee Aflam (Hindi)
-http://hls.alwhdat.net/ios/zee_aflam_t.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Abu Dhabi Sports SD
