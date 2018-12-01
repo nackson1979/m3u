@@ -182,3 +182,198 @@ http://cdn-hls.globecast.tv/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
 http://www.lengua.com/anthems/Ethiopia.mp3
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/Arab_World-1.png",Kana TV
 http://kanatv-lh.akamaihd.net/i/KanaTV_1@435010/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport HD" tvg-logo="" group-title="BEIN SPORT",Bein Sport HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10233
+#EXTINF:-1 tvg-id="" tvg-name="BEIN NEWS HD" tvg-logo="http://www.mega-sat.net/log2/be_in_sports_news.png" group-title="BEIN SPORT",BEIN NEWS HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/3148
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 1HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_1.png" group-title="BEIN SPORT",BEIN SPORT 1HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9140
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 2HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_2.png" group-title="BEIN SPORT",BEIN SPORT 2HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9139
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 3HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_3.png" group-title="BEIN SPORT",BEIN SPORT 3HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9138
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 4HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_4.png" group-title="BEIN SPORT",BEIN SPORT 4HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9137
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 5HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_5.png" group-title="BEIN SPORT",BEIN SPORT 5HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9136
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 6HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_6.png" group-title="BEIN SPORT",BEIN SPORT 6HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9135
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 7HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_7.png" group-title="BEIN SPORT",BEIN SPORT 7HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9134
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 8HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_8.png" group-title="BEIN SPORT",BEIN SPORT 8HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9133
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 9HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_9.png" group-title="BEIN SPORT",BEIN SPORT 9HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9132
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORT 10HD L" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_10.png" group-title="BEIN SPORT",BEIN SPORT 10HD L
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9131
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 1 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 1 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12020
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 2 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 2 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12019
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 3 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 3 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12018
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 4 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 4 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12017
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 5 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 5 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12016
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 6 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 6 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12015
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 7 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 7 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12014
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 8 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 8 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12013
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 9 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 9 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12012
+#EXTINF:-1 tvg-id="" tvg-name="beIN Sport 10 FHD" tvg-logo="" group-title="BEIN SPORT",beIN Sport 10 FHD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12011
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD1" tvg-logo="" group-title="BEIN SPORT",Bein Sports HD1
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12010
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD2" tvg-logo="" group-title="BEIN SPORT",Bein Sports HD2
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12009
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD3" tvg-logo="" group-title="BEIN SPORT",Bein Sports HD3
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12008
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD4" tvg-logo="" group-title="BEIN SPORT",Bein Sports HD4
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12007
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD5" tvg-logo="" group-title="BEIN SPORT",Bein Sports HD5
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12006
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD6" tvg-logo="" group-title="BEIN SPORT",Bein Sports HD6
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12005
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD7" tvg-logo="" group-title="BEIN SPORT",Bein Sports HD7
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12004
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD8" tvg-logo="" group-title="BEIN SPORT",Bein Sports HD8
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12003
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 1HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_1.png" group-title="BEIN SPORT",BEINSPORTS 1HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/20
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 2HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_2.png" group-title="BEIN SPORT",BEINSPORTS 2HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/19
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 3HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_3.png" group-title="BEIN SPORT",BEINSPORTS 3HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/18
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 4HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_4.png" group-title="BEIN SPORT",BEINSPORTS 4HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/17
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 5HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_5.png" group-title="BEIN SPORT",BEINSPORTS 5HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/16
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 6HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_6.png" group-title="BEIN SPORT",BEINSPORTS 6HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/15
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 7HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_7.png" group-title="BEIN SPORT",BEINSPORTS 7HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/14
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 8HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_8.png" group-title="BEIN SPORT",BEINSPORTS 8HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 9HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_9.png" group-title="BEIN SPORT",BEINSPORTS 9HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/12
+#EXTINF:-1 tvg-id="" tvg-name="BEINSPORTS 10HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_10.png" group-title="BEIN SPORT",BEINSPORTS 10HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 11HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_HD_11.png" group-title="BEIN SPORT",BEIN SPORTS 11HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2799
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 12 HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_HD_12.png" group-title="BEIN SPORT",BEIN SPORTS 12 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2800
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 13HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_HD_13.png" group-title="BEIN SPORT",BEIN SPORTS 13HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2801
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 14HD" tvg-logo="http://www.mega-sat.net/log2/BEIN_ARAB_HD_14.png" group-title="BEIN SPORT",BEIN SPORTS 14HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2802
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 15HD" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS 15HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2803
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 16 HD" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS 16 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2804
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 17 HD" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS 17 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/2805
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD1 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD1 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13282
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD2 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD2 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13281
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD3 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD3 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13280
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD4 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD4 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13279
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD5 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD5 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13278
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD6 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD6 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13277
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD7 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD7 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13276
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD8 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD8 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13275
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD9 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD9 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13274
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS HD10 HEVC" tvg-logo="" group-title="BEIN SPORT",BEIN SPORTS HD10 HEVC
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/13273
+#EXTINF:-1 tvg-id="" tvg-name="====beoutQ=====" tvg-logo="" group-title="BEIN SPORT",====beoutQ=====
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11967
+#EXTINF:-1 tvg-id="" tvg-name="beout Q 1 HD" tvg-logo="" group-title="BEIN SPORT",beout Q 1 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11966
+#EXTINF:-1 tvg-id="" tvg-name="beout Q 2 HD" tvg-logo="" group-title="BEIN SPORT",beout Q 2 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11965
+#EXTINF:-1 tvg-id="" tvg-name="beout Q 3 HD" tvg-logo="" group-title="BEIN SPORT",beout Q 3 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11964
+#EXTINF:-1 tvg-id="" tvg-name="beout Q 4 HD" tvg-logo="" group-title="BEIN SPORT",beout Q 4 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11963
+#EXTINF:-1 tvg-id="" tvg-name="beout Q 5 HD" tvg-logo="" group-title="BEIN SPORT",beout Q 5 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11962
+#EXTINF:-1 tvg-id="" tvg-name="beout Q 6 HD" tvg-logo="" group-title="BEIN SPORT",beout Q 6 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11961
+#EXTINF:-1 tvg-id="" tvg-name="beout Q 7 HD" tvg-logo="" group-title="BEIN SPORT",beout Q 7 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11960
+#EXTINF:-1 tvg-id="" tvg-name="BOUTQ  7 HD" tvg-logo="" group-title="BEIN SPORT",BOUTQ  7 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/11959
+#EXTINF:-1 tvg-id="" tvg-name="------|AR| BEIN MOVIE|------" tvg-logo="" group-title="BEIN SPORT",------|AR| BEIN MOVIE|------
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/9994
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BARAEM Bein" tvg-logo="" group-title="BEIN SPORT",BEIN| BARAEM Bein
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/6887
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| Bein Fatafeat HD" tvg-logo="" group-title="BEIN SPORT",BEIN| Bein Fatafeat HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/6885
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| Bein Jeem HD" tvg-logo="" group-title="BEIN SPORT",BEIN| Bein Jeem HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/6884
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BeIN Movies 1HD" tvg-logo="" group-title="BEIN SPORT",BEIN| BeIN Movies 1HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/6883
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BeIN Movies 2HD" tvg-logo="" group-title="BEIN SPORT",BEIN| BeIN Movies 2HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/6882
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BeIN Movies 3HD" tvg-logo="" group-title="BEIN SPORT",BEIN| BeIN Movies 3HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/6881
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| BeIN Movies 4HD" tvg-logo="" group-title="BEIN SPORT",BEIN| BeIN Movies 4HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/6880
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| beIN Series 1 HD" tvg-logo="" group-title="BEIN SPORT",BEIN| beIN Series 1 HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/6879
+#EXTINF:-1 tvg-id="" tvg-name="BEIN| Bein Travel HD" tvg-logo="" group-title="BEIN SPORT",BEIN| Bein Travel HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/6886
+#EXTINF:-1 tvg-id="" tvg-name="------BEIN MOVIE------" tvg-logo="" group-title="BEIN MOVIE",------BEIN MOVIE------
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/199
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD1" tvg-logo="" group-title="BEIN MOVIE",Bein Movies HD1
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10973
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD2" tvg-logo="" group-title="BEIN MOVIE",Bein Movies HD2
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10972
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD3" tvg-logo="" group-title="BEIN MOVIE",Bein Movies HD3
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10971
+#EXTINF:-1 tvg-id="" tvg-name="Bein Movies HD4" tvg-logo="" group-title="BEIN MOVIE",Bein Movies HD4
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10970
+#EXTINF:-1 tvg-id="" tvg-name="Bein Drama HD1" tvg-logo="" group-title="BEIN MOVIE",Bein Drama HD1
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10980
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series HD1" tvg-logo="" group-title="BEIN MOVIE",Bein Series HD1
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10991
+#EXTINF:-1 tvg-id="" tvg-name="Bein Series HD2" tvg-logo="" group-title="BEIN MOVIE",Bein Series HD2
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10990
+#EXTINF:-1 tvg-id="" tvg-name="Bein AMC HD" tvg-logo="" group-title="BEIN MOVIE",Bein AMC HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10989
+#EXTINF:-1 tvg-id="" tvg-name="Bein Baraem HD" tvg-logo="" group-title="BEIN MOVIE",Bein Baraem HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10988
+#EXTINF:-1 tvg-id="" tvg-name="Bein BeJunior" tvg-logo="" group-title="BEIN MOVIE",Bein BeJunior
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10987
+#EXTINF:-1 tvg-id="" tvg-name="Bein Boomerang HD" tvg-logo="" group-title="BEIN MOVIE",Bein Boomerang HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10986
+#EXTINF:-1 tvg-id="" tvg-name="Bein Cartoon Network HD" tvg-logo="" group-title="BEIN MOVIE",Bein Cartoon Network HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10985
+#EXTINF:-1 tvg-id="" tvg-name="Bein Dream Works HD" tvg-logo="" group-title="BEIN MOVIE",Bein Dream Works HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10979
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fatafeat" tvg-logo="" group-title="BEIN MOVIE",Bein Fatafeat
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10978
+#EXTINF:-1 tvg-id="" tvg-name="Bein Fox HD" tvg-logo="" group-title="BEIN MOVIE",Bein Fox HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10977
+#EXTINF:-1 tvg-id="" tvg-name="Bein Gourmet HD" tvg-logo="" group-title="BEIN MOVIE",Bein Gourmet HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10976
+#EXTINF:-1 tvg-id="" tvg-name="Bein jeem HD" tvg-logo="" group-title="BEIN MOVIE",Bein jeem HD
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10974
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat Geo" tvg-logo="" group-title="BEIN MOVIE",Bein Nat Geo
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10969
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat People" tvg-logo="" group-title="BEIN MOVIE",Bein Nat People
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10968
+#EXTINF:-1 tvg-id="" tvg-name="Bein Nat Wild" tvg-logo="" group-title="BEIN MOVIE",Bein Nat Wild
+http://hostiptv.com:8089/frMgpVa95/6k6pUb54uK/10967
