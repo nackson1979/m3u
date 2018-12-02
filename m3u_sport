@@ -1,5 +1,22 @@
 #EXTM3U
-
+#EXTINF:-1,Top Fight
+http://203.154.243.32:8088/live/topfight/index.m3u8
+#EXTINF:-1,Hi Sports
+http://203.154.243.32:8088/live/hisport/index.m3u8
+#EXTINF:-1,BT Sports 1
+http://163.172.86.57:3135/BT1/Stream/mono.m3u8
+#EXTINF:-1,BT Sports 2
+http://163.172.86.57:3135/B/2/mono.m3u8
+#EXTINF:-1,SPORTS
+http://cdnusa02.azureedge.net/live/t1/chunks.m3u8
+#EXTINF:-1,SPORTS
+http://cdnusa02.azureedge.net/live/t3/chunks.m3u8
+#EXTINF:-1,SPORTS
+http://cdnusa02.azureedge.net/live/t2/chunks.m3u8
+#EXTINF:-1,Fox Sports2
+http://203.154.243.32:8088/live/foxsport2/index.m3u8
+#EXTINF:-1,Fox Sports hd
+http://203.154.243.32:8088/live/foxsporthd/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NatGeoWILDHD
 http://tv.woonet.co/direct_tv/freetv/freetv/ngwhd.m3u8
 #EXTINF:-1,IMPACT Wrestling
