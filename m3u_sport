@@ -24,7 +24,7 @@ http://swf.x10.bz/swe/twich.php?canal=impactwrestling&f=.m3u8
 #EXTINF:-1 tvg-logo="https://static-25.sinclairstoryline.com/resources/assets/tennischannel/images/TennisChannel.whiteBg.png",TennisChannel 
 http://tv.woonet.co/direct_tv/freetv/freetv/tennis.m3u8
 #EXTINF:-1,Real Madrid TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png",US: MLB NETWORK OPT 1 
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
 #EXTINF:-1 tvg-logo="http://uhl.ua/upload/iblock/d7a/d7a74c6f2b64d294646de1505bc91d49.png",UA: XSPORT 
