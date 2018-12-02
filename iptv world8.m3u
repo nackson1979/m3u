@@ -1,11 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,112 Украина
-http://api.tv.ipnet.ua/api/v1/manifest/1442908080.m3u8?codec=mpeg4
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,112 Украина HD
 http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
-#EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,112 Украина [FHD]
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,12 Канал (Омск)
 http://live-gtrkomsk.cdnvideo.ru/gtrkomsk/gtrkomsk.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,24 канал
@@ -3201,49 +3197,3 @@ http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist_b
 http://zoomweblive-lh.akamaihd.net/i/Zoomweb_1@348071/index_600_av-p.m3u8
 #EXTINF:-1,Zougla TV
 http://zglive1-mdc-secure.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
-#EXTINF:-1,http://91.231.219.145/tv_abaza_tv/index.m3u8
-#EXTINF:-1,http://212.112.96.234/live/6001.flv
-#EXTINF:-1,rtmp://109.248.236.42:1935/live/Alau
-#EXTINF:-1,http://212.112.97.21/live/2001.flv
-#EXTINF:-1,http://bogtvhdlive-f.akamaihd.net/i/bogtv_main@69601/index_500_av-p.m3u8
-#EXTINF:-1,http://hls-mycdn0738558684.cdnvideo.ru/mycdn0738558684/stream1/playlist.m3u8
-#EXTINF:-1,http://46.249.82.226:82/streams/bulgaria24/stream.m3u8
-#EXTINF:-1,http://now2.eaglecdn.com/stream_transcoded_1080/bigasia_test_mid2/index.m3u8
-#EXTINF:-1,http://109.68.190.192:1935/WEB_Vera24/Vera24.stream/playlist.m3u8
-#EXTINF:-1,http://live.planeta-online.tv:1935/public/channel_130/playlist.m3u8
-#EXTINF:-1,http://live.eurocom.bg:8080/hls/stream.m3u8
-#EXTINF:-1,http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
-#EXTINF:-1,http://cdn.illi.tv/illitv_2000/index.m3u8
-#EXTINF:-1,http://eu-all18.secdn.net/ispania-channel/play/mp4:j18/playlist.m3u8
-#EXTINF:-1,rtmp://109.248.236.42:1935/live/KSK-TV
-#EXTINF:-1,http://212.112.96.234/live/5001.flv
-#EXTINF:-1,http://212.112.96.234/live/4002.flv
-#EXTINF:-1,http://212.112.96.234/live/7001.flv
-#EXTINF:-1,http://212.112.97.21/live/1001.flv
-#EXTINF:-1,http://streamer.rtcommufa.ru:1935/matur/matur1/playlist.m3u8
-#EXTINF:-1,http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1,http://stream.hope.ua/hopeua/live_1/playlist.m3u8
-#EXTINF:-1,http://bcliveunivsecure-lh.akamaihd.net/i/HopeChannelUkraine_1@432955/index_2000_av-p.m3u8
-#EXTINF:-1,http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8
-#EXTINF:-1,http://vod.tv7.fi:1935/tv7-ru/tv7-ru.stream_720p/playlist.m3u8
-#EXTINF:-1,http://gb25.streamgates.net/radios891fm/feed720_in/playlist.m3u8
-#EXTINF:-1,http://stream.onlinetv.kg/Streaming/HLSAndroid/19/121/af2812cb630f4906adfd06a5c6885225/stream.m3u8
-#EXTINF:-1,http://78.130.205.67:1935/live/mpegts.stream/playlist.m3u8
-#EXTINF:-1,http://radio.kaztrk.kz/astvideo/astanafm/index.m3u8
-#EXTINF:-1,http://109.68.190.192:1935/WEB_TBN/TBN.stream/playlist.m3u8
-#EXTINF:-1,http://e101-tc.cdn.bg/novinibg/fls/tvevropa.stream/playlist.m3u8?at=99c1f1c2e27af17c27ccea69a86c07f7
-#EXTINF:-1,http://live.planeta-online.tv:1935/public/channel_2/playlist.m3u8
-#EXTINF:-1,http://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1,http://195.20.196.69:1935/tugantel/tugantel1/playlist.m3u8
-#EXTINF:-1,http://watch.mtrk.uz:1935/24/24.stream/playlist.m3u8
-#EXTINF:-1,http://riakalm.tel.ru/src/hls/stream_hi/index.m3u8
-#EXTINF:-1,http://178.253.194.75:1935/live/hram.stream/playlist.m3u8
-#EXTINF:-1,http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1,http://edge15.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
-#EXTINF:-1,=== http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,= http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,== http://vk.com/clubSlyNet
-http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,= http://live.slynet.tv/promoslynetiptv1?.m3u8
-#EXTINF:-1,== http://slynet.tv
-http://live.slynet.tv/promoslynetiptv1?.m3u8
