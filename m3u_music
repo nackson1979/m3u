@@ -41,3 +41,37 @@ http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
 http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vibee-tv" group-title="MUSIC", V2BEAT HD
 http://139.59.166.48:8081/live/live3/playlist.m3u8
+#EXTINF:-1,MUSIC TV: CALIFORNIA MUSIC CHANNEL
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,MUSIC TV: Company Tv
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1,MUSIC TV: FOX TV
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1,MUSIC TV: Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1,MUSIC TV: Klik Tv
+http://92.62.234.201:2249/klik.flv
+#EXTINF:-1,MUSIC TV: MC Play
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,MUSIC TV: Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,MUSIC TV: MUSIX VOX TV
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+#EXTINF:-1,MUSIC TV: O 2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/chunklist.m3u8
+#EXTINF:-1,MUSIC TV: POLO PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+#EXTINF:-1,MUSIC TV: Radio Contact Vision
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
+#EXTINF:-1,MUSIC TV: Radio Tv Azzurra Live
+http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1,MUSIC TV: Radio Universal Tv
+http://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv/playlist.m3u8
+#EXTINF:-1,MUSIC TV: RETRO MUSIC
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1,MUSIC TV: Rti Hd
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1,MUSIC TV: THE COUNTRY NETWORK
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
+#EXTINF:-1,MUSIC TV: Xite
+http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
