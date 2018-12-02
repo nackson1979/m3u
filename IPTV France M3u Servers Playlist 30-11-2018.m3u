@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:0,FRANCE Music-Hit
+#EXTINF:-1,FRANCE Music-Hit
 https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-2.m3u8
-#EXTINF:0,FRANCE Generation
+#EXTINF:-1,FRANCE Generation
 https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-2.m3u8
-#EXTINF:0,FRANCE C-STARS
+#EXTINF:-1,FRANCE C-STARS
 https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-2.m3u8
-#EXTINF:0,FRANCE OUI-tele
+#EXTINF:-1,FRANCE OUI-tele
 https://stream-13.dc3.dailymotion.com/dm/3/x10990v/live-2.m3u8
-#EXTINF:0,FRANCE Music-Hit TV [1280x720]
+#EXTINF:-1,FRANCE Music-Hit TV [1280x720]
 https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-3.m3u8
-#EXTINF:0,FRANCE C-STARS [1280x720]
+#EXTINF:-1,FRANCE C-STARS [1280x720]
 https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-3.m3u8
-#EXTINF:0,FRANCE OUI FM TV [1280x720]
+#EXTINF:-1,FRANCE OUI FM TV [1280x720]
 https://stream-13.dc3.dailymotion.com/dm/3/x10990v/live-3.m3u8
-#EXTINF:0,FRANCE Music-Hit TV [512x288]
+#EXTINF:-1,FRANCE Music-Hit TV [512x288]
 https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-1.m3u8
-#EXTINF:0,FRANCE Generations TV [512x288]
+#EXTINF:-1,FRANCE Generations TV [512x288]
 https://stream-05.ix7.dailymotion.com/dm/3/x2fxcwq/live-1.m3u8
-#EXTINF:0,FRANCE C-STARS [512x288]
+#EXTINF:-1,FRANCE C-STARS [512x288]
 https://stream-05.ix7.dailymotion.com/dm/3/x5gv5v0/live-1.m3u8
-#EXTINF:0,FRANCE OUI FM TV [512x288]
+#EXTINF:-1,FRANCE OUI FM TV [512x288]
 https://stream-13.dc3.dailymotion.com/dm/3/x10990v/live-1.m3u8
 #EXTINF:-1,FR - 13ème Rue HD
 http://kstv.xyz:8080/live/Whaley/8225411730/24052.m3u8
