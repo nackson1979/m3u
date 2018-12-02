@@ -1,26 +1,26 @@
 #EXTM3U
 
-#EXTINF:0,TRT 1 HD
+#EXTINF:-1,TRT 1 HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
-#EXTINF:0,TRT AVAZ HD
+#EXTINF:-1,TRT AVAZ HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/index_1000_av-p.m3u8
-#EXTINF:0,TRT BELGESEL
+#EXTINF:-1,TRT BELGESEL
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_500_av-p.m3u8
-#EXTINF:0,TRT COCUK HD
+#EXTINF:-1,TRT COCUK HD
 http://trtcanlitv-lh.akamaihd.net:80/i/TRTCOCUK_1@181844/index_1000_av-p.m3u8
-#EXTINF:0,TRT HABER HD
+#EXTINF:-1,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net:80/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
-#EXTINF:0,TRT KURDI HD
+#EXTINF:-1,TRT KURDI HD
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_1000_av-p.m3u8
-#EXTINF:0,TRT MUZIK HD
+#EXTINF:-1,TRT MUZIK HD
 http://trtcanlitv-lh.akamaihd.net:80/i/TRTMUZIK_1@181845/index_1000_av-p.m3u8
-#EXTINF:0,TRT OKUL
+#EXTINF:-1,TRT OKUL
 http://trtcanlitv-lh.akamaihd.net:80/i/TRTOKUL_1@182245/index_1000_av-p.m3u8
-#EXTINF:0,TRT SPOR
+#EXTINF:-1,TRT SPOR
 http://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
-#EXTINF:0,TRT TURK
+#EXTINF:-1,TRT TURK
 http://trtcanlitv-lh.akamaihd.net:80/i/TRTTURK_1@182144/index_1000_av-p.m3u8
-#EXTINF:0,TRT WORLD HD (English)
+#EXTINF:-1,TRT WORLD HD (English)
 http://trtcanlitv-lh.akamaihd.net:80/i/TRTWORLD_1@321783/index_720p_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUteGqFGJrWRkC3ct7CHZbJLP5r7yTBCHSnjJamxxq5X0VQQM",TRT Diyanet
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
