@@ -7,12 +7,6 @@ http://203.154.243.32:8088/live/hisport/index.m3u8
 http://163.172.86.57:3135/BT1/Stream/mono.m3u8
 #EXTINF:-1,BT Sports 2
 http://163.172.86.57:3135/B/2/mono.m3u8
-#EXTINF:-1,SPORTS
-http://cdnusa02.azureedge.net/live/t1/chunks.m3u8
-#EXTINF:-1,SPORTS
-http://cdnusa02.azureedge.net/live/t3/chunks.m3u8
-#EXTINF:-1,SPORTS
-http://cdnusa02.azureedge.net/live/t2/chunks.m3u8
 #EXTINF:-1,Fox Sports2
 http://203.154.243.32:8088/live/foxsport2/index.m3u8
 #EXTINF:-1,Fox Sports hd

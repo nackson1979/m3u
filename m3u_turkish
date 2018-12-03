@@ -106,13 +106,13 @@ http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
 http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist-ugpwhvm5d_b2128000_sltur.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",İdman TV 1 
 https://streaming.kovalchuk.me/idman/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",UçanKuş ()
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",UçanKuş 
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Beyaz TV ()
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Beyaz TV 
 http://37.77.2.236:1935/liveedge/BEYAZTVHQ/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",24 TV ()
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",24 TV 
 http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",ShowMax ()
+#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",ShowMax 
 https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8
 #EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Tivibu Spor 
 http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
