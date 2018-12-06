@@ -1,5 +1,94 @@
 #EXTM3U
-
+#EXTINF:-1,US: ABC 6 ACTION NEWS PHILADELPHIA PUBLIC NEWS ENGLISH 
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/WPVIwatch.m3u8
+#EXTINF:-1,US: ABC 7 NEWS CHICAGO PUBLIC NEWS ENGLISH 
+https://content.uplynk.com/channel/ext/aac37e2c66614e699fb189ab391084ff/WLSwatch.m3u8
+#EXTINF:-1,US: ABC 7 NEWS SAN FRANCISCO PUBLIC NEWS ENGLISH 
+https://content.uplynk.com/channel/ext/4413701bf5a1488db55b767f8ae9d4fa/KGOwatch.m3u8
+#EXTINF:-1,US: ABC NEWS OPT 1 
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
+#EXTINF:-1,US: ABC NEWS OPT 2 
+https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8
+#EXTINF:-1,US: ABC OPT 2 
+http://atlas.its.virginia.edu:8088/hls/m3u8/ABC.m3u8
+#EXTINF:-1,US: ABC OPT 3 
+http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
+#EXTINF:-1,US: ACTV 
+http://granicusliveus12-a.akamaihd.net/azleg/G0247_012/chunklist.m3u8
+#EXTINF:-1,US: AL HURRA 
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,US: AL JAZEERA TEST ENGLISH 
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1,US: BLOOMBERG NEWS PUBLIC ENTERTAINMENT ENGLISH 
+https://liveproduseast.global.ssl.fastly.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-240-1_live.m3u8
+#EXTINF:-1,US: BLOOMBERG TV 
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:-1,US: BLOOMBERG TV (1+) 
+https://cdn-videos.akamaized.net/btv/desktop/fastly/asia/live/primary.m3u8
+#EXTINF:-1,US: CBN 
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1,US: CBN NEWS 
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:-1,US: CBS 4 NEWS INDIANAPOLIS 
+http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8
+#EXTINF:-1,US: CBS NEWS OPT 1 
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,US: CBS NEWS OPT 2 
+https://www.cbsnews.com/common/video/dai_prod.m3u8
+#EXTINF:-1,US: CHANNEL 11 NEWS WPXI PITTSBURGH 
+http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
+#EXTINF:-1,US: CNEWS 
+http://stream-03.nyc.dailymotion.com/25/dm/3/x3b68jn/live-3.m3u8
+#EXTINF:-1,US: CNN 
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1,US: ESPN NEWS ENGLISH 
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,US: EURONEWS OPT 2 
+https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
+#EXTINF:-1,US: FACTV COMMUNITY 
+http://69.147.212.188:8083/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,US: FACTV GOVERNMENT 
+http://69.147.212.188:8082/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
+#EXTINF:-1,US: FTV NEWS FRANCE 
+http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
+#EXTINF:-1,US: HELLRAISER JUDGEMENT 2018 PUBLIC NEWS ENGLISH 
+https://bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8
+#EXTINF:-1,US: I24 NEWS NEWS ENGLISH 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1,US: INFOWARS NEWS ENGLISH 
+https://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
+#EXTINF:-1,US: KIRO 7 NEWS SEATTLE 
+http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
+#EXTINF:-1,US: KOMO 4 NEWS SEATTLE 
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1,US: ME TVBLAZE NEWS ENGLISH 
+https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
+#EXTINF:-1,US: NEWS CENTER 7 OHIO 
+http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
+#EXTINF:-1,US: NEWSMAX PUBLIC NEWS ENGLISH 
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,US: NEWSMAX TV 
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,US: NEWSY 
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1,US: REAL NEWS 
+https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
+#EXTINF:-1,US: THE WEATHER CHANNEL 
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,US: WGN 9 NEWS CHICAGO 
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
+#EXTINF:-1,US: WSJ PUBLIC NEWS ENGLISH 
+http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
+#EXTINF:-1,US: WTVD 11 EYEWITNESS NEWS PUBLIC NEWS ENGLISH 
+https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/WTVDwatch.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://newyork.streamlive.to:80/mobile/2tag4dzgwof5ma2/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://newyork.streamlive.to:80/mobile/9kzz2h2p7e5ejgy/playlist.m3u8
+#EXTINF:-1,NICKELODEON
+http://newyork.streamlive.to:80/mobile/64jaber5pjqj2cr/playlist.m3u8
+#EXTINF:-1,WWE Network
+http://newyork.streamlive.to:80/mobile/i69u9isa4x7rbxf/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PKF0ejC.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 

@@ -1,5 +1,24 @@
 #EXTM3U
-
+#EXTINF:-1,FR: 24 NEWS ARABIC 
+http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
+#EXTINF:-1,FR: 24 NEWS NEWS 
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1,FR: AFRICABLE NEWS CF/CG 
+http://rt-lh.akamaihd.net/i/ch_01@325605/index_720p_av-p.m3u8
+#EXTINF:-1,FR: ASSEMBLE NATIONALE NEWS CA 
+http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1,FR: BFM BUSINESS 
+http://bfmlive-i.akamaihd.net/hls/live/254438/876450612001/DVMR_BFMBusiness2/master.m3u8
+#EXTINF:-1,FR: BFM BUSINESS NEWS 
+http://bfmlive-i.akamaihd.net/hls/live/218341/876450612001/bfmbusiness/index.m3u8
+#EXTINF:-1,FR: BFMTV NEWS 
+http://bfmtv-i.akamaihd.net/hls/live/218332/876450610001/bfmtv/index.m3u8
+#EXTINF:-1,FR: CANAL SAVOIR NEWS CA 
+http://stream.canalsavoir.tv/livestream/stream.m3u8
+#EXTINF:-1,FR: EURO NEWS NEWS PT PORTUGUESE 
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_pt.m3u8
+#EXTINF:-1,FR: EURONEWS NEWS 
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_ar.m3u8
 #EXTINF:-1,FRANCE Music-Hit
 https://stream-07.ix7.dailymotion.com/dm/3/x2jbbrx/live-2.m3u8
 #EXTINF:-1,FRANCE Generation

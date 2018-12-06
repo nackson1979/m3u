@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,RU: RBC TV NEWS 
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1,Матч!
 http://xristo2121.ottv.info/iptv/6Z272ZSGMV8GWX/212/index.m3u8
 #EXTINF:-1,Матч! Арена

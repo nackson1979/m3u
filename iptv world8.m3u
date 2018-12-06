@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1,DISNEY CHANNEL
+http://newyork.streamlive.to:80/mobile/2tag4dzgwof5ma2/playlist.m3u8
+#EXTINF:-1,Disney XD
+http://newyork.streamlive.to:80/mobile/9kzz2h2p7e5ejgy/playlist.m3u8
+#EXTINF:-1,NICKELODEON
+http://newyork.streamlive.to:80/mobile/64jaber5pjqj2cr/playlist.m3u8
+#EXTINF:-1,WWE Network
+http://newyork.streamlive.to:80/mobile/i69u9isa4x7rbxf/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,112 Украина HD
 http://app.live.112.events/hls-ua/112hd_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-application-5e960.appspot.com/o/launcher.png?alt=media&token=9beb32e2-a038-4612-bd16-2cfd63d245ae" ,12 Канал (Омск)

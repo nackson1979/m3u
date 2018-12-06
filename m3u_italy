@@ -1,5 +1,47 @@
 #EXTM3U
 
+#EXTINF:-1,Canal 10 Chetumal
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:-1,Canal 10 Emporda
+http://ventdelnord.tv:8080/escala/directe.m3u8
+#EXTINF:-1,Canal 2 Cali
+http://5a0436aabca1c.streamlock.net:1935/canal2video/canal2video/playlist.m3u8
+#EXTINF:-1,Canal 25 (TV Barbastro)
+http://188.165.135.22/tvbarbastro/livestream/playlist.m3u8
+#EXTINF:-1,Canal 33
+http://46.20.136.59/live3/_definst_/canal33/playlist.m3u8
+#EXTINF:-1,Canal 4 Eldorado
+http://streaming.arcast.com.ar:1935/canal4eldorado/canal4eldorado/playlist.m3u8
+#EXTINF:-1,Canal 4 Jujuy
+http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_b3044100.m3u8
+#EXTINF:-1,Canal 4 Posadas
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:-1,Canal 4 Tenerife
+http://5940924978228.streamlock.net:1935/Directo2/Directo2/playlist.m3u8
+#EXTINF:-1,Canal 9
+http://unlimited1-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
+#EXTINF:-1,Canal CNC Medellin
+http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8
+#EXTINF:-1,Canal M
+http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist.m3u8
+#EXTINF:-1,Canal Once (Mexico)
+http://live2.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/chunklist_b1300000_slesp.m3u8
+#EXTINF:-1,Canal Regional (Moldova)
+http://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:-1,Canal Ricos
+http://painel.tvdigitalhd.org:1935/canalricos548/canalricos548/playlist.m3u8
+#EXTINF:-1,Canal Sur Cocina
+http://593fa17dec176.streamlock.net:1935/cscocina/cscocina.stream/playlist.m3u8
+#EXTINF:-1,Canal Sur Flamenco
+http://593fa17dec176.streamlock.net:1935/csflamenco/csflamenco.stream/playlist.m3u8
+#EXTINF:-1,Canal Sur La Banda
+http://593fa17dec176.streamlock.net:1935/cslabanda/cslabanda.stream/index.m3u8
+#EXTINF:-1,Canal Sur Turismo
+http://593fa17dec176.streamlock.net:1935/csturismo/csturismo.stream/playlist.m3u8
+#EXTINF:-1,Canal de Sao Paulo
+http://stream02.msolutionbrasil.com.br:1935/canaldesaopaulo/live/playlist.m3u8
+#EXTINF:-1,Canale 21
+http://live.sloode.com:1935/canale21.adjlkuiug.dkja_ioijre/str8dajlkjdhyttr/playlist.m3u8
 #EXTINF:-1,~ Italy TV ~
 #EXTINF:-1,Canale 7
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8

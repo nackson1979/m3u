@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,SPORTS MAX
+http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
 #EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/333ab38c530ee2781ea2b951d32dd786.png",BT Sports 1
 http://163.172.86.57:3135/BT1/Stream/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png",BT Sports 2
