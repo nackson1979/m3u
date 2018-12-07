@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1,ESPN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1,ESPN 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:-1,ESPN 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:-1,ESPN+
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:-1,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:-1,FOX SPORTS 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE03.m3u8
+#EXTINF:-1,GOLF CHANNEL
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL179/PROFILE03.m3u8
+#EXTINF:-1,PX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:-1,ESPN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8
+#EXTINF:-1,ESPN 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8
+#EXTINF:-1,FOX SPORTS
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE03.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE03.m3u8
+#EXTINF:-1,PX
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL528/PROFILE03.m3u8
+#EXTINF:-1,ESPN
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
+#EXTINF:-1,ESPN 2
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8
+#EXTINF:-1,FoxSports 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE02.m3u8
+#EXTINF:-1,FoxSports 3
+http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL178/PROFILE01.m3u8
 #EXTINF:-1,SPORTS MAX
 http://161.0.157.9/PLTV/88888888/224/3221226766/index.m3u8
 #EXTINF:-1 tvg-logo="http://xtools.landiptv.live/manage/stream_pool/data/picon/333ab38c530ee2781ea2b951d32dd786.png",BT Sports 1
