@@ -1,4 +1,192 @@
 #EXTM3U
+
+#EXTINF:-1,France 2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/77.m3u8
+#EXTINF:-1,France 3
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/78.m3u8
+#EXTINF:-1,France 4
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/79.m3u8
+#EXTINF:-1,France 5
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/80.m3u8
+#EXTINF:-1,6Ter
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/97.m3u8
+#EXTINF:-1,C8
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/85.m3u8
+#EXTINF:-1,W9
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/86.m3u8
+#EXTINF:-1,NT1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/83.m3u8
+#EXTINF:-1,HD 1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/82.m3u8
+#EXTINF:-1,France O
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/81.m3u8
+#EXTINF:-1,Cherie25
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/96.m3u8
+#EXTINF:-1,Numero 23
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/94.m3u8
+#EXTINF:-1,TMC
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/87.m3u8
+#EXTINF:-1,Arte
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/84.m3u8
+#EXTINF:-1,Canal+
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/99.m3u8
+#EXTINF:-1,Canal+ Decale
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/100.m3u8
+#EXTINF:-1,Canal+ Cinema
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/101.m3u8
+#EXTINF:-1,Canal+ Series
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/104.m3u8
+#EXTINF:-1,Tiji
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4010.m3u8
+#EXTINF:-1,Piwi
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4008.m3u8
+#EXTINF:-1,Teletoon
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4009.m3u8
+#EXTINF:-1,Gulli Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4004.m3u8
+#EXTINF:-1,Nickelodeon fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4006.m3u8
+#EXTINF:-1,Nickelodeon JR Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4007.m3u8
+#EXTINF:-1,Disney Junior FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4001.m3u8
+#EXTINF:-1,Disney Channel fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/3999.m3u8
+#EXTINF:-1,Disney Cinema Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4000.m3u8
+#EXTINF:-1,Disney XD Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4002.m3u8
+#EXTINF:-1,Game One
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4003.m3u8
+#EXTINF:-1,Mangas
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4005.m3u8
+#EXTINF:-1,Boing Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4013.m3u8
+#EXTINF:-1,Boomerang Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4012.m3u8
+#EXTINF:-1,Canal J
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4014.m3u8
+#EXTINF:-1,Cartoon Network fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4011.m3u8
+#EXTINF:-1,Planete+
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4089.m3u8
+#EXTINF:-1,Planete CI
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4093.m3u8
+#EXTINF:-1,Planete AE
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4094.m3u8
+#EXTINF:-1,Voyage
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4185.m3u8
+#EXTINF:-1,Animaux
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4181.m3u8
+#EXTINF:-1,Ushuaia
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4184.m3u8
+#EXTINF:-1,TF1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/75.m3u8
+#EXTINF:-1,M6
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/76.m3u8
+#EXTINF:-1,Discovery FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4178.m3u8
+#EXTINF:-1,Discovery Sc FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4179.m3u8
+#EXTINF:-1,Discovery ID FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4180.m3u8
+#EXTINF:-1,Crime District
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4188.m3u8
+#EXTINF:-1,Rmc Decouverte
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4092.m3u8
+#EXTINF:-1,Trek
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4183.m3u8
+#EXTINF:-1,Sciences & Vie
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4091.m3u8
+#EXTINF:-1,Season
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4090.m3u8
+#EXTINF:-1,Chasse et Peche
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4187.m3u8
+#EXTINF:-1,Histoire
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4182.m3u8
+#EXTINF:-1,Toute L Histoire
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4186.m3u8
+#EXTINF:-1,Action
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4191.m3u8
+#EXTINF:-1,Cine Premier
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4192.m3u8
+#EXTINF:-1,Cine Emotion
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4190.m3u8
+#EXTINF:-1,Cine Frisson
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4195.m3u8
+#EXTINF:-1,Cine Classic
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4193.m3u8
+#EXTINF:-1,Cine Club
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4194.m3u8
+#EXTINF:-1,Cine Famiz
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4275.m3u8
+#EXTINF:-1,Cine FX
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4196.m3u8
+#EXTINF:-1,Cine Polar
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4197.m3u8
+#EXTINF:-1,Tcm Cinema
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4198.m3u8
+#EXTINF:-1,Paramount Channel FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4265.m3u8
+#EXTINF:-1,Ocs Choc
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4199.m3u8
+#EXTINF:-1,Ocs City
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4200.m3u8
+#EXTINF:-1,Ocs Geant
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4201.m3u8
+#EXTINF:-1,Ocs Max
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4189.m3u8
+#EXTINF:-1,Ocs Go Cinema1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4202.m3u8
+#EXTINF:-1,Ocs Go Cinema2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4203.m3u8
+#EXTINF:-1,Ocs Go Cinema3
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4204.m3u8
+#EXTINF:-1,Ocs Go Cinema4
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4205.m3u8
+#EXTINF:-1,13  Rue
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4251.m3u8
+#EXTINF:-1,Serie Club
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4278.m3u8
+#EXTINF:-1,SYFY Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4270.m3u8
+#EXTINF:-1,TV Breizh
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4272.m3u8
+#EXTINF:-1,Comedie+
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4252.m3u8
+#EXTINF:-1,Paris Premier
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4277.m3u8
+#EXTINF:-1,RTL9
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4267.m3u8
+#EXTINF:-1,AB1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4273.m3u8
+#EXTINF:-1,E! Entertainement
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4253.m3u8
+#EXTINF:-1,Infosport
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4262.m3u8
+#EXTINF:-1,SFR Sport 1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4268.m3u8
+#EXTINF:-1,SFR Sport 2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4269.m3u8
+#EXTINF:-1,AB Moteur
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4274.m3u8
+#EXTINF:-1,Equidia Life
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4255.m3u8
+#EXTINF:-1,Eurosport 2 FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4257.m3u8
+#EXTINF:-1,Extreme Sport FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4259.m3u8
+#EXTINF:-1,Golf Channel
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4261.m3u8
+#EXTINF:-1,Golf+ Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4260.m3u8
+#EXTINF:-1,MCM
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4263.m3u8
+#EXTINF:-1,RFM
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4266.m3u8
+#EXTINF:-1,Trace Urban
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4271.m3u8
+
 #EXTINF:-1,FR: 24 NEWS ARABIC 
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1,FR: 24 NEWS NEWS 
