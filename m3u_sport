@@ -1,82 +1,11 @@
 #EXTM3U
 #EXTINF:-1,BEIN SPORTS4 HD
 http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/37.m3u8
-#EXTINF:-1,BEIN SPORTS5 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/35.m3u8
-#EXTINF:-1,BEIN SPORTS6 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/33.m3u8
-#EXTINF:-1,BEIN SPORTS7 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/31.m3u8
-#EXTINF:-1,BEIN SPORTS8 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/29.m3u8
-#EXTINF:-1,BEIN SPORTS9 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/27.m3u8
-#EXTINF:-1,BEIN SPORTS10 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/53.m3u8
-#EXTINF:-1,BEIN SPORTS 11 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/51.m3u8
-#EXTINF:-1,BEIN SPORTS 12 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/49.m3u8
-#EXTINF:-1,BEIN SPORTS FR 1
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/47.m3u8
-#EXTINF:-1,BEIN SPORTS FR 2
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/45.m3u8
-#EXTINF:-1,BEIN SPORTS FR 3
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/43.m3u8
-#EXTINF:-1,BEIN SPORTS 1 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/54.m3u8
-#EXTINF:-1,BEIN SPORTS 2 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/40.m3u8
-#EXTINF:-1,BEIN SPORTS 3 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/38.m3u8
-#EXTINF:-1,BEIN SPORTS 4 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/36.m3u8
-#EXTINF:-1,BEIN SPORTS 5 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/34.m3u8
-#EXTINF:-1,BEIN SPORTS 6 SD 
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/32.m3u8
-#EXTINF:-1,BEIN SPORTS 7 SD 
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/30.m3u8
-#EXTINF:-1,BEIN SPORTS 8 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/28.m3u8
-#EXTINF:-1,BEIN SPORTS 9 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/26.m3u8
-#EXTINF:-1,BEIN SPORTS 10 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/52.m3u8
-#EXTINF:-1,BEIN SPORTS 11 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/50.m3u8
-#EXTINF:-1,BEIN SPORTS 12 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/48.m3u8
-#EXTINF:-1,BEIN SPORTS 13 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/46.m3u8
-#EXTINF:-1,BEIN SPORTS 14 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/44.m3u8
-#EXTINF:-1,BEIN SPORTS 15 SD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/42.m3u8
-#EXTINF:-1,Abu Dhabi Sport 3
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4022.m3u8
-#EXTINF:-1,Abu Dhabi Sport 4
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4023.m3u8
-#EXTINF:-1,Abu Dhabi Sport 5
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4024.m3u8
-#EXTINF:-1,Infosport
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4262.m3u8
+
 #EXTINF:-1,SFR Sport 1
 http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4268.m3u8
 #EXTINF:-1,SFR Sport 2
 http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4269.m3u8
-#EXTINF:-1,AB Moteur
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4274.m3u8
-#EXTINF:-1,Equidia Life
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4255.m3u8
-#EXTINF:-1,Eurosport 2 FR
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4257.m3u8
-#EXTINF:-1,Extreme Sport FR
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4259.m3u8
-#EXTINF:-1,Golf Channel
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4261.m3u8
-#EXTINF:-1,Golf+ Fr
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4260.m3u8
 #EXTINF:-1,ESPN
 http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8
 #EXTINF:-1,ESPN 2
