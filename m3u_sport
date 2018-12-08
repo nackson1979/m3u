@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1,BEIN SPORTS4 HD
 http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/37.m3u8
-
-#EXTINF:-1,SFR Sport 1
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4268.m3u8
 #EXTINF:-1,SFR Sport 2
 http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4269.m3u8
 #EXTINF:-1,ESPN
