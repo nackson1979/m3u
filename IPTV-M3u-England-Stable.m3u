@@ -27,10 +27,6 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 https://www.cbsnews.com/common/video/dai_prod.m3u8
 #EXTINF:-1,US: CHANNEL 11 NEWS WPXI PITTSBURGH 
 http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
-#EXTINF:-1,US: CNEWS 
-http://stream-03.nyc.dailymotion.com/25/dm/3/x3b68jn/live-3.m3u8
-#EXTINF:-1,US: CNN 
-http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1,US: ESPN NEWS ENGLISH 
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
 #EXTINF:-1,US: EURONEWS OPT 2 
