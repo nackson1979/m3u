@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORTS1 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/55.m3u8
-#EXTINF:-1,BEIN SPORTS2 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/41.m3u8
-#EXTINF:-1,BEIN SPORTS3 HD
-http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/39.m3u8
 #EXTINF:-1,BEIN SPORTS4 HD
 http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/37.m3u8
 #EXTINF:-1,BEIN SPORTS5 HD
