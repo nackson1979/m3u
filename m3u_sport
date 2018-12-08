@@ -1,189 +1,189 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="BEIN SPORT 2 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD2%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 2 1.2MB
-http://193.200.164.163:80/live/emil/emil1234/18113.ts
-#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="BEIN SPORT 3 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD3%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 3 1.2MB
-http://193.200.164.163:80/live/emil/emil1234/18112.ts
-#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORT 4 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTHD4%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 4 1.2MB
-http://193.200.164.163:80/live/emil/emil1234/18111.ts
-#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="BEIN SPORT 5 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS5.png" group-title="AR | BEIN SPORT",BEIN SPORT 5 1.2MB
-http://193.200.164.163:80/live/emil/emil1234/18110.ts
-#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORT 6 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD6%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 6 1.2MB
-http://193.200.164.163:80/live/emil/emil1234/18109.ts
-#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORT 7 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD7%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 7 1.2MB
-http://193.200.164.163:80/live/emil/emil1234/18108.ts
-#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="BEIN SPORT 8 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD8%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 8 1.2MB
-http://193.200.164.163:80/live/emil/emil1234/18107.ts
-#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="BEIN SPORT 9 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD9%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 9 1.2MB
-http://193.200.164.163:80/live/emil/emil1234/18106.ts
-#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="BEIN SPORT 10 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT101.2MB.png" group-title="AR | BEIN SPORT",BEIN SPORT 10 1.2MB
-http://193.200.164.163:80/live/emil/emil1234/18105.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS HD
-http://193.200.164.163:80/live/emil/emil1234/27923.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS NEWS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNEWS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS NEWS HD
-http://193.200.164.163:80/live/emil/emil1234/27922.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 1 HD
-http://193.200.164.163:80/live/emil/emil1234/27921.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT21.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 2 HD
-http://193.200.164.163:80/live/emil/emil1234/27920.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT31.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 3 HD
-http://193.200.164.163:80/live/emil/emil1234/27919.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT41.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 4 HD
-http://193.200.164.163:80/live/emil/emil1234/27918.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT51.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 5 HD
-http://193.200.164.163:80/live/emil/emil1234/27917.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT61.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 6 HD
-http://193.200.164.163:80/live/emil/emil1234/27916.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT71.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 7 HD
-http://193.200.164.163:80/live/emil/emil1234/27915.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 8 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT8720HD%C2%B2.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 8 HD
-http://193.200.164.163:80/live/emil/emil1234/27914.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 9 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD9%C2%B3.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 9 HD
-http://193.200.164.163:80/live/emil/emil1234/27913.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 10 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT10720HD%C2%B2.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 10 HD
-http://193.200.164.163:80/live/emil/emil1234/27912.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 11 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 11 HD
-http://193.200.164.163:80/live/emil/emil1234/27911.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 12 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 12 HD
-http://193.200.164.163:80/live/emil/emil1234/27910.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 13 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 13 HD
-http://193.200.164.163:80/live/emil/emil1234/27909.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 14 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 14 HD
-http://193.200.164.163:80/live/emil/emil1234/27908.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 15 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 15 HD
-http://193.200.164.163:80/live/emil/emil1234/27907.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 16 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 16 HD
-http://193.200.164.163:80/live/emil/emil1234/27906.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 17 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 17 HD
-http://193.200.164.163:80/live/emil/emil1234/27905.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS NBA HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNBA.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS NBA HD
-http://193.200.164.163:80/live/emil/emil1234/27904.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORT 4K #####" tvg-logo="" group-title="AR | BEIN SPORT",##### BEIN SPORT 4K #####
-http://193.200.164.163:80/live/emil/emil1234/27903.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN  SPORT HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN  SPORT HD
-http://193.200.164.163:80/live/emil/emil1234/27902.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORT HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORT HD
-http://193.200.164.163:80/live/emil/emil1234/27926.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORT NEWS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNEWS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORT NEWS HD
-http://193.200.164.163:80/live/emil/emil1234/27925.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 1 HD
-http://193.200.164.163:80/live/emil/emil1234/27901.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD2%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 2 HD
-http://193.200.164.163:80/live/emil/emil1234/27900.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD3%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 3 HD
-http://193.200.164.163:80/live/emil/emil1234/27899.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTHD4%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 4 HD
-http://193.200.164.163:80/live/emil/emil1234/27898.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS5.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 5 HD
-http://193.200.164.163:80/live/emil/emil1234/27897.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD6%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 6 HD
-http://193.200.164.163:80/live/emil/emil1234/27896.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD7%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 7 HD
-http://193.200.164.163:80/live/emil/emil1234/27895.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 8 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD8%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 8 HD
-http://193.200.164.163:80/live/emil/emil1234/27894.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 9 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT9720HD%C2%B2.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 9 HD
-http://193.200.164.163:80/live/emil/emil1234/27893.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 10 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT101.2MB.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 10 HD
-http://193.200.164.163:80/live/emil/emil1234/27892.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 11 HD EN" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 11 HD EN
-http://193.200.164.163:80/live/emil/emil1234/27891.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 12 HD EN" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 12 HD EN
-http://193.200.164.163:80/live/emil/emil1234/27890.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 13 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 13 HD
-http://193.200.164.163:80/live/emil/emil1234/27889.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 14 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 14 HD
-http://193.200.164.163:80/live/emil/emil1234/27888.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 15 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 15 HD
-http://193.200.164.163:80/live/emil/emil1234/27887.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 16 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 16 HD
-http://193.200.164.163:80/live/emil/emil1234/27886.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 17 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 17 HD
-http://193.200.164.163:80/live/emil/emil1234/27885.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS NBA HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNBA.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS NBA HD
-http://193.200.164.163:80/live/emil/emil1234/27884.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 1 HD
-http://193.200.164.163:80/live/emil/emil1234/26378.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 2 HD
-http://193.200.164.163:80/live/emil/emil1234/26377.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 3 HD
-http://193.200.164.163:80/live/emil/emil1234/26376.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 4 HD
-http://193.200.164.163:80/live/emil/emil1234/26375.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 5 HD
-http://193.200.164.163:80/live/emil/emil1234/26374.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 6 HD
-http://193.200.164.163:80/live/emil/emil1234/26373.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 7 HD
-http://193.200.164.163:80/live/emil/emil1234/26372.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN MOVIES #####" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",##### BEIN MOVIES #####
-http://193.200.164.163:80/live/emil/emil1234/27980.ts
-#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="AR - 4K - BEIN MOVIES 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 1 HD
-http://193.200.164.163:80/live/emil/emil1234/27974.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - 4K - BEIN MOVIES 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 2 HD
-http://193.200.164.163:80/live/emil/emil1234/27973.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - 4K - BEIN MOVIES 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 3 HD
-http://193.200.164.163:80/live/emil/emil1234/27972.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - 4K - BEIN MOVIES 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 4 HD
-http://193.200.164.163:80/live/emil/emil1234/27971.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN AMC HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINAMC.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN AMC HD
-http://193.200.164.163:80/live/emil/emil1234/27954.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FOX ACTION MOVIES HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFOX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX ACTION MOVIES HD
-http://193.200.164.163:80/live/emil/emil1234/27948.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FOX FAMILY MOVIES HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFOX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX FAMILY MOVIES HD
-http://193.200.164.163:80/live/emil/emil1234/27947.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN MOVIES 4K #####" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",##### BEIN MOVIES 4K #####
-http://193.200.164.163:80/live/emil/emil1234/27975.ts
-#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="AR - BEIN MOVIES 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 1 HD
-http://193.200.164.163:80/live/emil/emil1234/27979.ts
-#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="AR - BEIN MOVIES 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 2 HD
-http://193.200.164.163:80/live/emil/emil1234/27978.ts
-#EXTINF:-1 tvg-id="beINMovies3.qa" tvg-name="AR - BEIN MOVIES 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 3 HD
-http://193.200.164.163:80/live/emil/emil1234/27977.ts
-#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="AR - BEIN MOVIES 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 4 HD
-http://193.200.164.163:80/live/emil/emil1234/27976.ts
-#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SERIAL & MOVIES #####" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",##### BEIN SERIAL & MOVIES #####
-http://193.200.164.163:80/live/emil/emil1234/27970.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SERIES 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSERIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 1 HD
-http://193.200.164.163:80/live/emil/emil1234/27969.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SERIES 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSERIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 2 HD
-http://193.200.164.163:80/live/emil/emil1234/27968.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN BARAEM HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINBARAEM.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BARAEM HD
-http://193.200.164.163:80/live/emil/emil1234/27964.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DRAMA 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDRAMA.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DRAMA 1 HD
-http://193.200.164.163:80/live/emil/emil1234/27967.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FOX HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFOX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX HD
-http://193.200.164.163:80/live/emil/emil1234/27960.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN BEJUNIOR" tvg-logo="http://212.8.253.112/logo/BEIN/BEINBEJUNIOR.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BEJUNIOR
-http://193.200.164.163:80/live/emil/emil1234/27963.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN BOOMERANG HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINBOOMERANG.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BOOMERANG HD
-http://193.200.164.163:80/live/emil/emil1234/27953.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN CARTON NETWORK HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINCARTONNETWORK.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN CARTON NETWORK HD
-http://193.200.164.163:80/live/emil/emil1234/27962.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FATAFEAT" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFATAFEAT.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FATAFEAT
-http://193.200.164.163:80/live/emil/emil1234/27961.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN JEEM HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINJEEMHD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN JEEM HD
-http://193.200.164.163:80/live/emil/emil1234/27958.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY KIDS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYKIDS.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY KIDS HD
-http://193.200.164.163:80/live/emil/emil1234/27952.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY LIFE HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYLIFE.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY LIFE HD
-http://193.200.164.163:80/live/emil/emil1234/27951.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY MAX HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYMAX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY MAX HD
-http://193.200.164.163:80/live/emil/emil1234/27950.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY TURBO XTRA" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYTURBOXTRA.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY TURBO XTRA
-http://193.200.164.163:80/live/emil/emil1234/27949.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN GOURMETHD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINGOURMETHD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN GOURMETHD
-http://193.200.164.163:80/live/emil/emil1234/27965.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN HGTV HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINHGTV.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN HGTV HD
-http://193.200.164.163:80/live/emil/emil1234/27959.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN NAT GEO" tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATGEO.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN NAT GEO
-http://193.200.164.163:80/live/emil/emil1234/27957.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN NAT PEOPLE" tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATPEOPLE.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN NAT PEOPLE
-http://193.200.164.163:80/live/emil/emil1234/27956.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN NAT WILD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATWILD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN NAT WILD
-http://193.200.164.163:80/live/emil/emil1234/27955.ts
-#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN TRAVEL HD" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN TRAVEL HD
-http://193.200.164.163:80/live/emil/emil1234/27966.ts
 
+#EXTINF:-1 tvg-id="beINSports2.qa" tvg-name="BEIN SPORT 2 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD2%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 2 1.2MB
+http://193.200.164.163:80/live/emil/emil1234/18113.m3u8
+#EXTINF:-1 tvg-id="beINSports3.qa" tvg-name="BEIN SPORT 3 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD3%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 3 1.2MB
+http://193.200.164.163:80/live/emil/emil1234/18112.m3u8
+#EXTINF:-1 tvg-id="beINSports4.qa" tvg-name="BEIN SPORT 4 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTHD4%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 4 1.2MB
+http://193.200.164.163:80/live/emil/emil1234/18111.m3u8
+#EXTINF:-1 tvg-id="beINSports5.qa" tvg-name="BEIN SPORT 5 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS5.png" group-title="AR | BEIN SPORT",BEIN SPORT 5 1.2MB
+http://193.200.164.163:80/live/emil/emil1234/18110.m3u8
+#EXTINF:-1 tvg-id="beINSports6.qa" tvg-name="BEIN SPORT 6 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD6%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 6 1.2MB
+http://193.200.164.163:80/live/emil/emil1234/18109.m3u8
+#EXTINF:-1 tvg-id="beINSports7.qa" tvg-name="BEIN SPORT 7 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD7%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 7 1.2MB
+http://193.200.164.163:80/live/emil/emil1234/18108.m3u8
+#EXTINF:-1 tvg-id="beINSports8.qa" tvg-name="BEIN SPORT 8 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD8%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 8 1.2MB
+http://193.200.164.163:80/live/emil/emil1234/18107.m3u8
+#EXTINF:-1 tvg-id="beINSports9.qa" tvg-name="BEIN SPORT 9 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD9%C2%B3.png" group-title="AR | BEIN SPORT",BEIN SPORT 9 1.2MB
+http://193.200.164.163:80/live/emil/emil1234/18106.m3u8
+#EXTINF:-1 tvg-id="beINSports10.qa" tvg-name="BEIN SPORT 10 1.2MB" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT101.2MB.png" group-title="AR | BEIN SPORT",BEIN SPORT 10 1.2MB
+http://193.200.164.163:80/live/emil/emil1234/18105.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS HD
+http://193.200.164.163:80/live/emil/emil1234/27923.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS NEWS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNEWS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS NEWS HD
+http://193.200.164.163:80/live/emil/emil1234/27922.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 1 HD
+http://193.200.164.163:80/live/emil/emil1234/27921.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT21.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 2 HD
+http://193.200.164.163:80/live/emil/emil1234/27920.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT31.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 3 HD
+http://193.200.164.163:80/live/emil/emil1234/27919.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT41.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 4 HD
+http://193.200.164.163:80/live/emil/emil1234/27918.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT51.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 5 HD
+http://193.200.164.163:80/live/emil/emil1234/27917.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT61.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 6 HD
+http://193.200.164.163:80/live/emil/emil1234/27916.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT71.2MB.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 7 HD
+http://193.200.164.163:80/live/emil/emil1234/27915.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 8 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT8720HD%C2%B2.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 8 HD
+http://193.200.164.163:80/live/emil/emil1234/27914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 9 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD9%C2%B3.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 9 HD
+http://193.200.164.163:80/live/emil/emil1234/27913.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 10 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT10720HD%C2%B2.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 10 HD
+http://193.200.164.163:80/live/emil/emil1234/27912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 11 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 11 HD
+http://193.200.164.163:80/live/emil/emil1234/27911.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 12 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 12 HD
+http://193.200.164.163:80/live/emil/emil1234/27910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 13 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 13 HD
+http://193.200.164.163:80/live/emil/emil1234/27909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 14 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 14 HD
+http://193.200.164.163:80/live/emil/emil1234/27908.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 15 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 15 HD
+http://193.200.164.163:80/live/emil/emil1234/27907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 16 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 16 HD
+http://193.200.164.163:80/live/emil/emil1234/27906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS 17 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS 17 HD
+http://193.200.164.163:80/live/emil/emil1234/27905.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - QHD BEIN SPORTS NBA HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNBA.png" group-title="AR | BEIN SPORT",AR - QHD BEIN SPORTS NBA HD
+http://193.200.164.163:80/live/emil/emil1234/27904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORT 4K #####" tvg-logo="" group-title="AR | BEIN SPORT",##### BEIN SPORT 4K #####
+http://193.200.164.163:80/live/emil/emil1234/27903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN  SPORT HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN  SPORT HD
+http://193.200.164.163:80/live/emil/emil1234/27902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORT HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORT HD
+http://193.200.164.163:80/live/emil/emil1234/27926.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORT NEWS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNEWS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORT NEWS HD
+http://193.200.164.163:80/live/emil/emil1234/27925.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 1 HD
+http://193.200.164.163:80/live/emil/emil1234/27901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD2%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 2 HD
+http://193.200.164.163:80/live/emil/emil1234/27900.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD3%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 3 HD
+http://193.200.164.163:80/live/emil/emil1234/27899.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTHD4%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 4 HD
+http://193.200.164.163:80/live/emil/emil1234/27898.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS5.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 5 HD
+http://193.200.164.163:80/live/emil/emil1234/27897.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD6%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 6 HD
+http://193.200.164.163:80/live/emil/emil1234/27896.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD7%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 7 HD
+http://193.200.164.163:80/live/emil/emil1234/27895.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 8 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTSHD8%C2%B3.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 8 HD
+http://193.200.164.163:80/live/emil/emil1234/27894.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 9 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT9720HD%C2%B2.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 9 HD
+http://193.200.164.163:80/live/emil/emil1234/27893.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 10 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORT101.2MB.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 10 HD
+http://193.200.164.163:80/live/emil/emil1234/27892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 11 HD EN" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 11 HD EN
+http://193.200.164.163:80/live/emil/emil1234/27891.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 12 HD EN" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 12 HD EN
+http://193.200.164.163:80/live/emil/emil1234/27890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 13 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 13 HD
+http://193.200.164.163:80/live/emil/emil1234/27889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 14 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 14 HD
+http://193.200.164.163:80/live/emil/emil1234/27888.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 15 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 15 HD
+http://193.200.164.163:80/live/emil/emil1234/27887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 16 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 16 HD
+http://193.200.164.163:80/live/emil/emil1234/27886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS 17 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS 17 HD
+http://193.200.164.163:80/live/emil/emil1234/27885.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SPORTS NBA HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTNBA.png" group-title="AR | BEIN SPORT",AR - BEIN SPORTS NBA HD
+http://193.200.164.163:80/live/emil/emil1234/27884.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 1 HD
+http://193.200.164.163:80/live/emil/emil1234/26378.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 2 HD
+http://193.200.164.163:80/live/emil/emil1234/26377.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 3 HD
+http://193.200.164.163:80/live/emil/emil1234/26376.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 4 HD
+http://193.200.164.163:80/live/emil/emil1234/26375.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 5 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 5 HD
+http://193.200.164.163:80/live/emil/emil1234/26374.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 6 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 6 HD
+http://193.200.164.163:80/live/emil/emil1234/26373.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEOUT Q 7 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEOUTQ.png" group-title="AR | BEIN SPORT",AR - BEOUT Q 7 HD
+http://193.200.164.163:80/live/emil/emil1234/26372.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN MOVIES #####" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",##### BEIN MOVIES #####
+http://193.200.164.163:80/live/emil/emil1234/27980.m3u8
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="AR - 4K - BEIN MOVIES 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 1 HD
+http://193.200.164.163:80/live/emil/emil1234/27974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - 4K - BEIN MOVIES 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 2 HD
+http://193.200.164.163:80/live/emil/emil1234/27973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - 4K - BEIN MOVIES 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 3 HD
+http://193.200.164.163:80/live/emil/emil1234/27972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - 4K - BEIN MOVIES 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - 4K - BEIN MOVIES 4 HD
+http://193.200.164.163:80/live/emil/emil1234/27971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN AMC HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINAMC.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN AMC HD
+http://193.200.164.163:80/live/emil/emil1234/27954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FOX ACTION MOVIES HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFOX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX ACTION MOVIES HD
+http://193.200.164.163:80/live/emil/emil1234/27948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FOX FAMILY MOVIES HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFOX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX FAMILY MOVIES HD
+http://193.200.164.163:80/live/emil/emil1234/27947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN MOVIES 4K #####" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",##### BEIN MOVIES 4K #####
+http://193.200.164.163:80/live/emil/emil1234/27975.m3u8
+#EXTINF:-1 tvg-id="beINMovies1.qa" tvg-name="AR - BEIN MOVIES 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 1 HD
+http://193.200.164.163:80/live/emil/emil1234/27979.m3u8
+#EXTINF:-1 tvg-id="beINMovies2.qa" tvg-name="AR - BEIN MOVIES 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 2 HD
+http://193.200.164.163:80/live/emil/emil1234/27978.m3u8
+#EXTINF:-1 tvg-id="beINMovies3.qa" tvg-name="AR - BEIN MOVIES 3 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 3 HD
+http://193.200.164.163:80/live/emil/emil1234/27977.m3u8
+#EXTINF:-1 tvg-id="beINMovies4.qa" tvg-name="AR - BEIN MOVIES 4 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINMOVIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN MOVIES 4 HD
+http://193.200.164.163:80/live/emil/emil1234/27976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SERIAL & MOVIES #####" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",##### BEIN SERIAL & MOVIES #####
+http://193.200.164.163:80/live/emil/emil1234/27970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SERIES 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSERIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 1 HD
+http://193.200.164.163:80/live/emil/emil1234/27969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN SERIES 2 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSERIES.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN SERIES 2 HD
+http://193.200.164.163:80/live/emil/emil1234/27968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN BARAEM HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINBARAEM.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BARAEM HD
+http://193.200.164.163:80/live/emil/emil1234/27964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DRAMA 1 HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDRAMA.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DRAMA 1 HD
+http://193.200.164.163:80/live/emil/emil1234/27967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FOX HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFOX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FOX HD
+http://193.200.164.163:80/live/emil/emil1234/27960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN BEJUNIOR" tvg-logo="http://212.8.253.112/logo/BEIN/BEINBEJUNIOR.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BEJUNIOR
+http://193.200.164.163:80/live/emil/emil1234/27963.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN BOOMERANG HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINBOOMERANG.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN BOOMERANG HD
+http://193.200.164.163:80/live/emil/emil1234/27953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN CARTON NETWORK HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINCARTONNETWORK.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN CARTON NETWORK HD
+http://193.200.164.163:80/live/emil/emil1234/27962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN FATAFEAT" tvg-logo="http://212.8.253.112/logo/BEIN/BEINFATAFEAT.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN FATAFEAT
+http://193.200.164.163:80/live/emil/emil1234/27961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN JEEM HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINJEEMHD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN JEEM HD
+http://193.200.164.163:80/live/emil/emil1234/27958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY KIDS HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYKIDS.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY KIDS HD
+http://193.200.164.163:80/live/emil/emil1234/27952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY LIFE HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYLIFE.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY LIFE HD
+http://193.200.164.163:80/live/emil/emil1234/27951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY MAX HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYMAX.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY MAX HD
+http://193.200.164.163:80/live/emil/emil1234/27950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN DISCOVERY TURBO XTRA" tvg-logo="http://212.8.253.112/logo/BEIN/BEINDISCOVERYTURBOXTRA.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN DISCOVERY TURBO XTRA
+http://193.200.164.163:80/live/emil/emil1234/27949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN GOURMETHD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINGOURMETHD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN GOURMETHD
+http://193.200.164.163:80/live/emil/emil1234/27965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN HGTV HD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINHGTV.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN HGTV HD
+http://193.200.164.163:80/live/emil/emil1234/27959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN NAT GEO" tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATGEO.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN NAT GEO
+http://193.200.164.163:80/live/emil/emil1234/27957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN NAT PEOPLE" tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATPEOPLE.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN NAT PEOPLE
+http://193.200.164.163:80/live/emil/emil1234/27956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN NAT WILD" tvg-logo="http://212.8.253.112/logo/BEIN/BEINNATWILD.png" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN NAT WILD
+http://193.200.164.163:80/live/emil/emil1234/27955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AR - BEIN TRAVEL HD" tvg-logo="" group-title="AR | BEIN ENTERTAINMENT",AR - BEIN TRAVEL HD
+http://193.200.164.163:80/live/emil/emil1234/27966.m3u8
 
 #EXTINF:-1,BEIN SPORTS4 HD
 http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/37.m3u8
