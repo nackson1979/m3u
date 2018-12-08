@@ -31,22 +31,8 @@ http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8
 http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
 #EXTINF:-1,US: EURONEWS OPT 2 
 https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
-#EXTINF:-1,US: FACTV COMMUNITY 
-http://69.147.212.188:8083/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1,US: FACTV GOVERNMENT 
-http://69.147.212.188:8082/live/WIFI-1296k-540p/WIFI-1296k-540p.m3u8
-#EXTINF:-1,US: FTV NEWS FRANCE 
-http://stream-01.nyc.dailymotion.com/52/dm/3/x3m6nld/live-3.m3u8
-#EXTINF:-1,US: HELLRAISER JUDGEMENT 2018 PUBLIC NEWS ENGLISH 
-https://bobmovies.net/hl/Hellraiser.Judgment.2018.m3u8
-#EXTINF:-1,US: I24 NEWS NEWS ENGLISH 
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
 #EXTINF:-1,US: INFOWARS NEWS ENGLISH 
 https://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8
-#EXTINF:-1,US: KIRO 7 NEWS SEATTLE 
-http://svc-lvanvato-cxtv-kiro.cmgvideo.com/kiro/1864k/index.m3u8
-#EXTINF:-1,US: KOMO 4 NEWS SEATTLE 
-https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
 #EXTINF:-1,US: ME TVBLAZE NEWS ENGLISH 
 https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
 #EXTINF:-1,US: NEWS CENTER 7 OHIO 
