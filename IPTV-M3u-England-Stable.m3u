@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,DISNEY CHANNEL
+http://newyork.streamlive.to:80/mobile/2tag4dzgwof5ma2/playlist.m3u8
 #EXTINF:-1,US: ABC NEWS OPT 1 
 https://abclive2-lh.akamaihd.net/i/abc_live11@423404/index_4000_av-p.m3u8
 #EXTINF:-1,US: ABC NEWS OPT 2 
@@ -39,22 +41,12 @@ https://theblaze.global.ssl.fastly.net/live/theblaze/master.m3u8
 http://svc-lvanvato-cxtv-whio.cmgvideo.com/whio/2596k/index.m3u8
 #EXTINF:-1,US: NEWSMAX PUBLIC NEWS ENGLISH 
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1,US: NEWSMAX TV 
-http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1,US: NEWSY 
-https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 #EXTINF:-1,US: REAL NEWS 
 https://infowarslive-lh.akamaihd.net/i/RealNews_1@561924/master.m3u8
 #EXTINF:-1,US: THE WEATHER CHANNEL 
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1,US: WGN 9 NEWS CHICAGO 
 http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8
-#EXTINF:-1,US: WSJ PUBLIC NEWS ENGLISH 
-http://wsjlivehls-lh.akamaihd.net/i/events1_1@174990/master.m3u8
-#EXTINF:-1,US: WTVD 11 EYEWITNESS NEWS PUBLIC NEWS ENGLISH 
-https://content.uplynk.com/channel/ext/f05837c508c44712aa7129d531f7dbe6/WTVDwatch.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://newyork.streamlive.to:80/mobile/2tag4dzgwof5ma2/playlist.m3u8
 #EXTINF:-1,Disney XD
 http://newyork.streamlive.to:80/mobile/9kzz2h2p7e5ejgy/playlist.m3u8
 #EXTINF:-1,NICKELODEON
