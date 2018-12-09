@@ -1,4 +1,16 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/a_tv_turkey.jpg",ATV http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1 ,Akilli tv http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/09/7e/a1/097ea1e0ded89dbdf7972fd93adb3269.jpg", DREAM TV 
+http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-kanal-3.jpg",KANAL 3 http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/521645409748262913/k8bxVuo1.jpeg",Ben tv
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUx6vlvE5NSbV6-ApSYcBST7zMLismRS1hZOHl9M9vVbWifC6",POWERTÜRK HD https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_zjOp4zYi8oMBYvkgoPSxMdIbTKkHfrfXr57GepbSmvYSPKp",TRT TÜRK http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Yaban_tv_logo_new.png",YABAN TV HD-http://yayin3.sanaltv.com:1935/live1/yabantv/iptvdelisi.m3u8
+
 #EXTINF:-1,Sports TV (TURK)
 http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
 
