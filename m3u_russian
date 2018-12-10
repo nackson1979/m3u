@@ -1,4 +1,164 @@
 #EXTM3U
+#EXTINF:-1,RU: 1 OPT 1 
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,RU: 43 KANAL 
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
+#EXTINF:-1,RU: 7 TV 
+http://78.40.108.218/7channel/index.m3u8
+#EXTINF:-1,RU: ACASA TV 
+http://hls.protv.md/acasatv/acasatv.m3u8
+#EXTINF:-1,RU: AFONTOVO TV 
+http://stream.afontovo.ru/afontovo.m3u8
+#EXTINF:-1,RU: ASTRAKHAN 24 
+http://streaming.astrakhan.ru/astrakhan24/index.m3u8
+#EXTINF:-1,RU: ATV ULAN UDJE 
+http://atv.stream-1.burnet.ru/atv/studio/playlist.m3u8
+#EXTINF:-1,RU: BOUTIQUE TV OPT 1 
+http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
+#EXTINF:-1,RU: BUM TV 
+http://live-bumtv.cdnvideo.ru/bumtv-live/smil:bumtv.smil/playlist.m3u8
+#EXTINF:-1,RU: CP INFO 
+http://109.68.40.67/life/magnolia.m3u8
+#EXTINF:-1,RU: DISCOVERY SCIENCE 
+http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
+#EXTINF:-1,RU: DOMASHNIY TV 
+http://tvsever.ru:1936/live/adm2/playlist.m3u8
+#EXTINF:-1,RU: FASHION HD
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+#EXTINF:-1,RU: HARDLIFE TV 
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:-1,RU: IMPACT 
+http://206.190.141.27:1935/live/impact/playlist.m3u8
+#EXTINF:-1,RU: INGUSHETIYA TV 
+http://live-ntk.cdnvideo.ru/ntk-publish/ntk.sdp/playlist.m3u8
+#EXTINF:-1,RU: IZVESTIA 
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,RU: KALEJDOSKOP TV OPT 1 
+http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
+#EXTINF:-1,RU: KALEJDOSKOP TV OPT 2 
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
+#EXTINF:-1,RU: KAZAKH TV 
+http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8
+#EXTINF:-1,RU: KIEV TV 
+http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.ts
+#EXTINF:-1,RU: KINOMENU HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,RU: KONNYJ MIR 
+http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/index.m3u8
+#EXTINF:-1,RU: KRASNODAR TV 
+http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
+#EXTINF:-1,RU: KRATU TV 
+http://212.113.32.169:8080/Apple/2/index.m3u8
+#EXTINF:-1,RU: KRIK TV 
+http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
+#EXTINF:-1,RU: KRYM 24 
+http://vid.techbee.pro:8080/crimea24/index.m3u8
+#EXTINF:-1,RU: KULTURA 
+http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
+#EXTINF:-1,RU: MAKS 24 
+http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
+#EXTINF:-1,RU: MEDIA HD
+http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
+#EXTINF:-1,RU: MEDIA 3D HD
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:-1,RU: METEO TV 
+http://meteotv.cdnvideo.ru/meteotv/meteotv.sdp/playlist.ts
+#EXTINF:-1,RU: MILLET 
+http://serv25.vintera.tv:8081/millet/playlist.m3u8
+#EXTINF:-1,RU: MIR HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1,RU: MIR 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1,RU: MIR (1+) 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1,RU: MIR 24 OPT 1 
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1,RU: MOSTVIDEO TV 1 
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-1,RU: MUZ SOJUZ 
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1,RU: MUZZONE 
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:-1,RU: MY PLANET 
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8
+#EXTINF:-1,RU: NASTOYASHCHEYE VREMYA 
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1,RU: NASTOYASHCHEYE VREMYA OPT 1 
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-b.m3u8
+#EXTINF:-1,RU: NASTOYASHCHEYE VREMYA OPT 2 
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8
+#EXTINF:-1,RU: NASTOYASHCHEYE VREMYA OPT 3 
+https://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1,RU: NOVYJ MIR 
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1,RU: NTS 
+http://hls.nts.cdnvideo.ru/nts/nts.sdp/playlist.m3u8
+#EXTINF:-1,RU: NTV 
+http://93.115.137.166/hls/ntvm.m3u8
+#EXTINF:-1,RU: O2 TV HD
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+#EXTINF:-1,RU: O2 TV 
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/playlist.m3u8
+#EXTINF:-1,RU: OTKRYTYJ 
+http://77.232.128.68/bks.m3u8
+#EXTINF:-1,RU: PERVYJ GORODSKOJ 
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1,RU: PRO TV 
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1,RU: PROSVESHHENIE 
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/index.m3u8
+#EXTINF:-1,RU: PUBLIKA TV 
+http://livebeta.publika.md/LIVE/P/6810.m3u8
+#EXTINF:-1,RU: RADA TV 
+http://217.20.164.181/live/rada480p.stream/playlist.m3u8
+#EXTINF:-1,RU: RBC OPT 1 
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1,RU: RBC OPT 2 
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1,RU: RBC OPT 3 
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1,RU: RETV 
+http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8
+#EXTINF:-1,RU: RIGA TV24 
+http://player.tvnet.lv/live/amlst:11/playlist.m3u8
+#EXTINF:-1,RU: RUTV 
+http://217.12.116.122/hls/rutv_direct.m3u8
+#EXTINF:-1,RU: RUTV OPT 1 
+http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8
+#EXTINF:-1,RU: RUTV OPT 2 
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1,RU: SHANSON TV OPT 1 
+http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1,RU: SKAZKI ZAYKI 
+http://skazki.vintera.tv:8081/skazki/zaj/playlist.m3u8
+#EXTINF:-1,RU: TDK 
+http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8
+#EXTINF:-1,RU: TIVIKOM ULAN UDJE 
+http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8
+#EXTINF:-1,RU: TJUMENSKOE VREMJA 
+http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8
+#EXTINF:-1,RU: TOCHKA TV 
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1,RU: TOPSHOP 
+http://tv-topshop.netrack.ru/hls/topshop.m3u8
+#EXTINF:-1,RU: TV ELITA 
+http://46.55.111.242:8080/Rezina.m3u8
+#EXTINF:-1,RU: TV NET 
+http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
+#EXTINF:-1,RU: TV7 ENTERTAINMENT 
+http://imarov.com/iptv/bgtv.m3u8
+#EXTINF:-1,RU: UGRA TV 
+http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
+#EXTINF:-1,RU: VINTERA TV 
+http://serv30.vintera.tv:8081/test/Made_in_Siberia2/playlist.m3u8
+#EXTINF:-1,RU: VOLGOGRAD 24 
+http://serv24.vintera.tv:8081/volga24/volgograd24/playlist.m3u8
+#EXTINF:-1,RU: XXI TV 
+http://api.tv.ipnet.ua/api/v1/manifest/1293296550.m3u8
+#EXTINF:-1,RU: ZVEZDA OPT 1 
+http://cdn-01.bonus-tv.ru:8080/zvezda/index.m3u8
+#EXTINF:-1,RU: ZVEZDA OPT 2 
+https://cdn-01.bonus-tv.ru:8090/zvezda/tracks-v3a1/mono.m3u8
 #EXTINF:-1,RU: RBC TV NEWS 
 http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 #EXTINF:-1,Матч!
