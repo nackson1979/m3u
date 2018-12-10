@@ -9,8 +9,6 @@ http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8
 http://w4.mostvideo.tv/tv/ch1.m3u8
 #EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3795784_logo_music_box_gold.png" ,Music Box Gold
 http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3795784_logo_music_box_gold.png" ,Music Box Gold
-http://stream.euroasia.lfstrm.tv/musicbox/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DvERiKycpEQ/maxresdefault.jpg" ,Music Box UA
 http://212.26.132.86/hls/mb_ua_2500.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DvERiKycpEQ/maxresdefault.jpg" ,Music Box UA
@@ -23,34 +21,19 @@ http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
 http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vietteen" group-title="MUSIC", Vietteen
 http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/heart-tv" group-title="MUSIC", Heart TV 
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boxhits" group-title="MUSIC", Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/capital-tv" group-title="MUSIC", Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cmc-ms" group-title="MUSIC", California Music Channel
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-choice" group-title="MUSIC", Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ecmin" group-title="MUSIC", O 1080P
-http://77.232.128.68/bks.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-1hd" group-title="MUSIC", 1 HD MUSIC
-http://cdn-01.bonus-tv.ru:8080/1HDmusic/index.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-box" group-title="MUSIC", MUSIC BOX
-http://live-musicbox.cdnvideo.ru/musicbox2/musicbox.sdp/chunklist.m3u8
 #EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vibee-tv" group-title="MUSIC", V2BEAT HD
 http://139.59.166.48:8081/live/live3/playlist.m3u8
 #EXTINF:-1,MUSIC TV: CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1,MUSIC TV: Company Tv
 http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
-#EXTINF:-1,MUSIC TV: FOX TV
-http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1,MUSIC TV: Hit Music Channel
-http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
-#EXTINF:-1,MUSIC TV: Klik Tv
-http://92.62.234.201:2249/klik.flv
 #EXTINF:-1,MUSIC TV: MC Play
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 #EXTINF:-1,MUSIC TV: Music Channel
