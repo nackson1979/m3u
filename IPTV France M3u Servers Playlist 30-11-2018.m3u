@@ -263,3 +263,56 @@ http://kstv.xyz:8080/live/Whaley/8225411730/23955.m3u8
 http://kstv.xyz:8080/live/Whaley/8225411730/23954.m3u8
 #EXTINF:-1,FR - iTele
 http://kstv.xyz:8080/live/Whaley/8225411730/23990.m3u8
+#EXTINF:-1,FR: 24 OPT 1 
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
+#EXTINF:-1,FR: ALSACE 20 
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+
+#EXTINF:-1,FR: BBLACK! AFRICA 
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:-1,FR: BBLACK! CARIBBEAN 
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:-1,FR: BFM PARIS 
+http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
+#EXTINF:-1,FR: CGTN 
+http://live.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1,FR: CPAC 
+http://bcoveliveios-i.akamaihd.net/hls/live/248520/1242843915001_2/master.m3u8
+#EXTINF:-1,FR: DJING CLASSICS 
+https://www.djing.com/tv/classics.m3u8
+#EXTINF:-1,FR: DJING DANCEFLOOR 
+https://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,FR: DJING ELECTRO ROCK 
+https://www.djing.com/tv/session_electro-rock.m3u8
+#EXTINF:-1,FR: DJING HITS 
+https://www.djing.com/tv/hits.m3u8
+#EXTINF:-1,FR: DJING KARAOKE 
+https://www.djing.com/tv/karaoke.m3u8
+#EXTINF:-1,FR: DJING LIVE 
+https://www.djing.com/tv/live.m3u8
+#EXTINF:-1,FR: DJING SUMMER VIBES 
+https://www.djing.com/tv/session_summer-vibes.m3u8
+#EXTINF:-1,FR: DJING TOUCH 
+https://www.djing.com/tv/session_french-touch.m3u8
+#EXTINF:-1,FR: DJING UNDERGROUND 
+https://www.djing.com/tv/underground.m3u8
+#EXTINF:-1,FR: FASHION TV OPT 2 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1,FR: FASHION TV OPT 3 
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/playlist.m3u8
+#EXTINF:-1,FR: FRANCOPHONIE 24 
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1,FR: GONG 
+http://ec.playmedia.fr/gong-base/live/playlist.m3u8
+#EXTINF:-1,FR: GONG MAX 
+http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
+#EXTINF:-1,FR: LA CHAINE NORMANDE 
+http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1,FR: RTL 2 
+http://live01.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1,FR: TV5 MONDE INFO 
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1,FR: TV7 
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1,FR: TVPI 
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/live.m3u8
