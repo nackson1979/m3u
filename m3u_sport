@@ -351,3 +351,78 @@ http://swf.x10.bz/swe/twich.php?canal=failarmy&f=.m3u8
 http://swf.x10.bz/swe/twich.php?canal=runitup247&f=.m3u8
 #EXTINF:-1,Live Gaming News
 http://swf.x10.bz/swe/twich.php?canal=allkeyshop_tv&f=.m3u8
+
+#EXTINF:-1,A1 Sport
+http://178.132.6.97:8080/A1Sport1/index.m3u8
+#EXTINF:-1,A1 Sports
+http://178.132.6.97:80/A1Sport1/index.m3u8
+#EXTINF:-1,A1 World
+http://178.132.6.97:8080/A1World1/index.m3u8
+#EXTINF:-1,A1 Bosnia
+http://178.132.6.97:8080/A1Bosnia1/index.m3u8
+#EXTINF:-1,A1 Espana
+http://178.132.6.97:8080/A1Espana1/index.m3u8
+#EXTINF:-1,SLON Extra
+http://178.132.6.97:8080/RTV:SLON1/tracks-v1a1/index.m3u8
+#EXTINF:-1,RTV CAZIN
+http://178.132.6.97:8080/RTVCAZIN1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sharri HD
+http://178.132.6.97:8080/TV:SharriHD1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sehara TV
+http://178.132.6.97:8080/SeharaTV1/tracks-v1a1/index.m3u8
+#EXTINF:-1,OTV Valentino
+http://178.132.6.97:8080/OTVValentino1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Spin TV
+http://178.132.6.97:8080/SpinTV1/tracks-v1a1/index.m3u8
+#EXTINF:-1,ROMA TV
+http://178.132.6.97:8080/ROMATV1/tracks-v1a1/index.m3u8
+#EXTINF:-1,RTK 4
+http://178.132.6.97:8080/RTK4/tracks-v1a1/index.m3u8
+#EXTINF:-1,RTK3
+http://178.132.6.97:8080/RTK3/tracks-v1a1/index.m3u8
+#EXTINF:-1,RTK2
+http://178.132.6.97:8080/RTK2/tracks-v1a1/index.m3u8
+#EXTINF:-1,RTK1
+http://178.132.6.97:8080/RTK11/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sky Folk Makedonija
+http://178.132.6.97:8080/SkyFolkMakedonija1/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV Plisi
+http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV7 TUZLA
+http://178.132.6.97:8080/TV7TUZLA1/tracks-v1a1/index.m3u8
+#EXTINF:-1,SYRIBLUE HDTV
+http://178.132.6.97:8080/SYRIBLUEHDTV1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Rtv Iliria Gjeneve
+http://178.132.6.97:8080/RtvIliriaGjeneve1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Samara Gis
+http://178.132.6.97:8080/samaragis1/tracks-v1a1/index.m3u8
+#EXTINF:-1,PLUS TV
+http://178.132.6.97:8080/PLUSTV1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Tv2 Gostivar
+http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
+#EXTINF:-1,Satellite TV
+http://178.132.6.97:8080/canal11madrid1/tracks-v1a1/index.m3u8
+#EXTINF:-1,TV5 HD
+http://178.132.6.97:8080/TV5HD1/tracks-v1a1/index.m3u8
+#EXTINF:-1,OSM Pale
+http://178.132.6.97:8080/RS:OSMPale1/index.m3u8
+#EXTINF:-1,a1vikom
+http://178.132.6.97:8080/a1vikom1/tracks-v1a1/index.m3u8
+#EXTINF:-1,TRT HABER
+http://178.132.6.97:8080/TR:TRTHABER1/tracks-v1a1/index.m3u8
+#EXTINF:-1,RTV 21
+http://178.132.6.97:8080/RTV211/tracks-v1a1/index.m3u8
+#EXTINF:-1,tvlir
+http://178.132.6.97:8080/tvlir1/tracks-v1a1/index.m3u8
+#EXTINF:-1,imltvhd
+http://178.132.6.97:8080/imltvhd1/tracks-v1a1/index.m3u8
+#EXTINF:-1,a1rtvnovipazar
+http://178.132.6.97:8080/a1rtvnovipazar1/index.m3u8
+#EXTINF:-1,MRT1
+http://178.132.6.97:8080/MRT21/tracks-v1a1/index.m3u8
+#EXTINF:-1,MRT1
+http://178.132.6.97:8080/MRT11/tracks-v1a1/index.m3u8
+#EXTINF:-1,SMART TV TESANJ
+http://178.132.6.97:8080/bs:SMARTTVTESANJ1/tracks-v1a1/index.m3u8
+#EXTINF:-1,JazzeraAL
+http://178.132.6.97:/JazzeraAL1/tracks-v1a1/index.m3u8
