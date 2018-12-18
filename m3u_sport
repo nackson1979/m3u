@@ -1,17 +1,9 @@
 #EXTM3U
 #EXTINF:-1,Bein_2_720P
 http://2111.space:25461/live/admin_205678/75eixnOP/1814.m3u8
-#EXTINF:-1,Bein_4_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1816.m3u8
 
 #EXTINF:-1,Bein6_720P
 http://2111.space:25461/live/admin_205678/75eixnOP/1818.m3u8
-#EXTINF:-1,Bein7_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1819.m3u8
-#EXTINF:-1,Bein8_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1820.m3u8
-#EXTINF:-1,Bein9_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1821.m3u8
 #EXTINF:-1,BEIN_SPORT_1
 http://2111.space:25461/live/admin_205678/75eixnOP/1825.m3u8
 #EXTINF:-1,BEIN_SPORT_2
@@ -22,36 +14,22 @@ http://2111.space:25461/live/admin_205678/75eixnOP/1827.m3u8
 http://2111.space:25461/live/admin_205678/75eixnOP/1828.m3u8
 #EXTINF:-1,BEIN_SPORT_5
 http://2111.space:25461/live/admin_205678/75eixnOP/1829.m3u8
-#EXTINF:-1,BEIN_SPORT_6
-http://2111.space:25461/live/admin_205678/75eixnOP/1831.m3u8
-#EXTINF:-1,BEIN_SPORT_7
-http://2111.space:25461/live/admin_205678/75eixnOP/1830.m3u8
+
 #EXTINF:-1,BEIN_SPORT_8
 http://2111.space:25461/live/admin_205678/75eixnOP/1832.m3u8
 #EXTINF:-1,BEIN_SPORT_9
 http://2111.space:25461/live/admin_205678/75eixnOP/1833.m3u8
-#EXTINF:-1,BEIN_SPORT_10
-http://2111.space:25461/live/admin_205678/75eixnOP/1834.m3u8
 #EXTINF:-1,Bein1 1M
 http://2111.space:25461/live/admin_205678/75eixnOP/1286.m3u8
 #EXTINF:-1,Bein2 1M
 http://2111.space:25461/live/admin_205678/75eixnOP/1285.m3u8
-#EXTINF:-1,Bein3 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1284.m3u8
-#EXTINF:-1,Bein4 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1283.m3u8
-#EXTINF:-1,Bein5 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1282.m3u8
-#EXTINF:-1,Bein6 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1281.m3u8
+
 #EXTINF:-1,Bein7 1M
 http://2111.space:25461/live/admin_205678/75eixnOP/1280.m3u8
 #EXTINF:-1,Bein8 1M
 http://2111.space:25461/live/admin_205678/75eixnOP/1279.m3u8
 #EXTINF:-1,Bein9 1M
 http://2111.space:25461/live/admin_205678/75eixnOP/1278.m3u8
-#EXTINF:-1,Bein10 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1277.m3u8
 #EXTINF:-1,Bein1 2M
 http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
 #EXTINF:-1,Bein2 2M
