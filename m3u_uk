@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:0,********GENERAL UK**********
-http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/386.ts
 #EXTINF:0,Watch
 http://185.132.179.38:8000/live/tE1Y4v5TO3s17MV/CziMY7AuS1Woy7z/358.ts
 #EXTINF:0,Universal
