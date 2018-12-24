@@ -1,91 +1,91 @@
 #EXTM3U
 #EXTINF:-1,SporTV HD
-http://maxptv.ddns.net:25461/live/MA020/0706/48.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/48.ts
 #EXTINF:-1,SporTV SD
-http://maxptv.ddns.net:25461/live/MA020/0706/47.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/47.ts
 #EXTINF:-1,SporTV2 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/46.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/46.ts
 #EXTINF:-1,SporTV2 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/45.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/45.ts
 #EXTINF:-1,SporTV3 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/44.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/44.ts
 #EXTINF:-1,SporTV3 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/43.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/43.ts
 #EXTINF:-1,Fox Sports 2 HD
-http://maxptv.ddns.net:25461/live/MA020/0706/146.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
 #EXTINF:-1,Fox Sports 2 SD
-http://maxptv.ddns.net:25461/live/MA020/0706/145.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
 #EXTINF:-1,Fox Sports HD
-http://maxptv.ddns.net:25461/live/MA020/0706/144.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
 #EXTINF:-1,Fox Sports SD
-http://maxptv.ddns.net:25461/live/MA020/0706/143.ts1
+http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
 
 #EXTINF:-1,Sky Sport 24 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/63.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/63.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/64.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/64.ts
 #EXTINF:-1,Sky Sport Arena HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/65.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/65.ts
 #EXTINF:-1,Sky Sport F1 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/70.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/70.ts
 #EXTINF:-1,Sky Sport MotoGP HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/71.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/71.ts
 #EXTINF:-1,Sky Sport NBA HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/67.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/67.ts
 #EXTINF:-1,Sky Sport Golf HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/68.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/68.ts
 #EXTINF:-1,EuroSport HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/72.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/72.ts
 #EXTINF:-1,EuroSport 2 HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/73.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/73.ts
 #EXTINF:-1,Rai Sport + HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/76.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/76.ts
 #EXTINF:-1,Sportitalia
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/69.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/69.ts
 #EXTINF:-1,Top Calcio 24
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6729.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6729.ts
 #EXTINF:-1,SuperTennis HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/81.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/81.ts
 #EXTINF:-1,Wrestling Channel USA
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6387.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6387.ts
 #EXTINF:-1,AutoMoto Tv
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/78.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/78.ts
 #EXTINF:-1,DAZN SPORT 1
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6951.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6951.ts
 #EXTINF:-1,DAZN SPORT 2
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6952.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6952.ts
 #EXTINF:-1,DAZN SPORT 3
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6953.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6953.ts
 #EXTINF:-1,DAZN SPORT 4
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6954.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6954.ts
 #EXTINF:-1,DAZN SPORT 5
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6955.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6955.ts
 #EXTINF:-1,DAZN SPORT 6
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6956.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6956.ts
 #EXTINF:-1,DAZN SPORT 7
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6957.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6957.ts
 #EXTINF:-1,DAZN SPORT 8
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6958.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6958.ts
 #EXTINF:-1,DAZN SPORT 9
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6959.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6959.ts
 #EXTINF:-1,Sky Sport 24 Super HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6531.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6531.ts
 #EXTINF:-1,Sky Sport 1 Super HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6530.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6530.ts
 #EXTINF:-1,Sky Sport  Arena  Super HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6529.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6529.ts
 #EXTINF:-1,Sky Sport Football  Super HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6528.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6528.ts
 #EXTINF:-1,Sky Sport Golf  Super HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6527.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6527.ts
 #EXTINF:-1,Sky Sport NBA Super HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6526.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6526.ts
 #EXTINF:-1,Sky Sport F1  SuperHD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6525.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6525.ts
 #EXTINF:-1,Sky Moto GP Super HD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6524.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6524.ts
 #EXTINF:-1,Sky Sport Serie A SuperHD
-http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6523.ts1
+http://190.2.144.91:8000/live/CG259/ewPD3HDBlQ/6523.ts
 
 #EXTINF:-1,Rtsh Sport
 http://hd.iptv-passion.com:2095/live/mele/mele1234/79.m3u8
@@ -131,215 +131,215 @@ http://hd.iptv-passion.com:2095/live/mele/mele1234/80.m3u8
 http://hd.iptv-passion.com:2095/live/mele/mele1234/78.m3u8
 
 #EXTINF:-1,Bein Sport 11 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7163.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7163.ts
 #EXTINF:-1,Bein Sport 12 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7164.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7164.ts
 #EXTINF:-1,IT - Rai Sport + HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4200.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4200.ts
 #EXTINF:-1,BR: Sport TV
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7176.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7176.ts
 #EXTINF:-1,BR: SPORT TV 2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7175.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7175.ts
 #EXTINF:-1,BR: SPORT TV 3
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7174.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7174.ts
 #EXTINF:-1,FR - BEIN_MAX_10
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7409.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7409.ts
 #EXTINF:-1,FR - BEIN_MAX_4
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7415.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7415.ts
 #EXTINF:-1,FR - BEIN_MAX_5
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7414.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7414.ts
 #EXTINF:-1,FR - BEIN_MAX_6
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7413.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7413.ts
 #EXTINF:-1,FR - BEIN_MAX_7
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7412.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7412.ts
 #EXTINF:-1,FR - BEIN_MAX_8
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7411.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7411.ts
 #EXTINF:-1,FR - BEIN_MAX_9
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7410.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7410.ts
 #EXTINF:-1,FR - BEIN_SPORT_1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7418.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7418.ts
 #EXTINF:-1,FR - BEIN_SPORT_2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7417.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7417.ts
 #EXTINF:-1,FR - BEIN_SPORT_3
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7416.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7416.ts
 #EXTINF:-1,FR - BFM_SPORT
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7494.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7494.ts
 #EXTINF:-1,FR - CANAL  SPORT HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7483.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7483.ts
 #EXTINF:-1,FR - EQUIDIA_LIVE
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7407.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7407.ts
 #EXTINF:-1,FR - EUROSPORT_1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7424.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7424.ts
 #EXTINF:-1,FR - FOOT 24
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7406.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7406.ts
 #EXTINF:-1,FR - INFOSPORT
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7423.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7423.ts
 #EXTINF:-1,FR - J-ONE
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7426.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7426.ts
 #EXTINF:-1,FR - L'equipe
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7514.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7514.ts
 #EXTINF:-1,FR - SFR_SPORT_1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7422.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7422.ts
 #EXTINF:-1,FR - SFR_SPORT_2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7421.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7421.ts
 #EXTINF:-1,FR - SFR_SPORT_3
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7420.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7420.ts
 #EXTINF:-1,FR - SFR_SPORT_5
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7419.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7419.ts
 #EXTINF:-1,FR - SPORT_365
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7408.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7408.ts
 #EXTINF:-1,PT - Sport TV +
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3984.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3984.ts
 #EXTINF:-1,PT - Sport TV 1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4047.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4047.ts
 #EXTINF:-1,PT - Sport TV 2 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3985.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3985.ts
 #EXTINF:-1,PT - Sport TV 3 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3995.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3995.ts
 #EXTINF:-1,PT - Sport TV 4
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3986.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3986.ts
 #EXTINF:-1,PT - Sport TV 5
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3987.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3987.ts
 #EXTINF:-1,PT - Sporting TV
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3988.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3988.ts
 #EXTINF:-1,UK: BT SPORT 1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5915.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5915.ts
 #EXTINF:-1,UK: BT SPORT 2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5914.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5914.ts
 #EXTINF:-1,UK: BT SPORT 3
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5913.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5913.ts
 #EXTINF:-1,UK: BT Sport Extra 1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6058.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6058.ts
 #EXTINF:-1,UK: BT Sport Extra 2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6057.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6057.ts
 #EXTINF:-1,UK: BT Sport Extra 3
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6056.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6056.ts
 #EXTINF:-1,UK: BT Sport Extra 4
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6055.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6055.ts
 #EXTINF:-1,UK: BT Sport Extra 5
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6054.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6054.ts
 #EXTINF:-1,UK: BT Sport Extra 6
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6053.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6053.ts
 #EXTINF:-1,UK: BT SPORTS 1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6044.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6044.ts
 #EXTINF:-1,UK: BT SPORTS 2 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6043.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6043.ts
 #EXTINF:-1,UK: BT SPORTS 3 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6042.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6042.ts
 #EXTINF:-1,UK: BT Sports ESPN
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5912.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5912.ts
 #EXTINF:-1,UK: eir Sport 1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6049.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6049.ts
 #EXTINF:-1,UK: eir Sport 2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6082.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6082.ts
 #EXTINF:-1,UK: Eurosport 1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6073.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6073.ts
 #EXTINF:-1,UK: Eurosport 1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6033.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6033.ts
 #EXTINF:-1,UK: Eurosport 2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6072.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6072.ts
 #EXTINF:-1,UK: Eurosport 2 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6032.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6032.ts
 #EXTINF:-1,UK: Sky Sport Mix HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6034.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6034.ts
 #EXTINF:-1,UK: SKY SPORTS 1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5921.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5921.ts
 #EXTINF:-1,UK: SKY SPORTS 1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6041.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6041.ts
 #EXTINF:-1,UK: SKY SPORTS 2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5920.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5920.ts
 #EXTINF:-1,UK: SKY SPORTS 2 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6040.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6040.ts
 #EXTINF:-1,UK: SKY SPORTS 3
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5919.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5919.ts
 #EXTINF:-1,UK: SKY SPORTS 3 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6039.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6039.ts
 #EXTINF:-1,UK: SKY SPORTS 4
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5918.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5918.ts
 #EXTINF:-1,UK: SKY SPORTS 4 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6038.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6038.ts
 #EXTINF:-1,UK: SKY SPORTS 5
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5917.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5917.ts
 #EXTINF:-1,UK: SKY SPORTS 5 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6037.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6037.ts
 #EXTINF:-1,UK: SKY SPORTS F1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5922.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5922.ts
 #EXTINF:-1,UK: SKY SPORTS F1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6036.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6036.ts
 #EXTINF:-1,UK: Sky Sports Mix
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5925.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5925.ts
 #EXTINF:-1,UK: SKY SPORTS NEWS
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5916.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5916.ts
 #EXTINF:-1,UK: SKY SPORTS NEWS HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6035.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6035.ts
 #EXTINF:-1,IN - Sports TEN 1
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8054.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8054.ts
 #EXTINF:-1,IN - Sports TEN 2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8053.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8053.ts
 #EXTINF:-1,IN - Sports TEN 3
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8052.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8052.ts
 #EXTINF:-1,IN - Sports Ten sports
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8051.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8051.ts
 #EXTINF:-1,IN - Star Sports 1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8056.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8056.ts
 #EXTINF:-1,IN - Star Sports 2 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8055.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8055.ts
 #EXTINF:-1,Fox Sports  1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8537.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8537.ts
 #EXTINF:-1,Fox Sports Full-HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8540.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8540.ts
 #EXTINF:-1,Fox Sports HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8539.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8539.ts
 #EXTINF:-1,Fox Sports SD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8538.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8538.ts
 #EXTINF:-1,Premium Sport 2
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8487.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8487.ts
 #EXTINF:-1,Premium Sport 2 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8488.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8488.ts
 #EXTINF:-1,Premium Sport HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8491.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8491.ts
 #EXTINF:-1,Premium Sport HD(backup)
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8490.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8490.ts
 #EXTINF:-1,Premium Sport SD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8489.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8489.ts
 #EXTINF:-1,Premium Sport UltraHD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8492.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8492.ts
 #EXTINF:-1,Sky Sport 1 Full-HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8548.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8548.ts
 #EXTINF:-1,Sky Sport 1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8547.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8547.ts
 #EXTINF:-1,Sky Sport 1 SD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8546.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8546.ts
 #EXTINF:-1,Sky Sport 2 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8545.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8545.ts
 #EXTINF:-1,Sky Sport 2 SD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8544.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8544.ts
 #EXTINF:-1,Sky Sport 24 Full-HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8551.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8551.ts
 #EXTINF:-1,Sky Sport 24 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8550.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8550.ts
 #EXTINF:-1,Sky Sport 24 SD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8549.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8549.ts
 #EXTINF:-1,Sky Sport 3 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8543.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8543.ts
 #EXTINF:-1,Sky Sport 3 SD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8542.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8542.ts
 #EXTINF:-1,Sky Sport Mix HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8541.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8541.ts
 #EXTINF:-1,Sky Sport Plus HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8528.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8528.ts
 #EXTINF:-1,Sky Sport Plus SD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8527.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8527.ts
 #EXTINF:-1,Sky Supercalcio Full-HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8515.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8515.ts
 #EXTINF:-1,Sky Supercalcio HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8514.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8514.ts
 #EXTINF:-1,Sky Supercalcio SD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8513.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8513.ts
 #EXTINF:-1,Ziggo Sport 1 Racing FHD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/16276.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/16276.ts
 #EXTINF:-1,Fox Sport 2 FHD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/16275.ts1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/16275.ts
 
 #EXTINF:-1,Bein4 1M
 http://2111.space:25461/live/admin_205678/75eixnOP/1283.m3u8
