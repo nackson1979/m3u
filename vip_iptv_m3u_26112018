@@ -5,24 +5,14 @@ http://95.85.47.43/218news/tracks-v1a1/index.m3u8
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/300.m3u8
 #EXTINF:0,AF: BBC 
 http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8
-#EXTINF:0,AF: MIHAN TV NEWS PERSIAN 
-http://watch.mihantv.com/mihantvlive.isml/QualityLevels(864000)/manifest(format=m3u8-aapl).m3u8
+
 #EXTINF:0,AF: NEWS OPT 2 
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 #EXTINF:0,AF: SHARQIYA NEWS 
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:0,AF: SMASH 7 NEWS 
-http://144.76.182.50:25461/live/smash/smash/10.m3u8
-#EXTINF:0,AFR: ECHOUROUK NEWS 
-http://tv-live.echoroukonline.com/echo/EchoroukNews_SD/playlist.m3u8
-#EXTINF:0,AFR: NEWS NETWORK 
-https://tvjlocal.akamaized.net/univ_video_jnn/abr/playlist.m3u8
 #EXTINF:0,AL: NEWS 24 
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:0,AL: ORIENNEWS 
-http://man-iptv.spdns.de:8000/live/man.tech45789/man.tech39669/3497.m3u8
-#EXTINF:0,AR: AL BAGHDADIA 2 NEWS IQ 
-http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
+
 #EXTINF:0,AR: AL JAZEERA OPT 1 
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:0,AR: AL JAZEERA OPT 2 
@@ -8327,26 +8317,6 @@ http://tvipbr.net:8080/live/7171/7171/1208.m3u8
 http://tvipbr.net:8080/live/7171/7171/19266.m3u8
 #EXTINF:0,GLOBO ALTERNATIVO | SD (WW)
 http://tv.factoryiptv.com:80/live/Raimundo01/Raimundo01/41209.m3u8
-#EXTINF:0,HBO 2 | SD (WW)
-http://tv.factoryiptv.com:80/live/Raimundo01/Raimundo01/40610.m3u8
-#EXTINF:0,LT CARACOL | SD (WW)
-http://144.217.72.121:8000/live/nova1764/a1764/3285.m3u8
-#EXTINF:0,NHK | SD (WW)
-http://tv.factoryiptv.com:80/live/Raimundo01/Raimundo01/40147.m3u8
-#EXTINF:0,PONTE DA AMIZADE | SD (WW)
-http://tv.factoryiptv.com:80/live/Raimundo01/Raimundo01/40107.m3u8
-#EXTINF:0,RTP | SD (WW)
-http://tvipbr.net:8080/live/7171/7171/19321.m3u8
-#EXTINF:0,SIC | SD (WW)
-http://tvipbr.net:8080/live/7171/7171/19312.m3u8
-#EXTINF:0,TPA | SD (WW)
-http://tvipbr.net:8080/live/7171/7171/19161.m3u8
-#EXTINF:0,TRT | HD (WW)
-http://tvipbr.net:8080/live/7171/7171/19399.m3u8
-#EXTINF:0,TVE | SD (WW)
-http://tvipbr.net:8080/live/7171/7171/19174.m3u8
-#EXTINF:0,TVI | SD (WW)
-http://tvipbr.net:8080/live/7171/7171/19306.m3u8
 #EXTINF:0,UA-TV | SD (WW)
 https://ua-tv-hls3.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:0,UK@ AIT | SD (WW)
