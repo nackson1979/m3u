@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Hit TV
-http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/MCM_TOP_logo_2017.png/revision/latest?cb=20180412180054" ,MCM TOP
-http://ott-cdn.ucom.am/s49/04.m3u8
-#EXTINF:-1 tvg-logo="https://mostvideo.tv/bitrix/templates/most_video_2016/images/logo.png" ,MostVideo TV HD
-http://wow.stib.com.ua:1935/tv/ch1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mostvideo.tv/bitrix/templates/most_video_2016/images/logo.png" ,MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3795784_logo_music_box_gold.png" ,Music Box Gold
-http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DvERiKycpEQ/maxresdefault.jpg" ,Music Box UA
-http://212.26.132.86/hls/mb_ua_2500.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DvERiKycpEQ/maxresdefault.jpg" ,Music Box UA
-http://95.67.49.203:9990/OTV
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/1/1f/MuzLife.png/revision/latest?cb=20170511152528&path-prefix=ru" ,Muzlife TV
-http://stream.euroasia.lfstrm.tv/muzlife/1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Muzzone.png" ,Muzzone
-http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-country" group-title="MUSIC", Nhạc Country
-http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vietteen" group-title="MUSIC", Vietteen
-http://live.cdn.mobifonetv.vn/motv/vietteen_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boxhits" group-title="MUSIC", Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cmc-ms" group-title="MUSIC", California Music Channel
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-choice" group-title="MUSIC", Music Choice
-http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
-#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vibee-tv" group-title="MUSIC", V2BEAT HD
-http://139.59.166.48:8081/live/live3/playlist.m3u8
 #EXTINF:-1,MUSIC TV: CALIFORNIA MUSIC CHANNEL
 http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
 #EXTINF:-1,MUSIC TV: Company Tv
@@ -58,3 +28,28 @@ http://cdn.vsnw.net:8081/interradio/720i.m3u8
 https://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/master.m3u8
 #EXTINF:-1,MUSIC TV: Xite
 http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:0, CAPITAL TV HD
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1f/MCM_TOP_logo_2017.png/revision/latest?cb=20180412180054" ,MCM TOP
+http://ott-cdn.ucom.am/s49/04.m3u8
+#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3795784_logo_music_box_gold.png" ,Music Box Gold
+http://live-musicbox.cdnvideo.ru/musicbox2/mboxtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DvERiKycpEQ/maxresdefault.jpg" ,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/DvERiKycpEQ/maxresdefault.jpg" ,Music Box UA
+http://95.67.49.203:9990/OTV
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/tvpedia/images/1/1f/MuzLife.png/revision/latest?cb=20170511152528&path-prefix=ru" ,Muzlife TV
+http://stream.euroasia.lfstrm.tv/muzlife/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Muzzone.png" ,Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-country" group-title="MUSIC", Nhạc Country
+http://dcunilive2-lh.akamaihd.net/i/dclive_1@390829/index_150_av-b.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/boxhits" group-title="MUSIC", Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/cmc-ms" group-title="MUSIC", California Music Channel
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/ms-choice" group-title="MUSIC", Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1 tvg-id="Ecmin" tvg-logo="https://gg.gg/vibee-tv" group-title="MUSIC", V2BEAT HD
+http://139.59.166.48:8081/live/live3/playlist.m3u8
+
