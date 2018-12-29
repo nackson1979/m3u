@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:0,AR: BeinSport1 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/137
+#EXTINF:0,AR: BeinSport2 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/138
+#EXTINF:0,AR: BeinSport3 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/139
+#EXTINF:0,AR: BeinSport4 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/140
+#EXTINF:0,AR: BeinSport5 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/141
+#EXTINF:0,AR: BeinSport6 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/142
+#EXTINF:0,AR: BeinSport7 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/143
+#EXTINF:0,AR: BeinSport8 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/144
+#EXTINF:0,AR: BeinSport9 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/145
+#EXTINF:0,AR: BeinSport10 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/146
 #EXTINF:0,BandSports HD
 http://maxptv.ddns.net:25461/live/MA020/0706/216.ts
 #EXTINF:0,BandSports SD
