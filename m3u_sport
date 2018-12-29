@@ -1,21 +1,123 @@
 #EXTM3U
-#EXTINF:0,AR: BeinSport1 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/137
-#EXTINF:0,AR: BeinSport2 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/138
-#EXTINF:0,AR: BeinSport3 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/139
-#EXTINF:0,AR: BeinSport4 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/140
-#EXTINF:0,AR: BeinSport5 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/141
-#EXTINF:0,AR: BeinSport6 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/142
-#EXTINF:0,AR: BeinSport7 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/143
-#EXTINF:0,AR: BeinSport8 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/144
-#EXTINF:0,AR: BeinSport9 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/145
-#EXTINF:0,AR: BeinSport10 HD
-http://ip.avov4.us:8000/ahmet54/54ahmet/146
+#EXTINF:0,BandSports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/216.ts
+#EXTINF:0,BandSports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/215.ts
+#EXTINF:0,Boomerang HD
+http://maxptv.ddns.net:25461/live/MA020/0706/210.ts
+#EXTINF:0,Boomerang SD
+http://maxptv.ddns.net:25461/live/MA020/0706/209.ts
+#EXTINF:0,Espn Brasil HD
+http://maxptv.ddns.net:25461/live/MA020/0706/164.ts
+#EXTINF:0,Espn Brasil SD
+http://maxptv.ddns.net:25461/live/MA020/0706/163.ts
+#EXTINF:0,Espn HD
+http://maxptv.ddns.net:25461/live/MA020/0706/160.ts
+#EXTINF:0,Espn 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/162.ts
+#EXTINF:0,Espn SD
+http://maxptv.ddns.net:25461/live/MA020/0706/159.ts
+#EXTINF:0,Espn 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/161.ts
+#EXTINF:0,Fox Sports 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
+#EXTINF:0,Fox Sports 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
+#EXTINF:0,Fox Sports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
+#EXTINF:0,Fox Sports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
+#EXTINF:0,FR - BEIN_MAX_4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7415.ts
+#EXTINF:0,FR - BEIN_MAX_5
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7414.ts
+#EXTINF:0,FR - BEIN_MAX_6
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7413.ts
+#EXTINF:0,FR - BEIN_MAX_7
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7412.ts
+#EXTINF:0,FR - BEIN_MAX_8
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7411.ts
+#EXTINF:0,FR - BEIN_MAX_9
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7410.ts
+#EXTINF:0,FR - BEIN_SPORT_1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7418.ts
+#EXTINF:0,FR - BEIN_SPORT_2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7417.ts
+#EXTINF:0,FR - BEIN_SPORT_3
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/7416.ts
+#EXTINF:0,UK: Boxnation
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6063.ts
+#EXTINF:0,UK: BT SPORT 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5915.ts
+#EXTINF:0,UK: BT SPORT 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5914.ts
+#EXTINF:0,UK: BT SPORT 3
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5913.ts
+#EXTINF:0,UK: BT Sport Extra 1
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6058.ts
+#EXTINF:0,UK: BT Sport Extra 2
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6057.ts
+#EXTINF:0,UK: BT Sport Extra 3
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6056.ts
+#EXTINF:0,UK: BT Sport Extra 4
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6055.ts
+#EXTINF:0,UK: BT Sport Extra 5
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6054.ts
+#EXTINF:0,UK: BT Sport Extra 6
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6053.ts
+#EXTINF:0,UK: BT SPORTS 1 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6044.ts
+#EXTINF:0,UK: BT SPORTS 2 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6043.ts
+#EXTINF:0,UK: BT SPORTS 3 HD
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6042.ts
+#EXTINF:0,UK: BT Sports ESPN
+http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5912.ts
+#EXTINF:0,TR: beIN Sports 1 SD
+http://ip.avov4.us:8000/ahmet54/54ahmet/1
+#EXTINF:0,TR: beIN Sports 1 HQ
+http://ip.avov4.us:8000/ahmet54/54ahmet/447
+#EXTINF:0,TR: beIN Sports 1 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/2
+#EXTINF:0,TR: beIN Sports 1 UHD
+http://ip.avov4.us:8000/ahmet54/54ahmet/8903
+#EXTINF:0,TR: beIN Sports 1 HD 1080P
+http://ip.avov4.us:8000/ahmet54/54ahmet/4614
+#EXTINF:0,TR: beIN Sports 2 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/3
+#EXTINF:0,TR: beIN Sports 3 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/4
+#EXTINF:0,TR: beIN Sports 4 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/630
+#EXTINF:0,TR: beIN Sports 5 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/33
+#EXTINF:0,TR: beIN Sports Max 1
+http://ip.avov4.us:8000/ahmet54/54ahmet/4553
+#EXTINF:0,TR: beIN Sports Max 2
+http://ip.avov4.us:8000/ahmet54/54ahmet/4557
+#EXTINF:0,TR: beIN Sport Haber HQ
+http://ip.avov4.us:8000/ahmet54/54ahmet/5675
+#EXTINF:0,TR: Tivibu Spor 1 HQ
+http://ip.avov4.us:8000/ahmet54/54ahmet/445
+#EXTINF:0,TR: Tivibu Spor 2 HQ
+http://ip.avov4.us:8000/ahmet54/54ahmet/444
+#EXTINF:0,TR: Tivibu Spor 3 HQ
+http://ip.avov4.us:8000/ahmet54/54ahmet/2526
+#EXTINF:0,TR: Tivibu Spor 4 HQ
+http://ip.avov4.us:8000/ahmet54/54ahmet/2527
+#EXTINF:0,TR: Tivibu Spor 5 (82) HQ
+http://ip.avov4.us:8000/ahmet54/54ahmet/4986
+#EXTINF:0,TR: S Spor 1 HQ
+http://ip.avov4.us:8000/ahmet54/54ahmet/9686
+#EXTINF:0,TR: S Spor 1 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/5
+#EXTINF:0,TR: S Spor 1 HD 1080P
+http://ip.avov4.us:8000/ahmet54/54ahmet/10309
+#EXTINF:0,TR: S Spor 2 HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/6
+#EXTINF:0,TR: beIN Gurme
+http://ip.avov4.us:8000/ahmet54/54ahmet/1446
+#EXTINF:0,TR: beIN Iz HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/54
+#EXTINF:0,TR: History HD
+http://ip.avov4.us:8000/ahmet54/54ahmet/1262
