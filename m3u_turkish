@@ -1,5 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1, TV4 
+http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
+#EXTINF:-1, TRT AVAZ HD-
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1, KANAL B
+http://213.115.236.34:25461/live/esh-line/C4uXa1qCQ4A1/34.m3u8
+#EXTINF:-1, HABER GLOBAL HD
+http://mn-nl.mncdn.com/ezcdn_Rlb6Y0obFxgx/Rlb6Y0obFxgx_1/chunklist.m3u8
+#EXTINF:-1, Aktif TV HD
+http://aktifmedia.be/aktiftv/1080p/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/a_tv_turkey.jpg", ATV 
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 
