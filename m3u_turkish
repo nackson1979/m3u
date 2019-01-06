@@ -1,163 +1,1520 @@
-#EXTM3U
 
-#EXTINF:-1, TV4 
-http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
-#EXTINF:-1, TRT AVAZ HD-
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1, KANAL B
-http://213.115.236.34:25461/live/esh-line/C4uXa1qCQ4A1/34.m3u8
-#EXTINF:-1, HABER GLOBAL HD
-http://mn-nl.mncdn.com/ezcdn_Rlb6Y0obFxgx/Rlb6Y0obFxgx_1/chunklist.m3u8
-#EXTINF:-1, Aktif TV HD
-http://aktifmedia.be/aktiftv/1080p/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.freeetv.com/images/02_logo/a_tv_turkey.jpg", ATV 
-http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-
-#EXTINF:-1 ,Akilli tv 
-http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/09/7e/a1/097ea1e0ded89dbdf7972fd93adb3269.jpg", DREAM TV 
-http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/tr-kanal-3.jpg", KANAL 3 
-http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/iptvdelisi.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/521645409748262913/k8bxVuo1.jpeg", Ben tv
-http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKUx6vlvE5NSbV6-ApSYcBST7zMLismRS1hZOHl9M9vVbWifC6",POWERTÜRK HD 
-https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist.sltur.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ_zjOp4zYi8oMBYvkgoPSxMdIbTKkHfrfXr57GepbSmvYSPKp",TRT TÜRK 
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f6/Yaban_tv_logo_new.png",YABAN TV HD 
-http://yayin3.sanaltv.com:1935/live1/yabantv/iptvdelisi.m3u8
-
-#EXTINF:-1,Sports TV (TURK)
-http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438631355_trt1.png",TRT 1 HD
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
-#EXTINF:-1,TRT SPOR
-http://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
-#EXTINF:-1,TRT WORLD HD (English)
-http://trtcanlitv-lh.akamaihd.net:80/i/TRTWORLD_1@321783/index_720p_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLUteGqFGJrWRkC3ct7CHZbJLP5r7yTBCHSnjJamxxq5X0VQQM",TRT Diyanet
-http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/jWP3ntl64I4/maxresdefault_live.jpg",Star 
+#EXTM3U $BorpasFileFormat="1"
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-jRJRvD_agyE/Vj9wUBA9uyI/AAAAAAAAM5Q/lLZFqpf9FnQ/s1600/TRT1.jpg",TRT 1
+https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-jRJRvD_agyE/Vj9wUBA9uyI/AAAAAAAAM5Q/lLZFqpf9FnQ/s1600/TRT1.jpg",TRT1  Seçenek 2
+https://trt-live.ercdn.net/trt1hd/trt1hd_1.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-mr4Ex9Ljig8/Vc7pAob1IQI/AAAAAAAAKJ8/6pq-QaNwu08/s1600/kanaldhd.jpg",KANAL D HD
+https://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-mr4Ex9Ljig8/Vc7pAob1IQI/AAAAAAAAKJ8/6pq-QaNwu08/s1600/kanaldhd.jpg",KANAL D Seçenek 2
+http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-q6TB-tuzFTg/VmqU9gP445I/AAAAAAAAM-8/Rt7VAdzEpqQ/s1600/startv.jpg",STAR TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/ca/Teve2_logo.png",TEVE 2 
-http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-#EXTINF:-1,A1 World
-http://178.132.6.97:8080/A1World1/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/kanal-d.png" group-title="YILMAZ TV",KANAL D
-http://live.netd.com.tr/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/cnnturk.png" group-title="YILMAZ TV",CNN TÜRK
-https://212224109111.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.livetvs.io/logo/medeniyet-tv.png" group-title="YILMAZ TV",MEDENIYET TV SD
-http://nocvp-usd.noccdn.net/asset/7AR6BjyV/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/trtworld.png" group-title="YILMAZ TV",TRTWORLD HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_720p_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438599669_trthaber.png" group-title="YILMAZ TV",TRT HABER HD izle
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438631355_trt1.png" group-title="YILMAZ TV",TRT 1 HD izle
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1437563828_ntv.png" group-title="YILMAZ TV",NTV HD izle
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438273544_trtturk.png" group-title="YILMAZ TV",TRT TÜRK HD izle
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438127596_flash.png" group-title="YILMAZ TV",FLASH TV HD izle
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-evDcBFAqs4E/VpghX75VW3I/AAAAAAAANsY/mFrDXCICgDc/s1600/eurostar.jpg",EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-LAu8cF7xRAA/VodyEn4F_KI/AAAAAAAANJg/zIZOqRQbVaw/s1600/atvhd.jpg",ATV HD
+http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-atM3oT_l0pE/WFf5iG58Y4I/AAAAAAAAQnA/wLu9_DcURmUOLnQgh46NA1-la6iW61zMwCLcB/s1600/a2.jpg",A2
+http://trkvz-m.ercdn.net/trkvz-temp/a2tvm.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-EBXNK9fF1kw/Vpgdq6W0N1I/AAAAAAAANro/jD4SpbKMcbg/s1600/showhd.jpg",SHOW TV
+http://tf.umutiptv.cf/ciner.php?kanal=show
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-qkYXAMOclUA/VhZxGxwTCBI/AAAAAAAAMgA/Ujen-h-FKiM/s1600/FOX.jpg",FOX TV HD
+http://tf.umutiptv.cf/fox.php?kanal=foxtr
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-ZpqgA3X009A/Vc8VTg8aDAI/AAAAAAAAKK4/BXmV_AK6eSc/s1600/kanal7.jpg",KANAL 7
+http://85.132.71.6/turk/kanal7_stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-nSpPMXepCuk/VpjRkiYxTAI/AAAAAAAANwQ/Tr_m4tX4EN0/s1600/tv8hd.jpg",TV8
+http://tf.umutiptv.cf/acun.php?kanal=tv8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-nU8xNkG_EzI/VpjhlwRk0VI/AAAAAAAANx4/Y0-vvrS2u4w/s1600/flashtv.jpg",FLASH TV
 http://98.142.98.125:1935/flashtv/flashtvmob/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438631296_ulusalkanal.png" group-title="YILMAZ TV",ULUSAL KANAL HD izle
-http://98.142.98.125:1935/ulusaltv/ulusaltv/chunklist_w362686710.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438599705_tgrthaber.png" group-title="YILMAZ TV",TGRT HABER HD izle
-http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1437751075_tjk.png" group-title="YILMAZ TV",TJK TV HD izle
-http://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438206131_taytv.png" group-title="YILMAZ TV",TAY TV HD izle
-http://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438125096_tgrtbelgesel.png" group-title="YILMAZ TV",TGRT BELGESEL HD izle
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438202337_skyturk.png" group-title="YILMAZ TV",SKY TÜRK 360 HD izle
-http://mn-l.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438207856_trtmuzik.png" group-title="YILMAZ TV",TRT MÜZİK HD izle
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438599962_tgrteu1.png" group-title="YILMAZ TV",TGRT AVRUPA HD izle
-http://cdn1.streamencoding.com:1935/tgrt_eu/amlst:live-32/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438201725_trtkurd.png" group-title="YILMAZ TV",TRT 6 ŞEŞ HD izle
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-zKJyD_CQYtQ/U7RwQcKgLeI/AAAAAAAADeE/2jt2aHPplr8/s1600/tv2.jpg",TV2
+http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-14FOwTkIn3Q/Vvak6HCaT4I/AAAAAAAAP1Y/nkzQIPXgd_k5ZUVvL0nlzZFALId_s_ciw/s1600/emtv.jpg",TV EM
+http://live38.netmedya.net/hls/tvem.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-tH1AcSJAeXo/VpjhHs9KBjI/AAAAAAAANxo/MtHpbtYNI7o/s1600/beyaztv.jpg",BEYAZ TV
+http://umutiptv.cf/dailymotion.php?kanal=beyaztv&type=m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-jJ0lhGzOZuM/VppMfIVqp9I/AAAAAAAAOCE/Uc_n7h65thI/s1600/meltemtv.jpg",MELTEM TV
+http://195.142.109.181:1935/meltemmedya/meltemtv_360p/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-mGH75Ehi8Qg/VppMjjmDQ6I/AAAAAAAAOCM/BleOlgacdx0/s1600/mesajtv.jpg",MESAJ TV
+http://195.142.109.181:1935/mesajtv/mesajtv_360p/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-VLhOSj3-_TA/U7bvMxYSfHI/AAAAAAAADkM/9p0XIHyZHOo/s1600/benguturk.jpg",BENGİTÜRK TV
+https://stream-09.dc3.dailymotion.com/dm/3/x6ikbyi/live-3.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-Arn393j0fms/Vpj5KhgxvuI/AAAAAAAAN1M/czrNUc1F4n8/s1600/kanalb.jpg",KANAL B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcT9DoXXUMQjxFsgIXmodGQdUswtdEc6Ntsds9je9jWCs1Zs6KSl4g",BEN TV
+http://kanalben.cubecdn.net/live/kanalben1.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRd9pk0_3HikARed7pS0RuogyvbHmwoxwZhoLrrmzQd4B0byogOlQ",KANAL V
+http://yerelmedya.tv:1935/kanalv/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg",YABAN TV
+http://yayin3.canlitv.com:1935/live1/yabantv/chunklist_w1303044589.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcQuyrUT0inG91D7X3PWu75TPZaN0kYL4nl0J0oT3qT3fxuI4ySSnA",TV5
+http://nbvd2zzn.rocketcdn.com/tv5.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-RkNgwc1lL24/U7QxaEnyPjI/AAAAAAAADY8/tE7bTqo6JdQ/s1600/trtturk.jpg",TRT TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-RkNgwc1lL24/U7QxaEnyPjI/AAAAAAAADY8/tE7bTqo6JdQ/s1600/trtturk.jpg",TRT TÜRK Seçenek 2
+http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-FQIHbkqOwd4/U7Q6JCG1HiI/AAAAAAAADZ8/_v9tm4KaRBQ/s1600/trtavaz.jpg",TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-RZAbWQvjKDQ/U7Q7GGF7AZI/AAAAAAAADaE/ZV7b7iZtILQ/s1600/trtdiyanet.jpg",TRT DİYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-xHmYbsl_fYc/U7Q74GorvxI/AAAAAAAADaM/Ni1ARR1FhQI/s1600/trt6.jpg",TRT KURDÎ
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1438201585_trtarapca.png" group-title="YILMAZ TV",TRT ARAPÇA HD izle
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-t99a3JH3KwM/U7Q918ClGUI/AAAAAAAADag/lo6Wilpqi1w/s1600/trtarapca.jpg",TRT ARAPÇA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/wdr.png" group-title="YILMAZ TV",WDR HD
-http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
-#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/hr.png" group-title="YILMAZ TV",HR HD
-http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/wdw.png" group-title="YILMAZ TV",WELT DER WUNDER TV
-http://live.vidoo.de/live/weltderwunder/chunklist_w1438632583.m3u8
-#EXTINF:-1 tvg-logo="http://www.yilmaztv.com/logo/tlc.png" group-title="YILMAZ TV",TLC HD
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/9/93/A_News_HD_kurumsal_logo.jpg", A HABER
-http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTCTiAARUg0Pvdf0yWRpR9X5RO6MIHT3j_FMx0DEPUkKl6Xy_", A SPOR
-http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
-#EXTINF:-1 tvg-logo="http://www.ecanlihdtvizle.com/wp-content/uploads/2012/08/beyazhd.png", Beyaz TV
-https://stream-15.dc3.dailymotion.com/dm/3/x4kopfq/live-4.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/09/7e/a1/097ea1e0ded89dbdf7972fd93adb3269.jpg", DREAMTÜRK
-http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvwQFOraBOVX5g0c6k911bQs8-at5txLyn-U9QK5Eqs2IZjqJ", Number one tv
-https://stream-15.dc3.dailymotion.com/dm/3/x67c77j/live-2.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKvwQFOraBOVX5g0c6k911bQs8-at5txLyn-U9QK5Eqs2IZjqJ", Number one TÜRK
-https://stream-15.dc3.dailymotion.com/dm/3/x67cguc/live-2.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", TMB TV
-rtmp://tmbtv.mediatriple.net:1935/tmbtv/tmbtv2
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", ULUSAL TV
-http://98.142.98.125:1935/ulusaltv/ulusaltv/iptvdelisi.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png", TGRT HABER
-rtmp://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3
-#EXTINF:-1 tvg-logo="https://www.batitrakya.org/wp-content/uploads/2016/01/semerkand-tv.jpg",Semerkand HD (Turkey)
-http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-07/1437563828_ntv.png",NTV 
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438631296_ulusalkanal.png",KanalD 
-http://soledge13.dogannet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.hdtvizle.net/test/uploads/posts/2015-08/1438631355_trt1.png",TRT1 
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_1500_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TRT Spor 
-http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/index_1000_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TRT Belgesel 
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TRT Haber 
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_1500_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/TRT_%C3%87ocuk_kurumsal_logo.png",TRT Çocuk 
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/200px-TLC_Logo.svg.png",TLC 
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",TELE 1 
-http://stream-04.dc3.dailymotion.com/dm/3/x6sd3io/live-3.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",CNNTÜRK 
-http://live.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",D MAX HD 
-http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist-ugpwhvm5d_b2128000_sltur.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",İdman TV 1 
-https://streaming.kovalchuk.me/idman/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",UçanKuş 
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg",TRT WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-JVLiZYzaD_0/U7Q89rzMPkI/AAAAAAAADaY/NeDk8DjS8pk/s1600/trtokul.jpg",TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-fk0SUkc_G_I/VpjiGHufcfI/AAAAAAAANyg/Yza0vHow9ps/s1600/ucankustv.jpg",UÇANKUŞ TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Beyaz TV 
-http://37.77.2.236:1935/liveedge/BEYAZTVHQ/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",24 TV 
-http://mn-l.mncdn.com/kanal24/kanal243/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",ShowMax 
-https://mn-nl.mncdn.com/showmax/smil:showmax.smil/chunklist_b1264000.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Tivibu Spor 
-http://zu2or9hg.rocketcdn.com/konf/mob/web16009.isml/QualityLevels(1564000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Kral PoP 
-http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Kral TV 
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg",360
+https://stream-06.ix7.dailymotion.com/dm/3/x648uq8/live-2.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-aAXlkIMVEpM/Vo9sreITppI/AAAAAAAANTc/4gliMvNG10w/s1600/tgrteu.jpg",TGRT EU
+http://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu3/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-skofA9k0eZQ/WdZOHCxCFbI/AAAAAAAAVdc/IwdJQpNORC082Qh1yILpo7NXAFsftB9GgCLcBGAs/s1600/wtv.jpg",WTV TURK HD
+http://1.rtmp.org:80/tv117/yayin.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-rWtkCanq478/VqnQNYOgYkI/AAAAAAAAPbY/SgaeXZkKzkc/s1600/trtmeclis.jpg",MECLİS TV
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-0jgd8QYMwhc/VqnM9xUT0JI/AAAAAAAAPVY/Hn2xZWEOoiE/s1600/kanalt.jpg",KANAL T
+http://207.180.223.92:1935/live/kanalt/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-6sr8Bh3AsfU/WAHR7E694kI/AAAAAAAAQZY/yEyBH1F54vsmRsv2UnxWls6H2SUV5bfygCLcB/s1600/romantv.jpg",ROMAN TV
+http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-C776nyUjzL8/WSgEwInkmEI/AAAAAAAAQ00/yfgmGbV4Y2k1FjF88yKVsQe_SEJCrEmxQCLcB/s1600/duguntv.jpg",DÜĞÜN TV
+http://62.113.210.6/televizyon-live/DugunTv/chunklist_w483265347.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-pstCZDr6AzQ/Vj9wiFm8gcI/AAAAAAAAM5Y/dCOACwLzW2Y/s1600/trthaber.jpg",TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-pstCZDr6AzQ/Vj9wiFm8gcI/AAAAAAAAM5Y/dCOACwLzW2Y/s1600/trthaber.jpg",TRT HABER Seçenek 2
+https://trt-live.ercdn.net/trthaber/trthaber_1.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg",TRT WORLD English
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://2.bp.blogspot.com/-mY7idWjacrE/VdAmYzqwCUI/AAAAAAAAKPQ/JLtIudBS528/s1600/cnnturk.jpg",CNN TÜRK
+http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-Y6QYVnt-Ueg/Vpj225v9TQI/AAAAAAAAN0o/nO5a8r69xBQ/s1600/ntv.jpg",NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://2.bp.blogspot.com/-CqayU7YR0s8/Vpj3BqkC1DI/AAAAAAAAN04/hebhPdIVA_M/s1600/haberturk.jpg",HABER TURK
+http://umutiptv.cf/ciner.php?kanal=haberturk&type=m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://1.bp.blogspot.com/-v7DfwidCkdk/VpkNeKWj8PI/AAAAAAAAN40/YGrwBqNZNk4/s1600/24.jpg",24
+https://stream-08.dc3.dailymotion.com/dm/3/x648u9s/live-3.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-Arn393j0fms/Vpj5KhgxvuI/AAAAAAAAN1M/czrNUc1F4n8/s1600/kanalb.jpg",KANAL B
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-4qzkAN9s75M/Vpjmjb4uvuI/AAAAAAAANzc/tr-2T15y_nA/s1600/ulusalkanal.jpg",ULUSAL KANAL
+http://98.142.98.125:1935/ulusaltv/ulusaltv/chunklist_w1211991768.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://1.bp.blogspot.com/-FFjMAbWGoi8/Vo9mrJio_FI/AAAAAAAANTM/SD_ThM9n8Q0/s1600/tgrthaber.jpg",TGRT HABER
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-yA9j7iAFYjM/VpkNNp1chOI/AAAAAAAAN4c/tCWXAXTANiQ/s1600/bloomberg.jpg",BLOOMBERG HT
+http://umutiptv.cf/ciner.php?kanal=bloomberght&type=m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-sx3seq26Sts/Vpj7g6As_aI/AAAAAAAAN1o/I8ThcmtrUKM/s1600/ahaberhd.jpg",A HABER
+http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://2.bp.blogspot.com/-zPNZ69GR8go/XAgygL6Ek3I/AAAAAAAAXBk/ZItMXI1wDF4Z8hs5lYSJ2G5K87X_7SU2QCLcBGAs/s1600/s.jpg",GEMLİK SANDAL TV
+http://www.tvtelekom.info:1935/sandaltv/sandaltv/index.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg",TELE 1 HD
+https://stream-13.dc3.dailymotion.com/dm/3/x6uoseg/live-3.m3u8
+#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-nOd6Bvjm8hg/W8bJ1pYcl5I/AAAAAAAAW9Q/Pc4uFMA3gVEE173UrPk0ny7c06y5m6LngCLcBGAs/s1600/01.jpg",HABER GLOBAL
+http://mn-nl.mncdn.com/ezcdn_Rlb6Y0obFxgx/Rlb6Y0obFxgx_1/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-b1UACmVk8bI/VhD9vuhcprI/AAAAAAAAMSE/K0KWnv9P_XI/s1600/trtsporhd.jpg",TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-b1UACmVk8bI/VhD9vuhcprI/AAAAAAAAMSE/K0KWnv9P_XI/s1600/trtsporhd.jpg",TRT SPOR HD Seçenek 2
+https://trt-live.ercdn.net/trtspor/trtspor_1.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://3.bp.blogspot.com/-WKUo9TSmQf8/VpklzxIMCpI/AAAAAAAAN58/dlOifbs-M9Y/s1600/asporhd.jpg",A SPOR
+http://trkvz-m.ercdn.net/trkvz-temp/asporhdm.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://3.bp.blogspot.com/-N1_O4_sK9-A/WfxSfzYlk-I/AAAAAAAAVfQ/KJ6YdUj1RIcHUmUceBm4Dh6LbsZCiNgVQCLcBGAs/s1600/b.jpg",BEİN SPORT HABER HD
+https://ams.tvizlehd.com/live/beinhaber/chunks.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://3.bp.blogspot.com/-gRKO-JK0mvA/Vpk6NFL2BTI/AAAAAAAAN8Q/L8qnWtp3_Gw/s1600/fanatiktv.jpg",FANATİK TV
+https://mn-nl.mncdn.com/fanatik_livestream/smil:fanatik.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-2HofBjahlrY/VplNm73SGpI/AAAAAAAAN-c/by1Dt8FJF7Q/s1600/sportstv.jpg",SPORTS TV
+http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://2.bp.blogspot.com/-SwF0SuJ-hYQ/Vpk0pAy-7vI/AAAAAAAAN7o/HpOfOmprZS8/s1600/cbcsport.jpg",CBC SPORT Azerbaycan
+http://85.132.71.6/azerbaijan/cbc_sport_hd/playlist.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://3.bp.blogspot.com/-d1nOIt849JQ/VqnVBTtSagI/AAAAAAAAPfU/Du3ymWCb4sc/s1600/idmantv.jpg",İDMAN TV Azerbaycan
+http://85.132.71.6/azerbaijan/idman/playlist.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://3.bp.blogspot.com/-d1nOIt849JQ/VqnVBTtSagI/AAAAAAAAPfU/Du3ymWCb4sc/s1600/idmantv.jpg",İDMAN TV HD Azerbaycan
+https://streams.livetv.az/azerbaijan/idmanhd/playlist.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-_Tv4zeXkrko/VplQ4g8aUdI/AAAAAAAAN-4/CwtBsMEHbnc/s1600/tjktv.jpg",TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-aqIAqGHFDw0/VqydxVx3eiI/AAAAAAAAPoU/rfTRQJ9_Les/s1600/turkmensport.jpg",SPORT TV Türkmenistan
+http://217.174.225.146/legacyhls/ch004.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-I1pO8vk8v4A/Vpk-r2zj31I/AAAAAAAAN8c/afgy0rnwq8w/s1600/fenerbahcetv.jpg",FENERBAHÇE TV
+http://stream-08.dc3.dailymotion.com/dm/3/x21oo10/live-3.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://4.bp.blogspot.com/-lk7r7NRbPbY/VpkpRAQ90LI/AAAAAAAAN6Y/ynyM9xjpvl4/s1600/bjktv.jpg",BJK TV
+https://stream-09.ix7.dailymotion.com/dm/3/x31omum/live-1.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-CeFyLUvERsk/VplGcRUky3I/AAAAAAAAN84/7PVTMdFnnsE/s1600/galatasaraytv.jpg",GALATASARAY TV
+https://stream-06.ix7.dailymotion.com/dm/3/xne3bf/live-2.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://3.bp.blogspot.com/-ltdJEM2oAxI/VplIsze8-qI/AAAAAAAAN9k/ekkRiZaGwaU/s1600/ntvspor.jpg",NTV SPOR HD
+http://46.105.233.106:8181/ntvspor.ts
+#EXTINF:-1 $ExtFilter="SİNEMA" tvg-logo="http://3.bp.blogspot.com/-s9aJOXa73HQ/WcEl3gvOjjI/AAAAAAAAVbU/cdargnOuozQlSCRq-SuAGN0-APgDr6kjgCLcBGAs/s1600/frm.jpg",FRM TV
+https://5bc9a1b0241ce.streamlock.net/live/myStream/index.m3u8
+#EXTINF:-1 $ExtFilter="SİNEMA" tvg-logo="http://1.bp.blogspot.com/-xPSUHN_COxk/VqnPoLwTlhI/AAAAAAAAPaY/4ACiu_oUI7o/s1600/sunmersin.jpg",SUN TV MERSİN
+https://broadcasttr.com:446/mersinsuntv/smil:mersinsuntv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://3.bp.blogspot.com/-H1gVeWEeRKo/VpgKUqSWUxI/AAAAAAAANqA/O15cJZCYEJg/s1600/trtmuzik.jpg",TRT MÜZİK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://3.bp.blogspot.com/-H1gVeWEeRKo/VpgKUqSWUxI/AAAAAAAANqA/O15cJZCYEJg/s1600/trtmuzik.jpg",TRT MÜZİK Seçenek 2
+https://trt-live.ercdn.net/trtmuzik/trtmuzik_1.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-t3xSR6YC6HU/VpF4OZpXI8I/AAAAAAAANZg/hTqT_QL8Q-I/s1600/kraltv.jpg",KRAL TV
+http://85.132.71.6/turk/kral_stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://1.bp.blogspot.com/-EaHrIvK4Dxw/XB9Msd3F-tI/AAAAAAAAXCY/oR998sltel8N6swWiUZ3R5NsY_L-ona5QCLcBGAs/s1600/ka.jpg",KRAL ARABESK HD
 http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.iptv4sat.com/wp-content/uploads/turkey-1.png",Power 
-http://powertv.listenpowerapp.com/powertv/abr/powertv/720/chunks.m3u8
-
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://1.bp.blogspot.com/-OwtX-qKt8Y8/VpF2tDHe7oI/AAAAAAAANZU/X8BO2AKzP34/s1600/kralpoptv.jpg",KRAL POP TV
+https://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-7ETjNjylguw/WtiWOJmbWOI/AAAAAAAAWCA/dDrlg4XTD3EwtM6oX-xZOL8Is1M_xLekgCLcBGAs/s1600/05.jpg",KRAL PERFORMANS
+https://kh2zh6sy.rocketcdn.com/kraldijital-konsertv.smil/chunklist_b2328000.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-7yvOFYbkx-Y/V7HM5ai3HoI/AAAAAAAAQOo/A8vdoafbAYoB2YagObQ9AL5-ceO4tiPKQCLcB/s1600/kralakustiktv.jpg",KRAL POP Akustik TV
+https://dmu3sqri.rocketcdn.com/kraldijital-akustiktv.smil/chunklist_b2328000.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://3.bp.blogspot.com/-jTr_QYPH05c/V7HPOLRjYrI/AAAAAAAAQO8/XrTNox9lXU0aUJMy6srE3z3ewAYZjnQwgCLcB/s1600/kralpopkonser.jpg",KRAL POP Konser TV
+http://3.bp.blogspot.com/-jTr_QYPH05c/V7HPOLRjYrI/AAAAAAAAQO8/XrTNox9lXU0aUJMy6srE3z3ewAYZjnQwgCLcB/s1600/kralpopkonser.jpg
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-y1428bA0JAg/VpF4T5hmeXI/AAAAAAAANZo/yckivOfMCAM/s1600/kralworldtv.jpg",KRAL WORLD TV
+https://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-279fUEJKH6E/VpF4kBVr19I/AAAAAAAANaA/PFpPHpphksg/s1600/muztv.jpg",MUZ TV Azerbaycan
+http://85.132.78.6:1935/live/muztv.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-pwCNMg7D1n0/VpF7j_HwOYI/AAAAAAAANak/OSl_k9jmYZc/s1600/powertv.jpg",POWER HD
+https://livetv.powerapp.com.tr/powertv/powerhd.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-XTi2lGjafXw/UVRZ99bpo_I/AAAAAAAAMqM/Rp7cqxzN61M/s1600/power_turk_tv.jpg",POWER TURK HD
+https://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://3.bp.blogspot.com/-46zJHDW13VE/VpF2GNmV9BI/AAAAAAAANYk/W3vLnvJ2GAs/s1600/dream.jpg",DREAM TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-JEHuz0-_ADI/VpF2MBbSTGI/AAAAAAAANYs/FOUO642fuWg/s1600/dreamturk.jpg",DREAM TÜRK TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-GeecVd1jB5g/WSgLcnbj_lI/AAAAAAAAQ1M/jvGH6O8f3q0Bt-rQ6mQOnCdvcgLNOw7IwCLcB/s1600/anadolutv.jpg",ANADOLU TV
+rtmp://212.83.133.126/rtplive/anadolutv.sdp
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://3.bp.blogspot.com/-gl_GrLojghk/WXnh-kma9OI/AAAAAAAATeU/qLwNpRE9VlAwWHKQdMixjqtZUnFNuSxzQCLcBGAs/s1600/f43.jpg",FİNEST TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-pp-gcJSNw_M/VpF4ZkR3f3I/AAAAAAAANZw/liqgnTEgjB0/s1600/mavikaradeniztv.jpg",MAVİ KARADENİZ TV
+http://yerelmedya.tv:1935/mavikaradeniz/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-4GfW7HmgvN0/VpF77Fz6VQI/AAAAAAAANbE/ieOHc-5gilQ/s1600/slowkaradeniztv.jpg",SLOW KARADENİZ TV
+http://i52.radyotelekomtv.com:1935/slowkaradeniztv/slowkaradeniztv/chunklist_w1894903683.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-hVby_pUgfyE/VpF4vlf-JrI/AAAAAAAANaQ/2DjCpc0AGYI/s1600/numberonetv.jpg",NUMBER ONE
+https://stream-03.dc3.dailymotion.com/dm/3/x67c77j/live-2.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-jfJjZjCi7fM/XCUsBQBvvjI/AAAAAAAAXDQ/HCIF_x0rk1EwUBfpiR5yJ8PNBCJUugV-QCLcBGAs/s1600/ask.jpg",NUMBER ONE AŞK
+https://stream-04.dc3.dailymotion.com/dm/3/x67ch24/s/live-2.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-KogmLJ2JRTU/XCUsSNY8dkI/AAAAAAAAXDY/XD_yJQL2cVwE0AVHsUohPvqCkx76epgCwCLcBGAs/s1600/damar.jpg",NUMBER ONE DAMAR
+https://stream-01.ix7.dailymotion.com/dm/3/x67ch8g/live-2.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-q-7h_kXFgHo/XCUslO2LS5I/AAAAAAAAXDg/pGzBFKRDUbUVknTUid_lh3iDVUHNrbUCACLcBGAs/s1600/dance.jpg",NUMBER ONE DANCE
+https://stream-01.ix7.dailymotion.com/dm/3/x67chco/s/live-2.m3u8
+#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-lWwCHZ2POj4/VpF4pZb0m7I/AAAAAAAANaI/iHp7WfnKUUE/s1600/numberoneturk.jpg",NUMBER ONE TÜRK
+https://stream-06.ix7.dailymotion.com/dm/3/x67cguc/live-2.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-Sou5ONlDqO8/Wtc_Y-lL6eI/AAAAAAAAV-4/EiPDtF6wDzsEN7RlUs0Z5cxljLx75zcmgCLcBGAs/s1600/38.jpg",38 KENT TV
+http://yerelmedya.tv:1935/38kenttv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-taOxzaBGirY/VqnEZ-ezkqI/AAAAAAAAPGU/K-vyBrqyKI0/s1600/adanakozatv.jpg",ADANA KOZA TV
+http://kozatv.garantisistem.com:1935/kozatv/kozalive/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-BKgkQf7WhSE/VqnEfygYVSI/AAAAAAAAPGk/jzcz5cqOqtU/s1600/ahitv.jpg",AHİ TV
+https://59cba4d34b678.streamlock.net/canlitv/ahitv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-nrKZ-lxTCQY/WIs1M9lo0KI/AAAAAAAAQrE/xOXYdLZrvU0v3Njb-nchM-X7m4qRkVBVQCLcB/s1600/ailetv.jpg",AİLE TV
+http://ms.n1.tvkur.noccdn.com/cdn/559148303a53d/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-Dn-JZtSJzZg/VqnEv2_gyWI/AAAAAAAAPHE/k1JruDv_pgs/s1600/aksutv.jpg",AKSU TV
+http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-Dn-JZtSJzZg/VqnEv2_gyWI/AAAAAAAAPHE/k1JruDv_pgs/s1600/aksutv.jpg",AKSU TV Seçenek 2
+https://broadcasttr.com:446/aksutv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-1wfvh62iE90/VqnEzPZqUEI/AAAAAAAAPHM/NvlgQOGMI0E/s1600/alanyatv.jpg",ALANYA ATV
+http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-U4Uin2c79_0/VqnE4hgtDjI/AAAAAAAAPHU/2VUo4g-Rz1k/s1600/altastv.jpg",ALTAŞ TV
+http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-7KjO2dIWaAM/VqnFQYgV4vI/AAAAAAAAPIE/GKpszH-nJFE/s1600/balikesirkenttv.jpg",BALIKESİR KENT TV
+http://stream2.taksimbilisim.com:1935/kenttv/smil:kenttv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-SWAvQO36B54/VpkNY4by2nI/AAAAAAAAN4s/zJwjEhVt9u8/s1600/bengiturk.jpg",BENGÜTÜRK TV
+https://stream-09.dc3.dailymotion.com/dm/3/x6ikbyi/live-2.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-yA9j7iAFYjM/VpkNNp1chOI/AAAAAAAAN4c/tCWXAXTANiQ/s1600/bloomberg.jpg",BLOOMBERG HT
+http://tf.umutiptv.cf/ciner.php?kanal=bloomberght
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-r-gEnTSayJE/Vq32Lx8wbVI/AAAAAAAAPpY/lanAu6OA9B8/s1600/brt1.jpg",BRT 1
+http://wms.brtk.net:1935/live/brt1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-b9XQXP6RowU/Vq32QM-0uJI/AAAAAAAAPpg/nWbvuWEERok/s1600/brt2.jpg",BRT 2
+http://wms.brtk.net:1935/live/brt2/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-NiaYn6CqqOk/Vq32XF3rEaI/AAAAAAAAPpo/ShUDHO5-HCY/s1600/brthd.jpg",BRT HD
+http://wms.brtk.net:1935/live/BRTHD/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-RCogFaOnU6M/V49ZHz7eOWI/AAAAAAAAQAU/jixlfgstcm0_scfZyhfMXbjsfJjuBZCHACLcB/s1600/brtv.jpg",BRTV
+https://59cba4d34b678.streamlock.net/canlitv/brtv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-Xs4efexUHec/VqnGInkHecI/AAAAAAAAPKE/450VRjLj2s0/s1600/bursaastv.jpg",BURSA ASTV
+https://59cba4d34b678.streamlock.net/canlitv/astv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-b7AIQ0Xqb2o/VqnGQVtqzjI/AAAAAAAAPKU/BbyZF1e-f44/s1600/bursakanal16.jpg",BURSA KANAL 16
+http://canli2.kurumsalx.com/live/kanal16.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-2hiji0KBUKU/VqnGS6Bqd_I/AAAAAAAAPKc/qEUGQ3b107c/s1600/bursalinetv.jpg",BURSA LİNE TV
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-zddWqWMq8pU/VqnGYhBFS4I/AAAAAAAAPKs/FCCD7IQZtVo/s1600/bursaolay.jpg",BURSA OLAY TV
+https://stream-08.ix7.dailymotion.com/dm/3/x4k2b30/live-1.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-ArMDoi_2A3M/VqnGFr2lKpI/AAAAAAAAPJ8/FXN90gtNI9U/s1600/bursa.jpg",BURSA TV
+http://yerelmedya.tv:1935/bursatv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-ekO8rYwFKlc/WIoN_g5v2cI/AAAAAAAAQqk/lTVBgn93QggNwa1_6ZCHn4oTUxlCJeaRwCLcB/s1600/cantv.jpg",CAN TV
+https://59cba4d34b678.streamlock.net/canlitv/cantv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-7NPx6JcFE7U/VqnGjvp-QbI/AAAAAAAAPLE/MpBJ69cDd9w/s1600/canakkaletontv.jpg",ÇANAKKALE TON TV
+http://stream.taksimbilisim.com:1935/tontv/smil:tontv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-2ro26r0K_Kc/WSgRiYSwy3I/AAAAAAAAQ1c/O3ia-TwtHEY6dCr9b9W2--irJ-PezhKWwCLcB/s1600/canakkaletv.jpg",ÇANAKKALE TV
+http://www.tvtelekom.info:1935/canakkaletv/canakkaletv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-7JUvD_D1i0A/VqnHg5NwODI/AAAAAAAAPLo/ldxSONIdLMg/s1600/caytv.jpg",ÇAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-GiFwovCK2rU/VqnHy3CR7qI/AAAAAAAAPMQ/TOWlMku1nZA/s1600/dehatv.jpg",DEHA TV
+http://stream2.taksimbilisim.com:1935/deha/bant1/DEHATV.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-PoQvbsJQYHU/VqnH7fXbsiI/AAAAAAAAPMg/RphDAqFKdhI/s1600/denizhabertv.jpg",DENİZ HABER TV
+https://s01.vpis.io/denizhaber/denizhaber.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-rfOg3FzWBTI/VqnIHCusO8I/AAAAAAAAPM4/hqQRdSlNPzs/s1600/diyalogtv.jpg",DİYALOG TV
+https://59cba4d34b678.streamlock.net/live/diyalogtv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-toCumAKTfTI/VqnIPWAi2aI/AAAAAAAAPNQ/17jHI2VWSVY/s1600/drt.jpg",DRT DENİZLİ
+http://stream2.taksimbilisim.com:1935/drt/smil:drt.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-3o46gBJRhOA/VqnIi1iz0CI/AAAAAAAAPNo/3jDni0v41ho/s1600/edessatv.jpg",EDESSA TV
+http://185.87.252.44:1935/edessatv/edessatv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-gpwwKkRw6Pg/VqnImSXSV_I/AAAAAAAAPNw/POb1uYh5Xa8/s1600/edirnetv.jpg",EDİRNE TV
+https://59cba4d34b678.streamlock.net/canlitv/edirnetv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-FyUO3dn8kXE/VqnOgFg1_AI/AAAAAAAAPX4/NzXsGSMDEJ8/s1600/malatyaertv.jpg",ER TV
+http://yerelmedya.tv:1935/ertv/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-b9zGzlZJ55c/VqnJE0RXSQI/AAAAAAAAPOY/qmqOrnHibao/s1600/estv.jpg",ES TV
+https://59cba4d34b678.streamlock.net/canlitv/estv/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-vg_yZFQB924/VqnJJeP_tyI/AAAAAAAAPOg/dXaywEnCdsI/s1600/etv.jpg",ETV MANİSA
+http://broadcasttr.com:1935/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-gYSx87K9K6w/VqnJUa3NyBI/AAAAAAAAPO4/M3UPZ1iO-Gw/s1600/finesttv.jpg",FİNEST TV
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-B7jZURoDZog/VqnJd_LcusI/AAAAAAAAPPQ/Z-sKzTQUx-w/s1600/gaziantepolaytv.jpg",GAZİANTEP OLAY TV
+http://yerelmedya.tv:1935/olaytv/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-Kqsc1MG1i4g/WSg7Hi44evI/AAAAAAAAQ1s/Jc2TWmyM2Uobgcw8-cvUvyOBYVyCK9aZACLcB/s1600/goncatv.jpg",GONCA TV
+http://stream.taksimbilisim.com:1935/tuncerciftci/smil:tuncerciftci.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-o9yeX84JbGc/VqnKDS4arYI/AAAAAAAAPPw/6oBT66da2LI/s1600/guneytv.jpg",GÜNEY TV
+http://stream.taksimbilisim.com:1935/tarsusguneytv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-WiRdEoyVrIE/VqnKAeqwvgI/AAAAAAAAPPo/baqSsfyi0hw/s1600/guneydogutv.jpg",GÜNEYDOĞU TV
+http://stream2.taksimbilisim.com:1935/gtv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-VBFvcTD3wLY/VqnKIdk5l1I/AAAAAAAAPP4/nIcnwtkkCeY/s1600/haber61.jpg",HABER 61 TV
+http://win8.yayinda.org:1935/haber61tv/smil:haber61tv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-ZFWbSIFZ3hc/VqnKLJr0mCI/AAAAAAAAPQA/V5c6k4csQ-U/s1600/haberaks.jpg",HABERAKS TV
+http://178.211.51.4/hls/haberaks.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-UiVuvD2jJlw/VqnKQ2Trr4I/AAAAAAAAPQQ/NxoTYMP17i8/s1600/iceltv.jpg",İÇEL TV
+http://stream.taksimbilisim.com:1935/iceltv/smil:iceltv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-bfM9zZuavw4/VqnKXI5q6sI/AAAAAAAAPQY/_-bB8bv9HNE/s1600/istanbul1.jpg",İSTANBUL 1
+http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-ny26g4bDS_A/VqnKZ60hs6I/AAAAAAAAPQg/P5VVRs4DduI/s1600/istanbul2.jpg",İSTANBUL 2
+http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-OsjaGIZFJ4Q/V49x5yWlMmI/AAAAAAAAQA0/0-cNC57fEY8f3FpMaEIoEvyGJVKvaJY2ACLcB/s1600/kampustv.jpg",KAMPUS TV ERCİYES
+http://193.255.89.90:1935/live/kampustv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-Bqdx-lsFeK4/VqnKn8BV1wI/AAAAAAAAPRA/ow9cp_X0ruI/s1600/kanal3.jpg",KANAL 3
+http://stream.taksimbilisim.com:1935/kanal3/smil:kanal3.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-kVqOL5IcFaA/VqnK0gVPY7I/AAAAAAAAPRY/yqlBjEC-9II/s1600/kanal15.jpg",KANAL 15
+http://broadcasttr.com:1935/kanal15/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-ylzW9L81H6w/VqnK3bOOkSI/AAAAAAAAPRg/rUWuaamaSOU/s1600/kanal19.jpg",KANAL 19
+http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-ZRsTbQDXcyI/VqnK6srDZQI/AAAAAAAAPRo/8A8Uh9mBCFM/s1600/kanal23.jpg",KANAL 23
+http://yerelmedya.tv:1935/kanal23/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-Dbn38YzKRfo/VqnLCcWbu_I/AAAAAAAAPR4/WU_T0ccJrxs/s1600/kanal26.jpg",KANAL 26
+http://stream.taksimbilisim.com:1935/kanal26/smil:kanal26.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-GfKlrWnFFBA/VqnLUcJz7YI/AAAAAAAAPSY/xtnfxGT3pIU/s1600/kanal33.jpg",KANAL 33
+http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-zEwX3drgAwU/VqnLXX_CIJI/AAAAAAAAPSg/eyIiNn2WT6I/s1600/kanal34.jpg",KANAL 34
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-VmdE9975Fpg/VqnLd38viUI/AAAAAAAAPSw/fkC2Yu7IPfY/s1600/kanal38.jpg",KANAL 38
+https://59cba4d34b678.streamlock.net/live/kanal38/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-9pjLL01kIIE/VqnLjYp_R3I/AAAAAAAAPS4/l5mPEg5irKc/s1600/kanal43.jpg",KANAL 43
+https://59cba4d34b678.streamlock.net/canlitv/kanal43/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-EpOJkQk1pBc/VqnMKSUNnBI/AAAAAAAAPTo/uAz0ZLBW0zg/s1600/kanal60.jpg",KANAL 60
+http://yerelmedya.tv:1935/kanal60/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-eVr8BpYIMgs/VqnMNstJLcI/AAAAAAAAPTw/zG3ssq2rVsI/s1600/kanal68.jpg",KANAL 68
+http://yerelmedya.tv:1935/kanal68/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-iwa73VwZkBY/VqnMY1z_duI/AAAAAAAAPUI/YEnaO9Ahe0I/s1600/kanalalanya.jpg",KANAL ALANYA
+http://stream2.taksimbilisim.com:1935/kanala/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-0jgd8QYMwhc/VqnM9xUT0JI/AAAAAAAAPVY/Hn2xZWEOoiE/s1600/kanalt.jpg",KANAL T
+http://207.180.223.92:1935/live/kanalt/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-x7xWpPqYlqQ/VqnNDXdSDSI/AAAAAAAAPVo/MJ15wsByzYo/s1600/kanaltkibris.jpg",KANAL T Kıbrıs
+https://59cba4d34b678.streamlock.net/canlitv/kibriskanalt/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-V04krXLhmVc/VqnQ4GotFWI/AAAAAAAAPc4/mJiCsMz8bUw/s1600/viptv.jpg",KANAL V
+http://yerelmedya.tv:1935/kanalv/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-UdES-S8K_Xs/VqnNNcCSdqI/AAAAAAAAPV4/f9Pcr5L2WiU/s1600/kanalz.jpg",KANAL Z
+http://stream.taksimbilisim.com:1935/kanalz/smil:kanalz.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-6W2GSWJqdzM/VqnNchKWfxI/AAAAAAAAPWY/Mm5cZKDCUKw/s1600/kardelentv.jpg",KARDELEN TV
+http://cdn1.streamencoding.com:1935/kardelen_live/HD/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-A-chyNsGh1U/VqnNfG2LIyI/AAAAAAAAPWg/qcUv9QcDgF4/s1600/kaytv.jpg",KAY TV
+https://59cba4d34b678.streamlock.net/canlitv/kaytv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-yY0_jbOtJ34/VqnNiLg6enI/AAAAAAAAPWo/bbisKrrVsR0/s1600/kibrisadatv.jpg",KIBRIS ADA TV
+https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-dxCWs3OApSM/VqnNk_7d5UI/AAAAAAAAPWw/R1BEaApa384/s1600/kibrisgenctv.jpg",KIBRIS GENÇ TV
+https://59cba4d34b678.streamlock.net/canlitv/kibrisgenctv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-nqj9kT9mmZk/VqnNwX7HOrI/AAAAAAAAPXI/XqHnP4tf6JM/s1600/kontv.jpg",KON TV
+https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-lz8kgZuUMjU/VqnN4Z-EJGI/AAAAAAAAPXY/eEMbFtKlrEg/s1600/koroglutv.jpg",KÖROĞLU TV
+http://stream.taksimbilisim.com:1935/koroglutv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-BZArqx0c9ME/V4-LnAE4OtI/AAAAAAAAQBQ/ife_-emNd_QbaKcdyoLAQ_0wMw_fpZYOgCLcB/s1600/kudistv.jpg",KUDÜS TV
+http://yayin10.canliyayin.org/P981680400/kudustv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-Ks_Ps5VxoOI/WSlLAJatyVI/AAAAAAAAQ2I/1Rf79CpUb-0wP8c-SXZzdDXQv7qKg12NgCLcB/s1600/makinetv.jpg",MAKİNE TV
+http://46.20.13.51:1935/makinetv/_definst_/makinetv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-FyUO3dn8kXE/VqnOgFg1_AI/AAAAAAAAPX4/NzXsGSMDEJ8/s1600/malatyaertv.jpg",MALATYA ER TV
+http://yerelmedya.tv:1935/ertv/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-AaY1gupovsQ/VqnOiyeJkDI/AAAAAAAAPYA/gaRr22vVitE/s1600/malatyagunes.jpg",MALATYA GÜNEŞ TV
+https://59cba4d34b678.streamlock.net/canlitv/malatyagunestv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-3ad5JZhKu6Y/V4-QhpuSZxI/AAAAAAAAQBo/EmjCLYoyOusE4ZN5ekhPfkfMQu6Gdd4pwCLcB/s1600/martv.jpg",MARMARA TV
+http://marmaratv.canliyayin.org/P324353563/marmaratv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-scz4iW8y2D0/VqnO3UWqNwI/AAAAAAAAPYw/kgrTVqfExfI/s1600/marmaristv.jpg",MARMARİS TV
+https://59cba4d34b678.streamlock.net/canlitv/marmaristv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-pp-gcJSNw_M/VpF4ZkR3f3I/AAAAAAAANZw/liqgnTEgjB0/s1600/mavikaradeniztv.jpg",MAVİ KARADENİZ TV
+http://yerelmedya.tv:1935/mavikaradeniz/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-b79VRT0gw4U/VqnO8koUQAI/AAAAAAAAPY4/wHNUC_gonN0/s1600/mercantv.jpg",MERCAN TV
+http://yerelmedya.tv:1935/mercantv/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-FhLcamniPiE/WSlYKzrt0DI/AAAAAAAAQ2Y/ECIh3FG0zo4WPE9G_m4Oqn3JgJP72Aw3QCLcB/s1600/merkeztv.jpg",MERKEZ TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-_NhRZOQTmBE/Wtdf_S9cN8I/AAAAAAAAV_s/Gxz-295SdeMpnqobO7FxLfhpVzvh14oxACLcBGAs/s1600/m.jpg",METRO TV
+http://yerelmedya.tv:1935/metrortv/bant1/radyodelisi_w1975330638.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-nGdJNPlwJlo/VqnPEywutjI/AAAAAAAAPZQ/a6cBeozGw84/s1600/oncutv.jpg",ÖNCÜ TV
+http://yerelmedya.tv:1935/oncurtv/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-GnIfZ_Vle9g/VqnPNuEH1rI/AAAAAAAAPZg/cZaT9nzl1q0/s1600/pamukkaletv.jpg",PAMUKKALE TV
+http://159.253.44.101:1935/pamukkaletv/pamukkaletv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-6sr8Bh3AsfU/WAHR7E694kI/AAAAAAAAQZY/yEyBH1F54vsmRsv2UnxWls6H2SUV5bfygCLcB/s1600/romantv.jpg",ROMAN TV
+http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-kmq_Mo2CJwc/VqnPQgASlqI/AAAAAAAAPZo/XY56Kerf_OE/s1600/rumelitv.jpg",RUMELİ TV
+http://yerelmedya.tv:1935/rumelitv/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-o0_S0LAgfvQ/VqnPY8_oxFI/AAAAAAAAPZ4/Dc--W31e9tk/s1600/sakaryatv.jpg",SAKARYA TV
+http://s01.vpis.io/sakaryatelevizyonu/sakaryatelevizyonu.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-Awc9q_uwA-g/V4_HbF1lAiI/AAAAAAAAQCU/1UeveuvRQ7gjpRalWPPzlqFWeZRm7b3-ACLcB/s1600/sariyertv.jpg",SARIYER TV
+http://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-Bth3otKVi4w/VqnPcjzgoAI/AAAAAAAAPaA/qIPefm_XXN0/s1600/sinopyildiztv.jpg",SİNOP YILDIZ TV
+http://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-Hq0bEINR0sM/VqnPfWDF1_I/AAAAAAAAPaI/ET2_YjZuMTw/s1600/sivassrt.jpg",SRT
+http://stream.taksimbilisim.com:1935/srt/smil:srt.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-xPSUHN_COxk/VqnPoLwTlhI/AAAAAAAAPaY/4ACiu_oUI7o/s1600/sunmersin.jpg",SUN TV Mersin
+http://stream2.taksimbilisim.com:1935/mersinsuntv/smil:mersinsuntv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-qyVfwQXIjhg/VqnPrJn-Y0I/AAAAAAAAPag/FA5yT6vbK-g/s1600/tekrumeli.jpg",TEK RUMELI TV
+https://59cba4d34b678.streamlock.net/canlitv/tekrumelitv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-YPlyovwJgZE/VqnPy_h9H8I/AAAAAAAAPaw/J8bWYPkE6DM/s1600/tempotv.jpg",TEMPO TV
+rtmp://91.93.118.165/tempotv/livestream
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-Chn9XYnxLDA/WXF_SSV5-7I/AAAAAAAATZs/_tQCIHsmiV8o5nxQQjwYc54CTcmNnCegwCLcBGAs/s1600/tlc.jpg",TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-nvnpt-Ny6Eg/VqoOUSpcVRI/AAAAAAAAPkg/VbLrZcLVtLo/s1600/trabzontv.jpg",TRABZON TV
+https://59cba4d34b678.streamlock.net/canlitv/trabzontv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-3AgtGWHhFBQ/VqnQTNvFBEI/AAAAAAAAPbo/766jHzr8Kjg/s1600/tv1.jpg",TV1
+http://stream.taksimbilisim.com:1935/tv1/smil:tv1.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-nTTQYR9Cp9M/VppM7sDWPDI/AAAAAAAAOCs/-a6GaFqbscs/s1600/tv5.jpg",TV5
+http://nbvd2zzn.rocketcdn.com/tv5.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-0eGv2dDP7wA/VqnQiSGGKqI/AAAAAAAAPcI/zkr06d7IYoM/s1600/tv41.jpg",TV41
+http://stream.taksimbilisim.com:1935/tv41/smil:tv41.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-0eGv2dDP7wA/VqnQiSGGKqI/AAAAAAAAPcI/zkr06d7IYoM/s1600/tv41.jpg",TV41 Seçenek 2
+http://yerelmedya.tv:1935/tv41/_definst_/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-7bfEUKM7RxI/VqnQlDMUt9I/AAAAAAAAPcQ/S34UgUCWLcc/s1600/tv52.jpg",TV52
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-uOPD5GPDIYE/WtdOAo9gdzI/AAAAAAAAV_I/8SHImVY_Vr0lR52R5dKNgR4bF6Pz65TlQCLcBGAs/s1600/tva.jpg",TV ADANA
+http://broadcasttr.com:1935/tva/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-yHVN0covidA/WSll2Nf6A2I/AAAAAAAAQ2o/vbOq69n0TOw1q-8_-IzFRVwiGaaUfFrmACLcB/s1600/tvden.jpg",TVDEN
+https://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-Ze9mOtyaVaI/VqnQ674xG1I/AAAAAAAAPdA/9LNgSEFzxZs/s1600/vizyon58.jpg",VİZYON 58
+http://yerelmedya.tv:1935/vizyon58/bant1/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-sR8r-ho7nbQ/VioVk4SX9zI/AAAAAAAAMyc/_kApsfEtzac/s1600/vuslattv.jpg",VUSLAT TV
+https://59cba4d34b678.streamlock.net/live/vuslattv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg",YABAN TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-XczsDAdGN28/WtdoThpKRRI/AAAAAAAAV_8/6XX3H-P8kgY6syTom91H9n2yGNsiMLiMACLcBGAs/s1600/y.jpg",YAŞAM TV
+http://yerelmedya.tv:1935/yasamtv/bant1/radyodelisi_w1976939235.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRT BELGESEL Seçenek 2
+https://trt-live.ercdn.net/trtbelgesel/trtbelgesel_1.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://1.bp.blogspot.com/-HIwT2idFPFU/VpgGe6pa3WI/AAAAAAAANpU/Z1yHtRy1Ha8/s1600/trtokul.jpg",TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://1.bp.blogspot.com/-HIwT2idFPFU/VpgGe6pa3WI/AAAAAAAANpU/Z1yHtRy1Ha8/s1600/trtokul.jpg",TRT OKUL Seçenek 2
+https://trt-live.ercdn.net/trtokul/trtokul_1.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://4.bp.blogspot.com/-8Y6AOpXv-Os/VpgGPwzDHwI/AAAAAAAANo8/9bQ10Udw8kw/s1600/tgrtbelgesel.jpg",TGRT Belgesel
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://1.bp.blogspot.com/-50e25_aaX84/VpgF0p7rdAI/AAAAAAAANoU/GyPS5OIh7Ag/s1600/koytv.jpg",KÖY TV
+http://195.244.32.3/koytv/live/playlist.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://4.bp.blogspot.com/-4bfQc2o3o7Y/VpgGJ2Y2gaI/AAAAAAAANo0/l83p_FwrNfg/s1600/tarimtv.jpg",TARIM TV
+http://ms.n1.tvkur.noccdn.com/cdn/540ea58191866/playlist.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcQONjl1jaXGSyDziaS_2eI6thQnBYWSObKnJfxnTt1XSuBKjcaH",SELÇUK ÜNİVERSİTESİ
+https://59cba4d34b678.streamlock.net/live/untv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://4.bp.blogspot.com/-bfJC6LQ2odk/VpgEwGd3CdI/AAAAAAAANno/F6SixFSnj5I/s1600/berekettv.jpg",BEREKET TV
+http://mtzerfslulaflive.mediatriple.net/mtzerfslulaflive/broadcast_5a1ebda4744d6.smil/chunklist_w570617216_b800000.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://2.bp.blogspot.com/-P_ahGTXtqvY/VpgFbvIjeAI/AAAAAAAANn8/vZJmybe2W5g/s1600/bhayvancilik.jpg",BEREKET HAYVANCILIK
+http://mtzerfslulaflive.mediatriple.net/mtzerfslulaflive/broadcast_5a245708b8a5e.smil/chunklist_w427062084_b800000.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://4.bp.blogspot.com/-zkB9iuh3mqs/V49eKY-IZ-I/AAAAAAAAQAk/l0A3DhJt8nsZD_QWVac_EHKXfHFQYtASQCLcB/s1600/ciftcitv.jpg",ÇİFTÇİ TV
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="BELGESEL" tvg-logo="http://3.bp.blogspot.com/-v3on2BzICQM/WrY1D1WtlcI/AAAAAAAAV6U/pjcWH0uEPXcHfSDhM3RWk7epDGm_ViPzACLcBGAs/s1600/dmax.jpg",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist-uvai5ibvb_b2328000_sltur.m3u8
+#EXTINF:-1 $ExtFilter="ÇOCUK" tvg-logo="http://2.bp.blogspot.com/-VEJcgxpsjR4/VpZeu3BS1YI/AAAAAAAANg8/87Qwfujjhgc/s1600/trtcocuk.jpg",TRT ÇOCUK HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 $ExtFilter="ÇOCUK" tvg-logo="http://2.bp.blogspot.com/-VEJcgxpsjR4/VpZeu3BS1YI/AAAAAAAANg8/87Qwfujjhgc/s1600/trtcocuk.jpg",TRT ÇOCUK HD Seçenek 2
+https://trt-live.ercdn.net/trtcocuk/trtcocuk_1.m3u8
+#EXTINF:-1 $ExtFilter="ÇOCUK" tvg-logo="http://1.bp.blogspot.com/-ET3ZBteQYoE/VpZegDQeELI/AAAAAAAANgk/6bSj5K7bYSQ/s1600/minikacocuk.jpg",MİNİKA ÇOCUK
+https://trkvz-m.ercdn.net/trkvz-temp/minikagococukm.m3u8
+#EXTINF:-1 $ExtFilter="ÇOCUK" tvg-logo="http://2.bp.blogspot.com/-MHLVRlx-YiE/VpZekASL2aI/AAAAAAAANgs/XTLYRNXenDQ/s1600/minikago.jpg",MİNİKA GO
+http://trkvz-m.ercdn.net/trkvz-temp/minikagom.m3u8
+#EXTINF:-1 $ExtFilter="ÇOCUK" tvg-logo="http://2.bp.blogspot.com/-46czuMBJO2I/VpZe7D0WjnI/AAAAAAAANhE/nb0lOWk_bNw/s1600/tv4.jpg",TV4
+http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ÇOCUK" tvg-logo="http://3.bp.blogspot.com/-7Et1bqWbZo4/VpZebYcvoiI/AAAAAAAANgc/QKRhFm_tGm8/s1600/laletvtatar.jpg",LALE TV Kırım Tatar
+http://stream.atr.ua/lale/live/index.m3u8
+#EXTINF:-1 $ExtFilter="DİNİ" tvg-logo="http://1.bp.blogspot.com/-V2NA9w9GUEc/VppMwWehO4I/AAAAAAAAOCc/eWht_AJ-tCQ/s1600/trtdiyanet.jpg",DİYANET TV
+http://5.44.154.68/dvr/diyanettv.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="DİNİ" tvg-logo="http://1.bp.blogspot.com/-V2NA9w9GUEc/VppMwWehO4I/AAAAAAAAOCc/eWht_AJ-tCQ/s1600/trtdiyanet.jpg",TRT DİYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1 $ExtFilter="DİNİ" tvg-logo="http://2.bp.blogspot.com/-sqowYsWnchU/VppMr6zac1I/AAAAAAAAOCU/wVD1JTDaK5M/s1600/semerkandtv.jpg",SEMERKAND TV
+http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
+#EXTINF:-1 $ExtFilter="DİNİ" tvg-logo="http://3.bp.blogspot.com/-v94Dwz7wf0M/VppMTqgg5-I/AAAAAAAAOB0/euLJAQZ6tlk/s1600/lalegultv.jpg",LALEGÜL TV
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="DİNİ" tvg-logo="http://1.bp.blogspot.com/-BZArqx0c9ME/V4-LnAE4OtI/AAAAAAAAQBQ/ife_-emNd_QbaKcdyoLAQ_0wMw_fpZYOgCLcB/s1600/kudistv.jpg",KUDÜS TV
+http://yayin10.canliyayin.org/P981680400/kudustv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://1.bp.blogspot.com/-hLXbklgzPh0/VqnUqDP6TxI/AAAAAAAAPec/DXeViYFdjEY/s1600/aztv.jpg",AZ TV Azerbaycan
+http://85.132.71.6/azerbaijan/aztv_stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-hvPG18I0JtY/VqnVQNuIpII/AAAAAAAAPf0/qLGuI9u1P2Y/s1600/medeniyettv.jpg",MEDENİYYET TV Azerbaycan
+http://85.132.71.6/azerbaijan/medeniyyet_stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-d1nOIt849JQ/VqnVBTtSagI/AAAAAAAAPfU/Du3ymWCb4sc/s1600/idmantv.jpg",İDMAN TV Azerbaycan
+http://85.132.71.6/azerbaijan/idman/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-MAOGoAQjEzA/VqnUnAkAF7I/AAAAAAAAPeU/EIbauWOmacA/s1600/atvaz.jpg",ATV Azerbaycan
+http://85.132.81.184:8080/atv/index.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://4.bp.blogspot.com/-x5hJXxg1htg/WtgncE6nfmI/AAAAAAAAWAQ/R8_LqErY5n033gYv_nmGhPdkdHDsGt02QCLcBGAs/s1600/arb.jpg",ARB Azerbaycan
+https://streams.livetv.az/azerbaijan/arb/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://4.bp.blogspot.com/-24uLtGKo-zE/WtgtjNpb3YI/AAAAAAAAWAg/jMAPsDoGmDQd8X1FwA0YL9EylZyOD904ACLcBGAs/s1600/24.jpg",ARB 24 Azerbaycan
+https://streams.livetv.az/azerbaijan/24/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://4.bp.blogspot.com/-woNlUyi9xrM/WtgvRRQxV4I/AAAAAAAAWAs/HTSL1f75YmkeeWmdhoInqOWsaUdGsnBewCLcBGAs/s1600/g.jpg",ARB GÜNEŞ Azerbaycan
+https://streams.livetv.az/azerbaijan/gunes/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-7S09d_GQlxc/Wtgy00hkwnI/AAAAAAAAWA4/hOLXMnO_MS0gCmUGpIB01xntbj4XGRdvACLcBGAs/s1600/u.jpg",ARB ULDUZ Azerbaycan
+https://streams.livetv.az/azerbaijan/ulduz/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://2.bp.blogspot.com/-uUHS_hLzdkE/VqnUs1Q0oqI/AAAAAAAAPek/xDp__Rl24ec/s1600/cbcaz.jpg",CBC TV Azerbaycan
+http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://2.bp.blogspot.com/-JrUETTci5Ks/Wth_6bceoXI/AAAAAAAAWBI/Wvd4a-RNJAE0qPH2psCcwo5xYDQO8ZxygCLcBGAs/s1600/d.jpg",DALGA TV Azerbaycan
+https://streams.livetv.az/azerbaijan/dalga/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://2.bp.blogspot.com/-ad742xWAgjA/VqnU58PFoGI/AAAAAAAAPfE/MwJU7ub3lFQ/s1600/gunaztv.jpg",GÜNAZ TV Azerbaycan
+http://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://4.bp.blogspot.com/-ndrpNr0WgF0/VqnU8w973MI/AAAAAAAAPfM/nW-32FL044U/s1600/ictimaitv.jpg",İÇTİMAİ TV Azerbaycan
+https://streams.livetv.az/azerbaijan/ictimaihd/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://2.bp.blogspot.com/-N1I1aA-UGjY/VqnVHOHAfLI/AAAAAAAAPfk/wjl7fILBLZQ/s1600/kepeztv.jpg",KEPEZ TV Azerbaycan
+http://85.132.81.184:8080/arbkepez/live/index.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-bBNai0lGqBY/VqnVJ-5RlBI/AAAAAAAAPfs/yGFkgB2I5YY/s1600/lidertv.jpg",LİDER TV Azerbaycan
+https://streams.livetv.az/azerbaijan/lider_stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://2.bp.blogspot.com/-279fUEJKH6E/VpF4kBVr19I/AAAAAAAANaA/PFpPHpphksg/s1600/muztv.jpg",MUZ TV Azerbaycan
+https://streams.livetv.az/live/muztv.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://2.bp.blogspot.com/-yuMnSsDaUAY/VqnU0S_HMQI/AAAAAAAAPe0/T5PccMk10mA/s1600/dunyatvaz.jpg",DÜNYA TV Azerbaycan
+https://streams.livetv.az/azerbaijan/dunya/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-0JrwAQTVMeY/VqnVt8AhGXI/AAAAAAAAPg8/zcwRqAAuMhI/s1600/spacetvaz.jpg",SPACE TV Azerbaycan
+https://streams.livetv.az/azerbaijan/space_stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://1.bp.blogspot.com/-v730dfnyS60/WtixSRd-hRI/AAAAAAAAWCk/xXjjpRwGVnc2_v2Obo417MzNSThDNAKxwCLcBGAs/s1600/r.jpg",REAL TV Azerbaycan
+https://streams.livetv.az/azerbaijan/real/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-kjG_WhQeSxs/U_BkTnQvT7I/AAAAAAAAGQY/MUf6P6k76B4/s1600/ktk.jpg",KTK Kazakistan
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://1.bp.blogspot.com/-shGdn_cE3H0/VqnSCaLUz_I/AAAAAAAAPeI/e7QJoAaAdlw/s1600/atr.jpg",ATR Kırım Tatar TV
+http://stream.atr.ua/atr/live/index.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://4.bp.blogspot.com/-FL1bLj_d_ts/Vqydi0RRRbI/AAAAAAAAPn0/kSWjUW5Czdw/s1600/taltinasir.jpg",ALTIN ASIR TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch001.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://4.bp.blogspot.com/-rG5VpB4KpDg/Vqydaw8lV_I/AAAAAAAAPnk/HhKq0bc9Vxk/s1600/taksabat.jpg",AŞKABAT TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch006.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-ZrV01d666wQ/VqydmESmKvI/AAAAAAAAPn8/ZeummT9psdE/s1600/tmirastv.jpg",MİRAS TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch003.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-ktII0e1XUZI/VqydtAtMQII/AAAAAAAAPoM/acTgWlHt9vQ/s1600/turkmenowazy.jpg",OWAZY TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch005.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://1.bp.blogspot.com/-aqIAqGHFDw0/VqydxVx3eiI/AAAAAAAAPoU/rfTRQJ9_Les/s1600/turkmensport.jpg",SPORT TV Türkmenistan
+http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-fLUzAOqjaFY/Vqydpge3r_I/AAAAAAAAPoE/5GPNSM8CDyw/s1600/tturmenistan.jpg",TURKMENİSTAN TV
+https://alpha.tv.online.tm/hls/ch007.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://1.bp.blogspot.com/-BY6ezVl3E1c/Vqyd1Ei1MZI/AAAAAAAAPoc/_TrxCrrnuGs/s1600/tyasliktv.jpg",YAŞLIK TV Türkmenistan
+https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://3.bp.blogspot.com/-cQvi-JeeFVA/VqnV415JY5I/AAAAAAAAPhc/c6tfea7rzFs/s1600/xezertvaz.jpg",XEZER TV Azerbaycan
+https://streams.livetv.az/azerbaijan/xazar_stream2/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKİ" tvg-logo="http://1.bp.blogspot.com/-kebcEHvh3ZY/WeigRUS22UI/AAAAAAAAVe0/wbMPncHlExIlya0aKAS1jmSsCcdCtI0GACLcBGAs/s1600/q.jpg",QAFQAZ TV Azerbaycan
+https://streams.livetv.az/external/qafqaztv/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://3.bp.blogspot.com/-fl2Pth06vjs/VpgLC03vKpI/AAAAAAAANqQ/pjKFu4LGeBw/s1600/trt1hd.jpg",TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://3.bp.blogspot.com/-c8UO2sCqesI/Vpjlo3tITtI/AAAAAAAANzM/9T_k--Q9RzU/s1600/trthaberhd.jpg",TRT HABER HD
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://2.bp.blogspot.com/-QL_wzYLXj6o/Vpjlsm8YCrI/AAAAAAAANzU/SjlG39S4xzk/s1600/trtturk.jpg",TRT TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://1.bp.blogspot.com/-OcgOo50K92c/VpkhpAu8BrI/AAAAAAAAN5g/HdVAONR5jJ4/s1600/trtsporhd.jpg",TRT SPOR
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://2.bp.blogspot.com/-VEJcgxpsjR4/VpZeu3BS1YI/AAAAAAAANg8/87Qwfujjhgc/s1600/trtcocuk.jpg",TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://4.bp.blogspot.com/-ulS3yI-5zcA/VqnP_N_B5uI/AAAAAAAAPbI/IJ60G4CIb4E/s1600/trtavaz.jpg",TRT AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://1.bp.blogspot.com/-V2NA9w9GUEc/VppMwWehO4I/AAAAAAAAOCc/eWht_AJ-tCQ/s1600/trtdiyanet.jpg",TRT DİYANET
+http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://2.bp.blogspot.com/-veW7mFUjuCk/VqnQCdbUQrI/AAAAAAAAPbQ/RqFjZG7M4LI/s1600/trtkurdi.jpg",TRT KURDÎ
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://4.bp.blogspot.com/-4wXs5H8Mzb0/VpgGZfTkXJI/AAAAAAAANpM/rXh5YfYUlzY/s1600/trtbelgeselhd.jpg",TRT BELGESEL
+http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://1.bp.blogspot.com/-HIwT2idFPFU/VpgGe6pa3WI/AAAAAAAANpU/Z1yHtRy1Ha8/s1600/trtokul.jpg",TRT OKUL
+http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://3.bp.blogspot.com/-H1gVeWEeRKo/VpgKUqSWUxI/AAAAAAAANqA/O15cJZCYEJg/s1600/trtmuzik.jpg",TRT MÜZİK
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://3.bp.blogspot.com/-vtytPKi5hQo/VqnP8BB4lCI/AAAAAAAAPbA/bXoXdqFyq5s/s1600/trtarapca.jpg",TRT ARAPÇA
+http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://3.bp.blogspot.com/-rWtkCanq478/VqnQNYOgYkI/AAAAAAAAPbY/SgaeXZkKzkc/s1600/trtmeclis.jpg",TRT 3 - TBMM TV
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT TV" tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg",TRT WORLD English
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://2.bp.blogspot.com/-W0IaHC9XRKI/Vgv9O4vv_-I/AAAAAAAAMHk/I3mZrRGMCss/s1600/trtradyo1.jpg",TRT RADYO 1
+http://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://1.bp.blogspot.com/-9iNpHUskc_I/Vgv9r-0q5yI/AAAAAAAAMHs/YXVlE01AEzU/s1600/trtfm.jpg",TRT FM
+http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://4.bp.blogspot.com/-UoTRm-v9Tlc/Vgv-0cUxhwI/AAAAAAAAMIM/ZMbHUJ6YphU/s1600/trtradyo3.jpg",TRT RADYO 3
+http://trtcanlifm-lh.akamaihd.net/i/RADYO3_1@181946/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://4.bp.blogspot.com/-LsaJ2-GJX8E/VgwBK8E3zuI/AAAAAAAAMIo/PhuXH4F3NRw/s1600/trtturku.jpg",TRT TÜRKÜ
+http://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://2.bp.blogspot.com/-ROewZkf-EcA/VgwBmGpEthI/AAAAAAAAMIw/MkmxMbEf6i4/s1600/trtnagme.jpg",TRT NAĞME
+http://trtcanlifm-lh.akamaihd.net/i/TRTNAGME_1@182046/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://1.bp.blogspot.com/-GN2H9rXuOTI/VgwZG58kldI/AAAAAAAAMJc/Sm1wSAFKHGQ/s1600/trthaber.jpg",TRT RADYO HABER
+http://trtcanlifm-lh.akamaihd.net/i/TRTRADYOHABER_1@182147/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://1.bp.blogspot.com/-cEPVP5jztjA/VgwZVCtemHI/AAAAAAAAMJk/6hIuRoXfaII/s1600/trtantalyard.jpg",TRT ANTALYA RADYOSU
+http://trtcanlifm-lh.akamaihd.net/i/TRTANTALYA_1@181847/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://2.bp.blogspot.com/-QrO5wLzfyTY/VgwZlxuhloI/AAAAAAAAMJs/iDPdh2y7VBQ/s1600/trtcukurovard.jpg",TRT ÇUKUROVA RADYOSU
+http://trtcanlifm-lh.akamaihd.net/i/TRTCUKUROVA_1@182047/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://1.bp.blogspot.com/-chbW5w5tvAQ/VgwZ3yEImbI/AAAAAAAAMJ0/XByLSKpIfoA/s1600/trtgap.jpg",TRT Gap Diyarbakır
+http://trtcanlifm-lh.akamaihd.net/i/TRTGAP_1@182148/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://3.bp.blogspot.com/-ZRSZPsOLms8/VgwbeR1Zk5I/AAAAAAAAMKE/oCk-106bO2w/s1600/trterzurumrd.jpg",TRT ERZURUM RADYOSU
+http://trtcanlifm-lh.akamaihd.net/i/TRTERZURUM_1@182248/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://2.bp.blogspot.com/-z13-CPTVn0U/VgwbtxCiD-I/AAAAAAAAMKM/rKdXhB1y5JQ/s1600/trttrabzon.jpg",TRT TRABZON RADYOSU
+http://trtcanlifm-lh.akamaihd.net/i/TRTTRABZON_1@181948/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://1.bp.blogspot.com/-Dvaw3TXzF7Q/VgwW8kGW12I/AAAAAAAAMJA/lOA0qUwYoK4/s1600/memleketimfm.jpg",TRT MEMLEKETİM FM
+http://trtcanlifm-lh.akamaihd.net/i/TRTAVRUPA_1@182349/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://4.bp.blogspot.com/-7ZgCLQU_9PY/VgwAv3XLSSI/AAAAAAAAMIg/pCj6OW6SBjI/s1600/trttsesi.jpg",TRT TÜRKİYE'NİN SESİ RADYOSU
+http://trtcanlifm-lh.akamaihd.net/i/TSR_1@182048/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://2.bp.blogspot.com/-S3puqC9XoOA/Vgwb9N9mS1I/AAAAAAAAMKU/k6PxA3QmSQo/s1600/trtvotworld.jpg",TRT VOT WORLD
+http://trtcanlifm-lh.akamaihd.net/i/TRTVOTWORLD_1@182149/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://3.bp.blogspot.com/-ykuvyWLoGxc/VgwcpV0sCBI/AAAAAAAAMKk/RpyuGy_Kl50/s1600/trtvoteast.jpg",TRT VOT EAST
+http://trtcanlifm-lh.akamaihd.net/i/TRTVOTEAST_1@181949/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://3.bp.blogspot.com/-RZPgBIuI-Qw/VgwcTV4LhtI/AAAAAAAAMKc/O7ZdH0AakvI/s1600/trtvotwest.jpg",TRT VOT WEST
+http://trtcanlifm-lh.akamaihd.net/i/TRTVOTWEST_1@182249/master.m3u8
+#EXTINF:-1 $ExtFilter="TRT RADYO" tvg-logo="http://4.bp.blogspot.com/-RyMZVEgHCug/Vgwc6f3vErI/AAAAAAAAMKs/fy9UrmLF-i8/s1600/trtradyo6.jpg",TRT RADYO 6
+http://trtcanlifm-lh.akamaihd.net/i/RADYO6_1@181849/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-W0IaHC9XRKI/Vgv9O4vv_-I/AAAAAAAAMHk/I3mZrRGMCss/s1600/trtradyo1.jpg",TRT RADYO 1
+http://trtcanlifm-lh.akamaihd.net/i/RADYO1_1@182345/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-9iNpHUskc_I/Vgv9r-0q5yI/AAAAAAAAMHs/YXVlE01AEzU/s1600/trtfm.jpg",TRT FM
+http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-NeKxiGzAGBM/Vf7sRmJ1-XI/AAAAAAAAL4o/o5FGSqMNpSg/s1600/kralfm.jpg",KRAL FM
+http://46.20.3.204:80/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-NeKxiGzAGBM/Vf7sRmJ1-XI/AAAAAAAAL4o/o5FGSqMNpSg/s1600/kralfm.jpg",KRAL FM Seçenek 2
+https://ssldyg2.radyotvonline.com/smil/smil:kralfm.smil/chunklist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-qBQSTcd-BNI/VmBVHOidhYI/AAAAAAAAM9g/L7zlBuSu1yQ/s1600/112acilfm.jpg",112 ACiL FM
+http://95.173.185.128:9316
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-Ej7vLH24qXA/VffnewUa0II/AAAAAAAALWA/_FlPjs7vapY/s1600/abuzerfm.jpg",ABUZER FM
+http://live.radyotvonline.com:9030
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-W3DH-IsZaFQ/VgfTdSo8UCI/AAAAAAAAME8/pm2vs4HovkY/s1600/acipayamgur.jpg",ACIPAYAM GURBETÇİ FM
+http://live2.radyotvonline.com:8750
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://3.bp.blogspot.com/-Qq4gmbGkfAg/Vff_M7ONcMI/AAAAAAAALXM/ivNZSiUrC4A/s1600/adanafm.jpg",ADANA FM
+http://radyo.yayin.com.tr:5904/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-qV8Qaqqrm14/VfkbFUEi0RI/AAAAAAAALcs/j9j6PiHWXwk/s1600/alemfm.jpg",ALEM FM
+http://scturkmedya.radyotvonline.com/stream/80/stream.mp3
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-w6NIaebp2Cw/VguxZyX6KEI/AAAAAAAAMHA/XY7ORJnXPug/s1600/bestfm.jpg",BEST FM
+http://46.20.7.125:80
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://3.bp.blogspot.com/-s2ff5yRFkjA/Vf6w1USerkI/AAAAAAAALz4/aSjCDdX_vzs/s1600/joyfm.jpg",JOY FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-fA5qFKWZuII/Vf6xa6S8ctI/AAAAAAAAL0E/k9vR2PCb5hA/s1600/joyturkfm.jpg",JOYTÜRK FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK.mp3
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-BOpCDvBi_uE/VfGPYhl7fAI/AAAAAAAAKsg/Hra-IW3CXbk/s1600/metrofm.jpg",METRO FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM.mp3
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://3.bp.blogspot.com/-920D3VRdb5s/VfGbKdt4rmI/AAAAAAAAKtY/0pvBH2DQcIE/s1600/metropol.jpg",METROPOL FM
+http://mfm1.webradiostreaming.de:8200/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-c-KOCvxEG98/VfHhTQGCSNI/AAAAAAAAKwE/beXDhzMNh58/s1600/numberbirfm.jpg",NUMBER 1 FM
+http://20043.live.streamtheworld.com/NUMBER1FM.mp3
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-yrwCxrZt11E/VfHjdsOmkQI/AAAAAAAAKwk/nWe2Va1FJUw/s1600/numberbirturk.jpg",NUMBER 1 TÜRK FM
+http://19643.live.streamtheworld.com/NUMBER1TURK_FMAAC.aac
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-hcCtIYLk74Y/VfHbioIKVnI/AAAAAAAAKvo/RBGESIIHo7w/s1600/ntvradyo.jpg",NTV RADYO
+http://46.20.3.207:80/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-0V-oLjBB9Hc/VfHcMUrzkcI/AAAAAAAAKvw/vMFChw15pzI/s1600/ntvspor.jpg",NTV SPOR RADYO
+http://46.20.3.210:80/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-l9-nJ4YW3ZU/VfK50ABRJyI/AAAAAAAAKyo/bT2oTWW2xwE/s1600/palfm.jpg",PAL FM
+http://shoutcast.radyogrup.com:1030/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-EiFaO_gTHlk/VfK-D_7flHI/AAAAAAAAKzk/PvAXgZH-OFQ/s1600/powerfm.jpg",POWER FM
+http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-hSx4Qs9gMiw/VfLJLO1NIbI/AAAAAAAAK04/JP04Uvm90fU/s1600/powerturkfm.jpg",POWER TÜRK FM
+http://mpegpowerturk.listenpowerapp.com/powerturk/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-v1lyL7gWl8A/VhdSyq_C08I/AAAAAAAAMgk/-rsm5ULT6TA/s1600/radyo7.jpg",RADYO 7
+http://46.20.3.250
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://3.bp.blogspot.com/-8afJe7g_8Vc/VfQtOMzcMsI/AAAAAAAAK-g/eB1wHT7vL18/s1600/radyod.jpg",RADYO D
+http://radyo.dogannet.tv/radyod
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-KAqeUg4lIRA/VhBL2J_i2YI/AAAAAAAAMQs/jd8ajrnDeOA/s1600/radyofb.jpg",RADYO FENERBAHÇE
+http://91.232.174.18:8000/Stream
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-6X9aNmSL8C4/VfSR28c-vyI/AAAAAAAALDM/-VZtaUJaJUU/s1600/radyomydonose.jpg",RADIO MYDONOSE
+http://17753.live.streamtheworld.com/RADIO_MYDONOSE.mp3
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-tZXQ94IcksU/VfU6YZKOxHI/AAAAAAAALEw/Neg2Nn1MnPE/s1600/radyoodtu360.jpg",RADYO ODTÜ
+http://stream.radyoodtu.com.tr:8006
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-0tVzDpUJ0RI/VfZh7Ov-30I/AAAAAAAALJs/BYo7x-oxJoA/s1600/radyoviyoge.jpg",RADYO VOYAGE
+http://46.20.3.216:80/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-bBiC6gvZq2U/VfZnlCuSXvI/AAAAAAAALKM/gNwA46ENSUc/s1600/radyoviva.jpg",RADYO VİVA
+http://46.20.3.231:80/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-bh62s01LLho/VfZ5G1PczCI/AAAAAAAALLQ/sLwypqqtOYY/s1600/showradyo.jpg",SHOW RADYO
+http://46.20.3.228:80/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-rbGBLn4ZCEo/Vfag_EuUQAI/AAAAAAAALNY/1HMd_S62HXI/s1600/superfm.jpg",SÜPER FM
+http://17753.live.streamtheworld.com/SUPER_FM.mp3
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-NoRxkQ-phRA/Vq9wH8CG9nI/AAAAAAAAPsM/FALV-1V_txY/s1600/yoncanli.jpg",YÖN RADYO
+http://yonradyo.radyolarburada.com:8020
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-3cRAoilPvX4/Vh0SqiwbVkI/AAAAAAAAMmU/fhWYwi4PT78/s1600/radyofenomen.jpg",RADYO FENOMEN
+http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-vt27a2HFVuc/VngKMGMDDPI/AAAAAAAANHI/eivkx9wOZ9A/s1600/fenomenturk.jpg",FENOMEN TÜRK
+http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-uMMX1x-Fwr0/VfUlAx_5jFI/AAAAAAAALDg/ay347_u9M3g/s1600/meteoroloji360.jpg",METEOROLOJİNİN SESİ RADYOSU
+http://radyomgm.canliyayinda.com/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-EQfvQs2x2xE/WFE0xu0_ZrI/AAAAAAAAQlM/rtgDOOb_vGIvqnd3hvxCAR-g-8Dm4N5YACLcB/s1600/diyanetradyo2.jpg",DİYANET RADYO
+https://content.nocvp.com/asset/7Lzp89e5/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-mdYvCv1ALTQ/WFE1vjglm9I/AAAAAAAAQlU/ifIKXcWuExkim-mLP-dHHrVmkU95pG2HwCLcB/s1600/diyanetkurnradyo.jpg",DİYANET KURAN RADYO
+https://content.nocvp.com/asset/7LzphJom/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-qsUTblyeW_g/Vb-4FPswOrI/AAAAAAAAJYU/_kXfsxGXdnU/s1600/semerkandradyo.jpg",SEMERKAND RADYO
+http://semerkandshoutcast.mediatriple.net:1935/semerkandradyolive/semerkandshoutcast.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://3.bp.blogspot.com/-5XY3ARzPFuk/VhBF6tLAmUI/AAAAAAAAMQc/XNI9ZteQgMY/s1600/bursasporfm.jpg",BURSASPOR FM
+http://bs.dgntek.com/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-FAaRKX94Waw/Vfa3hTGXflI/AAAAAAAALOI/zIy7aTVFA_Q/s1600/taksim.jpg",TAKSİM FM
+http://95.211.162.32:8000/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://3.bp.blogspot.com/-yEQEhTtmfHk/VfaMV2aArjI/AAAAAAAALMs/VVo56rVHUvM/s1600/starartifm.jpg",STAR ARTI FM
+http://yayin.morkarinca.com:8282
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-qtJZkHhg_x0/VfZ_lCMd1lI/AAAAAAAALLw/xwl_9zMo0y8/s1600/slowturkfm.jpg",SLOWTÜRK FM
+http://radyo.dogannet.tv/slowturk
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://3.bp.blogspot.com/-qrgadLDyF_c/VfWMyFGhKMI/AAAAAAAALHc/Edwe89OXbps/s1600/radyotrafik.jpg",RADYO TRAFİK
+http://46.20.4.2:8000/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://3.bp.blogspot.com/-1LvyPeCQLy0/Vf08KTJ1YRI/AAAAAAAALmc/TGuwxaF05fI/s1600/rsfm.jpg",RS FM
+http://audio1.video.ria.ru/voicestm
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-4-cRRt3fxPg/VfGC5LIF3PI/AAAAAAAAKq0/CdvxnLsxwNk/s1600/mamasfm.jpg",MAMAŞ FM
+http://www.mamasfm.com:9984/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-K3Wc0ghCdzY/V71DN35urJI/AAAAAAAAQVU/1F-oilefwm8sAjVnJjZZmuH8Oya76M2bgCLcB/s1600/ligradyo.jpg",LİG RADYO
+http://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://2.bp.blogspot.com/-wn8RHsmGGyY/Vf7zJFN_g5I/AAAAAAAAL64/QZPp5qHBp1s/s1600/kralworld.jpg",KRAL WORLD RADYO
+http://dygwebradios.radyotvonline.com/kralworldsmil/smil:kralworlddigital.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://4.bp.blogspot.com/-TYjEhypiUcY/Vf7voefJBeI/AAAAAAAAL5s/tywrKnvuvsc/s1600/kralpop.jpg",KRAL POP RADYO
+http://kralpopwmp.radyotvonline.com/
+#EXTINF:-1 $ExtFilter="ULUSAL RADYO" tvg-logo="http://1.bp.blogspot.com/-o1e1aSWVY6g/WaLRsfmBAyI/AAAAAAAAUFo/u7Y43atNNkUDtL_M1ZVcYnArE__-1l8RwCLcBGAs/s1600/80.jpg",80LER GOLD
+https://playerservices.streamtheworld.com/api/livestream-redirect/FLASHBACK.mp3
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://2.bp.blogspot.com/-ROewZkf-EcA/VgwBmGpEthI/AAAAAAAAMIw/MkmxMbEf6i4/s1600/trtnagme.jpg",TRT NAĞME
+http://trtcanlifm-lh.akamaihd.net/i/TRTNAGME_1@182046/master.m3u8
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://4.bp.blogspot.com/-tqH1XXrPnlc/VrIGYLkPhqI/AAAAAAAAPxo/90o-7-u9KsM/s1600/bayrakturkmuzigi.jpg",BRT BAYRAK TÜRK MÜZİĞİ
+http://sc.brtk.net:8010/
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://4.bp.blogspot.com/-YSNHDWQvCOI/Vg6YvtO9IkI/AAAAAAAAMPM/Q3jo8o1oqdo/s1600/uludagfm.jpg",BURSA ULUDAĞ FM
+http://sr1.netmedya.org:9170
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://1.bp.blogspot.com/-E6Sr5_oqrLM/Vf6X-2LUvrI/AAAAAAAALwQ/PdPiw7Tdf_A/s1600/eskisehirtempofm.jpg",ESKİŞEHİR TEMPO RADYO
+http://217.195.193.2:9988/
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://4.bp.blogspot.com/-lO2XE43goLE/Vf6jA7FUlJI/AAAAAAAALxY/1Ee8sE6u0-k/s1600/gencfm.jpg",GENÇ FM
+http://yayin.turkhosted.com:6030
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://2.bp.blogspot.com/-MzUE90pglCs/Vf6kU43iREI/AAAAAAAALxo/CE8QAIbJskk/s1600/gonul.jpg",GÖNÜL
+http://17733.live.streamtheworld.com/GONUL.mp3
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://1.bp.blogspot.com/-ABOtRQgzQmc/VfGBuXH5NPI/AAAAAAAAKqo/ApjUqKBKBks/s1600/makam.jpg",MAKAM FM
+http://17773.live.streamtheworld.com/MAKAM.mp3
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://1.bp.blogspot.com/-R6v5lPMe2T4/VfGIlcEYvGI/AAAAAAAAKrc/lcR_Bsa8tVA/s1600/mamastsm.jpg",MAMAŞ FM TÜRK SANAT MÜZİĞİ
+http://www.mamasfm.com:5000/
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://4.bp.blogspot.com/-E1DRUThEi7M/WE1ZZ8c8mPI/AAAAAAAAQjU/kjXhsp3B-HQbDc3a8a65e2I5K-1awUP0QCLcB/s1600/mazidenbirdemet.jpg",MAZİDEN BİR DEMET
+http://37.247.98.8/stream/24/
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://4.bp.blogspot.com/-p1cHjcJbHSE/Vh0L-_lS_OI/AAAAAAAAMl4/ZJF0korc8cc/s1600/radyoalaturka.jpg",RADYO ALATURKA
+http://stream.radyoalaturka.com.tr:9100
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://2.bp.blogspot.com/-aUMobYGrdz0/Vx5HLAZ2vCI/AAAAAAAAP3g/-8dnMXh38d06dElTGyM02kahdxEbJs05ACLcB/s1600/trd3sanat.jpg",TRD 3 SANAT
+http://stream-00.trd.com.tr:80/trd3.aac
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://4.bp.blogspot.com/-I16l8EmfJ8w/VfHN5wztfYI/AAAAAAAAKt8/k_fLpdE8p0s/s1600/meskfm.jpg",MEŞK FM
+http://meskfm.radyolarburada.com:9550
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://3.bp.blogspot.com/-Vm1KyIGYqtA/WEmzXMuXfWI/AAAAAAAAQec/6ujgbGUDQQomr-qxjFwq7W-SA367HBu3ACLcB/s1600/nbirmusiki.jpg",NUMBER 1 TÜRK ÜSKÜDAR MUSİKİ  CEMİYETİ
+http://nr1digitalsc.radyotvonline.com/stream/222/
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://1.bp.blogspot.com/-C0amDTOwEQo/WEq3km7Ow3I/AAAAAAAAQhE/WsbT-RDwxNwIKv8UP0kIshpsZqsnkez2ACLcB/s1600/palalaturka.jpg",PAL ALATURKA
+http://shoutcast.radyogrup.com:3050/
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://3.bp.blogspot.com/-kjDmgN9CY-o/WElPEh_xSOI/AAAAAAAAQas/_7am-DULqOkJkDpkZcp_LeHPNGsU__SRwCLcB/s1600/radyonagme.jpg",RADYO NAĞME
+http://radyo.dogannet.tv/nagme
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://3.bp.blogspot.com/-kjDmgN9CY-o/WElPEh_xSOI/AAAAAAAAQas/_7am-DULqOkJkDpkZcp_LeHPNGsU__SRwCLcB/s1600/radyonagme.jpg",RADYO NAĞME
+http://95.0.173.195:9001/nihavent
+#EXTINF:-1 $ExtFilter="ALATURKA" tvg-logo="http://1.bp.blogspot.com/-O9NEQPz3iWw/WYDH6_6eKYI/AAAAAAAATlU/ovGE-8-zQ0009SiUT3Ops6Sar_7cyUvPgCLcBGAs/s1600/t.jpg",TAVERNA TÜRK
+http://live.ulody.com:8000/tavernaturk
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-NeKxiGzAGBM/Vf7sRmJ1-XI/AAAAAAAAL4o/o5FGSqMNpSg/s1600/kralfm.jpg",KRAL FM
+http://46.20.3.204:80/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-IkStuYJOiYM/WaJyXhsWsWI/AAAAAAAAUAs/KCNYkLVYMQsUoh7zDin1ZGleMbxjw26xQCLcBGAs/s1600/e4.jpg",EFSANE 4'LÜ
+http://37.247.98.8/stream/19/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-Qq4gmbGkfAg/Vff_M7ONcMI/AAAAAAAALXM/ivNZSiUrC4A/s1600/adanafm.jpg",ADANA FM
+http://radyo.yayin.com.tr:5904/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-1wogoo89CoQ/Vgzz6kBmp2I/AAAAAAAAMMI/plooGpJ6xrs/s1600/afyon03.jpg",AFYON RADYO 03
+http://sunucu.radyodinle.com:1303
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-4v9iuS81oDY/VflJ8uSoOGI/AAAAAAAALeA/6xS3m75F6ZE/s1600/arabeskradyo.jpg",ARABESK RADYO
+http://37.247.101.101:5934
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-rjF4IH4A0ZQ/VflYk3vqBLI/AAAAAAAALeU/uGkdrWtV01M/s1600/arabeskradyobiz.jpg",ARABESK RADYO BİZ
+http://www.arabeskradyo.biz:7446
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-QAGh9kKKAyU/VflcUYZsyDI/AAAAAAAALeg/ft-5zAWbfUs/s1600/arabeskturkiye.jpg",ARABESK TÜRKİYE
+http://yayin.turkhosted.com:7060/stream.mp3
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-Fw-GSInQYDg/Vflhtb_mPtI/AAAAAAAALew/narObzdNFII/s1600/arabeskinsesi.jpg",ARABESKİN SESİ FM
+http://www.arabeskinsesi.net:9958/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-KMq92zxUv80/VflpJ9UWCCI/AAAAAAAALfQ/ehRhrWljTdY/s1600/askfm.jpg",AŞK FM
+http://yayin.asymedya.com:8020
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-wpKS7JMOgrw/VfplgO4WOXI/AAAAAAAALiI/0g6esI2ODdo/s1600/babaradyo.jpg",BABA RADYO
+http://37.247.100.100/best/babaradyo.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-9v-x2-K-da8/VVh_-dv_aJI/AAAAAAAAHZk/u4LX_OiqV8w/s1600/bilecikradyo11.jpg",BİLECİK RADYO 11
+http://ip131.radyotelekom.com:9832/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-n6M1IbBV47g/VzBxrCcw_mI/AAAAAAAAP6k/vL4dEMsqNxQjtPbgPXYyl2ewupZTY_dSwCLcB/s1600/bucafm.jpg",BUCA FM
+http://94.102.5.18:9942
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-oLIOfp4CP4c/VfqMIkRh2yI/AAAAAAAALlE/fWn2Gcgi1V8/s1600/bursa1001fm.jpg",BURSA 1001 FM
+http://yayin3.canlitv.com:9050/stream.mp3
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-3e3PJlt165E/VlHKvjCmvyI/AAAAAAAAM7A/gm0HLYuZS30/s1600/radyo24.jpg",BURSA RADYO 24
+http://yasamhosting.com:8414/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-W4x4zAhSq4A/VgFJFc7JiCI/AAAAAAAAL7s/g6U3L4XA5po/s1600/radyoderman.jpg",BURSA RADYO DERMAN
+http://sunucu2.radyolarburada.com:3636/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-fnsqEdwKacY/VlLd1Cg6LUI/AAAAAAAAM74/tZ5h-wxAlqQ/s1600/radyosampiyon.jpg",BURSA RADYO ŞAMPİYON
+http://95.173.188.166:9782
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-OG-wUQdhPrw/VlLgUPGgs9I/AAAAAAAAM8E/WndBsjs1Tg4/s1600/radyoturk.jpg",BURSA RADYO TÜRK
+http://radyo.kaanvardar.com:9440/stream/1/?icy=http
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-7p0Wby6h6ZU/Vf1QFBMXtAI/AAAAAAAALok/G-GsJ0yuzHk/s1600/radyovenus.jpg",BURSA RADYO VENÜS
+http://sunucu.radyodinle.com:1344/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-Tqv5ecPnADc/Vf1xRNCrCDI/AAAAAAAALpw/hEwSdef_8uQ/s1600/radyocaglar.jpg",ÇAĞLAR FM Malatya
+http://95.9.6.87:8788/stream.mp3
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-k9cCWFsRWVA/Vf15jiAxbLI/AAAAAAAALq8/Qz6O8IevRR4/s1600/damarfm.jpg",DAMAR FM
+http://yayin.damarfm.com:8080
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-VfWWtWAsWk4/U9TXetfy94I/AAAAAAAAFyU/71jc0-ofuYM/s1600/denizlidostlarfm.jpg",DENİZLİ DOSTLAR FM
+http://95.173.188.166:9848/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-K0xB2fKdy9k/Vf6NjP-fISI/AAAAAAAALu8/pA9Cnu7JZqo/s1600/efkarfm.jpg",EFKAR FM
+http://17773.live.streamtheworld.com/EFKAR.mp3
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-o6wpHwg6H8Y/Vf6SP1ZqdMI/AAAAAAAALvQ/BDLhwHW2fZw/s1600/elazigradyo2000.jpg",ELAZIĞ RADYO 2000
+http://yayin.turkiletisim.com.tr:1092
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-YYly27YmA2Y/Vf6WB_jfyVI/AAAAAAAALvw/m5XeTR56uxw/s1600/erzurumimajfm.jpg",ERZURUM İMAJ FM
+http://sunucu.radyodinle.com:9797
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-t7Oj8vQx6xI/Vf6boIijJ5I/AAAAAAAALws/aRah9btN2Kk/s1600/fistikfm.jpg",FISTIK FM
+http://yayin.yayindakiler.com:2036/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-kVmyAHcjc7Q/Vf6moDJPWPI/AAAAAAAALyM/GyN1q4OVL2o/s1600/harbiradyo.jpg",HARBİ RADYO
+http://yayin2.yayindakiler.com:4188/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-bU1ePZNNbf8/Vf6nNMVNXQI/AAAAAAAALyU/iSDuWAfmwBM/s1600/hataydostfm.jpg",DOST FM Hatay
+http://yayin.netyayin.net:5151/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-jL0H45SRCHM/Vf6oTDaHyRI/AAAAAAAALyk/LQiZcg8Phic/s1600/hayal.jpg",HAYAL FM
+http://yayin.radyohayalfm.net:8050
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-U7IcNyZzT0w/Vf6p2ZfMviI/AAAAAAAALy4/FJgdZ2HGIvE/s1600/ilginfm.jpg",ILGIN FM
+http://95.173.184.17:9942
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-qDlM8GRrXQw/Vf6qXOigXlI/AAAAAAAALzA/zdN8ODX-u6k/s1600/imbadfm.jpg",İMBAT FM
+http://allergo.serverroom.us:8127/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-B2S5kA4d3sQ/Vf63wQfTZkI/AAAAAAAAL0U/thUTMJQ9QxU/s1600/kafa.jpg",KAFA
+http://radyo.dogannet.tv/kafa
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-AzZ4MToU4J8/Vf7zmu-sNDI/AAAAAAAAL7E/Omk7qKTrZlY/s1600/kralturk.jpg",KRALTÜRK RADYO
+http://www.canliradyoyayini.com:3434/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-L2i5EHWWkIo/VfGBMYcVtaI/AAAAAAAAKqg/cB5wjidOl7E/s1600/lokumfm.jpg",LOKUM FM
+http://sunucu2.radyolarburada.com:9070/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-ZgqXqtXEb8k/VfGDndzqGhI/AAAAAAAAKq8/9vtuqhpiEQc/s1600/mamasarabesk.jpg",MAMAŞ FM ARABESK
+http://mamasfm.com:3500
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-qPpfAF1L460/VfHSwkON94I/AAAAAAAAKu0/ma6oSkNnyUs/s1600/muglaornek.jpg",MUĞLA ÖRNEK RADYO
+http://yayin.yayindakiler.com:3006/stream.mp3
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://4.bp.blogspot.com/-E9XS5rdGpCg/VfLTiLjkBWI/AAAAAAAAK2g/LJcGELiIkX8/s1600/radyo34.jpg",RADYO 34
+http://yayin1.canliyayin.org:7424/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-TVkixmgb0sM/U8EO7PtSXKI/AAAAAAAAEZo/AeODM34ZK4Y/s1600/radyo2000.jpg",RADYO 2000
+http://stream.taksimbilisim.com:8004/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-prN9anwnf7M/WawLNVgelvI/AAAAAAAAU2g/LcBE9woAIg4eNsz4v0GuGUX4KuQmx2WBACLcBGAs/s1600/r.jpg",RADYO ARABESK İNFO
+http://RadyoArabesk.iNFO:9700
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-1-K0Gw5bOto/U8JhEuEAIbI/AAAAAAAAEgs/NnnXxMnmqgM/s1600/radyoarabeskturk.jpg",RADYO ARABESK TÜRK
+http://91.121.48.78:9328/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-ZsmetFJfETo/U8JiTUa4jPI/AAAAAAAAEg4/do1Q-qw15dM/s1600/radyoarabeskvadisi.jpg",RADYO ARABESK VADİSİ
+http://95.173.179.154:9998/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-ffJy6Z1a0O4/U9TPOYa01tI/AAAAAAAAFx4/XHPdoZk_tHk/s1600/radyodamarfm.jpg",RADYO DAMAR FM
+http://radyodamarfm.com:8404
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-z7DL5r7jV-Q/U8PRuO357QI/AAAAAAAAE08/TezoY4W3tsU/s1600/radyoduygu.jpg",RADYO DUYGU
+http://95.173.162.181:5050/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://3.bp.blogspot.com/-DJFUFLg1kwk/VfSO0MEgZII/AAAAAAAALDA/kXUNgeU2Cls/s1600/radyomodasamsun.jpg",RADYO MODA Samsun
+http://yayin.radyomoda.com.tr/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-_eKWl8s5ty4/U8LbSPlmr3I/AAAAAAAAEoU/hQjr5EZjQJk/s1600/radyoseymen.jpg",RADYO SEYMEN
+http://seymen.turkhosted.com:9000/
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://1.bp.blogspot.com/-AA5vQ_PblvU/Vfa3zfIU8sI/AAAAAAAALOQ/_oe-k1NuV2c/s1600/taksimarabesk.jpg",TAKSİM FM ARABESK
+http://95.211.162.32:8008
+#EXTINF:-1 $ExtFilter="ARABESK" tvg-logo="http://2.bp.blogspot.com/-f9OqFBScpks/U8PPeT_AXTI/AAAAAAAAE0c/cXlPTYpMrzI/s1600/tarsusfm.jpg",TARSUS FM
+http://33.tarsusfm.net:3333/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://4.bp.blogspot.com/-LsaJ2-GJX8E/VgwBK8E3zuI/AAAAAAAAMIo/PhuXH4F3NRw/s1600/trtturku.jpg",TRT TÜRKÜ
+http://trtcanlifm-lh.akamaihd.net/i/TRTTURKU_1@182246/master.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://4.bp.blogspot.com/-W3DH-IsZaFQ/VgfTdSo8UCI/AAAAAAAAME8/pm2vs4HovkY/s1600/acipayamgur.jpg",ACIPAYAM GURBETÇİ FM
+http://live2.radyotvonline.com:8750/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://1.bp.blogspot.com/-QrT-4Pq_uhk/VgurYXdiPBI/AAAAAAAAMGo/Z5hjGUCZkKs/s1600/avrasyaturk.jpg",AVRASYA TÜRK
+http://radyoavrasya.radyolarburada.com:1071
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://4.bp.blogspot.com/-S1jCE6W4ZVc/VlLW178x5-I/AAAAAAAAM7g/SrtCP4HZKBU/s1600/radyoen.jpg",BURSA RADYO EN
+http://yayin.bursafm.com.tr:1055/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://4.bp.blogspot.com/-RYnAbVOCUbw/U9S5WSltUNI/AAAAAAAAFxc/4KNk7Bh7mEM/s1600/corumfm.jpg",ÇORUM FM
+http://stream.taksimbilisim.com:8028
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://4.bp.blogspot.com/-573oDt65YD0/Vf2kU5USxyI/AAAAAAAALro/ZXJo9lYOyM4/s1600/demradyo.jpg",DEM RADYO
+http://s1.voscast.com:9572
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://3.bp.blogspot.com/-dGMiRK5g_9k/U9Tfwz5SABI/AAAAAAAAFyw/niqDGL1dfNw/s1600/deryafm.jpg",DERYA FM
+http://nonstopkonya.canliyayinda.com:9898
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://3.bp.blogspot.com/-PR45Vrudics/Vf6bIMghfsI/AAAAAAAALwk/JpevMU48bs0/s1600/ezgiradyo.jpg",EZGİ RADYO
+http://sunucu.radyodinle.com:1782
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://2.bp.blogspot.com/-iAI4g-Z-WEk/Vf6h0NLcovI/AAAAAAAALxE/s03HYmirh3Y/s1600/radyokilim.jpg",GAZİANTEP RADYO KİLİM
+http://sunucu.radyodinle.com:2727
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://2.bp.blogspot.com/-m84ok4WquP8/VjCpvPGyyWI/AAAAAAAAM1I/1lFeoqkkrao/s1600/radyogimsa.jpg",GİMSA RADYO
+http://yayin.canliyayin.org:9482/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://3.bp.blogspot.com/-cjVcJEu3jZ8/U70C0JGkDkI/AAAAAAAAEIk/h8l9DPSgoHI/s1600/hamsifm.jpg",HAMSİ FM
+http://radyo.hamsi.fm:8050
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://3.bp.blogspot.com/-8zoqAqv1S4k/U7554fMbdHI/AAAAAAAAEL0/AkcRMuIgwsA/s1600/karadenizfm.jpg",KARADENİZ FM
+http://46.20.7.100/stream/170/stream
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://2.bp.blogspot.com/-YM3r5ori17g/U91a1AT2sbI/AAAAAAAAGBo/XFEMRW-TSDw/s1600/kemencefm.jpg",KEMENÇE FM
+http://dinle.kemencefm.com:6161
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://2.bp.blogspot.com/-5iWgJUbof_w/U759SnVswoI/AAAAAAAAEMo/6F14LTM89SM/s1600/keskinfm.jpg",KESKİN FM
+http://yayin1.canliyayin.org:8286
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://2.bp.blogspot.com/-DDDueTyGvM0/VhV1YSxky3I/AAAAAAAAMeU/HqqHWNpboR0/s1600/kirikkalefm.jpg",KIRIKKALE FM
+http://kirikkalefm.canliyayinda.com:7140/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://4.bp.blogspot.com/-_hTFbZqNcEQ/U76EqkvPjaI/AAAAAAAAEN8/05H4-_h96C8/s1600/kozanfm.jpg",KOZAN FM
+http://sunucu.radyodinle.com:3401
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://3.bp.blogspot.com/-MXDNpu0CiEk/Waa7u_BLnXI/AAAAAAAAUbo/PDRplG54FgAanFLekUJXtjVwLFBdgrVZgCLcBGAs/s1600/45.jpg",KRAL TÜRKÜ
+https://ssldyg.radyotvonline.com/kralweb/smil:kturku.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://2.bp.blogspot.com/-zDSYXN589Gg/WafgYBTexgI/AAAAAAAAUfM/TNxRkWLVYh4GDKxXFb1xiy9GL8cxUj8MgCLcBGAs/s1600/05.jpg",MAMAŞ FM TÜRKÜ RADYOSU
+http://www.mamasfm.com:9984
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://2.bp.blogspot.com/-Fmidx4JShD0/U_GkpSTGU1I/AAAAAAAAGRY/M82URcfKInk/s1600/ostimradyo.jpg",OSTİM RADYO
+http://yayin.asymedya.com:8079/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://3.bp.blogspot.com/-tzjZGPVKdY0/U9aBw9PamCI/AAAAAAAAF2g/kN2g2iIK6Co/s1600/parkfm.jpg",PARK FM
+http://yayin.netradyom.com:8050/PARKFM
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://1.bp.blogspot.com/-Q-JH10Bvf6U/VjCxDHmMr5I/AAAAAAAAM18/4HYUhIzvwio/s1600/ahmetkaya.jpg",RADYO AHMET KAYA
+http://ahmetkaya.canliyayinda.com:9999
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://4.bp.blogspot.com/-wG1sIh-ybiU/Vgw7_OwW_UI/AAAAAAAAMLo/jD4DjkHNCkU/s1600/radyobanko.jpg",RADYO BANKO
+http://yayin.netradyom.com:8050/RADYOBANKO
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://4.bp.blogspot.com/-mgxBftznr1Q/VsHGMBF3l5I/AAAAAAAAP0E/xplvzt_D7N0/s1600/radyokarabali.jpg",RADYO KARABALI
+http://95.173.162.182:9884
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://1.bp.blogspot.com/-W4zCbNnoutE/VfSONo4n_EI/AAAAAAAALC0/-r1Wd-wZRro/s1600/radyomegasite.jpg",RADYO MEGASİTE
+http://megasite.netradyom.com:7900/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://2.bp.blogspot.com/-2Q9gSrcjLak/VfWHBejpTUI/AAAAAAAALGo/RoR7GtQ6XKU/s1600/radyoseymen.jpg",RADYO SEYMEN
+http://seymen.turkhosted.com:9000/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://1.bp.blogspot.com/-WIoXFmFRTKs/VrNSkSNSZNI/AAAAAAAAPyk/p0a8MuZb10k/s1600/radyoturkuevi.jpg",RADYO TÜRKÜ EVİ
+http://ip189.radyotelekom.org:9974/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://1.bp.blogspot.com/-OPo46R4Tneo/VfWdqOSIzvI/AAAAAAAALJI/IJ5GKtQbk98/s1600/radvatanturku.jpg",RADYO VATAN TÜRKÜ
+http://95.0.173.195:9000/turku
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://3.bp.blogspot.com/-K2XzAizJczM/Vfa5hnjsekI/AAAAAAAALOs/Q8RamzGQNGE/s1600/taksimoyun.jpg",TAKSİM FM OYUN HAVASI
+http://95.211.162.32:8012/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://3.bp.blogspot.com/-86n2MnjKj2M/Vfc_8X6vD8I/AAAAAAAALSM/iKBFTyrLhxM/s1600/turkuradyo.jpg",TÜRKÜ RADYO
+http://radyo.turkuradyo.net:4591
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://4.bp.blogspot.com/-TeMcGgIf3iw/WE1XEuelZNI/AAAAAAAAQi8/rfR-V495fswGWizocaZc21HDfkwcvvAmwCLcB/s1600/ankarah.jpg",ANKARA HAVALARI
+http://37.247.98.8/stream/30/
+#EXTINF:-1 $ExtFilter="TÜRKÜ" tvg-logo="http://2.bp.blogspot.com/-mGaAlNQ4Xos/WE1fwkTi13I/AAAAAAAAQkY/NLqnxF1WQlcO5c8Ae1mibsbbw5XOCEYpQCLcB/s1600/turkulerle.jpg",TÜRKÜLERLE TÜRKİYE
+http://37.247.98.8/stream/22/
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://2.bp.blogspot.com/-NeKxiGzAGBM/Vf7sRmJ1-XI/AAAAAAAAL4o/o5FGSqMNpSg/s1600/kralfm.jpg",KRAL FM
+http://kralfms.radyotvonline.com:80/dyg/kralfm64/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://4.bp.blogspot.com/-TYjEhypiUcY/Vf7voefJBeI/AAAAAAAAL5s/tywrKnvuvsc/s1600/kralpop.jpg",KRAL POP RADYO
+http://kralpop2fms.radyotvonline.com:80/dyg/kralpop64.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://2.bp.blogspot.com/-wn8RHsmGGyY/Vf7zJFN_g5I/AAAAAAAAL64/QZPp5qHBp1s/s1600/kralworld.jpg",KRAL WORLD RADYO
+http://dygwebradios.radyotvonline.com/kralworldsmil/smil:kralworlddigital.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://3.bp.blogspot.com/-pTcyPirSH-E/V7XzED6HxjI/AAAAAAAAQPU/Q2JhqEEExOclw8ZEfGE0tZxkDVepd_4ygCLcB/s1600/kral45lik.jpg",KRAL 45LİK
+https://ssldyg.radyotvonline.com/kralweb/smil:kral45lik.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://1.bp.blogspot.com/-rIDq51SsPno/V7XzYBeKtoI/AAAAAAAAQPY/eAye6LjxWJAXx6_KBJ0IbIndkTyOWzqEACLcB/s1600/kral90lar.jpg",KRAL 90'LAR
+https://ssldyg.radyotvonline.com/kralweb/smil:k90s.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://1.bp.blogspot.com/-oYZpPlf5s0E/V7XzsVn4nTI/AAAAAAAAQPc/1u-aVwbi2bwXUz19LXixN0T0-Cf4lNP8ACLcB/s1600/kralakustik.jpg",KRAL AKUSTİK
+https://ssldyg.radyotvonline.com/kralweb/smil:kakustik.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://4.bp.blogspot.com/-gIGaaN9efWU/V7Xz_ndGk5I/AAAAAAAAQPg/2VyvMBYJVacsPGo6aGYI1gA1sYRJYlOfgCLcB/s1600/kralask.jpg",KRAL AŞK
+https://ssldyg.radyotvonline.com/kralweb/smil:kralask.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://4.bp.blogspot.com/-db8WpSruFRI/V7X1DMgcByI/AAAAAAAAQPs/ecWbLTvPdH4qGf-UKkRIUM_wQl-Zl-_0QCLcB/s1600/kraldance.jpg",KRAL DANCE
+https://ssldyg.radyotvonline.com/kralweb/smil:kdance.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://1.bp.blogspot.com/-Mp7LZlriVG4/V7X1YDNsNNI/AAAAAAAAQPw/dc-8mZw8iVUEuhnTqeTyK1Ek7mTDQlPPQCLcB/s1600/kraldans.jpg",KRAL DANS
+https://ssldyg.radyotvonline.com/kralweb/smil:kraldans.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://2.bp.blogspot.com/-uB2CXvySdSg/V7X67JZbN0I/AAAAAAAAQQw/lTsPOmnlma4cLZayMZbIzVlNtL1uu3maQCLcB/s1600/krallove.jpg",KRAL LOVE
+https://ssldyg.radyotvonline.com/kralweb/smil:klove.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://2.bp.blogspot.com/-zoJtdFOcOxA/V7YBw2Ggc8I/AAAAAAAAQSE/8ioMjDtlIzI6I7v4guFXoOE4BZxKvsNqACLcB/s1600/kraltsm.jpg",KRAL TSM
+https://ssldyg.radyotvonline.com/kralweb/smil:kraltsm.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="KRAL DİJİTAL" tvg-logo="http://1.bp.blogspot.com/-WmAm6sqejMk/V7YCKJxI2rI/AAAAAAAAQSI/u6G0p39EYFM3xLC6marzZwlgr2peiryrwCLcB/s1600/kralturku.jpg",KRAL TÜRKÜ
+https://ssldyg.radyotvonline.com/kralweb/smil:kturku.smil/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-PcPUr8pY6ZU/Wly99PocWWI/AAAAAAAAVyc/3xXK9rRteZ8u21gw-yAgdleo-z_0hhybACLcBGAs/s1600/05.jpg",06 FM
+http://live.ulody.com:8000/06
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-o1e1aSWVY6g/WaLRsfmBAyI/AAAAAAAAUFo/u7Y43atNNkUDtL_M1ZVcYnArE__-1l8RwCLcBGAs/s1600/80.jpg",80LER GOLD
+https://playerservices.streamtheworld.com/api/livestream-redirect/FLASHBACK.mp3
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-atSLBDwDRvM/WZvt7gcYrzI/AAAAAAAATuA/2nbrjNajwJoGapc_PuuM6X50ElJq4_Z-gCLcBGAs/s1600/90.jpg",90'LAR
+http://37.247.98.8/stream/166/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-lbsNvoTNTe8/WbEx1NHbqJI/AAAAAAAAVPU/YtfC47U-MroRDUMIjkaWGxQYhU_rWs3RgCLcBGAs/s1600/112.jpg",112 ACiL FM
+http://95.173.185.128:9316/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-HiE44ooDNto/WZvvDXd7sTI/AAAAAAAATuM/RWetGdNHAx0yQCtqI5gOeKy3ciGIxBi0wCLcBGAs/s1600/a.jpg",ABUZER FM
+http://live.radyotvonline.com:9030/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-ZGGvy9s--RY/WZvv5ziwQ5I/AAAAAAAATuU/s0GhDy-DXG8EaZhElHxEOexrvIKgyX0bgCLcBGAs/s1600/a.jpg",AÇIK RADYO
+http://stream.34bit.net/ar64.mp3
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-ZfTPxJaqKJI/WZvw6mAmnpI/AAAAAAAATuk/33a0gifIb-orJjuPu7cWfiV73RydO3qxQCLcBGAs/s1600/a.jpg",ACIPAYAM GURBETÇİ FM
+http://live2.radyotvonline.com:8750/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-18bA4faENaM/WZvySNym_sI/AAAAAAAATuw/WPBpJs7n9wElVEyJAZiE-cwkgDHfI_0eACLcBGAs/s1600/a.jpg",ADANA FM
+http://radyo.yayin.com.tr:5904/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-oG1R0jNN7mc/WbEzsiB9bOI/AAAAAAAAVPg/Nh7in6pRRMAklhl-D9pN__JInyw3hML8ACLcBGAs/s1600/y.jpg",ADANA RADYO YILDIZ
+http://sunucu2.radyolarburada.com:2006/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-u6mJ5-uo8L0/WZvzid0LhPI/AAAAAAAATu8/Abr3kB7JlxQOzR0V9YLCM8N4R3aAU77uwCLcBGAs/s1600/s.jpg",ADANA SÜPER FM
+http://yayin2.yayindakiler.com:4002/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-7pZJajrwvNA/WZv0MUW_RzI/AAAAAAAATvE/qQ521H4_XnYu3k72mXjT_uh2278dYSAsgCLcBGAs/s1600/asr.jpg",ADIYAMAN ASR FM
+http://yayin2.yayindakiler.com:4072/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-Khzl4_LcDT4/WZv0-ZFx6gI/AAAAAAAATvM/_hDITUqX6X0U1rE0ncsrvVfLJhaldD3QgCLcBGAs/s1600/m.jpg",ADIYAMAN MERT FM
+http://yayin2.yayindakiler.com:4004/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-nEuBbErUZUw/WZv13nmTBZI/AAAAAAAATvY/i2EF1ZJmrFco1V8cVOdVzR8PjFyafNsogCLcBGAs/s1600/a.jpg",AFŞİN FM
+http://sunucu.radyodinle.com:4242/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-juODCXGvgPI/WZwLihjks4I/AAAAAAAATvw/inx1PhLcazcfUitAtjYSljX5_NNUWELfACLcBGAs/s1600/05.jpg",AFYON GÜN FM
+http://yayin.gunfm.net:4032/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-df_AmyJ1r1c/WZwMH79FVaI/AAAAAAAATv4/HmGl6Y4c5HU7wf872t8bftS9UbslRIUwQCLcBGAs/s1600/01.jpg",AFYON RADYO 03
+http://sunucu.radyodinle.com:1303/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-5D6mvlnTjIg/WbE44AnIVeI/AAAAAAAAVP0/gkFPUyTKv_4HWFoovDcZgagwRGWiTsajQCLcBGAs/s1600/l.jpg",AFYON RADYO LOJİK
+http://stream-00.radyolojik.com:8100/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-tlhgpmAi5U4/WbE5rOOl8oI/AAAAAAAAVP8/9rS0pI24JtAYaNoypL_-xxYWVGwtFqaXwCLcBGAs/s1600/m.jpg",AKHİSAR METRONOM FM
+http://radyo.performans.net:9360/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-ViUmV29x3qY/WbE6pZDf2TI/AAAAAAAAVQI/EPwd45U29D08VuW__i6Ca_ZlDgwugS0bgCLcBGAs/s1600/a.jpg",AKRA FM
+http://cdn2.akradyo.net/akracanli2/_definst_/livestream_aac/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-1S-SYrQyfcM/WbE8fi7V3II/AAAAAAAAVQc/i2DA9pd0CUYSQwgWmiWXTKr8G_9WjP1owCLcBGAs/s1600/a.jpg",AKSARAY AR FM
+http://yayin2.yayindakiler.com:4036/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-x6ij6TXRxps/WZwM7iCcPnI/AAAAAAAATwA/aIMkE-L7N3UWM4CClBGAqE_t3bs0O4VxwCLcBGAs/s1600/07.jpg",AKSARAY FM
+http://yayin.radyohostu.com:9868/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-9IyicWL5ZRU/WZwOlsUj3nI/AAAAAAAATwM/T_o5F4OdyEs3N3cMLKl9WJtnHT-6IvdnwCLcBGAs/s1600/08.jpg",AKSARAY KRAL FM
+http://yayin2.yayindakiler.com:4020/stream
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-DDv7QLht96k/WZwPanbIhEI/AAAAAAAATwU/vxYkhJYXLNk1gEx-z9nrV_SyglXnIY1OACLcBGAs/s1600/06.jpg",AKŞEHİR MEGA RADYO
+http://yayin1.canliyayin.org:7078/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-TtePoB7CzrE/WZwQ5yTqTBI/AAAAAAAATwg/BjYhvf11XE0nYi_GJwuRnOnw1U_l7issQCLcBGAs/s1600/09.jpg",ALEM FM
+http://scturkmedya.radyotvonline.com/stream/80/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-RkePtnrkGhk/WZwSFYGZ76I/AAAAAAAATws/BAiM8rSlFb8DQPzZRfSOFg9yYVq6G1QvACLcBGAs/s1600/10.jpg",ALİAĞA AKTİF FM
+http://77.245.159.181:9170/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-gWlY7gR9kcs/WZwSlhIDZ2I/AAAAAAAATw0/V1ZEEmfHCrYaRdu0MB8Q4BhFrGNOx6haQCLcBGAs/s1600/02.jpg",ALTIN ŞARKILAR
+http://37.247.98.8/stream/25/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-yJj5Z9fccOo/Wj0EHuY8wAI/AAAAAAAAVnk/qvZU7-AFnhYiQW_cGVh016JCBOIQS6VmACLcBGAs/s1600/01.jpg",ANADOLUNUN SESİ
+http://212.83.133.126:8040/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-2i6Odn9kGR4/WZwUN68bIII/AAAAAAAATxM/3lDU1cSjhAYdehE9gCrrYMzpoyPDSeiOgCLcBGAs/s1600/03.jpg",ANKARA HAVALARI
+http://37.247.98.8/stream/30/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-lLDykWB7FyA/WZwXCgtePNI/AAAAAAAATxo/bqDDVdlgi7sRhMpubyg7d45dczawTA8ogCLcBGAs/s1600/12.jpg",ANTALYA KUMSAL RADYO
+http://kumsalradyo.radyoyayini.com:9550/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-ggQ2Wwq1-Yo/Wj0FNmqOB4I/AAAAAAAAVnw/xVOeLfKJ8poAW8HWn7gny6b_ABKO9LhqwCLcBGAs/s1600/02.jpg",ARABESK ALEMİ
+http://arabeskalemi.net:9300/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-pP_UGnYk9vM/Wj0F6i6Ye0I/AAAAAAAAVn4/r7EXkVmAT2w445is9MemOyLrikNZmVGVwCLcBGAs/s1600/03.jpg",ARABESK MELODİ FM
+http://arabeskmelodi.kesintisizyayin.com:8888/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-p1cjrkYO-Qw/WZwXrDgwA5I/AAAAAAAATxw/sRQ_XmE6oywuyeHWWhQHGHC58vTCPdgvgCLcBGAs/s1600/14.jpg",ARABESK RADYO
+http://37.247.101.101:5934/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-ybRxoVJMhQc/WoPPQGOryRI/AAAAAAAAV3w/FqVX6pRZ95AcptGJBh01H8pRtNdmBgYeACLcBGAs/s1600/01.jpg",ARABESK RADYO BİZ
+http://dinle.arabeskradyo.biz:2011/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-Xuy6tnvkzxM/WZwb-R4suxI/AAAAAAAATyE/XY9ykP1nRp844ohDqWO-fyibZXlRHbXHACLcBGAs/s1600/18.jpg",ARABESK TÜRKİYE
+http://yayin.turkhosted.com:7060/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-vC8CAG5tw_E/WbFCB6dlqVI/AAAAAAAAVQw/Hqmh0BEuj-M2QxjEtkBbl9Ebmrjfpo4PQCLcBGAs/s1600/a.jpg",ARABESKİN SESİ FM
+http://www.arabeskinsesi.net:9958/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-ZeJ9KJPMnk4/WZwcrBtjwjI/AAAAAAAATyM/9Rj4XbCFagcnAZ52S4axkgYT7X0qOloBgCLcBGAs/s1600/13.jpg",ARABESKLAND
+http://46.20.3.246/stream/54/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-tmLC2wihWfE/WbFDEibpGAI/AAAAAAAAVQ8/K2EsNkpWW7Q8VvBUDF39UQrHu1EoAeihwCLcBGAs/s1600/a.jpg",ARDAHAN FM
+http://95.173.161.131:9788/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-rsRfFqqSF9M/WZwegbrBEQI/AAAAAAAATyg/Ie4kF9-MYvUBbNBnhEAQ8_w2xTgY_t8fwCLcBGAs/s1600/17.jpg",AŞK FM
+http://yayin.asymedya.com:8002/1
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-Qcrzl_0f5hY/Wly9ijVQwrI/AAAAAAAAVyY/kz4o9FIBWbQDFSq9sgiBqkanpaZ6xAgmACLcBGAs/s1600/04.jpg",AŞK
+http://live.ulody.com:8000/ask
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-o0KdLbjN2rE/WbFEfCgOsnI/AAAAAAAAVRI/QDOEE3TF9M0HQWLJnTxnwp4dIbslNCnrwCLcBGAs/s1600/a.jpg",AVRASYA TÜRK
+http://46.165.251.131:1071/live
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-h8eAvKgitbU/WZwfh5I1HSI/AAAAAAAATys/vjcod7h2Su8k3wSzOFCFw9eCQow8q3Q4QCLcBGAs/s1600/21.jpg",BABA RADYO
+http://37.247.98.7/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-U2ZXv2nXmUE/WaLSCo_4k-I/AAAAAAAAUFs/lD2Ud1iqylQJ-D_kI8TbRJ4VeTLEU0efQCLcBGAs/s1600/by.jpg",BABYJOY
+https://playerservices.streamtheworld.com/api/livestream-redirect/BABYJOY.mp3
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-GpikdBf2aXE/WZ8CE0eJDWI/AAAAAAAAT08/FeLHMFGI0joFSGMwuO6FL6pxPX2So50qgCLcBGAs/s1600/03.jpg",BANDIRMA GENÇ FM
+http://yayin1.canliyayin.org:7048/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-6Jvhmw3dPU0/WZ8CifOsxzI/AAAAAAAAT1E/fZIKIYMUHE436zGgMBbfKx7MwoWycXgjACLcBGAs/s1600/04.jpg",BANDIRMA RADYO VENÜS
+http://yayin3.canlitv.com:9020/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-gUvnsEeO9Xw/Wj0HopCtWEI/AAAAAAAAVoQ/J9U5740Z1kAlIXyK5ArOPBkJ7Fayp3vwQCLcBGAs/s1600/06.jpg",BARTIN FM
+http://95.173.162.188:9824/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-4k0929w4kCo/WZ8DHjaKsJI/AAAAAAAAT1I/iZvWGKgRRSIoPrAMjWzVIIBpViB3WYGfQCLcBGAs/s1600/05.jpg",BEST FM
+http://46.20.7.126/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-O8Ac0fHK28E/WZ8GKPOPg5I/AAAAAAAAT1g/yEIxX5mCnf4bv6DS3lCM4vKnZKFALfTXgCLcBGAs/s1600/08.jpg",BEY FM
+http://45.32.154.169:9304/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-eYkVv9MUAtQ/WZ8INOQJRUI/AAAAAAAAT10/XRwOVnHUHekGPuHqnFSoUoEynb3-ECovgCLcBGAs/s1600/10.jpg",BİGA FM
+http://yayin2.yayindakiler.com:4088/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-edZ1Pup4v_o/WZ8IoosUR6I/AAAAAAAAT14/F6PBLVZIU9EI2phfN9yyLydnBZ03iFsTgCLcBGAs/s1600/11.jpg",BİLECİK FM
+http://95.173.188.155:9980/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-mKOOmrIdRtg/WZ8JY-eEr3I/AAAAAAAAT2A/U_KU1SbqF1k9WgUT_otAvOecnsnLDFpJwCLcBGAs/s1600/12.jpg",BİLECİK RADYO 11
+http://95.173.161.131:9832/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-0Pzsn2O9bRc/WZ8KyrhCULI/AAAAAAAAT2M/fSFuseXAJmEX0rMEYhq-B0_Y5Edum04vQCLcBGAs/s1600/13.jpg",BİNGÖL RADYO AZELYA
+http://radyoazelya.radyotvyayini.com:9052/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-wJZ9h7LSZ98/WZ8MLw0zLFI/AAAAAAAAT2Y/YnvaHFpF5fQ_V7rCL-aqwUCVDPAKqsHiwCLcBGAs/s1600/14.jpg",BİZ FM
+http://95.173.162.185:9302/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-vsgbHjYBGDg/WZ8QCATLUDI/AAAAAAAAT3E/q_B1C3A4mpEc9k0vymvnos0CF38IPIwGACLcBGAs/s1600/19.jpg",BOLU RADYO YANKI
+http://159.253.39.179:9918/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://3.bp.blogspot.com/-1OaBgHVOxlo/WZ8UQ5W3r6I/AAAAAAAAT3s/lkVt49pTqysADfeZ4Dac9DL7TcgZjxKEACLcBGAs/s1600/26.jpg",BRT BAYRAK TÜRK MÜZİĞİ
+http://sc.brtk.net:8010/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://1.bp.blogspot.com/-EkGXiTi36pI/WaAgRY47UQI/AAAAAAAAT4o/wAygbIGjGocmEnCcfzItFg5c8vr2hSczwCLcBGAs/s1600/b.jpg",BUCA FM
+http://94.102.5.18:9942/
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-CJbLR6aS9Gw/WaAhum8YotI/AAAAAAAAT40/vQglkM7jgCYM4Bm_v3a97Bi5WmHiGEnsACLcBGAs/s1600/1001.jpg",BURSA 1001 FM
+http://yayin3.canlitv.com:9050/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://2.bp.blogspot.com/-7AHkeaCdBYQ/WtoMNyp9XhI/AAAAAAAAWDA/d4qro9KcywgLALTqqOybioIWgxpnGNjvQCLcBGAs/s1600/b.jpg",BURDUR FM
+http://yayin.netyayin.net:4070/*.nsv
+#EXTINF:-1 $ExtFilter="RADYO 01" tvg-logo="http://4.bp.blogspot.com/-BnZXGtYxJ3A/WaAjr0eXhgI/AAAAAAAAT5A/IdM9eN8QX-Q7fCbZnin-_v-E_Hh6xENWwCLcBGAs/s1600/d.jpg",BURSA DENİZ FM
+http://yayin2.yayindakiler.com:4152/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-YYVuKcM4XeI/Wpj5e3DOxCI/AAAAAAAAV5k/XvEvGfyNBqMuR1JVYFObR7EuWMn_5CR6wCLcBGAs/s1600/rn.jpg",BURSA NOSTALJİ FM
+http://91.121.48.78:9360/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/--JEJ9-OdnCM/WaAlmktJPDI/AAAAAAAAT5M/OQojlweJ0zs-dcjIWzQaWE-KgpnhBF4egCLcBGAs/s1600/o.jpg",BURSA OLAY FM
+http://yayin5.yayindayiz.biz:8195/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-eAnEXtYbCqg/WaAm3B-Io1I/AAAAAAAAT5Y/DDhgbtZeBs4rDjqUUVQJFGYuE225c5p0ACLcBGAs/s1600/14.jpg",BURSA RADYO 14
+http://yayin3.canlitv.com:7020/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-yucgx29zK54/WaAntmrlFTI/AAAAAAAAT5g/m6fetgb8rjAp7MMdlELr5CJDWRuDfj4gACLcBGAs/s1600/16.jpg",BURSA RADYO 16
+http://kaanhost.com:9630/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-6_tQxne6klA/WaAofCjaUPI/AAAAAAAAT5o/tPzdv-jS_zYDSZceRwoW0oMmVJeDoEYNwCLcBGAs/s1600/24.jpg",BURSA RADYO 24
+http://yasamhosting.com:8414/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-_NxJl2DmsE4/WaAqB0dFxAI/AAAAAAAAT50/5CfA5HcJZTY-4xB3xx8u36PHiLGI3UYPwCLcBGAs/s1600/ra.jpg",BURSA RADYO AKTİF
+http://147.135.137.112:9220/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-8b27xSRhivc/WaAtdf9Cy8I/AAAAAAAAT6A/hjD5Oj5Jga8Y-uTkmgUzHV7X08VxCYgogCLcBGAs/s1600/bu.jpg",BURSA RADYO BU
+http://185.26.144.136:9540/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-UJc_w8EJaYA/WaAzDm3sF4I/AAAAAAAAT6Y/Jl748Dn4KAcJGZphaj2q46PzEPxGQKKigCLcBGAs/s1600/d.jpg",BURSA RADYO DERMAN
+http://sunucu2.radyolarburada.com:3636/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-zC-ihJWvfDA/WaA1P-9XlrI/AAAAAAAAT6k/xaa1d9RmPyMCU0KR2QC1OhzTmHpqEENuACLcBGAs/s1600/en.jpg",BURSA RADYO EN
+http://yayin.bursafm.com.tr:1055/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-biDUGikAX1c/WaA2NKLsFDI/AAAAAAAAT6w/8BIfaDP3ZCAYTyCGNsrJg1H8R2dOHVjRQCLcBGAs/s1600/g.jpg",BURSA RADYO GÜNEŞ İnegöl
+http://yayin2.canliyayin.org:5024/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-Ab0w7cqN05s/WaA5P9skjBI/AAAAAAAAT68/v6VBYZ2qMfUlOtT-uv8aEMOvIrIsU5P_QCLcBGAs/s1600/bk.jpg",BURSA RADYO KARADENİZ
+http://kaanhost.com:1043/?1545657493770
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-n9o7m5JMG5I/WaA6ukfDWEI/AAAAAAAAT7I/F3Ng12uqo5cmS_B0Dv0krAmwexmH8XiCgCLcBGAs/s1600/s.jpg",BURSA RADYO S
+http://yayin3.canlitv.com:8110/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-FCtTgfNf1EE/WaA7r1Z4HmI/AAAAAAAAT7U/P0pgMTWuISs-g2D91cckS1LpxjXkQMaQgCLcBGAs/s1600/s.jpg",BURSA RADYO ŞAMPİYON
+http://95.173.188.166:9782/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-xO7TeTf_opo/WaBAcmcKvSI/AAAAAAAAT7g/f7aYziSThpou7-YNeEwjnZA14iSaafb_wCLcBGAs/s1600/rt.jpg",BURSA RADYO TÜRK
+http://radyo.kaanvardar.com:9440/stream/1/?icy=http
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-cZuTsRZVXbM/WaE8gcRlHvI/AAAAAAAAT7w/7Gko_e8HVdQwteamk0cZk9ZysuLTuq4rACLcBGAs/s1600/s.jpg",BURSA SANCAK FM
+http://radyo.yayin.com.tr:4072/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-xuUyYIaGWA0/WaFGIt6x_gI/AAAAAAAAT8A/NZAWGm8ofUcmu-f_k_1Qg0JfRBcNppFggCLcBGAs/s1600/s.jpg",BURSA SÜPER BİR RADYO
+http://live.arkumedia.com:8004/stream
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-tjVBFH-oIfM/WaFN5oqfQuI/AAAAAAAAT8c/T12twslaOOMtHI3cH3eQurSfsghnYtSFACLcBGAs/s1600/u.jpg",BURSA ULUDAĞ FM
+http://sr1.netmedya.org:9170/stream.nsv
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-kqCl6mFOhuU/WaFPCZaRADI/AAAAAAAAT8o/n0_eFwzXbMIvQVvvN1bQyrzIvhSWed0PACLcBGAs/s1600/b.jpg",BURSADA BUGÜN RADYO
+http://radyo.bursadabugun.com/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-ytffZm_l7ck/WaFZr5AgDuI/AAAAAAAAT9E/pYCsmPeaaUgRhYz4gSlqNbwcYjOCHM0JACLcBGAs/s1600/caglar.jpg",ÇAĞLAR FM Malatya
+http://95.9.6.87:8788/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-gniUt3aL8Q0/WaFjmtoPnOI/AAAAAAAAT-I/fwozxvupcb0laTdgOqZ3-kvdALKKh8qgwCLcBGAs/s1600/cnn.jpg",CNN TÜRK RADYO
+https://radyo.dogannet.tv/cnnturk
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-0M8PfP3KQls/WaFmAOEZ0hI/AAAAAAAAT-U/kx_8jIK68DgCsjdjjy-RDruYc18xlNJLACLcBGAs/s1600/c.jpg",ÇORLU TEMPO FM
+http://sr1.netmedya.org:443/tempofm?ver=107160
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-72Sjdvd5fAQ/WaFoB7h2P1I/AAAAAAAAT-g/F0w8BUsmma4GgA5UkYOgF8HrOuK9IGeIQCLcBGAs/s1600/c.jpg",ÇORUM FM
+http://stream.taksimbilisim.com:8028/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-6F9J-Dmv4vY/WaFskjMMmWI/AAAAAAAAT-s/v7VC9LLmrooyl6zzUgRdarDeUIuSFJ9wgCLcBGAs/s1600/s.jpg",DALAMAN SAHİL FM
+http://radyoantalya.kesintisizyayin.com:7202/?1546023856847.mp3
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-xYWSJ-O_WhE/WaF5Bm7ztSI/AAAAAAAAT_g/nln19UuWJywHnmGdEQ89sI3biisU6HvZgCLcBGAs/s1600/d.jpg",DAMAR FM
+http://yayin.damarfm.com:8080/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-bviXwN1AD6M/WtooRtUu6PI/AAAAAAAAWDQ/xbTIkgEsIpEiHVBjjsoDFRTU3d0JcsarQCLcBGAs/s1600/k.jpg",DAMAR KRAL FM
+http://yasamhosting.com:8414/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-O_5SAaCmQ3I/Wj0I6ICeSXI/AAAAAAAAVok/Qz2J8ztudZw8Ufelnj0l4IyAkJdX8_8ewCLcBGAs/s1600/08.jpg",DAMLA FM
+http://yayin.rtmp.org:8750/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-zyEUMclTIX0/WaF_Fmt8TOI/AAAAAAAAUAQ/RslstCGSI9AfLGuXd3sZf6-6hK1GBR3NACLcBGAs/s1600/d.jpg",DEM RADYO
+http://s1.voscast.com:9572/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-_P8MRE1RJLU/WaKiSIva5WI/AAAAAAAAUA8/N-hUO6VoCigEeIL3hkbXFqwpkGte3efOwCLcBGAs/s1600/d.jpg",DENİZLİ DOSTLAR FM
+http://95.173.188.166:9848/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-jVi4BLtGPCs/WaKlSIgpYiI/AAAAAAAAUBU/rimQh9TUxOECZlmRMV4TZjAQhtmnf3qWQCLcBGAs/s1600/d.jpg",DENİZLİ RADYO DEVA
+http://philae.shoutca.st:8043/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-i2z9JROnTME/WaKmCCVSVzI/AAAAAAAAUBc/NIqOYRCxls48mKrNpw593B4MyCnvBU60QCLcBGAs/s1600/s.jpg",DENİZLİ SES RADYO
+http://95.173.188.166:9300/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-AvGXm8CavA0/WaKq3D2ovcI/AAAAAAAAUBs/NMWewl3wrA8BmSZHmEQjatfXzrhMblLnQCLcBGAs/s1600/rd.jpg",DERYA FM Konya
+http://nonstopkonya.canliyayinda.com:9898/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-rgc_WXzsNPg/WZvqhGvPQjI/AAAAAAAATts/k47sk1kviyICjNfmAOxw-csvvnZ_niqfgCLcBGAs/s1600/01.jpg",DİYANET KURAN RADYO
+https://content.nocvp.com/asset/7LzphJom/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-0qyRySZWuWc/WZvqAylXH0I/AAAAAAAATtk/l6u9o5Ybu_4Yh7zxUadPjbC3CDVzp3nFACLcBGAs/s1600/02.jpg",DİYANET RADYO
+https://content.nocvp.com/asset/7Lzp89e5/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-iKpM4XlZWqQ/WZvpHFIZtrI/AAAAAAAATtY/2TC_U2v0xhs04fJhhjegrzkmqDMt1UPqQCLcBGAs/s1600/03.jpg",DİYARBAKIR POLİS RADYOSU
+http://live.radyotvonline.com:7050/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-gBQyWWVPTKs/Wj0KXES0ZxI/AAAAAAAAVo4/hDn5Vo0Si0cjUAmEUaIFUW9lXgNdityxwCLcBGAs/s1600/09.jpg",DOST FM Hatay
+http://yayin.netyayin.net:5151/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-N4Jo_oOt1Nw/WaK4e8T4V2I/AAAAAAAAUDY/N2N6CeSbBi82lR_pusSkZCh9tVlJGbzWQCLcBGAs/s1600/e.jpg",EFKAR
+https://playerservices.streamtheworld.com/api/livestream-redirect/EFKAR.mp3
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-IkStuYJOiYM/WaJyXhsWsWI/AAAAAAAAUAs/KCNYkLVYMQsUoh7zDin1ZGleMbxjw26xQCLcBGAs/s1600/e4.jpg",EFSANE 4'LÜ
+http://37.247.98.8/stream/19/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-BrmiyIZmYM0/WaLLyLnsvnI/AAAAAAAAUEw/HmlsoVdeocwM_hNM92t6QTTny_MUos2lwCLcBGAs/s1600/s.jpg",EFSANE SEZEN
+https://playerservices.streamtheworld.com/api/livestream-redirect/SEZEN.mp3
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-YRswiKMyLUM/WaOvzMCvuJI/AAAAAAAAUHk/gu89ed7glGssGkDCRPBUtpWEaegSFdJAgCLcBGAs/s1600/ege.jpg",EGE HAVALARI
+http://37.247.98.8/stream/29/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-mM75U7S2s0w/WaO2foN2qTI/AAAAAAAAUIA/SXrgKMQpDBwahViHrkgF_Edop_TqweSSACLcBGAs/s1600/e.jpg",EKİN RADYO
+http://yayin.turkhosted.com:6006/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-Yovc1dbCO64/WaO3DwdPeqI/AAAAAAAAUII/LGLw5izmSy49C8k7puiOndZ3DXZZTYphwCLcBGAs/s1600/2000.jpg",ELAZIĞ RADYO 2000
+http://yayin.turkiletisim.com.tr:1092/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-4e1srtlSYMo/Wto-6HrLoCI/AAAAAAAAWDo/tmfANNIgfR4CfDV92IprjuZKRwRequpcwCLcBGAs/s1600/h.jpg",ELAZIĞ RADYO HAZAR
+http://radyohazar.canliyayinda.com:8286/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-EVc06bEG2wI/WaPiubOd_dI/AAAAAAAAUKE/StCIs3OTbAUvmnV0ZuOa0Up2-jkVm29aQCLcBGAs/s1600/e.jpg",ERZİNCAN FM
+http://yayin.netyayin.net:2424/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-bHwdXj_VxUk/WaPuW_VNkEI/AAAAAAAAUKo/8-U1U7QC1pgDLQ6BM_sOr4Xwe6ntRR5lQCLcBGAs/s1600/i.jpg",ERZURUM İMAJ FM
+http://sunucu.radyodinle.com:9797/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-g50SjWclKHs/WaQHTgyJdoI/AAAAAAAAULc/pED99yN_1wkcwHMWKpmOT5lnHellkZgkQCLcBGAs/s1600/b.jpg",ESKİŞEHİR BİBER FM
+http://yayin1.yayindakiler.com:3132/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-R58jx9_H-6M/WaQJtSvwuHI/AAAAAAAAUL0/QzVvsUv8-MA3GonJtquyvGXexUWFL1kEgCLcBGAs/s1600/t.jpg",ESKİŞEHİR TEMPO RADYO
+http://217.195.193.2:9988/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-Cju1Rg4ea-o/WaQMyIMuc7I/AAAAAAAAUMc/muzAW8RGi4cpa-lHu5NySFHOXsR4-1qcgCLcBGAs/s1600/mr.jpg",EYNESİL MERCAN FM
+http://yayin1.yayindakiler.com:3190/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://3.bp.blogspot.com/-9gPyS5cV5Pk/WaV2g1NsinI/AAAAAAAAUTY/mCh3Aq_qBwc69Um6wn3lcsmQJ-CV_cTrwCLcBGAs/s1600/k.jpg",KARADENİZ FM
+http://46.20.7.100/stream/170/stream
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-D2ArytlHU0M/WaV4rtVCqTI/AAAAAAAAUTo/aLRuVtxahBAdyKA-PFMylAfmc10QUY4hACLcBGAs/s1600/k.jpg",KARADENİZ HAVALARI
+http://37.247.98.8/stream/28/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-cnVdLzI3aM4/WaV8xqEjNGI/AAAAAAAAUT0/nHjKHyEXQp8iAr5Iw1CinigTG26GB8ZaACLcBGAs/s1600/k.jpg",KARDELEN FM
+http://dinle.kardelenfm.com:2000/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-4fPR7RJ8hkc/WaV-EXJFCXI/AAAAAAAAUUE/RtiIyA-9gEI65i-HW5zBxpd49E2ZG61pwCLcBGAs/s1600/k.jpg",KAY RADYO
+http://yayin1.yayindakiler.com:3054/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-CmDMX1S97jE/WaV_w9g3rkI/AAAAAAAAUUU/Z3Z-CKx8PCM7EJnURYQiKrsyocZOBgJcwCLcBGAs/s1600/g.jpg",KAYSERİ GÖZDE FM
+http://yayin1.yayindakiler.com:3056/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://4.bp.blogspot.com/-c9yeJof-fNg/WaWB9ggcp7I/AAAAAAAAUUk/1Qt9REap6-gliyhr15jQecjij4YseAPRgCLcBGAs/s1600/k.jpg",KEMENÇE FM
+http://dinle.kemencefm.com:6161/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://2.bp.blogspot.com/-_34pcPrtME0/WaZwUYm4jgI/AAAAAAAAUVA/4_7Va8e3_X0DMteYtK_MOGHfP0sYCDyMgCLcBGAs/s1600/k.jpg",KESKİN FM
+http://yayin1.canliyayin.org:8286/
+#EXTINF:-1 $ExtFilter="RADYO 02" tvg-logo="http://1.bp.blogspot.com/-gvZvgV6O77s/WbFV7dTCx5I/AAAAAAAAVR4/onbOaQptiV4qpJFE7ub7VNgqwdWzVii6QCLcBGAs/s1600/k.jpg",KEŞAN FM
+http://sunucu.radyodinle.com:2234/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-eOjHnyN3C8o/WaQNiE6KsrI/AAAAAAAAUMk/qbYlZ0P0WEsDCkR5I_utwGB74LxM7CO6wCLcBGAs/s1600/ez.jpg",EZGİ RADYO
+http://sunucu.radyodinle.com:1782/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-VJ4co0S3KkI/Wly7oSiGvMI/AAAAAAAAVx8/ML4Uld8Y3t05hNBzJhfyfbJEKCyxXDJ4wCLcBGAs/s1600/01.jpg",FASIL
+http://live.ulody.com:8000/fasil
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-_hTPm6dUP_0/WaQPI3kBFGI/AAAAAAAAUMw/vfLI8LLMeKAqO_7Qip0UaTwgQFO2h_3GACLcBGAs/s1600/f.jpg",RADYO FENOMEN
+http://fenomen.listenfenomen.com/fenomen/128/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-uaxSIRinVbU/WaQVts47VYI/AAAAAAAAUNA/jxvPD8C6z1UsbC6I9gcLz-WwZHw3zey-wCLcBGAs/s1600/01.jpg",FENOMEN AKUSTİK
+http://fenomenakustik.listenfenomen.com/fenomenakustik/128/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-gTsTBfDrinA/WaQWFUu-tdI/AAAAAAAAUNE/OT1c7oKdyeUa7LitE_4Lihz6Ky6v7J8sQCLcBGAs/s1600/02.jpg",FENOMEN CLUBBİN
+http://fenomenclubbin.listenfenomen.com/fenomenclubbin/128/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-TNPsomWoF40/WaQXQY6rI-I/AAAAAAAAUNQ/pa2LuXzR-Bs2WGevB65zTT8Ws8RlopmGQCLcBGAs/s1600/03.jpg",FENOMEN DANS
+http://fenomendans.listenfenomen.com/fenomendans/128/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-7zcq7WynU44/WhQydg7gf3I/AAAAAAAAVhA/6gSKMS93C38vPFHi3PNDR_7jODFgG-mPQCLcBGAs/s1600/f.jpg",FENOMEN KARIŞIK
+http://fenomenkarisik.listenfenomen.com/fenomenkarisik/128/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-rWIkECQGxb0/WaQYTIpRz8I/AAAAAAAAUNc/nrfHYzV5eiw39uYTN9i3u71rW1Tl0QtUgCLcBGAs/s1600/04.jpg",FENOMEN ORİENTAL
+http://fenomenoriental.listenfenomen.com/fenomenoriental/128/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-Ipg3SbHk3TQ/WaQY924aEHI/AAAAAAAAUNk/RPgbuQQwJTonmBBvGY7inWAefHO3O8hBwCLcBGAs/s1600/05.jpg",FENOMEN POP
+http://fenomenoriental.listenfenomen.com/fenomenpop/128/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-xRV9jrJgoNg/WaQZnUJGf7I/AAAAAAAAUNs/XlmJi-7XnWAdv6xleAMcr6LHBItGkZTugCLcBGAs/s1600/06.jpg",FENOMEN RAP
+http://fenomenoriental.listenfenomen.com/fenomenrap/128/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-td8e2wIAJlk/WaQaWtHhvyI/AAAAAAAAUN0/S7alyJUBO6MPUNNG8gllJpVn_3ufCUN4QCLcBGAs/s1600/07.jpg",FENOMEN TÜRK
+http://fenomenturk.listenfenomen.com/fenomenturk/128/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-9jkuAt-zvg4/WrvqjPsTjmI/AAAAAAAAV7g/oMDwGmNdZ-Qtcyyw6ShuCrp5sRFpF9NbwCLcBGAs/s1600/f.jpg",FISTIK FM
+http://yayin.yayindakiler.com:2036/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-wfj5IekgVvk/WaQeCJXPHWI/AAAAAAAAUOY/gI8Vkr6LixAW2AKWK8TCNh83wrkKDTvTQCLcBGAs/s1600/23.jpg",FM 23
+http://radyofm23.canliyayinda.com:8280/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-8w-fi41JR-g/WbFSiV8cEPI/AAAAAAAAVRY/SO58ihjIQZY4zWlIdT0oPAQodVYo9Q4UwCLcBGAs/s1600/g.jpg",GAZİANTEP RADYO KİLİM
+http://sunucu.radyodinle.com:2727/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-s_BSJ1TyNYE/WaQoFu6VXPI/AAAAAAAAUPM/sl5xj8Ng9AYz4k7NvrPYg3eXwjFCa_5rQCLcBGAs/s1600/g.jpg",GENÇ RADYO Konya
+http://yayin.turkhosted.com:6030/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-3POEqCCA5NU/WaQqyN7pn1I/AAAAAAAAUPY/siMixCODfH0iQ90l_NV3yrC3Mp2cyLjagCLcBGAs/s1600/g.jpg",GİRESUN FM
+http://sunucu.radyodinle.com:2828/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-V967uMRLyi8/WaQtMnPRx7I/AAAAAAAAUPw/cxxccCWOMFwEr0xYJYavj82u34aBG0F9ACLcBGAs/s1600/g.jpg",GİMSA RADYO
+http://yayin.canliyayin.org:9482/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-iJhONRjmXmE/WaLNj-ZeuII/AAAAAAAAUFI/0fi9J_SmZuQjd8BbsxsS1IulLDYkC63qQCLcBGAs/s1600/gonul.jpg",GÖNÜL
+https://playerservices.streamtheworld.com/api/livestream-redirect/GONUL.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-7dQFI-5w2aU/WaVa7FoKObI/AAAAAAAAURA/xUJydaNa1Wgj7W40N6ii7-i2O_2Lg7ZvACLcBGAs/s1600/h.jpg",HAMSİ FM
+http://radyo.hamsi.fm:8050/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-CcKRPprkuwM/WbFTrO8anCI/AAAAAAAAVRk/qwg3Rktm9jIqeHAr_sT91R2B1NW3xpyrwCLcBGAs/s1600/h.jpg",HARBİ RADYO
+http://yayin2.yayindakiler.com:4188/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-Yomw3jXA0Jc/WbFUSQJMyWI/AAAAAAAAVRs/8k51ctXpmvkbIiYGzqQRJ0y1XvN0oUDRwCLcBGAs/s1600/h.jpg",HAYAL FM
+http://yayin.radyohayalfm.net:8050/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-jJqjemWox64/WaLNOWu5HqI/AAAAAAAAUFE/jvPL7U0igiEEBl9X_c_RPiD5PWGMAeYCQCLcBGAs/s1600/i.jpg",İBRAHİM TATLISES
+https://playerservices.streamtheworld.com/api/livestream-redirect/MAKAM.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-iu6nAM5XimU/WaVkAs7RWlI/AAAAAAAAUSE/2_qpGRwQ7TAbnkC7V4aUcjzvtl00TJH1QCLcBGAs/s1600/i.jpg",İMBAT FM
+http://allergo.serverroom.us:8127/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-Kt3env2YIEw/WaVl0oB9qcI/AAAAAAAAUSQ/JjUdhWuzlfYzCuQQeaCbOQBBKLePyckpwCLcBGAs/s1600/i.jpg",İSTANBUL FM
+http://45.32.154.169:9300/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-krUs-limNs8/WaO5cbUlhSI/AAAAAAAAUIo/9UD94Dj4ghwFSpB2xou_Gv1viFsd02MhwCLcBGAs/s1600/05.jpg",JOY FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_FM.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-E2AXx1nj0n4/WaO6J1ebliI/AAAAAAAAUIw/T47rfbQ1rC4pgJOqqHhdZDBKP5Bj2904wCLcBGAs/s1600/08.jpg",JOYTÜRK FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-unkb5IamGGE/WaV0ikbP6UI/AAAAAAAAUTM/TyUDh_UG6qUd4zXNSv-SJ_WMobYQ33n3wCLcBGAs/s1600/k.jpg",KAFAM
+http://radyo.dogannet.tv/kafa
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-1HBBBwf1SkA/WaZyY3FLtBI/AAAAAAAAUVQ/J4bztr02P1knNctbRjQhcU4da4fGfm2fgCLcBGAs/s1600/k.jpg",KIRIKKALE FM
+http://kirikkalefm.canliyayinda.com:7140/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-LvKJKicNe7U/WbFWrn2OUEI/AAAAAAAAVSA/yAtWx8KpHSAlAwO5aiOimeq_C8rM3YG9gCLcBGAs/s1600/s.jpg",KIRKLARELİ SOYLU FM
+http://yayin2.yayindakiler.com:4034/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-BHOlVHRPEtw/WbFX2G8MVoI/AAAAAAAAVSQ/V3FvLCu7sp4KURubq3ogelhMrVP1jDzcgCLcBGAs/s1600/k.jpg",KOLEJ FM
+http://yayin2.yayindakiler.com:4130/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-8_E3eAW8ZzE/WaZ4GP5SgxI/AAAAAAAAUV8/9s-MTuYPsuYBkCdxwrRQ-JdLYfiLZZxegCLcBGAs/s1600/k.jpg",KONYA FM
+http://212.175.65.102:8001/live
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-1B5J4OyC_qg/WtsVXqs_lkI/AAAAAAAAWD4/aTVtnrNILRczF5J5wmd9dl5WqIIxiYMHACLcBGAs/s1600/t.jpg",KONYA TİRYAKİ FM
+http://yayin2.canliyayin.org:8340/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-IYdNFucmj5E/WaZ50p_UyAI/AAAAAAAAUWI/XxoetSPj1983obABgv8AAi5MeXrn0nYrQCLcBGAs/s1600/k.jpg",KORDON FM
+http://allergo.serverroom.us:8147/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-D6zvwLy0JBI/WaZ7rrNbkEI/AAAAAAAAUWU/yhCYAaf3KFA7mMYZPQ738Gd62FbB0JcNQCLcBGAs/s1600/k.jpg",KOZAN FM
+http://sunucu.radyodinle.com:3401/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-TccavJLgv4c/WabEazArbPI/AAAAAAAAUcM/Z-l2tfH1Li0nth3dCNO0b1SDEOBEZ_g9wCLcBGAs/s1600/k.jpg",KRALTÜRK FM
+http://canliradyoyayini.com:3434/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-_3i5902YQWQ/WabGVnv3VTI/AAAAAAAAUcc/ctQ8jFErVMAPneVm7GDfUNpAlrm0f5KOgCLcBGAs/s1600/k.jpg",KURAN MEAL RADYO
+http://37.247.98.8/stream/33/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-YyLl6-779Ew/WabJO_g35YI/AAAAAAAAUco/VuGwWHPZKqMbgytfri7rEw9XaHTG0OGOwCLcBGAs/s1600/rn.jpg",KUŞADASI RADYO NET
+http://91.134.25.37:9336/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-r1U-nwH0FXI/WabNea43fMI/AAAAAAAAUdE/yg1ruxU702MMVm13sdE7rBU40fSTTia1QCLcBGAs/s1600/k.jpg",KÜPE FM
+http://sr1.netmedya.org:9700/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-ck-S4CEbd3c/WafYEx4YUhI/AAAAAAAAUd8/-xRRRWrSZBk1SF0P509pIIUuRibzNANbACLcBGAs/s1600/l.jpg",LOKUM FM
+http://sunucu2.radyolarburada.com:9070/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-WvBsegVuEBM/WafXP9ZW8zI/AAAAAAAAUd0/08w0wjFT6oMmpICspz4VZqgLqAzUJi2tgCLcBGAs/s1600/l.jpg",LİG RADYO
+http://turkmedya.radyotvonline.com/turkmedya/ligradyo.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-elPBLZ1Uv5k/WafdiWs7nVI/AAAAAAAAUeo/4Qmrws15YX0y1aiSE1dG0K7V2GkNodbhACLcBGAs/s1600/01.jpg",MAMAŞ FM
+http://mamasfm.com:8000/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-CANPOocXUPU/WafeM3-1t5I/AAAAAAAAUew/0RAbiBJ45S0jjPmH9EMu7L1zN8CaAYWeQCLcBGAs/s1600/03.jpg",MAMAŞ FM ARABESK
+http://mamasfm.com:3500/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-is8reYIVYtU/WaffPF1n63I/AAAAAAAAUe8/AVBBDCg1QwwhACJbcoN3qXD3lWo9hyIVQCLcBGAs/s1600/02.jpg",MAMAŞ FM POP RADYOSU
+http://mamasfm.com:4500/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-hoAT0skrkd8/WaffzxAp8VI/AAAAAAAAUfE/D38-DkMZrMEiaKIt15Y4gxKfZVQpxNnLACLcBGAs/s1600/04.jpg",MAMAŞ FM TÜRK MÜZİĞİ
+http://mamasfm.com:5000/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-zDSYXN589Gg/WafgYBTexgI/AAAAAAAAUfM/TNxRkWLVYh4GDKxXFb1xiy9GL8cxUj8MgCLcBGAs/s1600/05.jpg",MAMAŞ FM TÜRKÜ RADYOSU
+http://mamasfm.com:9984/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-9fa-On78B4E/WafitaNkIdI/AAAAAAAAUfY/lZ6ShIKRzRMMxbKo63vYOTjA7g-pSiObQCLcBGAs/s1600/ms.jpg",MARAŞ SULTAN RADYO
+http://yayin.turkhosted.com:4949/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://4.bp.blogspot.com/-qVdV3kzgxg0/WafmAhKO_4I/AAAAAAAAUf0/hnWaT871M6Y8ji0WoOqAMLLudwRcK9CEQCLcBGAs/s1600/m.jpg",MAZİ
+http://radyo.dogannet.tv/mazi
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-nH-9kB-mzig/WaftIHbnxzI/AAAAAAAAUgo/7-Dv6-JDigc9kwYkdr0SNYOB3rT0YK-jQCLcBGAs/s1600/mb.jpg",MAZİDEN BİR DEMET
+http://37.247.98.8/stream/24/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-gX7VNMou9HQ/WahO459yMgI/AAAAAAAAUhA/mA32Z98gg_4_o5Y_i-6JDmDg_6Qpttk8ACLcBGAs/s1600/m.jpg",MEDYA FM
+http://live2.radyotvonline.com:9390/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-GG9swvVZsGc/WalZz7aHa7I/AAAAAAAAUho/6HICu1fROhEfDWQy6IoqAiZz3TnqcSFrwCLcBGAs/s1600/m.jpg",MERSİN FM
+http://stream.taksimbilisim.com:8038/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/--J5cQbGO_qk/Walcn3w5sCI/AAAAAAAAUh8/rcjO-l1ZJXUbR4Z6WDbQAcDXKjMLrCSiACLcBGAs/s1600/m.jpg",MEŞK FM
+http://meskfm.radyolarburada.com:9550/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-gZg6fkj7pwc/WZvpl-EAmhI/AAAAAAAATtg/6Qd5PjORS4cHbY1CsaovvgNNt2H0bK29wCLcBGAs/s1600/05.jpg",METEOROLOJİNİN SESİ RADYOSU
+http://radyomgm.canliyayinda.com/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-xA_XI8XCCPM/WalfnpaTWTI/AAAAAAAAUiY/bIBZ20MCJ_UC4hcGplvT3LHvESaOx6YsQCLcBGAs/s1600/m.jpg",METROPOL FM
+http://mfm1.webradiostreaming.de:8250/1
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-YWMeSUlMBl4/WalnDUJqnSI/AAAAAAAAUjM/GNkcOh7zuPQ8wsEPC-39wq-ARpnt_Me3wCLcBGAs/s1600/g.jpg",MİLAS RADYO GÖZLEM
+http://149.202.161.61:8000/radyogozlem
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-SodfnLWC530/WalrtBRbCLI/AAAAAAAAUjY/wY4v9zxwjEIDQlLYl-zDhYY9RnZvEHbCACLcBGAs/s1600/mt.jpg",MİLAS RADYO TECH
+http://milbassan.com:8000/radyotech.ogg
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-vVlpOjtNiGY/Wals6khmF9I/AAAAAAAAUjk/6HVAx-jzJIcI-wB92NL4dNvS1XXmdaeKgCLcBGAs/s1600/m.jpg",MİKSER
+http://radyo.dogannet.tv/mikser
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://2.bp.blogspot.com/-FfN9yDfpJKY/WalxbqsGLvI/AAAAAAAAUkM/jXmTUoyN2wE4Wt2AiNgB7L9JT7R24I7iACLcBGAs/s1600/p.jpg",MUDANYA RADYO POYRAZ
+http://79.171.16.21:9950/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://1.bp.blogspot.com/-ZTKvrQrn5B8/Waly_PylrHI/AAAAAAAAUkc/KbXf8rOjuvcDr-gYwbOi4tVLUGY5KFUwgCLcBGAs/s1600/m.jpg",MUĞLA ÖRNEK RADYO
+http://yayin.yayindakiler.com:3006/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-kbHe_WlPR8w/WappZiQKbDI/AAAAAAAAUlg/LGW6PxFHE_AGZUiCCiZPxKtVZfahE0FZACLcBGAs/s1600/m.jpg",MÜZEYYEN
+http://46.20.3.246/stream/53/
+#EXTINF:-1 $ExtFilter="RADYO 03" tvg-logo="http://3.bp.blogspot.com/-QLqMwyi7wpc/WaO81A7n_qI/AAAAAAAAUJM/9nT6i-n7F08WJ2yTRzmNAdbD4d40vFx8wCLcBGAs/s1600/13.jpg",MYDONOSE FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_MYDONOSE.mp3
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-rPj5-xhM5cM/WaO9EspkBSI/AAAAAAAAUJQ/W8N4WFy1lIAzy5qr5nAj6z4B85xz6qwcQCLcBGAs/s1600/14.jpg",MYDONOSE TURK
+https://playerservices.streamtheworld.com/api/livestream-redirect/DANSTURK.mp3
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-yOI20GCAV9w/Wap29gBWcRI/AAAAAAAAUnE/F-GjGILUoAgJcHjDXlN6YtYvtnb0nsdvgCLcBGAs/s1600/ntv.jpg",NTV RADYO
+http://ntvrdwmp.radyotvonline.com/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-Ppujo_MDZ-U/Wap5FNyeEAI/AAAAAAAAUnU/APIiVSXrub8c2D0DNOCOZmFQ8d9MN1nYgCLcBGAs/s1600/n.jpg",NTV SPOR RADYO
+http://ntvsporwmp.radyotvonline.com/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-PohD5W84lJ8/WaqJbPdmXTI/AAAAAAAAUoA/BJznNHbztlU6Qda5nsqOP1OBRErWMiztgCLcBGAs/s1600/04.jpg",NUMBER 1 FM
+http://20043.live.streamtheworld.com/NUMBER1FM.mp3
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-ZGDz8ABniZs/WaqY1rNI6ZI/AAAAAAAAUqU/ugoDHXv3eiI3O7tA9rSasRH0n7olK3h7gCLcBGAs/s1600/15.jpg",NUMBER 1 TÜRK FM
+http://19643.live.streamtheworld.com/NUMBER1TURK_FMAAC.aac
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-DehTXl2kkrE/WtuxweneWTI/AAAAAAAAWEM/hs7wTnH-SqQcv7JT0aWW18dpUHeMSG62wCLcBGAs/s1600/d.jpg",NUMBER 1 TURK DAMAR
+https://nr1sslhls.radyotvonline.com/nr1/nr1digitalgelgel.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-NC93n7M2-NA/WaqdSWPS0VI/AAAAAAAAUrA/_R9NSInnVf0_H_56M7134W6kIDUx95UPACLcBGAs/s1600/ob.jpg",NUMBER 1 TÜRK ORHAN BABA
+https://nr1sslhls.radyotvonline.com/nr1/nr1digitalorhangencebay.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-yRVxMPkhSU0/WarLzAnPxjI/AAAAAAAAUrs/eU1w5nWXiUsX5eZQkCqY3-MlA_cJryBAQCLcBGAs/s1600/z.jpg",NUMBER 1 TÜRK ZEKİ MÜREN
+https://nr1sslhls.radyotvonline.com/nr1/nr1digitalzekimuren.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-eO7bqfl8BA8/WaqZ5_WM8pI/AAAAAAAAUqg/ZfhG7RP9YzEfuXIPCqmafwUK6x3HJQgFACLcBGAs/s1600/18.jpg",NUMBER 1 TÜRK ÜSKÜDAR MUSİKİ  CEMİYETİ
+https://nr1sslhls.radyotvonline.com/nr1/nr1digitalmusiki.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-LdS4t52toF4/WaqMncTti5I/AAAAAAAAUok/DBCdOtgZZMcjZwe-_yvYJLYj7PvIxod1wCLcBGAs/s1600/10.jpg",NUMBER 1 TURK 90'LAR
+http://19643.live.streamtheworld.com/NUMBER1TURK_90LARAAC.aac
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-XQj-CkqQPhg/WaqGZnZRpSI/AAAAAAAAUnk/oikol2r7NgkeBz1I3ui3edFmb66p1_V5ACLcBGAs/s1600/01.jpg",NUMBER 1 DANCE
+https://nr1sslhls.radyotvonline.com/nr1/nr1digitaldance.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-LkpEbG-70Tk/WaqHC_tRcqI/AAAAAAAAUns/if_esIu5tjoegCmSwhIQHUkUqPY3BxvJACLcBGAs/s1600/02.jpg",NUMBER 1 DEEP HOUSE
+https://nr1sslhls.radyotvonline.com/nr1/nr1digitaldeephouse.stream/playlist.m3u8
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-lEteWeTl_3I/WarNKkJGioI/AAAAAAAAUr4/Dxw_gAr97BQ07Kap1VofiTdgXKC6IXVLgCLcBGAs/s1600/o.jpg",ORDU FM
+http://78.129.187.73:33489/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-7FSwezEe85A/WarN51EcH6I/AAAAAAAAUsA/eJ4YZvfZE2YF5lG0zAtRX9wLXcp7igwCQCLcBGAs/s1600/o.jpg",ORTACA FM
+http://live.radyotvonline.com:9100/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-LXxVVCXuGcg/WarOth4wZSI/AAAAAAAAUsE/0QGxinQqM2cyYyK8vO7zTDuIS-21ch5aQCLcBGAs/s1600/80.jpg",OSMANİYE RADYO 80
+http://yayin2.yayindakiler.com:4064/stream/1
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://1.bp.blogspot.com/-Ov4iNS-2KgE/WarPXvQLBXI/AAAAAAAAUsM/EGUqGnyKvrclk0GMYBL2eXvofz4XynsRgCLcBGAs/s1600/rr.jpg",OSMANİYE RENK RADYO
+http://yayin1.yayindakiler.com:3158/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-uyj948ZSXHQ/WarRimZI5bI/AAAAAAAAUsc/6wIjPhDxZUEjxNNFi8cKeCxH_AahQT4dACLcBGAs/s1600/o.jpg",OSTİM RADYO
+http://yayin.asymedya.com:8007/1
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-R1ftW14AmMc/WaqhvMTWILI/AAAAAAAAUrM/v3KOjdV9reUZ1-V7Gbm74bl2dZAhFIE6wCLcBGAs/s1600/r.jpg",ÖDEMİŞ RADYO REMİX
+http://radyo.yayin.com.tr:8304/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-y_g6_VfH88s/WarU0z-tkFI/AAAAAAAAUsw/-VWCSYRB4wQKgnX5C2FchSiYSKIrIcZhwCLcBGAs/s1600/or.jpg",ÖMÜR RADYO
+http://37.59.205.232:3658/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://1.bp.blogspot.com/-0KJ9_25yya0/WarT9o33gPI/AAAAAAAAUso/JnC7T6n_dageslAQYX7MjJizEqBmMLj6wCLcBGAs/s1600/o.jpg",ÖZGÜR RADYO
+http://95.173.188.170:9898/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-s7RyZjikwHA/WarbqWest8I/AAAAAAAAUtY/NZ5IGE6KnzcaqJYG9YhfiE49I3N5Iy__gCLcBGAs/s1600/05.jpg",PAL FM
+http://shoutcast.radyogrup.com:1030/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-MLn86E_b6WI/WarZcN4jCqI/AAAAAAAAUs8/UYlv9KOyrN4jvqMeEP2GFqCapDo0XKexgCLcBGAs/s1600/01.jpg",PAL AKUSTİK
+http://shoutcast.radyogrup.com:2030/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-gxjpRVUTuFM/WarZ3DRKBlI/AAAAAAAAUtA/sW4l1paCUKAKYE_m01qTaKv2-T3_GfRCACLcBGAs/s1600/02.jpg",PAL ALATURKA
+http://shoutcast.radyogrup.com:3050/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-l534gYsfvbg/WaragJELJsI/AAAAAAAAUtI/LIk2EDDkGqctWLiWRkiBiF5wSJL0T6h1QCLcBGAs/s1600/03.jpg",PAL DANCE
+http://shoutcast.radyogrup.com:2040/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-iWfxrWK6jYk/WarbAj29scI/AAAAAAAAUtQ/m_04v4XGRtYJ7f6ATo6b76HGhLQOOUFmACLcBGAs/s1600/04.jpg",PAL DOĞA
+http://shoutcast.radyogrup.com:1040/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-8JrCqrEzjBo/WareGJoAgaI/AAAAAAAAUt4/wcxVB9I8U0kybHMJimtlxKVvrR9uk26RQCLcBGAs/s1600/10.jpg",PAL REMİX
+http://shoutcast.radyogrup.com:2010/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://1.bp.blogspot.com/-wfe2-q-PCzw/WarenNXrysI/AAAAAAAAUuA/1YrQJAt03fkx97SCcsbEs0NEUiUoNZ_2wCLcBGAs/s1600/11.jpg",PAL ROCK
+http://shoutcast.radyogrup.com:2050/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-LlSreG8Qa-E/WarfK0beBGI/AAAAAAAAUuI/Kg8bD0bkvMMlKtN2RLqLCnbUiKCuDwHEACLcBGAs/s1600/12.jpg",PAL SLOW
+http://shoutcast.radyogrup.com:2020/stream/1
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://1.bp.blogspot.com/-glvwCO57WqM/Warfp_muU2I/AAAAAAAAUuQ/HsjXtWU-ruAiXc7kmJ93kL5FIfuAAVXRwCLcBGAs/s1600/13.jpg",PAL STATION
+http://shoutcast.radyogrup.com:1020/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-mBziqBjpc34/Wari-TFlC1I/AAAAAAAAUuk/I4h1q6Ra-7Q_LmNwCW9nxrQULS4OFMr8ACLcBGAs/s1600/p.jpg",PARK FM
+http://yayin.netradyom.com:8050/PARKFM
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-bhPS9yYxSw0/Wj0K_bNGDRI/AAAAAAAAVpA/QRDeSozZZMElxqn84__dhhvTnD8rnXGPgCLcBGAs/s1600/10.jpg",PAYLAŞ FM
+http://95.173.162.183:9868/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-4q7LMsuvXa8/Warj79El16I/AAAAAAAAUuw/7XnNNotVwv0_J552i0IDl6Xj04ltEwS_QCLcBGAs/s1600/p.jpg",PLAY FM
+http://live.playfm.com.tr:9050/stream/1
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-Oj0tyqrCrpA/WavvTzb7U7I/AAAAAAAAUyQ/kKQGpzD9rxcemM9Qb9i9wAdcU22e4hPhQCLcBGAs/s1600/04.jpg",POWER FM
+http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://1.bp.blogspot.com/-kxAnceij9Nw/Wavy4jjtQhI/AAAAAAAAUy8/L-U4_MJe2kg8YC0EkVNghgVOzlrJ8MuEgCLcBGAs/s1600/12.jpg",POWER POP
+http://powerpop.listenpowerapp.com/powerpop/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-z7nwqidRQD8/Wav3aYs5paI/AAAAAAAAUzs/7FZZed0FQs4oRRQImo5seVI7_NDUnM1TgCLcBGAs/s1600/23.jpg",POWERTÜRK FM
+http://mpegpowerturk.listenpowerapp.com/powerturk/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-zrsttlpEdLc/Wav1NweAYPI/AAAAAAAAUzU/fHTTLKdEV9srbDia47TYyMU3JHEdIPO1QCLcBGAs/s1600/18.jpg",POWERTÜRK AKUSTİK
+http://powerturkakustik.listenpowerapp.com/powerturkakustik/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://1.bp.blogspot.com/-4pZVI1AdFOI/Wav2HqhjeKI/AAAAAAAAUzc/AAi8AW4KTdIsvcIzkSg2vfonwBiTsypkgCLcBGAs/s1600/20.jpg",POWERTÜRK COVER
+http://powerturkcover.listenpowerapp.com/powerturkcover/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-mQn5XvBcgt0/Wav2hHJs0RI/AAAAAAAAUzg/Ilfj7SFk36gWsD40UD59YzNeDONx3wFYwCLcBGAs/s1600/21.jpg",POWERTÜRK EFSANE
+http://powerturkefsane.listenpowerapp.com/powerturkefsane/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-E1hZ49mjxAI/Wav27nLV7oI/AAAAAAAAUzk/GbT0Wt4l2fI3_XdPoo8bZM7qj7XbK9lzwCLcBGAs/s1600/22.jpg",POWERTÜRK EN İYİLER
+http://powerturkeniyiler.listenpowerapp.com/powerturkeniyiler/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-FjvRGqhzeW8/Wav438vdO6I/AAAAAAAAUz8/azkf4H2fUXEWqAPOi_WWF6Z3hsMqSOqdwCLcBGAs/s1600/27.jpg",POWERTÜRK TAPTAZE
+http://powerturktaptaze.listenpowerapp.com/powerturktaptaze/mpeg/icecast.audio
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://1.bp.blogspot.com/-MfYRzJbt_qQ/Wav5VNbQgfI/AAAAAAAAU0A/ac--VUBlOGga9LwhyRmubQZTqQjMRujOQCLcBGAs/s1600/r5.jpg",RADİO 5
+http://radio5tr.canliyayinda.com:4108/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-GR-ctL3HP-s/Wav7hukM7WI/AAAAAAAAU0Y/6AvGWrhAgrI93ULyQs34_Ir-4Q8ZgpiVwCLcBGAs/s1600/06.jpg",RADYO 06
+http://46.20.7.100/stream/72/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-zNUe5L5mAi0/WawEEd6POCI/AAAAAAAAU1U/6lxA_YYSe0Iguk77HqpaTa6EzRffI3fXgCLcBGAs/s1600/7.jpg",RADYO 7
+http://46.20.3.251/stream/169/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-LPqL6aMRJx4/WawALUEt4vI/AAAAAAAAU08/Pt96uVxY1F8pyypTYlwTOpo6qpX3KGzjACLcBGAs/s1600/34.jpg",RADYO 34
+http://yayin1.canliyayin.org:7424/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://1.bp.blogspot.com/-ftBXExs_vYk/Wav-0zWEPDI/AAAAAAAAU0s/QRAhtgt_fmEqnkQCkwRqivKUPxh2o6_MgCLcBGAs/s1600/2000.jpg",RADYO 2000
+http://stream.taksimbilisim.com:8004/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-mzIFe-14KBc/WtybgiA62lI/AAAAAAAAWEk/Bo5fOpUD9YISY9rpqyPGZ6AVeGiKviUAgCLcBGAs/s1600/2.jpg",RADYO 2000 FM
+http://sunucu2.radyolarburada.com:4848/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-16HsPxWicU8/WawF8jHx-9I/AAAAAAAAU1o/U6SpZPByM34OSBWAH5H0yZ4snYLrgeGzACLcBGAs/s1600/a.jpg",RADYO A
+http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-zlz8ZtmAlJQ/WawIIc2vh-I/AAAAAAAAU2A/4ocqD2TaGR0O-5mUiqmph9LrXi2mhKnHACLcBGAs/s1600/a.jpg",RADYO AKDENİZ Antalya
+http://95.173.162.188:9310/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-mTK5IkUcSH0/WawI_CeYvSI/AAAAAAAAU2I/UU--L3KuhAoCjgA0NfG34ViRN500KNaxQCLcBGAs/s1600/a.jpg",RADYO ALATURKA
+http://stream.radyoalaturka.com.tr:9100/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-eOKCLAQj3qo/WawKLIZlgoI/AAAAAAAAU2U/qAgdQ4wHrAkQT5oh8wMjH8ZgF_RdGJo9gCLcBGAs/s1600/ra.jpg",RADYO ARABESK
+http://37.247.101.101:5934/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://3.bp.blogspot.com/-prN9anwnf7M/WawLNVgelvI/AAAAAAAAU2g/LcBE9woAIg4eNsz4v0GuGUX4KuQmx2WBACLcBGAs/s1600/r.jpg",RADYO ARABESK İNFO
+http://radyoarabesk.info:9700/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://2.bp.blogspot.com/-R6bqnwmJTPE/WawNXWz1OfI/AAAAAAAAU2s/BB1P1_0VLnYOV8vS2UR_CxSSuwHcBWm5ACLcBGAs/s1600/av.jpg",RADYO ARABESK VADİSİ
+http://95.173.179.154:9998/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-Xvpl2KhiKQ0/WawSO49OxXI/AAAAAAAAU28/DRAe1RiPhzE2wHtYztKx7Jw0R679o4I-QCLcBGAs/s1600/a.jpg",RADYO ASYA Hatay
+http://sunucu.radyodinle.com:9850/
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://4.bp.blogspot.com/-uyTRebjgnPo/WawXWoiM-LI/AAAAAAAAU3U/2GLxsZRhGnEXL_qsZs_2QcjzqeT90noOQCLcBGAs/s1600/b.jpg",RADYO BANKO
+http://yayin.netradyom.com:8050/RADYOBANKO
+#EXTINF:-1 $ExtFilter="RADYO 04" tvg-logo="http://1.bp.blogspot.com/-0YAvSoUf3YM/Wa1xnRsEnvI/AAAAAAAAU-0/LDBZ92khLas8Mr7t6Pz9cFEWF_IJ0XDgwCLcBGAs/s1600/m.jpg",RADYO MODA Samsun
+http://yayin.radyomoda.com.tr/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-Z_n4PI8QY5A/WawbBm7eA6I/AAAAAAAAU3s/TPClQilE1E8Jykwk-tLsEZHMn_w3Fh7YQCLcBGAs/s1600/b.jpg",RADYO BAŞKENT Ankara
+http://212.174.58.161:8000/1042
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-WDQagkeVNk4/WawlpjJFmrI/AAAAAAAAU40/8BblFij-b_scI6Phrddl2sjlmr0Ri6lkgCLcBGAs/s1600/c.jpg",RADYO ÇETİN
+http://www.radyocetin.com:9304/stream/1
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-YtU62gMb-_w/Wa0fCrWP_0I/AAAAAAAAU5E/g5-Kby0gCVkyoXLiM7s4E5QAXPt4DnGhACLcBGAs/s1600/d.jpg",RADYO D
+https://radyo.dogannet.tv/radyod
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-hH65iY7cVIE/Wa0huWzyFwI/AAAAAAAAU5c/hRIylKHIiToQs-8ST4HXBtTEy0ZvsYdQgCLcBGAs/s1600/d.jpg",RADYO DAMAR FM
+http://www.radyodamarfm.com:8404/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://4.bp.blogspot.com/-aff_wp7wcDk/Wa0mrN42yqI/AAAAAAAAU6I/-5O-2geQqSYjnBL9LlVmFFKcshVntdQFwCLcBGAs/s1600/rd.jpg",RADYO DUYGU
+http://95.173.162.181:5050/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-h2P86MFTobo/Wa0n0Mn0F1I/AAAAAAAAU6U/1HPE7ur5YPQV2atFzBcjrUoXph0HhV0QwCLcBGAs/s1600/e.jpg",RADYO EGE
+http://stream2.taksimbilisim.com:8010/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-OEjWzcFzj6c/Wa0qOS7WvyI/AAAAAAAAU6s/b9XpoE28gKITAWiP2hMTeXcJR19kyYedACLcBGAs/s1600/e.jpg",RADYO ENERJİ
+http://94.102.4.16:7602/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-4Wj4WOkQhYc/Wa0rXS6iwpI/AAAAAAAAU64/774NauklcFU4KOiU4a9XJY5JzqQt6RjSgCLcBGAs/s1600/fb.jpg",RADYO FENERBAHÇE
+http://91.232.174.18:8000/Stream
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://4.bp.blogspot.com/-0cNGemqQZcw/Wa0zQOc1Z0I/AAAAAAAAU7Q/qhfjIwgAHIQGt0_7MnERpeEJH43dWzMHwCLcBGAs/s1600/f.jpg",RADYO FULL
+http://radyofullhd.canliyayinda.com:8050/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-6ilR8_lfukc/Wa07yP779KI/AAAAAAAAU8Q/4xqskCdS8KghoTPMgZ3MSrhDvY8DEenrACLcBGAs/s1600/h.jpg",RADYO HİNT
+http://37.247.98.8/stream/42/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-nGxpt1Co6bk/Wa09LPdNCII/AAAAAAAAU8g/YUymOdwbNvsD8YiHRY_seWBW9BepSuY7gCLcBGAs/s1600/i.jpg",RADYO İLAÇ
+http://95.173.184.20:9798/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-RK1nF8JnJW0/Wa0-I2HPkmI/AAAAAAAAU8s/4ALoejE60Q0ItR3OsrGosU5QHt3bah5YQCLcBGAs/s1600/i.jpg",RADYO İZMİR
+http://usa4.fastcast4u.com:5414/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-_GsxK-qUmGU/Wa0_Ak6SRKI/AAAAAAAAU80/WSsMrdEcYgoKKOP49qj02iUHGlWTc9-lgCLcBGAs/s1600/r.jpg",RADYO K
+http://yayin2.canliyayin.org:8200/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-949anB9LSh4/Wt5IPHn2MpI/AAAAAAAAWGM/YSM6xCe9l_ABYlAdvDHVIAu93RcbeycQwCLcBGAs/s1600/k.jpg",RADYO KADIRGA
+http://yayin3.canlitv.com:3020/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-uXF5MS6xotI/Wa0_znZ0KtI/AAAAAAAAU9A/10wFV1zF6_sIsmJWjIWT6BRJUOXM2Xh7QCLcBGAs/s1600/k.jpg",RADYO KARABALI
+http://95.173.162.182:9884/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-P67HsZw3gY0/Wa1ONo3--MI/AAAAAAAAU-M/q-X08wkHW6oRsGn-OfQFFafN9VkbpcMYACLcBGAs/s1600/l.jpg",RADYO LİNE
+http://radioline.fm:8000/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-BNJ8LvBpH-M/Wa1wINKyftI/AAAAAAAAU-k/fLbrpEJbeNA-YeDvjqiGCOEmP6kUIvC3gCLcBGAs/s1600/m.jpg",RADYO MEGA Sakarya
+http://95.173.188.155:7788/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-YkqyCRNRtQU/Wa1w2INvULI/AAAAAAAAU-s/0IERKXmi8isDrDJ0S3O0YyWiiNyfmkAAQCLcBGAs/s1600/m.jpg",RADYO MEGASİTE
+http://mega.netradyom.com:7900/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-LDA5jXJzPc0/WaprGse01HI/AAAAAAAAUl0/T5rDGoMc3cky7zypbOZXxRTIzDghn7X2wCLcBGAs/s1600/n.jpg",RADYO NAĞME
+http://radyo.dogannet.tv/nagme
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-NlZNlGFP-HM/Wa58rdNAH_I/AAAAAAAAU_k/vlBUJruavKk355Alhi_CpM_Tpm9CT0uYQCLcBGAs/s1600/o.jpg",RADYO ODTÜ
+http://stream.radyoodtu.com.tr:8006/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-cr4BVToSt3M/Wa5-_wTf7-I/AAAAAAAAVAA/W91fDXCC7_Y1ulEFZ_TdvxbHuVXAUWEEQCLcBGAs/s1600/r.jpg",RADYO RENK
+http://sunucu2.radyolarburada.com:9025/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-klAJ28JDvow/Wa5_q6wuhSI/AAAAAAAAVAI/Wxbf3AwidB8sJC4els8jwHoKArLY8YlEACLcBGAs/s1600/s.jpg",RADYO SAHİL
+http://www.radyosahil.com.tr:8000/radyosahil.ogg
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-PzKKrnC_AAA/Wa6AkdItzjI/AAAAAAAAVAU/V9O83ih8590L5ypD1SYC0OPrxoyYikSvgCLcBGAs/s1600/tsm.jpg",RADYO SANAT MÜZİĞİ
+http://radyo.yayin.com.tr:5932/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-X49HJiKGUOE/Wa6Btd5OOpI/AAAAAAAAVAg/NLJ-aFNcKooyHaySGfUIWskWgXZ9Ha2XACLcBGAs/s1600/s.jpg",RADYO SARAY
+http://51.255.151.241:9960/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-w2c8SuZSF_s/Wa6HWMb_GWI/AAAAAAAAVBI/-fOPI3PqYYg_xm3ZE1CausW9d4Zat_smQCLcBGAs/s1600/s.jpg",RADYO SEYHAN
+http://yayin2.yayindakiler.com:4000/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://4.bp.blogspot.com/-VP7Uke20eOc/Wa6F69JOnoI/AAAAAAAAVA4/mZzrHxhFofEemkyrUB-PcfVFrundBoowACLcBGAs/s1600/rs.jpg",RADYO SES Eskişehir
+http://live2.radyotvonline.com:8095/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-Ji4gErDsiA0/Wa6IxAstVDI/AAAAAAAAVBY/tXoVQpv7hD0cVV3e06f1Os5_NUpuHln7gCLcBGAs/s1600/s.jpg",RADYO SEYMEN
+http://seymen.turkhosted.com:9000/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-DYCizXxL2q4/Wa6KcWgqbjI/AAAAAAAAVBs/k5ROzUDSlAoEVTCxxedM2H2DMryUzZFWACLcBGAs/s1600/s.jpg",RADYO SİNERJİ
+http://98.142.98.120:9994/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-NGxzylEXOa8/Wa6LSUvLQKI/AAAAAAAAVB0/LkL0FqbJC3Y5TpBmcRmCYeg2bY3UVpncQCLcBGAs/s1600/s.jpg",RADYO SLOW TİME
+http://46.20.7.103:8030/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-rygjN8sYr44/Wa6L88bvFYI/AAAAAAAAVB8/MsgMKUUGQmchIhfIX52AX5HAPmaLm8c1ACLcBGAs/s1600/s.jpg",RADYO SPOR
+http://46.20.7.103:8040/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-cL_OL3G69lE/WaQ2T2AqNBI/AAAAAAAAUQk/pddVp7D34KQiadscQ3ykkw7myQ_9jMsSQCLcBGAs/s1600/ss.jpg",RADYO ŞEHRİN SESİ
+http://live4.radyotvonline.com:6670/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-WGbVbmWcyZM/Wa6E43TVUbI/AAAAAAAAVAs/pshWcSRP6zw1FLQWZoxv3lXP2psFXWaRACLcBGAs/s1600/s.jpg",RADYO ŞEKER
+http://yayin.turkhosted.com:6052/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-Cl8hjzzrXQ4/Wa6JgYdWm2I/AAAAAAAAVBg/ZU43PUQPxFUOJoWzZ1kyFBbjpCgqEGzQQCLcBGAs/s1600/s.jpg",RADYO ŞİRİN
+http://live4.radyotvonline.com:9570/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://4.bp.blogspot.com/-8MQQ2R2lJFk/WbJvCf3bJwI/AAAAAAAAVSs/o1jarSViHVsBwOorDmLjCxJ8fPNZ-Y6aQCLcBGAs/s1600/rt.jpg",RADYO TAVERNA
+http://95.173.162.189:9622/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-O5OHCxj8Gv4/WbAP7rO6PqI/AAAAAAAAVOs/RSVBj8f5E6ESiopKcGPwJVx4O5BOJB7MACLcBGAs/s1600/09.jpg",RADYO TEK Çaycuma
+http://89.106.8.182:8767/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-pV_kSShlfY0/Wa6OW_ATLBI/AAAAAAAAVCI/0U7vVQmailUzrYH5av77NRo6zBOpoINEgCLcBGAs/s1600/t.jpg",RADYO TRAFİK
+http://37.247.100.118/stream/157/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-aoqrFTpCuiY/Wa6PLszFVCI/AAAAAAAAVCQ/eiWK-lVmk4YTJrF6_4AsqygC-JGHdNa9QCLcBGAs/s1600/t.jpg",RADYO TÜRKÜ EVİ
+http://ip189.radyotelekom.org:9974/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-zyQKHZ9qNjc/Wa6QscA_1bI/AAAAAAAAVCc/cbAqOLpYqvAZTQt6zneeVj1zzvpxN5ppACLcBGAs/s1600/u.jpg",RADYO ÜNİVERSİTE
+http://yayin3.canlitv.com:8080/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-s6G793kznKc/Wa6Skz8DjGI/AAAAAAAAVCo/oUmJQjXw0fMHCLdcL_6CDUf-xw9KJmy_QCLcBGAs/s1600/01.jpg",RADYO VATAN KIBRIS
+http://95.0.173.195:9002/vatan
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://4.bp.blogspot.com/-yYl5oETa4p0/Wa6TCodnZpI/AAAAAAAAVCs/Hqsz5x_pY9sMAGFTkgWRFzKvGzkPWEdlACLcBGAs/s1600/02.jpg",RADYO VATAN NİHAVENT
+http://95.0.173.195:9001/nihavent
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-s_tAfZGKXPg/Wa6TfejBTtI/AAAAAAAAVCw/gkinEPcC7KAi37vONIf04PhTutAE2EdHQCLcBGAs/s1600/03.jpg",RADYO VATAN TÜRKÜ
+http://95.0.173.195:9000/turku
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-T1bR-4TrGQ8/Wa6UbnQV7XI/AAAAAAAAVC8/Ik0lf_17Zwc-PKivSqFFvyot16qrBwcngCLcBGAs/s1600/v.jpg",RADYO VİVA
+http://46.20.3.231/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-ktn0SoihWsg/Wa6X4OEmFkI/AAAAAAAAVDM/LvsswsAbMlkeIjUTHYbfBkN3HjnAqMs8gCLcBGAs/s1600/v.jpg",RADYO VOKAL
+http://37.247.98.8/stream/35/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-mWVC6ikbolk/Wa6YecF5PHI/AAAAAAAAVDU/1SdYSZJlvsI3pzVkeCyS8iFOHOsBhp_jgCLcBGAs/s1600/v.jpg",RADYO VOYAGE
+http://voyagewmp.radyotvonline.com/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://4.bp.blogspot.com/-5DTiZFmvGFk/Wa6ZQ86FeyI/AAAAAAAAVDc/CUMEbZzzfIEyCN2NIlvNxqpd4srKssKkQCLcBGAs/s1600/y.jpg",RADYO YAKAMOZ
+http://live4.radyotvonline.com:6570/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-JoJ9wv5outk/Wm4gzaWK3uI/AAAAAAAAV1o/n1kl0-RMRMAeTzm2m-5LMYHnicezbS2QwCLcBGAs/s1600/ry.jpg",RADYO YANSIMA
+http://95.173.162.181:9912/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-y-GiGISSk48/Wa6aE9Y0fOI/AAAAAAAAVDk/XSozc9sZXEwqaCO5cE-Z0CMJy3AWkaeSgCLcBGAs/s1600/y.jpg",RADYO YAREN
+http://yaren.radyotvyayini.com:8042/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-_jXH49w1inw/Wa6gTbbnjhI/AAAAAAAAVEY/bMI-3f18Bmw5igdBfgSnC0bG6XjX-m5EwCLcBGAs/s1600/r.jpg",RS FM
+http://icecast-ruvr.cdnvideo.ru/rian.voicestm
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://4.bp.blogspot.com/-Aai7ZTajnnM/Wa6hdsOXcUI/AAAAAAAAVEk/qRHYa0Dr9RU4aEEWkPHksT_doE_-TOOsACLcBGAs/s1600/r.jpg",RUMELİ RADYO
+http://37.247.98.8/stream/31/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-jLusfTN0Xyo/Wa6iyferC0I/AAAAAAAAVEw/-Jnhg9uce00irca2uwuxmannDR1jKiDfQCLcBGAs/s1600/n.jpg",SAKARYA RADYO NET
+http://dinle.radyonet.net:9990/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-07f6624AatI/Wa6lcvNyeAI/AAAAAAAAVFI/xc6A0eOF5EkAi9JkYatyGQ4lXK7FAyRTwCLcBGAs/s1600/s.jpg",SEYDİŞEHİR FM
+http://95.154.254.81:28773/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-LnYxKXgcQFY/Wa6mEadm0QI/AAAAAAAAVFQ/QtFrAx5ErEc0nbd6THdBL0Bq5spai_e3gCLcBGAs/s1600/s.jpg",SHOW RADYO
+http://46.20.3.229/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://1.bp.blogspot.com/-l4pn-sOQSiI/Wa6mlUxaTlI/AAAAAAAAVFY/wq1aNhByxLUfW5acnTn3iNLIYxoYGoTYQCLcBGAs/s1600/s.jpg",SİVAS FM
+http://yayin1.canliyayin.org:8180/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://2.bp.blogspot.com/-luIJxok76vI/Wa6oIrOmFnI/AAAAAAAAVFo/XqhtFlhKmXwf9VMxXm9WXUmQTIX1NDTnQCLcBGAs/s1600/s.jpg",SLOW HOME
+http://37.247.98.8/stream/27/
+#EXTINF:-1 $ExtFilter="RADYO 05" tvg-logo="http://3.bp.blogspot.com/-xB0grTE-gDg/Wa6o92D1-6I/AAAAAAAAVFw/Cw51ZQeyoNEzQYZP89Q81tN-U91XwC5YACLcBGAs/s1600/s.jpg",SLOW KARADENİZ FM
+http://dinle.slowkaradenizfm.com:9578/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-4rnqr8NG8qM/Wa6pob44ScI/AAAAAAAAVF4/6OgNd36bG2o-advd4LFxKjUWzbmumqKAwCLcBGAs/s1600/s.jpg",SLOW RADYO
+http://yayindaslowradyo.net:5050/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-WbwtrNzWXIQ/Wa6rQ569-tI/AAAAAAAAVGI/gOdTrLE2cuIqOtDX2RvBK9p6OtgfyIMLQCLcBGAs/s1600/s.jpg",SLOWTÜRK FM
+http://radyo.dogannet.tv/slowturk
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://2.bp.blogspot.com/-iVu2JlsToiE/Wa6r0JSQicI/AAAAAAAAVGQ/L8SJW8KNXQ82qDWb9Y9Qd7rtOsJAB4WHQCLcBGAs/s1600/s.jpg",SOLMAZ FM
+http://ip16.radyotelekom.com:9994/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-U3yHbqMv_V0/Wa6sk17uzJI/AAAAAAAAVGY/AaBebke150k-zdw1BaYOoYxT-zleUTTbACLcBGAs/s1600/s.jpg",SOMA FM
+http://80.93.220.26:1960/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-1XN2v2CbsfE/Wa6t2B5b8BI/AAAAAAAAVGk/sb6zSVGfnAAJvb7WNbvFHo2kEtZh-WpRACLcBGAs/s1600/s.jpg",STAR ARTI FM
+http://yayin.morkarinca.com:8282/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-0pMeInGhQeM/Wa6vwl28kjI/AAAAAAAAVG8/vODF51Pz9FMrhm-FdJOkUkoOY3eLIoJ6QCLcBGAs/s1600/s.jpg",SUFİ MİSTİK
+http://37.247.98.8/stream/23/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-o29wwEk_dIs/Wa6xRsffBPI/AAAAAAAAVHM/-div3QrwOSsZuG4xFV5baYIeHYo4iDZQACLcBGAs/s1600/s.jpg",SULTAN
+http://radyo.dogannet.tv/sultan
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-jPoaXwc1edA/WaO-L2ZzWLI/AAAAAAAAUJg/R9MUHCn7vqwWG4BOnWkrI_LkEgzkWZmRACLcBGAs/s1600/18.jpg",SÜPER FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM.mp3
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-MX2N0L5_m2Q/WaO98g4BLFI/AAAAAAAAUJc/qD8Lkw4j5OwLC5VkH4p2-YJRMdm7-SSxwCLcBGAs/s1600/17.jpg",SUPER 2 FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2.mp3
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-Wkxu4O3ulX4/WbJ0YALNvuI/AAAAAAAAVS8/lJHd0m6ZmQMwIWbkjrW9yfG_NNP3iHjlgCLcBGAs/s1600/01.jpg",TAKSİM FM
+http://cast1.taksim.fm:8000/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-Nk8x3VcmBLE/WbJ02i9143I/AAAAAAAAVTA/BjtjUFema20sFtT0S499GdsrvfJGpKVBACLcBGAs/s1600/02.jpg",TAKSİM FM ARABESK
+http://cast1.taksim.fm:8008/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-EzLAZJTaUuk/WbJ1WrzbxHI/AAAAAAAAVTI/P16xMKkBrYIaUMD-CU_bYEEXiN0V0qaFgCLcBGAs/s1600/03.jpg",TAKSİM FM ARABİC
+http://cast1.taksim.fm:8006/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-8roK05JWT3o/WbJ14Dlj38I/AAAAAAAAVTQ/K0exELaqLXchafyA6aWHmBq2y7u9djU5ACLcBGAs/s1600/04.jpg",TAKSİM FM CLUB MİX
+http://cast1.taksim.fm:8016/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-1w8YkjZbCW4/WbJ2zlbymbI/AAAAAAAAVTc/7kWvvCpvItUw79ZDFDWx2kfAsYSlkByNACLcBGAs/s1600/05.jpg",TAKSİM FM OYUN HAVALARI
+http://cast1.taksim.fm:8012/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-1LuOZis_cnA/WbJ3SraM4lI/AAAAAAAAVTk/HJtN-QR0Su8sieJMHEFOkqm5Al25SLeaACLcBGAs/s1600/06.jpg",TAKSİM FM POP
+http://cast1.taksim.fm:8014/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-BmQ2FD1FEkc/WbJ3u2I7RkI/AAAAAAAAVTo/NinwnqltDSMVIdrxZDBXzah1oF1Y6JamQCLcBGAs/s1600/07.jpg",TAKSİM FM RAP
+http://cast1.taksim.fm:8018/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-8zcJmEenB0A/WbJ4NIGIzRI/AAAAAAAAVTs/8eVeW2QsL0s4nGBPr2zgmdORqK0_lGAHACLcBGAs/s1600/08.jpg",TAKSİM FM ROCK
+http://cast1.taksim.fm:8010/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://2.bp.blogspot.com/-zENM8YCl0kc/WbJ45g3R09I/AAAAAAAAVT0/W39yD8Pm0v07zmgIDQj7BUOGcu_iT3L3wCLcBGAs/s1600/09.jpg",TAKSİM FM SLOW
+http://cast1.taksim.fm:8002/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-HFrePMsl3js/Wa60LD6alLI/AAAAAAAAVHY/wQuOtcekFrcKpI0Lxjo-yRZoDNgPJUPCgCLcBGAs/s1600/t.jpg",TARSUS FM
+http://33.tarsusfm.net:3333/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://2.bp.blogspot.com/-EpUusao8ufs/Wa_awj5DEdI/AAAAAAAAVIQ/zNVgFJJLE9AVRYICNxBhZDqWxYJRs_y2gCLcBGAs/s1600/t.jpg",TEZENE
+http://46.20.3.246/stream/52/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://2.bp.blogspot.com/-VqOANO4xfMU/Wa_bTgcXdwI/AAAAAAAAVIY/LC3KHOYbSqYWCra8c1zOT47Zr8miqlXhwCLcBGAs/s1600/t.jpg",TGRT FM
+http://cdn1.streamencoding.com:8000/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-fA9G8vIZkW4/Wa_cAMRH84I/AAAAAAAAVIg/P6vSHsIM0zs7zjDwlt3O9fh0RZr-Mhc9gCLcBGAs/s1600/t.jpg",TRABZON RADYO
+http://yayin3.canlitv.com:5040/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-JxvDHoDLfpc/Wa_ea6G1PKI/AAAAAAAAVIs/IjDjZ5Gai5EkG8vGeJZC1qAOVQ_H8WjrwCLcBGAs/s1600/t.jpg",TRD 1
+http://stream-00.trd.com.tr:8004/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-DH-O5KFjFEc/Wa_fIsSPDWI/AAAAAAAAVI0/jgB1kMupJ2M0LDS_hA4WgPC9Ip9GIJCmQCLcBGAs/s1600/t.jpg",TRD 1 EKSTRA
+http://stream-00.trd.com.tr:8024/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-AnVtags6EQk/Wa_fv4d8QyI/AAAAAAAAVI8/TttcunXgwgMSGcVEZVc_0zi9g6N12AckACLcBGAs/s1600/t.jpg",TRD 2 ALTIN
+http://stream-00.trd.com.tr/trd2.aac
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-eRELWEFg4pA/Wa_gX5EIqZI/AAAAAAAAVJE/EI2f8TRYxzwT2U5mrFiHmyeTz5neIY8kACLcBGAs/s1600/t.jpg",TRD 3 SANAT
+http://stream-00.trd.com.tr:8064/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-LPcW1_NOgIM/Wa_q07_R2mI/AAAAAAAAVJw/l8L_umVCExIz0KnRuX4BCCdnpiE-I9UDwCLcBGAs/s1600/t.jpg",TUTKU FM Samsun
+http://yayin2.yayindakiler.com:4038/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-Vm3Tgu5A5iY/Wa_uM5IdS6I/AAAAAAAAVKQ/9ZXFqBe80_4Nstxd9WJk9mfWSV73CaYagCLcBGAs/s1600/t.jpg",TÜRK POP
+http://radyo.dogannet.tv/turkpop
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-SmOE5JS6wgM/Wa_u2qQJNlI/AAAAAAAAVKY/mFyb-TTfsvwsiyOXrCSme3agKTRUOyc8QCLcBGAs/s1600/t.jpg",TÜRKİYEM FM
+http://turkiyemfm.canliyayinda.com:8032/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-kuIk7VeGFEc/Wa_w2hhVmZI/AAAAAAAAVKo/NRfIUGIb__sk_Ynd1_w82UnxzRrKrnc_wCLcBGAs/s1600/t.jpg",TÜRKRAP
+http://radyo.dogannet.tv/turkrap
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-29EvaFkaOyk/Wa_yOXnGDgI/AAAAAAAAVK8/3ObhpGcGnaoEEJFQ-xmoA2Y1v3WA8i_2QCLcBGAs/s1600/t.jpg",TÜRKROCK
+http://radyo.dogannet.tv/turkrock
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-zAjr0ghZPKE/WoPPlb6EUQI/AAAAAAAAV30/mZsYR1sk6J0iWlGrVDX3G7BolhKeISPngCLcBGAs/s1600/02.jpg",TÜRKÜ FM
+http://dinle.arabeskradyo.biz:7446/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-owBWSzkI1OA/Wa_zfL65-aI/AAAAAAAAVLI/cErtXyf2z1ImtKepyCf5dZp6n8dIl65qACLcBGAs/s1600/t.jpg",TÜRKÜ RADYO
+http://radyo.turkuradyo.net:4591/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-EbQLSvuziFc/Wa_1BORS5rI/AAAAAAAAVLY/PHE6NHFgBgc-pk4AwssOz1ywt6sdaeoCgCLcBGAs/s1600/t.jpg",TÜRKÜ EVİ
+http://radyo.dogannet.tv/turkuevi
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://2.bp.blogspot.com/-3IZnZ-l4Grc/Wa_5n7SefmI/AAAAAAAAVLk/UE2yijJ_uYA2eVsnXznx_LClXwln1k6ogCLcBGAs/s1600/t.jpg",TÜRKÜLERLE TÜRKİYE
+http://37.247.98.8/stream/22/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-Mf4AT_Lz8zw/Wa_6REhL2nI/AAAAAAAAVLs/GpTC9if1bS4B0MAJ13xC0FoO0aCU1YLxgCLcBGAs/s1600/u.jpg",ÜLKÜ FM
+http://yayin2.yayindakiler.com:4112/stream.mp3
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://2.bp.blogspot.com/-vAMSecsLQwY/Wa_9bD8OxUI/AAAAAAAAVMM/ySnTkUE4ovcFVihArH3hVJCL2uzQIRKCACLcBGAs/s1600/u.jpg",ÜLKE RADYO
+http://37.247.98.8/stream/41/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-0vQGqaeealA/Wa__vNpwr5I/AAAAAAAAVMg/LW-CxqQI5rYOTJDqYJjQgmcvHrkKhD4NgCLcBGAs/s1600/u.jpg",ÜRGÜP FM
+http://95.173.188.170:7250/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-p_eGdFfdnsc/WbADh40NdhI/AAAAAAAAVNA/V9ggpormQD8ItWX94jC3GZoEjNuwmCNpACLcBGAs/s1600/y.jpg",YILDIZLAR MAKAMI
+http://37.247.98.8/stream/175/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://2.bp.blogspot.com/-DKNhdtS_sIY/WbAEK8B2iAI/AAAAAAAAVNI/MoHkzf8SwT8GqiPhsm2I2U8ZKwE-SPjaACLcBGAs/s1600/03.jpg",YÖN RADYO
+http://yonradyo.radyolarburada.com:8020/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-w9spwDcHgcM/WbAIZ8IxK8I/AAAAAAAAVNU/WQD9U2qaqm0tw4sbZoxeM-1eO6t5k9P6QCLcBGAs/s1600/01.jpg",YÖN RADYO ALATURKA
+http://yonradyo.radyolarburada.com:8010/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://1.bp.blogspot.com/-qonjKeB5CPU/WbALcYSKxHI/AAAAAAAAVN0/EpUtQLlOn5g0aNZka_h2idmJyzcWARYkgCLcBGAs/s1600/06.jpg",YÖN RADYO TÜRKÜ
+http://yonradyo.radyolarburada.com:8070/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://3.bp.blogspot.com/-ktpWjP5vn6w/WbAPKpAVTjI/AAAAAAAAVOk/Iyg6WA5VFsgQd299_uy5Wy63PrYxaU5qgCLcBGAs/s1600/11.jpg",YÖRÜK FM
+http://stream.taksimbilisim.com:8024/
+#EXTINF:-1 $ExtFilter="RADYO 06" tvg-logo="http://4.bp.blogspot.com/-GrxybaxqCjY/WbAPg-1A73I/AAAAAAAAVOo/nhMD9Gun8mo1w4hN8K1t6V_FBY6vEBSJgCLcBGAs/s1600/13.jpg",YUNUS FM
+http://95.173.162.184:7350/
