@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1, AXN HD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/24.ts
+#EXTINF:-1, BENFICA TV 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/15.ts
+#EXTINF:-1, CMTV
+http://62.210.124.106:8000/live/aplicacao/scp4ever/9.ts
+#EXTINF:-1, ELEVEN SPORTS 1 HD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/16.ts
+#EXTINF:-1, ELEVEN SPORTS 2 HD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/17.ts
+#EXTINF:-1, FOX HD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/23.ts
+#EXTINF:-1, HOLLYWOOD
+http://62.210.124.106:8000/live/aplicacao/scp4ever/22.ts
+#EXTINF:-1, RTP 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/2.ts
+#EXTINF:-1, RTP 2
+http://62.210.124.106:8000/live/aplicacao/scp4ever/3.ts
+#EXTINF:-1, SIC
+http://62.210.124.106:8000/live/aplicacao/scp4ever/4.ts
+#EXTINF:-1, SIC NOTICIAS
+http://62.210.124.106:8000/live/aplicacao/scp4ever/8.ts
+#EXTINF:-1, SPORT TV 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
+#EXTINF:-1, SPORT TV 2
+http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
+#EXTINF:-1, SPORT TV 3
+http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
+#EXTINF:-1, SPORT TV 4
+http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
+#EXTINF:-1, SPORT TV 5
+http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
+#EXTINF:-1, TV CINE 1
+http://62.210.124.106:8000/live/aplicacao/scp4ever/18.ts
+#EXTINF:-1, TV CINE 2
+http://62.210.124.106:8000/live/aplicacao/scp4ever/19.ts
+#EXTINF:-1, TV CINE 3
+http://62.210.124.106:8000/live/aplicacao/scp4ever/20.ts
+#EXTINF:-1, TV CINE 4
+http://62.210.124.106:8000/live/aplicacao/scp4ever/21.ts
+#EXTINF:-1, TVI
+http://62.210.124.106:8000/live/aplicacao/scp4ever/5.ts
+#EXTINF:-1, TVI REALITY
+http://62.210.124.106:8000/live/aplicacao/scp4ever/7.ts
+#EXTINF:-1, TVI FICÇÂO
+http://62.210.124.106:8000/live/aplicacao/scp4ever/6.ts
