@@ -1,82 +1,977 @@
 #EXTM3U
-
-#EXTINF:-1,Baby tv
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2203.ts
-#EXTINF:-1,BBC Four
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2216.ts
-#EXTINF:-1,BBC Three
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2217.ts
-#EXTINF:-1,BT Sport 2 HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2157.ts
-#EXTINF:-1,BT-Sports-1-HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2158.ts
-#EXTINF:-1,CBS Reality
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2204.ts
-#EXTINF:-1,channel 4
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2210.ts
-#EXTINF:-1,CHELSEA TV
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2149.ts
-#EXTINF:-1,Comedy Central
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2196.ts
-#EXTINF:-1,DAVE HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2173.ts
-#EXTINF:-1,DISCOVERY-HISTORY
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2198.ts
-#EXTINF:-1,E4
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2209.ts
-#EXTINF:-1,FOOD_NETWORK
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2162.ts
-#EXTINF:-1,islam tv
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2178.ts
-#EXTINF:-1,islamchannel
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2177.ts
-#EXTINF:-1,ITV 3
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2213.ts
-#EXTINF:-1,ITV BE
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2211.ts
-#EXTINF:-1,MORE4
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2194.ts
-#EXTINF:-1,MTA1
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2176.ts
-#EXTINF:-1,MTA2
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2175.ts
-#EXTINF:-1,MTA3
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2174.ts
-#EXTINF:-1,MUTV
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2150.ts
-#EXTINF:-1,NAT GEO HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2172.ts
-#EXTINF:-1,Nat Geo Wild
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2195.ts
-#EXTINF:-1,NatGeo Wild HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2171.ts
-#EXTINF:-1,Peace TV
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2179.ts
-#EXTINF:-1,RTE 1
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2208.ts
-#EXTINF:-1,RTE 2
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2207.ts
-#EXTINF:-1,RTE NEWS
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2206.ts
-#EXTINF:-1,SONY CHANNEL
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2168.ts
-#EXTINF:-1,Spike
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2201.ts
-#EXTINF:-1,TRUE MOVIES
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2167.ts
-#EXTINF:-1,BT Sports Espn
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2193.ts
-#EXTINF:-1,ITV 1 HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2215.ts
-#EXTINF:-1,ITV 2 HD
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2214.ts
-#EXTINF:-1,Sky Thriller
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2192.ts
-#EXTINF:-1,Animal Planet
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2164.ts
-#EXTINF:-1,Discovery
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2163.ts
-#EXTINF:-1,Disney Channel
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2166.ts
-#EXTINF:-1,Disney Junior
-http://212.232.29.250:8000/live/pay4iptv/OovQKViJrC/2165.ts
+#EXTINF:0,UK: BBC One FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4075
+#EXTINF:0,UK: BBC One Scotland FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7260
+#EXTINF:0,UK: BBC One Wales FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7258
+#EXTINF:0,UK: BBC One N.I. FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7725
+#EXTINF:0,UK: BBC Two FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4216
+#EXTINF:0,UK: ITV 1 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3027
+#EXTINF:0,UK: ITV 1 Wales FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7728
+#EXTINF:0,UK: ITV 1 +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7257
+#EXTINF:0,UK: Channel 4 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2982
+#EXTINF:0,UK: Channel 4 +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6347
+#EXTINF:0,UK: Channel 5 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4206
+#EXTINF:0,UK: Channel 5 +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7263
+#EXTINF:0,UK: 5 Star
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4155
+#EXTINF:0,UK: 5 Star +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6340
+#EXTINF:0,UK: 5 Usa
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6342
+#EXTINF:0,UK: 5 Usa +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6341
+#EXTINF:0,UK: 5Select
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7220
+#EXTINF:0,UK: 5Spike
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6391
+#EXTINF:0,UK: 5Spike+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7746
+#EXTINF:0,UK: AMC FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3551
+#EXTINF:0,UK: Universal Channel HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4048
+#EXTINF:0,UK: Universal Channel +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7756
+#EXTINF:0,UK: Gold FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2407
+#EXTINF:0,UK: Gold+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7757
+#EXTINF:0,UK: Comedy Central FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4051
+#EXTINF:0,UK: Comedy Central +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2422
+#EXTINF:0,UK: Comedy Xtra
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6492
+#EXTINF:0,UK: ComedyXtra+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7752
+#EXTINF:0,UK: Fox FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2439
+#EXTINF:0,UK: BBC Four FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4205
+#EXTINF:0,UK: BBC Alba
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2941
+#EXTINF:0,UK: BBC Red Button
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6493
+#EXTINF:0,UK: Dave FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4047
+#EXTINF:0,UK: Syfy FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4041
+#EXTINF:0,UK: Syfy+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7755
+#EXTINF:0,UK: STV FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2460
+#EXTINF:0,UK: ITV 2 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2467
+#EXTINF:0,UK: ITV 2 +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7256
+#EXTINF:0,UK: ITV 3 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2466
+#EXTINF:0,UK: ITV 3+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7676
+#EXTINF:0,UK: ITV 4 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2465
+#EXTINF:0,UK: ITV 4+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7675
+#EXTINF:0,UK: ITVBe
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3543
+#EXTINF:0,UK: ITVBe+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7747
+#EXTINF:0,UK: E4 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2442
+#EXTINF:0,UK: E4 +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2419
+#EXTINF:0,UK: More 4 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2438
+#EXTINF:0,UK: More4+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7750
+#EXTINF:0,UK: Challenge
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4209
+#EXTINF:0,UK: Challenge+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7816
+#EXTINF:0,UK: Food Network
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4127
+#EXTINF:0,UK: Food Netwrk+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7739
+#EXTINF:0,UK: Quest FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3552
+#EXTINF:0,UK: Quest  +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6919
+#EXTINF:0,UK: Quest Red
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6918
+#EXTINF:0,UK: Quest Red +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6917
+#EXTINF:0,UK: S4C FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2971
+#EXTINF:0,UK: Forces Tv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6916
+#EXTINF:0,UK: Insight FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9138
+#EXTINF:0,UK: Fame TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7737
+#EXTINF:0,UK: Drama
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3545
+#EXTINF:0,UK: CBS Action
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2991
+#EXTINF:0,UK: CBS Drama
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3548
+#EXTINF:0,UK: CBS Reality
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2990
+#EXTINF:0,UK: CBS Reality+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7748
+#EXTINF:0,UK: E! HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4150
+#EXTINF:0,UK: Pick
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3537
+#EXTINF:0,UK: Pick+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7815
+#EXTINF:0,UK: Yesterday
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3529
+#EXTINF:0,UK: Yesterday+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7813
+#EXTINF:0,UK: Lifetime FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3542
+#EXTINF:0,UK: Lifetime+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7810
+#EXTINF:0,UK: Real Lives
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3534
+#EXTINF:0,UK: VICE
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2940
+#EXTINF:0,UK: GN TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7761
+#EXTINF:0,UK: Mytv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7760
+#EXTINF:0,UK: Really
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4144
+#EXTINF:0,UK: TLC FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2980
+#EXTINF:0,UK: TLC+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7749
+#EXTINF:0,UK: Alibi FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3550
+#EXTINF:0,UK: Alibi +1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7262
+#EXTINF:0,UK: BET
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2942
+#EXTINF:0,UK: Home
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4146
+#EXTINF:0,UK: Home+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7744
+#EXTINF:0,UK: Paramount
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7723
+#EXTINF:0,UK: Home & Health
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3290
+#EXTINF:0,UK: HomeHealth+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7743
+#EXTINF:0,UK: Dmax
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7690
+#EXTINF:0,UK: Dmax+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7742
+#EXTINF:0,UK: London Live
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7237
+#EXTINF:0,UK: W FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2435
+#EXTINF:0,UK: W+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7758
+#EXTINF:0,UK: BBC Parliament
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6338
+#EXTINF:0,UK: Blaze
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6329
+#EXTINF:0,UK: Dave Ja Vu
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6346
+#EXTINF:0,UK: Film4 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2440
+#EXTINF:0,UK: Film4+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7806
+#EXTINF:0,UK: TCM FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2436
+#EXTINF:0,UK: TCM+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7805
+#EXTINF:0,UK: Horror Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3518
+#EXTINF:0,UK: Horror Ch+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7804
+#EXTINF:0,UK: Movies 24
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3508
+#EXTINF:0,UK: Movies 24+
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7800
+#EXTINF:0,UK: True Movies
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2993
+#EXTINF:0,UK: True Movies+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7803
+#EXTINF:0,UK: True Entertainment
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2992
+#EXTINF:0,UK: True Ent+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7741
+#EXTINF:0,UK: Tru TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7219
+#EXTINF:0,UK: TruTV+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7740
+#EXTINF:0,UK: Movies4Men
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3509
+#EXTINF:0,UK: Movies4Men+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7801
+#EXTINF:0,UK: Sony Movies
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2984
+#EXTINF:0,UK: Sony Movies+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7802
+#EXTINF:0,UK: Sony Crime
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6344
+#EXTINF:0,UK: Sony Crime+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7745
+#EXTINF:0,UK: BT Sport 1 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8906
+#EXTINF:0,UK: BT Sport 1 FHD 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4003
+#EXTINF:0,UK: BT Sport 1 FHD 3
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8831
+#EXTINF:0,UK: BT Sport 1 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8924
+#EXTINF:0,UK: BT Sport 2 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8905
+#EXTINF:0,UK: BT Sport 2 FHD 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4002
+#EXTINF:0,UK: BT Sport 2 FHD 3
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8830
+#EXTINF:0,UK: BT Sport 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6409
+#EXTINF:0,UK: BT Sport 3 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8904
+#EXTINF:0,UK: BT Sport 3 FHD 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4001
+#EXTINF:0,UK: BT Sport 3 FHD 3
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8829
+#EXTINF:0,UK: BT Sport 3 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6408
+#EXTINF:0,UK: BT Sport Extra 1 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2926
+#EXTINF:0,UK: BT Sport Extra 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2925
+#EXTINF:0,UK: BT Sport Extra 3 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2924
+#EXTINF:0,UK: BT Sport Extra 4 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2923
+#EXTINF:0,UK: BT Sport Extra 5 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2922
+#EXTINF:0,UK: BT Sport Extra 6 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7202
+#EXTINF:0,UK: BT Sport Extra 7 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8023
+#EXTINF:0,UK: BT Sport ESPN FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8903
+#EXTINF:0,UK: BT Sport ESPN FHD 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2927
+#EXTINF:0,UK: BT Sport ESPN FHD 3
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8832
+#EXTINF:0,UK: BT Sport ESPN HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6407
+#EXTINF:0,UK: Box Nation FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3521
+#EXTINF:0,UK: Eurosport 1 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8923
+#EXTINF:0,UK: Eurosport 1 FHD 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2919
+#EXTINF:0,UK: Eurosport 1 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6956
+#EXTINF:0,UK: Eurosport 2 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8922
+#EXTINF:0,UK: Eurosport 2 FHD 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2918
+#EXTINF:0,UK: Eurosport 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6955
+#EXTINF:0,UK: Racing TV FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8002
+#EXTINF:0,UK: Racing TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2452
+#EXTINF:0,UK: Premier Sports 1 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2455
+#EXTINF:0,UK: Premier Sports 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7359
+#EXTINF:0,UK: At The Races HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4224
+#EXTINF:0,UK: FrontRunner
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7241
+#EXTINF:0,UK: GINXeSportsTV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6309
+#EXTINF:0,UK: Free Sports FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6227
+#EXTINF:0,UK: MUTV FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2456
+#EXTINF:0,UK: MUTV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9344
+#EXTINF:0,UK: Chelsea TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3520
+#EXTINF:0,UK: LFCTV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2957
+#EXTINF:0,UK: Sheffield Steelers
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6201
+#EXTINF:0,UK: Aberdeen TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2943
+#EXTINF:0,UK: Celtic TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2952
+#EXTINF:0,UK: Dundee TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6239
+#EXTINF:0,UK: Dundee UTD TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7913
+#EXTINF:0,UK: Hearts FC TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6237
+#EXTINF:0,UK: Hibs TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6238
+#EXTINF:0,UK: Motherwell TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8003
+#EXTINF:0,UK: Rangers FC TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3286
+#EXTINF:0,UK: Partick Thistle TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7276
+#EXTINF:0,UK: PDC Darts (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7275
+#EXTINF:0,UK: Raith Rovers TV (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7360
+#EXTINF:0,UK: Betfred
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6284
+#EXTINF:0,UK: Coral TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6204
+#EXTINF:0,UK: Coral TV  2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7207
+#EXTINF:0,UK: Ladbrokes TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6203
+#EXTINF:0,UK: William Hill TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6205
+#EXTINF:0,UK: SIS Europe
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6308
+#EXTINF:0,UK: SIS One
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7205
+#EXTINF:0,UK: SIS Two
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7204
+#EXTINF:0,UK: Horse & Country
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7218
+#EXTINF:0,UK: Virtual Betting Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7212
+#EXTINF:0,UK: BBC News FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3527
+#EXTINF:0,UK: Al Jazeera Eng FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3528
+#EXTINF:0,UK: CNN FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3030
+#EXTINF:0,UK: Euro News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4176
+#EXTINF:0,UK: France 24 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6310
+#EXTINF:0,UK: News18
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7234
+#EXTINF:0,UK: TVC News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7264
+#EXTINF:0,UK: Bloomberg FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7793
+#EXTINF:0,UK: CNBC News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7792
+#EXTINF:0,UK: NHK World HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7791
+#EXTINF:0,UK: CGTN
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7790
+#EXTINF:0,UK: NDTV 24x7
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7789
+#EXTINF:0,UK: Arise News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7788
+#EXTINF:0,UK: Arirang TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7787
+#EXTINF:0,UK: 4Seven FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3554
+#EXTINF:0,UK: PBS America
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6330
+#EXTINF:0,UK: The Box
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7724
+#EXTINF:0,UK: Now 90s
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6316
+#EXTINF:0,UK: Box Hits
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6324
+#EXTINF:0,UK: Chartshow Hits
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7270
+#EXTINF:0,UK: Chart Show TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6318
+#EXTINF:0,UK: Clubland Tv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6315
+#EXTINF:0,UK: Keep It Country
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6312
+#EXTINF:0,UK: KISS
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6323
+#EXTINF:0,UK: Total Country
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6326
+#EXTINF:0,UK: Magic
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6322
+#EXTINF:0,UK: Now 80s
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6314
+#EXTINF:0,UK: Starz TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6320
+#EXTINF:0,UK: The Vault
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6321
+#EXTINF:0,UK: Kerrang!
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6958
+#EXTINF:0,UK: Cartoon Network FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2964
+#EXTINF:0,UK: CN+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7731
+#EXTINF:0,UK: Cartoonito
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4211
+#EXTINF:0,UK: Disney Channel FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2969
+#EXTINF:0,UK: Disney XD HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2967
+#EXTINF:0,UK: Disney Junior HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2968
+#EXTINF:0,UK: Boomerang FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3515
+#EXTINF:0,UK: Boomerang+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7730
+#EXTINF:0,UK: Baby TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3516
+#EXTINF:0,UK: CBBC FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4125
+#EXTINF:0,UK: CBeebies FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3514
+#EXTINF:0,UK: CITV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6345
+#EXTINF:0,UK: Nickelodeon HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4123
+#EXTINF:0,UK: Nick Junior
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2965
+#EXTINF:0,UK: Nick Jr Too
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4253
+#EXTINF:0,UK: NickToons
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2966
+#EXTINF:0,UK: Pop
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3513
+#EXTINF:0,UK: Pop+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7733
+#EXTINF:0,UK: Pop Max
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4988
+#EXTINF:0,UK: Pop Max+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7732
+#EXTINF:0,UK: Tiny Pop
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7197
+#EXTINF:0,UK: Tiny Pop+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7734
+#EXTINF:0,UK: Zoomoo FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8919
+#EXTINF:0,UK: Property Show
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7232
+#EXTINF:0,UK: Animal Planet FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4210
+#EXTINF:0,UK: Animal Plnt+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7811
+#EXTINF:0,UK: Crime & Investigation FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2976
+#EXTINF:0,UK: Discovery FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4037
+#EXTINF:0,UK: Discovery+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7753
+#EXTINF:0,UK: Discovery History
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2413
+#EXTINF:0,UK: Disc.History+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7807
+#EXTINF:0,UK: Discovery Science
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2973
+#EXTINF:0,UK: Disc.Sci+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7808
+#EXTINF:0,UK: Discovery Shed
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3547
+#EXTINF:0,UK: Discovery Turbo
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3525
+#EXTINF:0,UK: Disc.Turbo+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7812
+#EXTINF:0,UK: Eden FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4045
+#EXTINF:0,UK: Eden+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7809
+#EXTINF:0,UK: H2 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3523
+#EXTINF:0,UK: History FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2975
+#EXTINF:0,UK: ID HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2978
+#EXTINF:0,UK: ID+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7814
+#EXTINF:0,UK: Travel Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3531
+#EXTINF:0,UK: Travel Ch+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7738
+#EXTINF:0,UK: Nat Geo FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2432
+#EXTINF:0,UK: Nat Geo Wild FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2431
+#EXTINF:0,UK: Love Nature FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8918
+#EXTINF:0,UK: Together
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7795
+#EXTINF:0,UK: Good Food HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6422
+#EXTINF:0,UK: Good Food+1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7751
+#EXTINF:0,UK: Living Foodz FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/8920
+#EXTINF:0,UK: Your TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7221
+#EXTINF:0,UK: RT FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4271
+#EXTINF:0,UK: Showcase
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7215
+#EXTINF:0,UK: Propeller
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7217
+#EXTINF:0,UK: CLTV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7794
+#EXTINF:0,UK: Talking Pictures
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7213
+#EXTINF:0,UK: Best Direct
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7825
+#EXTINF:0,UK: TJC
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7268
+#EXTINF:0,UK: Gems TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7830
+#EXTINF:0,UK: High Street TV 1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7238
+#EXTINF:0,UK: High Street TV 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7828
+#EXTINF:0,UK: High Street TV 3
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7827
+#EXTINF:0,UK: High Street TV 4
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7826
+#EXTINF:0,UK: Hochanda
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7822
+#EXTINF:0,UK: Ideal Extra
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7823
+#EXTINF:0,UK: Ideal World
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7831
+#EXTINF:0,UK: JewelleryMaker
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7821
+#EXTINF:0,UK: JML Direct
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7833
+#EXTINF:0,UK: PaversShoes.tv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7818
+#EXTINF:0,UK: Primal Cure
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7824
+#EXTINF:0,UK: QVC
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7834
+#EXTINF:0,UK: QVC Beauty
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7819
+#EXTINF:0,UK: QVC Extra
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7848
+#EXTINF:0,UK: QVC Style
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7832
+#EXTINF:0,UK: Retail TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7829
+#EXTINF:0,UK: Thane
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7817
+#EXTINF:0,UK: TV Warehouse
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7820
+#EXTINF:0,UK: Craft Extra
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7846
+#EXTINF:0,UK: Create & Craft
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7847
+#EXTINF:0,UK: Cruise1st.tv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7843
+#EXTINF:0,UK: Juwelo UK
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7849
+#EXTINF:0,UK: Price Crash
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7844
+#EXTINF:0,UK: Shop Now
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7845
+#EXTINF:0,UK: DayStar HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7784
+#EXTINF:0,UK: EWTN Catholic
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7779
+#EXTINF:0,UK: Faith World TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7778
+#EXTINF:0,UK: GOD Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7786
+#EXTINF:0,UK: Gospel Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7781
+#EXTINF:0,UK: Hillsong
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7775
+#EXTINF:0,UK: Inspiration TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7783
+#EXTINF:0,UK: KICC TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7777
+#EXTINF:0,UK: Love World TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7782
+#EXTINF:0,UK: Revelation
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7785
+#EXTINF:0,UK: SonLife
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7776
+#EXTINF:0,UK: Word Network
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7780
+#EXTINF:0,UK: Believe TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7247
+#EXTINF:0,UK: Faith UK
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7242
+#EXTINF:0,UK: Olive TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7233
+#EXTINF:0,UK: TBN UK
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7269
+#EXTINF:0,UK: ABN TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7759
+#EXTINF:0,UK: Yanga!
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7736
+#EXTINF:0,UK: Ben
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6491
+#EXTINF:0,UK: Vox Africa
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6188
+#EXTINF:0,UK: Rok
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6187
+#EXTINF:0,UK: NTAI
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7836
+#EXTINF:0,UK: Channels 24
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7640
+#EXTINF:0,UK: AIT Int'l
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7214
+#EXTINF:0,UK: TRT World FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7261
+#EXTINF:0,UK: TV5 Monde
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7686
+#EXTINF:0,UK: Safeer TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7266
+#EXTINF:0,UK: Sewing Quarter
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7265
+#EXTINF:0,UK: Dunya News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4260
+#EXTINF:0,UK: Geo TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4259
+#EXTINF:0,UK: Geo News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4275
+#EXTINF:0,UK: Abu Dhabi TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6305
+#EXTINF:0,UK: Sony Sab
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4265
+#EXTINF:0,UK: Rishtey
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4257
+#EXTINF:0,UK: Star Plus
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4234
+#EXTINF:0,UK: Zee TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4235
+#EXTINF:0,UK: Colors HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4233
+#EXTINF:0,UK: &TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6306
+#EXTINF:0,UK: B4U Movies
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4258
+#EXTINF:0,UK: Sony Max HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6298
+#EXTINF:0,UK: Rishtey Cineplex
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6366
+#EXTINF:0,UK: Star Gold
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4267
+#EXTINF:0,UK: Zee Cinema HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4269
+#EXTINF:0,UK: Zing
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4268
+#EXTINF:0,UK: Akaal Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6348
+#EXTINF:0,UK: Hum Europe
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6307
+#EXTINF:0,UK: Islam Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6303
+#EXTINF:0,UK: Noor Tv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6302
+#EXTINF:0,UK: Ntv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6301
+#EXTINF:0,UK: Hum News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7835
+#EXTINF:0,UK: Islam TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7840
+#EXTINF:0,UK: PCNE Chinese
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7842
+#EXTINF:0,UK: Sanskar
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7839
+#EXTINF:0,UK: PTC Punjabi
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6300
+#EXTINF:0,UK: PTV Prime
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6299
+#EXTINF:0,UK: Samaa TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6296
+#EXTINF:0,UK: Aplus TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7208
+#EXTINF:0,UK: Geo Kahani
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7209
+#EXTINF:0,UK: Jus Punjabi
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7211
+#EXTINF:0,UK: New Vision TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7210
+#EXTINF:0,UK: Eman Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7243
+#EXTINF:0,UK: Kanshi TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7248
+#EXTINF:0,UK: MATV National
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7235
+#EXTINF:0,UK: Venus TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7251
+#EXTINF:0,UK: Sony TV HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3532
+#EXTINF:0,UK: 92 News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6481
+#EXTINF:0,UK: Aaj Tak
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6483
+#EXTINF:0,UK: Aastha
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6472
+#EXTINF:0,UK: ABP News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6486
+#EXTINF:0,UK: Ahlulbayt TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6474
+#EXTINF:0,UK: ATN Bangla
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6477
+#EXTINF:0,UK: Brit Asia Tv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6480
+#EXTINF:0,UK: ARY Family
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7245
+#EXTINF:0,UK: Hidayat TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7239
+#EXTINF:0,UK: Urdu1 Europe
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7246
+#EXTINF:0,UK: Hum Masala
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6488
+#EXTINF:0,UK: Iqra Bangla
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6479
+#EXTINF:0,UK: Iqra Tv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6482
+#EXTINF:0,UK: Ktv
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6468
+#EXTINF:0,UK: 	Islam Ch Urdu
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7682
+#EXTINF:0,UK: Ahlebait TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7681
+#EXTINF:0,UK: British Muslim
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7678
+#EXTINF:0,UK: CHSTV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7683
+#EXTINF:0,UK: iON TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7677
+#EXTINF:0,UK: Mta-Muslim TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7687
+#EXTINF:0,UK: Peace TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7684
+#EXTINF:0,UK: Takbeer TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7680
+#EXTINF:0,UK: TV 99
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7679
+#EXTINF:0,UK: Madani Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6476
+#EXTINF:0,UK: Peace Tv Urdu
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6485
+#EXTINF:0,UK: PTV Global
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6487
+#EXTINF:0,UK: Sangat
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6473
+#EXTINF:0,UK: Sikh Channel
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6475
+#EXTINF:0,UK: SkyNws Arabia
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6471
+#EXTINF:0,UK: Sony Mix
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6484
+#EXTINF:0,UK: Star Bharat
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6489
+#EXTINF:0,UK: TV One
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6470
+#EXTINF:0,IE: RT… One FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4198
+#EXTINF:0,IE: RT… 2 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4199
+#EXTINF:0,IE: TG4 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4200
+#EXTINF:0,IE: Virgin One HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4153
+#EXTINF:0,IE: Virgin Two HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/4201
+#EXTINF:0,IE: Virgin Three HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7295
+#EXTINF:0,IE: RT… Jr
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3512
+#EXTINF:0,IE: RT… News
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3510
+#EXTINF:0,IE: Oireachtas
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7274
+#EXTINF:0,IE: UTV FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2461
+#EXTINF:0,IE: At The Races Ireland
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7244
+#EXTINF:0,IE: EIR Sport 1 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/3519
+#EXTINF:0,IE: EIR Sport 2 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/2453
+#EXTINF:0,MM: Skynet Sports 1
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6291
+#EXTINF:0,MM: Skynet Sports 2
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6290
+#EXTINF:0,MM: Skynet Sports 3
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6289
+#EXTINF:0,MM: Skynet Sports 4
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6288
+#EXTINF:0,MM: Skynet Sports 5
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6287
+#EXTINF:0,MM: Skynet Sports 6
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/6286
+#EXTINF:0,UK: Eleven Sports 1 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7520
+#EXTINF:0,UK: Eleven Sports 2 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7521
+#EXTINF:0,UK: Eleven Sports La Liga TV FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7522
+#EXTINF:0,THAI: Eleven Sports 1 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7562
+#EXTINF:0,THAI: Eleven Sports 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7561
+#EXTINF:0,THAI: Eleven Sports Prime Ticket
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7560
+#EXTINF:0,Club: Barca TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7395
+#EXTINF:0,Club: RealMadrid TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7394
+#EXTINF:0,Club: Sevilla TV
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7393
+#EXTINF:0,F1 Practise 1 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7617
+#EXTINF:0,F1 Practise 2 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7616
+#EXTINF:0,F1 Practise 3 (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7615
+#EXTINF:0,F1 Qualifying (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7614
+#EXTINF:0,F1 Brendon Hartley Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7613
+#EXTINF:0,F1 Carlos Sainz Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7612
+#EXTINF:0,F1 Charles Leclerc Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7611
+#EXTINF:0,F1 Daniel Ricciardo Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7610
+#EXTINF:0,F1 Esteban Ocon Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7609
+#EXTINF:0,F1 Fernando Alonso Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7608
+#EXTINF:0,F1 GP Race (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7618
+#EXTINF:0,F1 Kevin Magnussen Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7607
+#EXTINF:0,F1 Kimi Raikkonen Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7606
+#EXTINF:0,F1 Lance Stroll Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7605
+#EXTINF:0,F1 Lewis Hamilton Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7604
+#EXTINF:0,F1 Marcus Ericsson Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7603
+#EXTINF:0,F1 Max Verstappen Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7602
+#EXTINF:0,F1 Nico Hulkenberg Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7601
+#EXTINF:0,F1 Pierre Gasly Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7600
+#EXTINF:0,F1 Romain Grosjean Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7599
+#EXTINF:0,F1 Sebastian Vettel Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7598
+#EXTINF:0,F1 Sergey Sirotkin Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7597
+#EXTINF:0,F1 Sergio Perez Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7596
+#EXTINF:0,F1 Stoffel Vandoorne Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7595
+#EXTINF:0,F1 Valtteri Bottas Helmet Camera (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/7594
+#EXTINF:0,IND: Sony Six HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9139
+#EXTINF:0,IND: Sony Ten 1 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9144
+#EXTINF:0,IND: Sony Ten 2 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9143
+#EXTINF:0,IND: Sony Ten 3 HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9142
+#EXTINF:0,IND: Star Sports 1 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9147
+#EXTINF:0,IND: Star Sports 2 FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9146
+#EXTINF:0,IND: Star Sports Hindi FHD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9145
+#EXTINF:0,IND: Ten Cricket
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9194
+#EXTINF:0,IND: Ten Sports HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9141
+#EXTINF:0,PK: Geo Super HD
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9140
+#EXTINF:0,PK: PTV Sports
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9191
+#EXTINF:0,EPL1: Brighton vs Everton 3pm (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9167
+#EXTINF:0,EPL1: Brighton vs Everton 3pm Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9166
+#EXTINF:0,EPL2: Fulham vs Huddersfield 3pm (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9165
+#EXTINF:0,EPL2: Fulham vs Huddersfield 3pm Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9164
+#EXTINF:0,EPL3: Leicester City vs Cardiff 3pm (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9163
+#EXTINF:0,EPL3: Leicester City vs Cardiff 3pm Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9162
+#EXTINF:0,EPL4: Tottenham vs Wolves 3pm (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9161
+#EXTINF:0,EPL4: Tottenham vs Wolves 3pm Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9160
+#EXTINF:0,EPL5: Watford vs Newcastle 3pm (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9159
+#EXTINF:0,EPL5: Watford vs Newcastle 3pm Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9158
+#EXTINF:0,EPL6: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9157
+#EXTINF:0,EPL6: No Match Today Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9156
+#EXTINF:0,EPL7: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9155
+#EXTINF:0,EPL7: No Match Today Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9154
+#EXTINF:0,EPL8: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9153
+#EXTINF:0,EPL8: No Match Today Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9152
+#EXTINF:0,EPL9: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9151
+#EXTINF:0,EPL9: No Match Today Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9150
+#EXTINF:0,EPL10: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9149
+#EXTINF:0,EPL10: No Match Today Back Up (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9148
+#EXTINF:0,EFL1: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9181
+#EXTINF:0,EFL2: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9180
+#EXTINF:0,EFL3: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9179
+#EXTINF:0,EFL4: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9178
+#EXTINF:0,EFL5: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9177
+#EXTINF:0,EFL6: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9176
+#EXTINF:0,EFL7: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9175
+#EXTINF:0,EFL8: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9174
+#EXTINF:0,EFL9: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9173
+#EXTINF:0,EFL10: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9172
+#EXTINF:0,EFL11: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9171
+#EXTINF:0,EFL12: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9170
+#EXTINF:0,EFL13: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9169
+#EXTINF:0,EFL14: No Match Today (Live During Events Only)
+http://necro.to:80/umar@jamtelecom.com/57noZ7a6De/9168
