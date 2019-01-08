@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Kênh Phổ thông" tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/9148034-logo-vtv1hd-a.png",VTV1 HD
+#EXTINF:-1 group-title="Kênh Phổ thông" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv1-hd_150173500659.jpg",VTV1 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/elgfjdh/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/5273187-6131906-logo-vt.png",VTV2 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/m0hlc1s/index.m3u8
@@ -9,7 +9,7 @@ https://hjyjrvmlsk.vcdn.com.vn/hls/idmwifi/index.m3u8
 https://hjyjrvmlsk.vcdn.com.vn/hls/hktebdo/index.m3u8
 #EXTINF:-1 tvg-logo="https://obj-cdn-static.vtvgiaitri.vn/channel_logo/W_V5.png",VTV5 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/ira1wlr/index.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-17/4483-vtv6-hd.png",VTV6 HD
+#EXTINF:-1 tvg-logo="https://tv3s.net/img/vtv-6-hd.png",VTV6 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/fjg6388/index.m3u8
 #EXTINF:-1 tvg-logo="https://content.vtvgiaitri.vn/channel_logo/W_V7_10HKiVA.png",VTV7 HD
 https://hjyjrvmlsk.vcdn.com.vn/hls/nwalmjv/index.m3u8
