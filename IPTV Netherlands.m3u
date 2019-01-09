@@ -1,47 +1,97 @@
 #EXTM3U
-#EXTINF:-1,NL:  OMROEP BRABAND
-http://193.200.164.176:8000/yuksel1/123456/25991
-#EXTINF:-1,NL: AT 5
-http://193.200.164.176:8000/yuksel1/123456/25998
-#EXTINF:-1,NL:KET NET
-http://193.200.164.176:8000/yuksel1/123456/25987
-#EXTINF:-1,NL:NAT GEO WILD HD
-http://193.200.164.176:8000/yuksel1/123456/25980
-#EXTINF:-1,NL:NAT GEOGRAPHIC  HD
-http://193.200.164.176:8000/yuksel1/123456/25981
-#EXTINF:-1,NL:NET 5
-http://193.200.164.176:8000/yuksel1/123456/25999
-#EXTINF:-1,NL:NICK Jr (toons)
-http://193.200.164.176:8000/yuksel1/123456/25990
-#EXTINF:-1,NL:NICK TOONS
-http://193.200.164.176:8000/yuksel1/123456/25986
-#EXTINF:-1,NL:NICKELODEON HD
-http://193.200.164.176:8000/yuksel1/123456/25985
-#EXTINF:-1,NL:NPO 1 HD
-http://193.200.164.176:8000/yuksel1/123456/26008
-#EXTINF:-1,NL:NPO 2 HD
-http://193.200.164.176:8000/yuksel1/123456/26007
-#EXTINF:-1,NL:NPO 3 HD
-http://193.200.164.176:8000/yuksel1/123456/26006
-#EXTINF:-1,NL:RTL 4 HD
-http://193.200.164.176:8000/yuksel1/123456/26005
-#EXTINF:-1,NL:RTL 5 HD
-http://193.200.164.176:8000/yuksel1/123456/26004
-#EXTINF:-1,NL:RTL 7 HD
-http://193.200.164.176:8000/yuksel1/123456/26003
-#EXTINF:-1,NL:RTL 8 HD
-http://193.200.164.176:8000/yuksel1/123456/26002
-#EXTINF:-1,NL:RTL TELEKIDS
-http://193.200.164.176:8000/yuksel1/123456/25984
-#EXTINF:-1,NL:RTL Z
-http://193.200.164.176:8000/yuksel1/123456/26001
-#EXTINF:-1,NL:RTV DRENTHE HD
-http://193.200.164.176:8000/yuksel1/123456/25992
-#EXTINF:-1,NL:SBS 6 HD
-http://193.200.164.176:8000/yuksel1/123456/26000
-#EXTINF:-1,NL:SBS 9 HD
-http://193.200.164.176:8000/yuksel1/123456/25995
-#EXTINF:-1,NL:TLC
-http://193.200.164.176:8000/yuksel1/123456/25996
-#EXTINF:-1,NL:VERONICA DISNEY XD
-http://193.200.164.176:8000/yuksel1/123456/25994
+#EXTINF:0,FOX SPORT 1
+http://kalitetv.world:8080/live/xmen/xmen/16626.ts
+#EXTINF:0,FOX SPORTS 1
+http://kalitetv.world:8080/live/xmen/xmen/16619.ts
+#EXTINF:0,FOX SPORTS 2
+http://kalitetv.world:8080/live/xmen/xmen/16620.ts
+#EXTINF:0,FOX SPORTS 3
+http://kalitetv.world:8080/live/xmen/xmen/16621.ts
+#EXTINF:0,FOX SPORTS 4
+http://kalitetv.world:8080/live/xmen/xmen/16622.ts
+#EXTINF:0,FOX SPORTS 5
+http://kalitetv.world:8080/live/xmen/xmen/16623.ts
+#EXTINF:0,FOX SPORTS 6 HD
+http://kalitetv.world:8080/live/xmen/xmen/16594.ts
+#EXTINF:0,ANIMALPLANET
+http://kalitetv.world:8080/live/xmen/xmen/16592.ts
+#EXTINF:0,AT5
+http://kalitetv.world:8080/live/xmen/xmen/16593.ts
+#EXTINF:0,DISCOVERY HD
+http://kalitetv.world:8080/live/xmen/xmen/16631.ts
+#EXTINF:0,DISNEY CHANNEL HD
+http://kalitetv.world:8080/live/xmen/xmen/16603.ts
+#EXTINF:0,FILM 1  COMEDY
+http://kalitetv.world:8080/live/xmen/xmen/16605.ts
+#EXTINF:0,FILM 1 ACTION HD
+http://kalitetv.world:8080/live/xmen/xmen/16604.ts
+#EXTINF:0,FILM 1 PREMIER HD
+http://kalitetv.world:8080/live/xmen/xmen/16606.ts
+#EXTINF:0,FILM 1 SUNDANCE HD
+http://kalitetv.world:8080/live/xmen/xmen/16607.ts
+#EXTINF:0,HBO 2 HD
+http://kalitetv.world:8080/live/xmen/xmen/16627.ts
+#EXTINF:0,HBO 3 HD
+http://kalitetv.world:8080/live/xmen/xmen/16628.ts
+#EXTINF:0,HBO HD
+http://kalitetv.world:8080/live/xmen/xmen/16629.ts
+#EXTINF:0,HISTORY
+http://kalitetv.world:8080/live/xmen/xmen/16630.ts
+#EXTINF:0,NAT GEO HD
+http://kalitetv.world:8080/live/xmen/xmen/16608.ts
+#EXTINF:0,NATIONAL GEO WILD HD
+http://kalitetv.world:8080/live/xmen/xmen/16632.ts
+#EXTINF:0,NET5
+http://kalitetv.world:8080/live/xmen/xmen/16633.ts
+#EXTINF:0,NICK JR
+http://kalitetv.world:8080/live/xmen/xmen/16634.ts
+#EXTINF:0,NICKELODEON HD
+http://kalitetv.world:8080/live/xmen/xmen/16635.ts
+#EXTINF:0,NICKTOONS
+http://kalitetv.world:8080/live/xmen/xmen/16636.ts
+#EXTINF:0,NPO 1 HD
+http://kalitetv.world:8080/live/xmen/xmen/16609.ts
+#EXTINF:0,NPO 2 HD
+http://kalitetv.world:8080/live/xmen/xmen/16610.ts
+#EXTINF:0,NPO 3 HD
+http://kalitetv.world:8080/live/xmen/xmen/16611.ts
+#EXTINF:0,RTL 4 HD
+http://kalitetv.world:8080/live/xmen/xmen/16612.ts
+#EXTINF:0,RTL 5 HD
+http://kalitetv.world:8080/live/xmen/xmen/16613.ts
+#EXTINF:0,RTL 7 HD
+http://kalitetv.world:8080/live/xmen/xmen/16614.ts
+#EXTINF:0,RTL 8 HD
+http://kalitetv.world:8080/live/xmen/xmen/16615.ts
+#EXTINF:0,RTL TELEKIDS
+http://kalitetv.world:8080/live/xmen/xmen/16616.ts
+#EXTINF:0,RTLLOUNGE
+http://kalitetv.world:8080/live/xmen/xmen/16595.ts
+#EXTINF:0,RTLZ
+http://kalitetv.world:8080/live/xmen/xmen/16596.ts
+#EXTINF:0,RTV DRENTHE HD
+http://kalitetv.world:8080/live/xmen/xmen/16617.ts
+#EXTINF:0,RTVNH
+http://kalitetv.world:8080/live/xmen/xmen/16597.ts
+#EXTINF:0,SBS6
+http://kalitetv.world:8080/live/xmen/xmen/16637.ts
+#EXTINF:0,SBS9
+http://kalitetv.world:8080/live/xmen/xmen/16638.ts
+#EXTINF:0,TLC
+http://kalitetv.world:8080/live/xmen/xmen/16639.ts
+#EXTINF:0,VERONICA HD
+http://kalitetv.world:8080/live/xmen/xmen/16618.ts
+#EXTINF:0,ZIGGO SPORT EXTRA 1
+http://kalitetv.world:8080/live/xmen/xmen/16624.ts
+#EXTINF:0,ZIGGO SPORT EXTRA 2
+http://kalitetv.world:8080/live/xmen/xmen/16625.ts
+#EXTINF:0,ZIGGO SPORT SELECT
+http://kalitetv.world:8080/live/xmen/xmen/16598.ts
+#EXTINF:0,ZIGGOSPORT
+http://kalitetv.world:8080/live/xmen/xmen/16599.ts
+#EXTINF:0,ZIGGOSPORT.VOETBAL
+http://kalitetv.world:8080/live/xmen/xmen/16600.ts
+#EXTINF:0,ZIGGOSPORTGOLF
+http://kalitetv.world:8080/live/xmen/xmen/16601.ts
+#EXTINF:0,ZIGGOSPORTRACING
+http://kalitetv.world:8080/live/xmen/xmen/16602.ts
