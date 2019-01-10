@@ -1,97 +1,149 @@
 #EXTM3U
-#EXTINF:0,FOX SPORT 1
-http://kalitetv.world:8080/live/xmen/xmen/16626.ts
-#EXTINF:0,FOX SPORTS 1
-http://kalitetv.world:8080/live/xmen/xmen/16619.ts
-#EXTINF:0,FOX SPORTS 2
-http://kalitetv.world:8080/live/xmen/xmen/16620.ts
-#EXTINF:0,FOX SPORTS 3
-http://kalitetv.world:8080/live/xmen/xmen/16621.ts
-#EXTINF:0,FOX SPORTS 4
-http://kalitetv.world:8080/live/xmen/xmen/16622.ts
-#EXTINF:0,FOX SPORTS 5
-http://kalitetv.world:8080/live/xmen/xmen/16623.ts
-#EXTINF:0,FOX SPORTS 6 HD
-http://kalitetv.world:8080/live/xmen/xmen/16594.ts
-#EXTINF:0,ANIMALPLANET
-http://kalitetv.world:8080/live/xmen/xmen/16592.ts
-#EXTINF:0,AT5
-http://kalitetv.world:8080/live/xmen/xmen/16593.ts
-#EXTINF:0,DISCOVERY HD
-http://kalitetv.world:8080/live/xmen/xmen/16631.ts
-#EXTINF:0,DISNEY CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/16603.ts
-#EXTINF:0,FILM 1  COMEDY
-http://kalitetv.world:8080/live/xmen/xmen/16605.ts
-#EXTINF:0,FILM 1 ACTION HD
-http://kalitetv.world:8080/live/xmen/xmen/16604.ts
-#EXTINF:0,FILM 1 PREMIER HD
-http://kalitetv.world:8080/live/xmen/xmen/16606.ts
-#EXTINF:0,FILM 1 SUNDANCE HD
-http://kalitetv.world:8080/live/xmen/xmen/16607.ts
-#EXTINF:0,HBO 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16627.ts
-#EXTINF:0,HBO 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/16628.ts
-#EXTINF:0,HBO HD
-http://kalitetv.world:8080/live/xmen/xmen/16629.ts
-#EXTINF:0,HISTORY
-http://kalitetv.world:8080/live/xmen/xmen/16630.ts
-#EXTINF:0,NAT GEO HD
-http://kalitetv.world:8080/live/xmen/xmen/16608.ts
-#EXTINF:0,NATIONAL GEO WILD HD
-http://kalitetv.world:8080/live/xmen/xmen/16632.ts
-#EXTINF:0,NET5
-http://kalitetv.world:8080/live/xmen/xmen/16633.ts
-#EXTINF:0,NICK JR
-http://kalitetv.world:8080/live/xmen/xmen/16634.ts
-#EXTINF:0,NICKELODEON HD
-http://kalitetv.world:8080/live/xmen/xmen/16635.ts
-#EXTINF:0,NICKTOONS
-http://kalitetv.world:8080/live/xmen/xmen/16636.ts
-#EXTINF:0,NPO 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16609.ts
-#EXTINF:0,NPO 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16610.ts
-#EXTINF:0,NPO 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/16611.ts
-#EXTINF:0,RTL 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/16612.ts
-#EXTINF:0,RTL 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/16613.ts
-#EXTINF:0,RTL 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/16614.ts
-#EXTINF:0,RTL 8 HD
-http://kalitetv.world:8080/live/xmen/xmen/16615.ts
-#EXTINF:0,RTL TELEKIDS
-http://kalitetv.world:8080/live/xmen/xmen/16616.ts
-#EXTINF:0,RTLLOUNGE
-http://kalitetv.world:8080/live/xmen/xmen/16595.ts
-#EXTINF:0,RTLZ
-http://kalitetv.world:8080/live/xmen/xmen/16596.ts
-#EXTINF:0,RTV DRENTHE HD
-http://kalitetv.world:8080/live/xmen/xmen/16617.ts
-#EXTINF:0,RTVNH
-http://kalitetv.world:8080/live/xmen/xmen/16597.ts
-#EXTINF:0,SBS6
-http://kalitetv.world:8080/live/xmen/xmen/16637.ts
-#EXTINF:0,SBS9
-http://kalitetv.world:8080/live/xmen/xmen/16638.ts
-#EXTINF:0,TLC
-http://kalitetv.world:8080/live/xmen/xmen/16639.ts
-#EXTINF:0,VERONICA HD
-http://kalitetv.world:8080/live/xmen/xmen/16618.ts
-#EXTINF:0,ZIGGO SPORT EXTRA 1
-http://kalitetv.world:8080/live/xmen/xmen/16624.ts
-#EXTINF:0,ZIGGO SPORT EXTRA 2
-http://kalitetv.world:8080/live/xmen/xmen/16625.ts
-#EXTINF:0,ZIGGO SPORT SELECT
-http://kalitetv.world:8080/live/xmen/xmen/16598.ts
-#EXTINF:0,ZIGGOSPORT
-http://kalitetv.world:8080/live/xmen/xmen/16599.ts
-#EXTINF:0,ZIGGOSPORT.VOETBAL
-http://kalitetv.world:8080/live/xmen/xmen/16600.ts
-#EXTINF:0,ZIGGOSPORTGOLF
-http://kalitetv.world:8080/live/xmen/xmen/16601.ts
-#EXTINF:0,ZIGGOSPORTRACING
-http://kalitetv.world:8080/live/xmen/xmen/16602.ts
+#EXTINF:-1,SBS 9
+http://5.189.187.55:8000/arsenal/skype/1719
+#EXTINF:-1,SBS 6 HD
+http://5.189.187.55:8000/arsenal/skype/1718
+#EXTINF:-1,RTL 8 HD
+http://5.189.187.55:8000/arsenal/skype/1716
+#EXTINF:-1,RTL 7
+http://5.189.187.55:8000/arsenal/skype/1715
+#EXTINF:-1,RTL 5 HD
+http://5.189.187.55:8000/arsenal/skype/1714
+#EXTINF:-1,RTL 4
+http://5.189.187.55:8000/arsenal/skype/1713
+#EXTINF:-1,NPO 101
+http://5.189.187.55:8000/arsenal/skype/2638
+#EXTINF:-1,NPO 3 HD
+http://5.189.187.55:8000/arsenal/skype/1712
+#EXTINF:-1,NPO 2 HD
+http://5.189.187.55:8000/arsenal/skype/1711
+#EXTINF:-1,NPO 1 HD
+http://5.189.187.55:8000/arsenal/skype/1710
+#EXTINF:-1,NET 5
+http://5.189.187.55:8000/arsenal/skype/1717
+#EXTINF:-1,National Geographic HD
+http://5.189.187.55:8000/arsenal/skype/2010
+#EXTINF:-1,Investigation Discovery
+http://5.189.187.55:8000/arsenal/skype/2640
+#EXTINF:-1,History HD
+http://5.189.187.55:8000/arsenal/skype/2639
+#EXTINF:-1,HBO 3
+http://5.189.187.55:8000/arsenal/skype/1720
+#EXTINF:-1,HBO 2
+http://5.189.187.55:8000/arsenal/skype/1721
+#EXTINF:-1,HBO 1
+http://5.189.187.55:8000/arsenal/skype/1722
+#EXTINF:-1,Fox Sports 5 HD
+http://5.189.187.55:8000/arsenal/skype/1728
+#EXTINF:-1,Fox Sports 4 HD
+http://5.189.187.55:8000/arsenal/skype/1727
+#EXTINF:-1,Fox Sports 3 HD
+http://5.189.187.55:8000/arsenal/skype/1726
+#EXTINF:-1,Fox Sports 2 HD
+http://5.189.187.55:8000/arsenal/skype/1725
+#EXTINF:-1,Fox Sports 1 HD
+http://5.189.187.55:8000/arsenal/skype/1724
+#EXTINF:-1,Fox
+http://5.189.187.55:8000/arsenal/skype/1723
+#EXTINF:-1,Film 1 Sundance
+http://5.189.187.55:8000/arsenal/skype/2012
+#EXTINF:-1,Film 1 Premiere
+http://5.189.187.55:8000/arsenal/skype/1730
+#EXTINF:-1,Film 1 Comedy and Kids
+http://5.189.187.55:8000/arsenal/skype/1731
+#EXTINF:-1,Film 1 Action
+http://5.189.187.55:8000/arsenal/skype/1732
+#EXTINF:-1,EDGE
+http://5.189.187.55:8000/arsenal/skype/2726
+#EXTINF:-1,Disney Channel
+http://5.189.187.55:8000/arsenal/skype/2641
+#EXTINF:-1,Discovery HD
+http://5.189.187.55:8000/arsenal/skype/2013
+#EXTINF:-1,Comedy Central
+http://5.189.187.55:8000/arsenal/skype/2011
+#EXTINF:-1,AT5
+http://5.189.187.55:8000/arsenal/skype/2727
+#EXTINF:-1,24kitchen
+http://5.189.187.55:8000/arsenal/skype/1737
+#EXTINF:-1,Comedy Central Family
+http://5.189.187.55:8000/arsenal/skype/2922
+#EXTINF:-1,DISNEY JUNIOR
+http://5.189.187.55:8000/arsenal/skype/2923
+#EXTINF:-1,Eurosport 1 HD
+http://5.189.187.55:8000/arsenal/skype/2919
+#EXTINF:-1,Ziggo Sport Golf
+http://5.189.187.55:8000/arsenal/skype/2917
+#EXTINF:-1,Ziggo Sport racing
+http://5.189.187.55:8000/arsenal/skype/2916
+#EXTINF:-1,Ziggo Sport Select HD
+http://5.189.187.55:8000/arsenal/skype/2915
+#EXTINF:-1,Extreme Sports
+http://5.189.187.55:8000/arsenal/skype/2918
+#EXTINF:-1,Film 1 Drama
+http://5.189.187.55:8000/arsenal/skype/3159
+#EXTINF:-1,Fox Sports 6
+http://5.189.187.55:8000/arsenal/skype/2914
+#EXTINF:-1,RTL Crime
+http://5.189.187.55:8000/arsenal/skype/2920
+#EXTINF:-1,RTL Z
+http://5.189.187.55:8000/arsenal/skype/2921
+#EXTINF:-1,JimJam
+http://5.189.187.55:8000/arsenal/skype/4203
+#EXTINF:-1,NPO 1 FHD
+http://5.189.187.55:8000/arsenal/skype/4428
+#EXTINF:-1,NPO Politiek
+http://5.189.187.55:8000/arsenal/skype/4193
+#EXTINF:-1,NPO Zapp Xtra
+http://5.189.187.55:8000/arsenal/skype/4194
+#EXTINF:-1,100% NL
+http://5.189.187.55:8000/arsenal/skype/2369
+#EXTINF:-1,BABY TV
+http://5.189.187.55:8000/arsenal/skype/3933
+#EXTINF:-1,Boomerang
+http://5.189.187.55:8000/arsenal/skype/4205
+#EXTINF:-1,Discovery Science
+http://5.189.187.55:8000/arsenal/skype/4183
+#EXTINF:-1,Eurosport 2 HD
+http://5.189.187.55:8000/arsenal/skype/4727
+#EXTINF:-1,Film 1 Family
+http://5.189.187.55:8000/arsenal/skype/3934
+#EXTINF:-1,Horse & Country TV
+http://5.189.187.55:8000/arsenal/skype/4201
+#EXTINF:-1,Nat Geo Wild HD
+http://5.189.187.55:8000/arsenal/skype/4182
+#EXTINF:-1,NICK JR
+http://5.189.187.55:8000/arsenal/skype/3931
+#EXTINF:-1,NICK TOONS
+http://5.189.187.55:8000/arsenal/skype/3932
+#EXTINF:-1,Omroep Brabant
+http://5.189.187.55:8000/arsenal/skype/4188
+#EXTINF:-1,Omroep Flevoland
+http://5.189.187.55:8000/arsenal/skype/4189
+#EXTINF:-1,Omroep Fryslan
+http://5.189.187.55:8000/arsenal/skype/4190
+#EXTINF:-1,Omroep Gelderland
+http://5.189.187.55:8000/arsenal/skype/4192
+#EXTINF:-1,Omroep Zeeland
+http://5.189.187.55:8000/arsenal/skype/4191
+#EXTINF:-1,RTL lounge
+http://5.189.187.55:8000/arsenal/skype/4199
+#EXTINF:-1,RTL Telekids
+http://5.189.187.55:8000/arsenal/skype/4198
+#EXTINF:-1,RTV DRENTHE
+http://5.189.187.55:8000/arsenal/skype/4186
+#EXTINF:-1,RTV Noord
+http://5.189.187.55:8000/arsenal/skype/4185
+#EXTINF:-1,RTV Utrecht
+http://5.189.187.55:8000/arsenal/skype/4187
+#EXTINF:-1,Spike HD
+http://5.189.187.55:8000/arsenal/skype/4184
+#EXTINF:-1,TLC FHD
+http://5.189.187.55:8000/arsenal/skype/4197
+#EXTINF:-1,TV Oost
+http://5.189.187.55:8000/arsenal/skype/4196
+#EXTINF:-1,TV538
+http://5.189.187.55:8000/arsenal/skype/4195
+#EXTINF:-1,ViceLand
+http://5.189.187.55:8000/arsenal/skype/4181
+#EXTINF:-1,XITE
+http://5.189.187.55:8000/arsenal/skype/4202
