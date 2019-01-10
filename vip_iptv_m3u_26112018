@@ -1,2401 +1,1901 @@
 #EXTM3U
-#EXTINF:0,BILGILENDIRME EKRANI
-http://kalitetv.world:8080/live/xmen/xmen/2489.ts
-#EXTINF:0,beIN HABER
-http://kalitetv.world:8080/live/xmen/xmen/5041.ts
-#EXTINF:0,beIN HABER SD
-http://kalitetv.world:8080/live/xmen/xmen/25371.ts
-#EXTINF:0,beIN 4K
-http://kalitetv.world:8080/live/xmen/xmen/4626.ts
-#EXTINF:0,beIN 1 HD 25 FPS Lokasyon (HOLLANDA)
-http://kalitetv.world:8080/live/xmen/xmen/17094.ts
-#EXTINF:0,beIN 1 HD 25 FPS Lokasyon (FRANSA)
-http://kalitetv.world:8080/live/xmen/xmen/4628.ts
-#EXTINF:0,beIN 1 HD 25 FPS Lokasyon (ALMANYA)
-http://kalitetv.world:8080/live/xmen/xmen/4630.ts
-#EXTINF:0,beIN 1 FHD 50 FPS Lokasyon (HOLLANDA)
-http://kalitetv.world:8080/live/xmen/xmen/17095.ts
-#EXTINF:0,beIN 1 FHD 50 FPS Lokasyon (FRANSA)
-http://kalitetv.world:8080/live/xmen/xmen/4625.ts
-#EXTINF:0,beIN 1 (720 p) Lokasyon (HOLLANDA)
-http://kalitetv.world:8080/live/xmen/xmen/4624.ts
-#EXTINF:0,beIN 1 (720 p) Lokasyon (FRANSA)
-http://kalitetv.world:8080/live/xmen/xmen/23271.ts
-#EXTINF:0,beIN 1 (720 p) Lokasyon (ALMANYA)
-http://kalitetv.world:8080/live/xmen/xmen/23272.ts
-#EXTINF:0,beIN 1 Kota Dostu Lokasyon (HOLLANDA)
-http://kalitetv.world:8080/live/xmen/xmen/4623.ts
-#EXTINF:0,beIN 1 Kota Dostu Lokasyon (FRANSA)
-http://kalitetv.world:8080/live/xmen/xmen/4634.ts
-#EXTINF:0,beIN 1 Kota Dostu Lokasyon (ALMANYA)
-http://kalitetv.world:8080/live/xmen/xmen/4622.ts
-#EXTINF:0,beIN 1 Yedek
-http://kalitetv.world:8080/live/xmen/xmen/4621.ts
-#EXTINF:0,beIN 2 25 FPS HD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4620.ts
-#EXTINF:0,beIN 2 50 FPS FHD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4619.ts
-#EXTINF:0,beIN 2 HD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4618.ts
-#EXTINF:0,beIN 2 Kota Dostu (480 P)
-http://kalitetv.world:8080/live/xmen/xmen/4617.ts
-#EXTINF:0,beIN 2 (Yedek)
-http://kalitetv.world:8080/live/xmen/xmen/4616.ts
-#EXTINF:0,beIN 3 25 FPS HD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4615.ts
-#EXTINF:0,beIN 3 50 FPS FHD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4614.ts
-#EXTINF:0,beIN 3 HD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4613.ts
-#EXTINF:0,beIN 3 Kota Dostu (480 P)
-http://kalitetv.world:8080/live/xmen/xmen/4612.ts
-#EXTINF:0,beIN 3 (Yedek)
-http://kalitetv.world:8080/live/xmen/xmen/4611.ts
-#EXTINF:0,beIN 4 FULL HD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4610.ts
-#EXTINF:0,beIN 4 FULL HDD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4609.ts
-#EXTINF:0,beIN 4 (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4608.ts
-#EXTINF:0,beIN 4 (480 P)
-http://kalitetv.world:8080/live/xmen/xmen/4607.ts
-#EXTINF:0,beIN 4 (Yedek)
-http://kalitetv.world:8080/live/xmen/xmen/4606.ts
-#EXTINF:0,beIN MAX 1 HD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4605.ts
-#EXTINF:0,beIN MAX 1 HDD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4604.ts
-#EXTINF:0,beIN MAX 2 HD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4603.ts
-#EXTINF:0,beIN MAX 2 HDD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4602.ts
-#EXTINF:0,TiViBUSPOR 1 FULL HD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4601.ts
-#EXTINF:0,TiViBUSPOR 1 HD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4600.ts
-#EXTINF:0,TiViBUSPOR 2 HD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4596.ts
-#EXTINF:0,TiViBUSPOR 3 FULL HD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4595.ts
-#EXTINF:0,TiViBUSPOR 3 HD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4594.ts
-#EXTINF:0,TiViBUSPOR 4 HD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4593.ts
-#EXTINF:0,TiViBUSPOR 4 HDD (720 P)
-http://kalitetv.world:8080/live/xmen/xmen/4592.ts
-#EXTINF:0,SMARTSPOR 1 ULTRA HD (1080 P) D-SMART
-http://kalitetv.world:8080/live/xmen/xmen/4591.ts
-#EXTINF:0,SMARTSPOR 1 HD (720 P) D-SMART
-http://kalitetv.world:8080/live/xmen/xmen/4590.ts
-#EXTINF:0,S-SPORT ULTRA HD (1080 P) D-SMART
-http://kalitetv.world:8080/live/xmen/xmen/4589.ts
-#EXTINF:0,S-SPORT HD (720 P) D-SMART
-http://kalitetv.world:8080/live/xmen/xmen/4588.ts
-#EXTINF:0,EUROSPORT1 ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/4566.ts
-#EXTINF:0,EUROSPORT1 HD
-http://kalitetv.world:8080/live/xmen/xmen/4339.ts
-#EXTINF:0,EUROSPORT2 HD
-http://kalitetv.world:8080/live/xmen/xmen/4338.ts
-#EXTINF:0,NBA TV ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/4564.ts
-#EXTINF:0,NBA TV FULL HD (1080 P)
-http://kalitetv.world:8080/live/xmen/xmen/4337.ts
-#EXTINF:0,TR | Besiktas TV UltraHD
-http://kalitetv.world:8080/live/xmen/xmen/8206.ts
-#EXTINF:0,TR | Fenerbahce TV FULL HD
-http://kalitetv.world:8080/live/xmen/xmen/8208.ts
-#EXTINF:0,TR | Galatasaray TV FULL HD
-http://kalitetv.world:8080/live/xmen/xmen/8207.ts
-#EXTINF:0,TR I FANATIK TV
-http://kalitetv.world:8080/live/xmen/xmen/18648.ts
-#EXTINF:0,AZ | CBC SPORT HD
-http://kalitetv.world:8080/live/xmen/xmen/23610.ts
-#EXTINF:0,-----Shttp://kalitetv.world:8080/live/xmen/xmen/4368.ts
-#EXTINF:0,TR I SALON SALONDA NE VAR
-http://kalitetv.world:8080/live/xmen/xmen/23159.ts
-#EXTINF:0,TR I SALON 1
-http://kalitetv.world:8080/live/xmen/xmen/23158.ts
-#EXTINF:0,TR I SALON 2
-http://kalitetv.world:8080/live/xmen/xmen/23157.ts
-#EXTINF:0,TR I SALON 3
-http://kalitetv.world:8080/live/xmen/xmen/23156.ts
-#EXTINF:0,TR I SALON 4
-http://kalitetv.world:8080/live/xmen/xmen/23155.ts
-#EXTINF:0,TR I SALON 5
-http://kalitetv.world:8080/live/xmen/xmen/23154.ts
-#EXTINF:0,TR I SALON 6
-http://kalitetv.world:8080/live/xmen/xmen/23153.ts
-#EXTINF:0,TR I SALON 7
-http://kalitetv.world:8080/live/xmen/xmen/23152.ts
-#EXTINF:0,TR I SALON 8
-http://kalitetv.world:8080/live/xmen/xmen/23151.ts
-#EXTINF:0,TR I SALON 9
-http://kalitetv.world:8080/live/xmen/xmen/23150.ts
-#EXTINF:0,TR I SALON 10
-http://kalitetv.world:8080/live/xmen/xmen/23149.ts
-#EXTINF:0,TR I SALON 11
-http://kalitetv.world:8080/live/xmen/xmen/23148.ts
-#EXTINF:0,TR I SALON 12
-http://kalitetv.world:8080/live/xmen/xmen/23147.ts
-#EXTINF:0,TR I SALON 13
-http://kalitetv.world:8080/live/xmen/xmen/23146.ts
-#EXTINF:0,TR I SALON 14
-http://kalitetv.world:8080/live/xmen/xmen/23145.ts
-#EXTINF:0,TR I SALON 15
-http://kalitetv.world:8080/live/xmen/xmen/23144.ts
-#EXTINF:0,TR I SALON 16
-http://kalitetv.world:8080/live/xmen/xmen/23143.ts
-#EXTINF:0,TR I SALON 17
-http://kalitetv.world:8080/live/xmen/xmen/23142.ts
-#EXTINF:0,TR I SALON 18
-http://kalitetv.world:8080/live/xmen/xmen/23141.ts
-#EXTINF:0,TR I SALON 19
-http://kalitetv.world:8080/live/xmen/xmen/23140.ts
-#EXTINF:0,TR I SALON 20
-http://kalitetv.world:8080/live/xmen/xmen/23139.ts
-#EXTINF:0,TR I beIN BOX OFFiCE 1 FULL HD (1080P)
-http://kalitetv.world:8080/live/xmen/xmen/4274.ts
-#EXTINF:0,TR I beIN BOX OFFiCE 2 FULL HD (1080P)
-http://kalitetv.world:8080/live/xmen/xmen/4273.ts
-#EXTINF:0,TR I beIN BOX OFFiCE 3 FULL HD (1080P)
-http://kalitetv.world:8080/live/xmen/xmen/4272.ts
-#EXTINF:0,TR I beIN MOVIES PREMIER HD 1080P (beIN)
-http://kalitetv.world:8080/live/xmen/xmen/4260.ts
-#EXTINF:0,TR I beIN MOVIES PREMIER 2 1080P (beIN)
-http://kalitetv.world:8080/live/xmen/xmen/4223.ts
-#EXTINF:0,TR I beIN MOVIES ACTION 1080P (beIN)
-http://kalitetv.world:8080/live/xmen/xmen/4262.ts
-#EXTINF:0,TR I beIN MOVIES ACTION 2 1080P (beIN)
-http://kalitetv.world:8080/live/xmen/xmen/4222.ts
-#EXTINF:0,TR I beIN MOVIES STARS HD 1080P (beIN)
-http://kalitetv.world:8080/live/xmen/xmen/4264.ts
-#EXTINF:0,TR I beIN MOVIES FAMILY 1080P HD  (beIN)
-http://kalitetv.world:8080/live/xmen/xmen/4263.ts
-#EXTINF:0,TR I beIN MOVIES TURK HD 1080P (beIN)
-http://kalitetv.world:8080/live/xmen/xmen/4261.ts
-#EXTINF:0,TR I MOVIESMART TURK HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4251.ts
-#EXTINF:0,TR I MOVIESMART PREMIUM HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4250.ts
-#EXTINF:0,TR I MOVIESMART PREMIUM 2 HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4249.ts
-#EXTINF:0,TR I MOVIESMART PLATIN HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4248.ts
-#EXTINF:0,TR I MOVIESMART PLATIN 2 HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4247.ts
-#EXTINF:0,TR I MOVIESMART GOLD HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4246.ts
-#EXTINF:0,TR I MOVIESMART FEST HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4245.ts
-#EXTINF:0,TR I MOVIESMART FAMILY HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4244.ts
-#EXTINF:0,TR I MOVIESMART CLASSIC HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4243.ts
-#EXTINF:0,TR I MOVIESMART ACTION HD (D-Smart)
-http://kalitetv.world:8080/live/xmen/xmen/4242.ts
-#EXTINF:0,TR I VIZYON ULTRA HD (TIVIBU)
-http://kalitetv.world:8080/live/xmen/xmen/17560.ts
-#EXTINF:0,TR | VIZYON 2 (TIVIBU)
-http://kalitetv.world:8080/live/xmen/xmen/23533.ts
-#EXTINF:0,TR | ADRENALIN HD (TIVIBU)
-http://kalitetv.world:8080/live/xmen/xmen/23534.ts
-#EXTINF:0,TR | ADRENALIN 2 HD (TIVIBU)
-http://kalitetv.world:8080/live/xmen/xmen/23535.ts
-#EXTINF:0,TR I TURK ULTRA HD (TIVIBU)
-http://kalitetv.world:8080/live/xmen/xmen/17562.ts
-#EXTINF:0,TR I TURK 2 ULTRA HD (TIVIBU)
-http://kalitetv.world:8080/live/xmen/xmen/17561.ts
-#EXTINF:0,TR I SINEMA TV  HD (KABLO TV)
-http://kalitetv.world:8080/live/xmen/xmen/4259.ts
-#EXTINF:0,TR I NEXTBOX  CINEMA STARS
-http://kalitetv.world:8080/live/xmen/xmen/5321.ts
-#EXTINF:0,TR I NEXTBOX  CINEMA VISION
-http://kalitetv.world:8080/live/xmen/xmen/5320.ts
-#EXTINF:0,TR I NEXTBOX CINEMA  NOSTALJI
-http://kalitetv.world:8080/live/xmen/xmen/5316.ts
-#EXTINF:0,TR I NEXTBOX CINEMA 3D
-http://kalitetv.world:8080/live/xmen/xmen/5315.ts
-#EXTINF:0,TR I NEXTBOX CINEMA 4K
-http://kalitetv.world:8080/live/xmen/xmen/5314.ts
-#EXTINF:0,TR I NEXTBOX CINEMA ACTION
-http://kalitetv.world:8080/live/xmen/xmen/5313.ts
-#EXTINF:0,TR I NEXTBOX CINEMA ANIMASYON
-http://kalitetv.world:8080/live/xmen/xmen/5312.ts
-#EXTINF:0,TR I NEXTBOX CINEMA TURK
-http://kalitetv.world:8080/live/xmen/xmen/5311.ts
-#EXTINF:0,TR I NEXTBOX LOCA 1
-http://kalitetv.world:8080/live/xmen/xmen/5310.ts
-#EXTINF:0,TR I NEXTBOX LOCA 2
-http://kalitetv.world:8080/live/xmen/xmen/5309.ts
-#EXTINF:0,TR I NEXTBOX SCARY
-http://kalitetv.world:8080/live/xmen/xmen/5308.ts
-#EXTINF:0,TR I NEXTBOX SUBTITLE
-http://kalitetv.world:8080/live/xmen/xmen/5307.ts
-#EXTINF:0,TR I FILMBOX-HD ADRENALIN
-http://kalitetv.world:8080/live/xmen/xmen/4253.ts
-#EXTINF:0,TR I FILMBOX-HD AKSIYON 2
-http://kalitetv.world:8080/live/xmen/xmen/4255.ts
-#EXTINF:0,TR I FILMBOX-HD AKSIYON
-http://kalitetv.world:8080/live/xmen/xmen/4254.ts
-#EXTINF:0,TR I FILMBOX-HD AILE
-http://kalitetv.world:8080/live/xmen/xmen/4252.ts
-#EXTINF:0,TR I FILMBOX-HD ANIMASYON
-http://kalitetv.world:8080/live/xmen/xmen/23138.ts
-#EXTINF:0,TR I  FILMBOX-HD BILIMKURGU
-http://kalitetv.world:8080/live/xmen/xmen/17792.ts
-#EXTINF:0,TR I FILMBOX-HD DRAM
-http://kalitetv.world:8080/live/xmen/xmen/17791.ts
-#EXTINF:0,TR I FILMBOX-HD FANTASTIK
-http://kalitetv.world:8080/live/xmen/xmen/17793.ts
-#EXTINF:0,TR I FILMBOX-HD GERMANY
-http://kalitetv.world:8080/live/xmen/xmen/25823.ts
-#EXTINF:0,TR I FILMBOX-HD KOMEDI
-http://kalitetv.world:8080/live/xmen/xmen/25822.ts
-#EXTINF:0,TR I FILMBOX-HD KORKU
-http://kalitetv.world:8080/live/xmen/xmen/25821.ts
-#EXTINF:0,TR I FILMBOX-HD PREMIER
-http://kalitetv.world:8080/live/xmen/xmen/25820.ts
-#EXTINF:0,TR I FILMBOX-HD TURK
-http://kalitetv.world:8080/live/xmen/xmen/25819.ts
-#EXTINF:0,TR I FILMBOX-HD YESILCAM
-http://kalitetv.world:8080/live/xmen/xmen/25818.ts
-#EXTINF:0,TR I CAPTAIN MOVIES 1
-http://kalitetv.world:8080/live/xmen/xmen/23555.ts
-#EXTINF:0,TR I CAPTAIN MOVIES 2
-http://kalitetv.world:8080/live/xmen/xmen/23554.ts
-#EXTINF:0,TR I CAPTAIN MOVIES 3
-http://kalitetv.world:8080/live/xmen/xmen/23553.ts
-#EXTINF:0,TR I CAPTAIN MOVIES 4
-http://kalitetv.world:8080/live/xmen/xmen/23552.ts
-#EXTINF:0,TR I CAPTAIN MOVIES 5
-http://kalitetv.world:8080/live/xmen/xmen/23551.ts
-#EXTINF:0,TR I KEMAL SUNAL TV
-http://kalitetv.world:8080/live/xmen/xmen/17790.ts
-#EXTINF:0,TR I beIN Sc-Fi HD
-http://kalitetv.world:8080/live/xmen/xmen/5104.ts
-#EXTINF:0,TR I beIN Series Drama HD
-http://kalitetv.world:8080/live/xmen/xmen/5152.ts
-#EXTINF:0,TR I beIN Series Vice HD
-http://kalitetv.world:8080/live/xmen/xmen/5151.ts
-#EXTINF:0,TR I beIN DiziMax Comedy HD
-http://kalitetv.world:8080/live/xmen/xmen/5150.ts
-#EXTINF:0,TR I DIZISMART PREMIUM (D-SMART)
-http://kalitetv.world:8080/live/xmen/xmen/8173.ts
-#EXTINF:0,TR I FOX CRIME ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5149.ts
-#EXTINF:0,TR I FOX LIFE ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5148.ts
-#EXTINF:0,TR I FX FULL ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5147.ts
-#EXTINF:0,TR | English Club Tv
-http://kalitetv.world:8080/live/xmen/xmen/22174.ts
-#EXTINF:0,TR I TRT 1 ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5146.ts
-#EXTINF:0,TR I TRT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/5145.ts
-#EXTINF:0,TR: TRT1 SD
-http://kalitetv.world:8080/live/xmen/xmen/25370.ts
-#EXTINF:0,TRT I 4K 1080 P
-http://kalitetv.world:8080/live/xmen/xmen/13820.ts
-#EXTINF:0,TR I ATV ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5143.ts
-#EXTINF:0,TR I ATV HD
-http://kalitetv.world:8080/live/xmen/xmen/5142.ts
-#EXTINF:0,TR: ATV SD
-http://kalitetv.world:8080/live/xmen/xmen/25365.ts
-#EXTINF:0,TR I ATV EU
-http://kalitetv.world:8080/live/xmen/xmen/5141.ts
-#EXTINF:0,TR I KANAL D ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5140.ts
-#EXTINF:0,TR I KANAL D HD
-http://kalitetv.world:8080/live/xmen/xmen/5139.ts
-#EXTINF:0,TR: KANALD SD
-http://kalitetv.world:8080/live/xmen/xmen/25361.ts
-#EXTINF:0,TR I KANAL D EU
-http://kalitetv.world:8080/live/xmen/xmen/5138.ts
-#EXTINF:0,TR I SHOW TV ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5137.ts
-#EXTINF:0,TR I SHOW TV HD
-http://kalitetv.world:8080/live/xmen/xmen/5136.ts
-#EXTINF:0,TR: SHOWTV SD
-http://kalitetv.world:8080/live/xmen/xmen/25363.ts
-#EXTINF:0,TR I SHOWTV EU
-http://kalitetv.world:8080/live/xmen/xmen/5135.ts
-#EXTINF:0,TR I STAR TV ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5134.ts
-#EXTINF:0,TR I STARTV HD
-http://kalitetv.world:8080/live/xmen/xmen/5133.ts
-#EXTINF:0,TR: STARTV SD
-http://kalitetv.world:8080/live/xmen/xmen/25362.ts
-#EXTINF:0,TR I STARTV EU
-http://kalitetv.world:8080/live/xmen/xmen/5132.ts
-#EXTINF:0,TR I TV8 ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5130.ts
-#EXTINF:0,TR I TV 8 HD
-http://kalitetv.world:8080/live/xmen/xmen/5131.ts
-#EXTINF:0,TR: TV8 SD
-http://kalitetv.world:8080/live/xmen/xmen/25360.ts
-#EXTINF:0,TR I TV8'5 HD
-http://kalitetv.world:8080/live/xmen/xmen/5129.ts
-#EXTINF:0,TR I TV8'5 UHD
-http://kalitetv.world:8080/live/xmen/xmen/23208.ts
-#EXTINF:0,TR I FOX TV ULTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5128.ts
-#EXTINF:0,TR I FOXTV HD
-http://kalitetv.world:8080/live/xmen/xmen/5127.ts
-#EXTINF:0,TR: FOX SD
-http://kalitetv.world:8080/live/xmen/xmen/25364.ts
-#EXTINF:0,TR I KANAL 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/5126.ts
-#EXTINF:0,TR I KANAL 7 UHD
-http://kalitetv.world:8080/live/xmen/xmen/23207.ts
-#EXTINF:0,TR I FLASH TV
-http://kalitetv.world:8080/live/xmen/xmen/5125.ts
-#EXTINF:0,TR | Olay TV Ultra HD
-http://kalitetv.world:8080/live/xmen/xmen/8209.ts
-#EXTINF:0,TR I ULKE TV
-http://kalitetv.world:8080/live/xmen/xmen/13335.ts
-#EXTINF:0,TR: ULKETV SD
-http://kalitetv.world:8080/live/xmen/xmen/25353.ts
-#EXTINF:0,TR I A HABER HD
-http://kalitetv.world:8080/live/xmen/xmen/5124.ts
-#EXTINF:0,TR: AHABER SD
-http://kalitetv.world:8080/live/xmen/xmen/25366.ts
-#EXTINF:0,TR I NTV HABER
-http://kalitetv.world:8080/live/xmen/xmen/5123.ts
-#EXTINF:0,TR I TGRT HABER
-http://kalitetv.world:8080/live/xmen/xmen/5122.ts
-#EXTINF:0,TR I CNNTURK UHD
-http://kalitetv.world:8080/live/xmen/xmen/23209.ts
-#EXTINF:0,TR I CNNTURK HD
-http://kalitetv.world:8080/live/xmen/xmen/5120.ts
-#EXTINF:0,TR: CNNTURK SD
-http://kalitetv.world:8080/live/xmen/xmen/25359.ts
-#EXTINF:0,TR I TRT HABER HD
-http://kalitetv.world:8080/live/xmen/xmen/5121.ts
-#EXTINF:0,TR I HABERTURK
-http://kalitetv.world:8080/live/xmen/xmen/5119.ts
-#EXTINF:0,TR: HABERTURK SD
-http://kalitetv.world:8080/live/xmen/xmen/25358.ts
-#EXTINF:0,TR I SKYTURK 360
-http://kalitetv.world:8080/live/xmen/xmen/5118.ts
-#EXTINF:0,TR: 360TV SD
-http://kalitetv.world:8080/live/xmen/xmen/25368.ts
-#EXTINF:0,TR I BEYAZ TV UHD
-http://kalitetv.world:8080/live/xmen/xmen/23206.ts
-#EXTINF:0,TR I BEYAZ TV HD
-http://kalitetv.world:8080/live/xmen/xmen/5117.ts
-#EXTINF:0,TR: BEYAZ TV SD
-http://kalitetv.world:8080/live/xmen/xmen/25357.ts
-#EXTINF:0,TR I HALK TV
-http://kalitetv.world:8080/live/xmen/xmen/5116.ts
-#EXTINF:0,TR I KANAL 24
-http://kalitetv.world:8080/live/xmen/xmen/5115.ts
-#EXTINF:0,TR I TELE1
-http://kalitetv.world:8080/live/xmen/xmen/5114.ts
-#EXTINF:0,TR I TEVE2 HD
-http://kalitetv.world:8080/live/xmen/xmen/5113.ts
-#EXTINF:0,41 TR I TLC HD
-http://kalitetv.world:8080/live/xmen/xmen/5112.ts
-#EXTINF:0,TR I TRT AVAZ
-http://kalitetv.world:8080/live/xmen/xmen/5111.ts
-#EXTINF:0,TR I TRT D
-http://kalitetv.world:8080/live/xmen/xmen/5110.ts
-#EXTINF:0,TR I  TV4 HD
-http://kalitetv.world:8080/live/xmen/xmen/16862.ts
-#EXTINF:0,TR: TV4 SD
-http://kalitetv.world:8080/live/xmen/xmen/25355.ts
-#EXTINF:0,TR I TV NET
-http://kalitetv.world:8080/live/xmen/xmen/5109.ts
-#EXTINF:0,TR: TVNET SD
-http://kalitetv.world:8080/live/xmen/xmen/25354.ts
-#EXTINF:0,TR I A2 UHD
-http://kalitetv.world:8080/live/xmen/xmen/23205.ts
-#EXTINF:0,TR I A2
-http://kalitetv.world:8080/live/xmen/xmen/5107.ts
-#EXTINF:0,TR: A2 SD
-http://kalitetv.world:8080/live/xmen/xmen/25367.ts
-#EXTINF:0,TR I BLOOMBERGHT
-http://kalitetv.world:8080/live/xmen/xmen/5105.ts
-#EXTINF:0,TR I FASHIONONE TV
-http://kalitetv.world:8080/live/xmen/xmen/5101.ts
-#EXTINF:0,TR I AKILLI TV
-http://kalitetv.world:8080/live/xmen/xmen/5100.ts
-#EXTINF:0,TR I beIN IZ
-http://kalitetv.world:8080/live/xmen/xmen/5326.ts
-#EXTINF:0,TR I DISCOVERY CHANEL HD
-http://kalitetv.world:8080/live/xmen/xmen/5099.ts
-#EXTINF:0,TR I DISCOVERY SCIENCE HD
-http://kalitetv.world:8080/live/xmen/xmen/5098.ts
-#EXTINF:0,TR I DISCOVERY SHOWCASE HD
-http://kalitetv.world:8080/live/xmen/xmen/5097.ts
-#EXTINF:0,TR I DISCOVERY TURBO EXTRA HD
-http://kalitetv.world:8080/live/xmen/xmen/5096.ts
-#EXTINF:0,TR I NAT GEO PEOPLE HD
-http://kalitetv.world:8080/live/xmen/xmen/5095.ts
-#EXTINF:0,TR I NATIONAL GEO WILD HD
-http://kalitetv.world:8080/live/xmen/xmen/5094.ts
-#EXTINF:0,TR I NATIONAL GEOGRAPHIC HD
-http://kalitetv.world:8080/live/xmen/xmen/5093.ts
-#EXTINF:0,TR I HISTORY CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/5092.ts
-#EXTINF:0,TR I VIASAT HISTORY & NATURE HD
-http://kalitetv.world:8080/live/xmen/xmen/5089.ts
-#EXTINF:0,TR I DAVINCI LEARNING
-http://kalitetv.world:8080/live/xmen/xmen/5088.ts
-#EXTINF:0,TR I BBC EARTH HD
-http://kalitetv.world:8080/live/xmen/xmen/5087.ts
-#EXTINF:0,TR I ANIMAL PLANET TR
-http://kalitetv.world:8080/live/xmen/xmen/5085.ts
-#EXTINF:0,TR I IDX-HD
-http://kalitetv.world:8080/live/xmen/xmen/5083.ts
-#EXTINF:0,TR I DTX HD
-http://kalitetv.world:8080/live/xmen/xmen/5082.ts
-#EXTINF:0,TR I TRT BELGESEL
-http://kalitetv.world:8080/live/xmen/xmen/5081.ts
-#EXTINF:0,TR I TGRT BELGESEL
-http://kalitetv.world:8080/live/xmen/xmen/5080.ts
-#EXTINF:0,TR I TARIM TV
-http://kalitetv.world:8080/live/xmen/xmen/5079.ts
-#EXTINF:0,TR I YABAN TV
-http://kalitetv.world:8080/live/xmen/xmen/5078.ts
-#EXTINF:0,TR | MOVIESMART COCUK HD
-http://kalitetv.world:8080/live/xmen/xmen/23220.ts
-#EXTINF:0,TR I MINIKA COCUK
-http://kalitetv.world:8080/live/xmen/xmen/5076.ts
-#EXTINF:0,TR I DISNEY CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/5074.ts
-#EXTINF:0,TR I MINICA GO HD
-http://kalitetv.world:8080/live/xmen/xmen/5075.ts
-#EXTINF:0,TR I DISNEY JR
-http://kalitetv.world:8080/live/xmen/xmen/5073.ts
-#EXTINF:0,TR I DISNEY XD
-http://kalitetv.world:8080/live/xmen/xmen/5072.ts
-#EXTINF:0,TR I NICKELODEON HD
-http://kalitetv.world:8080/live/xmen/xmen/5071.ts
-#EXTINF:0,TR I NICKELODEON JR
-http://kalitetv.world:8080/live/xmen/xmen/5070.ts
-#EXTINF:0,TR I BABY TV
-http://kalitetv.world:8080/live/xmen/xmen/5069.ts
-#EXTINF:0,TR I BABY FIRST
-http://kalitetv.world:8080/live/xmen/xmen/5068.ts
-#EXTINF:0,TR I TRT COCUK
-http://kalitetv.world:8080/live/xmen/xmen/5067.ts
-#EXTINF:0,TR I KIDZ ANIMEZ
-http://kalitetv.world:8080/live/xmen/xmen/5066.ts
-#EXTINF:0,TR I CARTON NETWORK
-http://kalitetv.world:8080/live/xmen/xmen/5063.ts
-#EXTINF:0,TR I BOOMERANG HD
-http://kalitetv.world:8080/live/xmen/xmen/5061.ts
-#EXTINF:0,TR I CHASSE & PECHE
-http://kalitetv.world:8080/live/xmen/xmen/5060.ts
-#EXTINF:0,TR I FOOD NETWORK HD
-http://kalitetv.world:8080/live/xmen/xmen/5059.ts
-#EXTINF:0,TR I beIN GURME HD
-http://kalitetv.world:8080/live/xmen/xmen/5057.ts
-#EXTINF:0,TR I TJK TV
-http://kalitetv.world:8080/live/xmen/xmen/5327.ts
-#EXTINF:0,TR I  TAYTV UHD
-http://kalitetv.world:8080/live/xmen/xmen/16854.ts
-#EXTINF:0,TR: TAY TV SD
-http://kalitetv.world:8080/live/xmen/xmen/25356.ts
-#EXTINF:0,TR I  ASPOR UHD
-http://kalitetv.world:8080/live/xmen/xmen/16855.ts
-#EXTINF:0,TR I A SPOR HD
-http://kalitetv.world:8080/live/xmen/xmen/5054.ts
-#EXTINF:0,TR I  NTVSPOR UHD
-http://kalitetv.world:8080/live/xmen/xmen/16853.ts
-#EXTINF:0,TR I NTVSPOR HD
-http://kalitetv.world:8080/live/xmen/xmen/5053.ts
-#EXTINF:0,TR I FB TV HD
-http://kalitetv.world:8080/live/xmen/xmen/5052.ts
-#EXTINF:0,TR I GSTV HD
-http://kalitetv.world:8080/live/xmen/xmen/5051.ts
-#EXTINF:0,TR I BJKTV HD
-http://kalitetv.world:8080/live/xmen/xmen/5050.ts
-#EXTINF:0,TR I BURSASPOR TV
-http://kalitetv.world:8080/live/xmen/xmen/5049.ts
-#EXTINF:0,TR I TRTSPOR 1080P HD
-http://kalitetv.world:8080/live/xmen/xmen/5048.ts
-#EXTINF:0,TR: TRTSPOR SD
-http://kalitetv.world:8080/live/xmen/xmen/25369.ts
-#EXTINF:0,TR I SPORTSTV HD
-http://kalitetv.world:8080/live/xmen/xmen/5047.ts
-#EXTINF:0,TR I  POWERTURKTV UHD
-http://kalitetv.world:8080/live/xmen/xmen/16851.ts
-#EXTINF:0,TR I POWER TURK
-http://kalitetv.world:8080/live/xmen/xmen/5046.ts
-#EXTINF:0,TR I NR1 HD
-http://kalitetv.world:8080/live/xmen/xmen/5043.ts
-#EXTINF:0,TR I DREAM TV
-http://kalitetv.world:8080/live/xmen/xmen/5042.ts
-#EXTINF:0,TR I KRAL TV
-http://kalitetv.world:8080/live/xmen/xmen/5045.ts
-#EXTINF:0,TR | KRAL TV
-http://kalitetv.world:8080/live/xmen/xmen/23213.ts
-#EXTINF:0,-----ALMANYA-----
-http://kalitetv.world:8080/live/xmen/xmen/4375.ts
-#EXTINF:0,-1 DE I SKY BUNDESLIGA 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/20034.ts
-#EXTINF:0,-2 DE I SKY BUNDESLIGA 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/20033.ts
-#EXTINF:0,-3 DE I SKY BUNDESLIGA 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/20032.ts
-#EXTINF:0,-4 DE I SKY BUNDESLIGA 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/20031.ts
-#EXTINF:0,5 DE I SKY BUNDESLIGA 4
-http://kalitetv.world:8080/live/xmen/xmen/20030.ts
-#EXTINF:0,6 DE I SKY BUNDESLIGA 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/20029.ts
-#EXTINF:0,7 DE I SKY BUNDESLIGA 6 HD
-http://kalitetv.world:8080/live/xmen/xmen/20028.ts
-#EXTINF:0,8 DE I SKY BUNDESLIGA 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/20027.ts
-#EXTINF:0,9 DE I SKY BUNDESLIGA 8 HD
-http://kalitetv.world:8080/live/xmen/xmen/20026.ts
-#EXTINF:0,10 DE I SKY BUNDESLIGA 9 HD
-http://kalitetv.world:8080/live/xmen/xmen/20025.ts
-#EXTINF:0,11 DE I Sky Bundesliga 1
-http://kalitetv.world:8080/live/xmen/xmen/20024.ts
-#EXTINF:0,12 DE I Bundesliga 1
-http://kalitetv.world:8080/live/xmen/xmen/20023.ts
-#EXTINF:0,13 DE I SKY BUNDESLIGA 10 HD
-http://kalitetv.world:8080/live/xmen/xmen/20022.ts
-#EXTINF:0,14 DE I Sky Bundesliga 2
-http://kalitetv.world:8080/live/xmen/xmen/20021.ts
-#EXTINF:0,15 DE I Sky Bundesliga 3
-http://kalitetv.world:8080/live/xmen/xmen/20020.ts
-#EXTINF:0,16 DE I Sky Bundesliga 4
-http://kalitetv.world:8080/live/xmen/xmen/20019.ts
-#EXTINF:0,17 DE I Sky Bundesliga 5
-http://kalitetv.world:8080/live/xmen/xmen/20018.ts
-#EXTINF:0,18 DE I Sky Bundesliga 6
-http://kalitetv.world:8080/live/xmen/xmen/20017.ts
-#EXTINF:0,19 DE Sky Bundesliga 7
-http://kalitetv.world:8080/live/xmen/xmen/20016.ts
-#EXTINF:0,20 DE Sky Bundesliga 8
-http://kalitetv.world:8080/live/xmen/xmen/20015.ts
-#EXTINF:0,21 DE Sky Bundesliga 9
-http://kalitetv.world:8080/live/xmen/xmen/20014.ts
-#EXTINF:0,22 DE Sky Bundesliga 10
-http://kalitetv.world:8080/live/xmen/xmen/20013.ts
-#EXTINF:0,-23 DE I SKY SPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/20012.ts
-#EXTINF:0,24 DE I Sky Sport 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/20011.ts
-#EXTINF:0,-25 DE I SKY SPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/20010.ts
-#EXTINF:0,26 DE I Sky Sport 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/20009.ts
-#EXTINF:0,27 DE I SKY SPORT 3
-http://kalitetv.world:8080/live/xmen/xmen/20008.ts
-#EXTINF:0,28 DE I Sky Sport 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/20007.ts
-#EXTINF:0,29 DE I SKY SPORT 4
-http://kalitetv.world:8080/live/xmen/xmen/20006.ts
-#EXTINF:0,30 DE I Sky Sport 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/20005.ts
-#EXTINF:0,31 DE I SKY SPORT 5
-http://kalitetv.world:8080/live/xmen/xmen/20004.ts
-#EXTINF:0,32 DE I Sky Sport 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/20003.ts
-#EXTINF:0,33 DE I SKY SPORT 6
-http://kalitetv.world:8080/live/xmen/xmen/20002.ts
-#EXTINF:0,34 DE I Sky Sport 6 HD
-http://kalitetv.world:8080/live/xmen/xmen/20001.ts
-#EXTINF:0,35 DE I SKY SPORT 7
-http://kalitetv.world:8080/live/xmen/xmen/20000.ts
-#EXTINF:0,36 DE I Sky Sport 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/19999.ts
-#EXTINF:0,37 DE I SKY SPORT 8
-http://kalitetv.world:8080/live/xmen/xmen/19998.ts
-#EXTINF:0,38 DE I Sky Sport 8 HD
-http://kalitetv.world:8080/live/xmen/xmen/19997.ts
-#EXTINF:0,40 DE I SKY SPORT 9
-http://kalitetv.world:8080/live/xmen/xmen/19996.ts
-#EXTINF:0,41 DE I Sky Sport 9 HD
-http://kalitetv.world:8080/live/xmen/xmen/19995.ts
-#EXTINF:0,-42 DE I SKY SPORT 9 HDD
-http://kalitetv.world:8080/live/xmen/xmen/19994.ts
-#EXTINF:0,43 DE I SKY SPORT 10
-http://kalitetv.world:8080/live/xmen/xmen/19993.ts
-#EXTINF:0,44 DE I SKY SPORT 10 HD
-http://kalitetv.world:8080/live/xmen/xmen/19992.ts
-#EXTINF:0,45 DE I SKY SPORT 11 HD
-http://kalitetv.world:8080/live/xmen/xmen/19991.ts
-#EXTINF:0,46 DE I Sky Sport 1 Ersatz
-http://kalitetv.world:8080/live/xmen/xmen/19990.ts
-#EXTINF:0,47 DE I EUROSPORT 1
-http://kalitetv.world:8080/live/xmen/xmen/19989.ts
-#EXTINF:0,48 DE I  EUROSPORT 2
-http://kalitetv.world:8080/live/xmen/xmen/19988.ts
-#EXTINF:0,49 DE I Eurosport 1
-http://kalitetv.world:8080/live/xmen/xmen/19987.ts
-#EXTINF:0,50 DE I Eurosport 2
-http://kalitetv.world:8080/live/xmen/xmen/19986.ts
-#EXTINF:0,51 DE I Eurosport 2 HD Xtra
-http://kalitetv.world:8080/live/xmen/xmen/19985.ts
-#EXTINF:0,52 DE | Eurosport 2 HD XTRA *YEDEK*
-http://kalitetv.world:8080/live/xmen/xmen/19984.ts
-#EXTINF:0,53 DE | Eurosport 2  XTRA *yedek2*
-http://kalitetv.world:8080/live/xmen/xmen/19983.ts
-#EXTINF:0,54 DE I SPORT 1    HD
-http://kalitetv.world:8080/live/xmen/xmen/19982.ts
-#EXTINF:0,55 DE I SKY SELECT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/19981.ts
-#EXTINF:0,56 DE I SKY SELECT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/19980.ts
-#EXTINF:0,57 DE I SKY SELECT 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/19979.ts
-#EXTINF:0,58 DE I SKY SELECT 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/19978.ts
-#EXTINF:0,59 DE I SKY SELECT 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/19977.ts
-#EXTINF:0,60 DE I SKY SELECT 6 HD
-http://kalitetv.world:8080/live/xmen/xmen/19976.ts
-#EXTINF:0,61 DE I SKY SELECT 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/19975.ts
-#EXTINF:0,62 DE I SKY SELECT 8 HD
-http://kalitetv.world:8080/live/xmen/xmen/19974.ts
-#EXTINF:0,63 DE I SKY SELECT 9 HD
-http://kalitetv.world:8080/live/xmen/xmen/19973.ts
-#EXTINF:0,64 DE I SKY SELECT 10 HD
-http://kalitetv.world:8080/live/xmen/xmen/19972.ts
-#EXTINF:0,-65 DE I SKY CINEMA FULL HD
-http://kalitetv.world:8080/live/xmen/xmen/19971.ts
-#EXTINF:0,-66 DE I SKY CINEMA HD
-http://kalitetv.world:8080/live/xmen/xmen/19970.ts
-#EXTINF:0,67 DE I SKY CINEMA
-http://kalitetv.world:8080/live/xmen/xmen/19969.ts
-#EXTINF:0,68 DE I SKY CINEMA 1
-http://kalitetv.world:8080/live/xmen/xmen/19968.ts
-#EXTINF:0,-69 DE I SKY CINEMA 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/19967.ts
-#EXTINF:0,70 DE I SKY CINEMA ACTION SD
-http://kalitetv.world:8080/live/xmen/xmen/19966.ts
-#EXTINF:0,71 DE I SKY CINEMA FAMILY HD
-http://kalitetv.world:8080/live/xmen/xmen/19965.ts
-#EXTINF:0,72 DE I SKY CINEMA HITS HD
-http://kalitetv.world:8080/live/xmen/xmen/19964.ts
-#EXTINF:0,73 DE I SKY CINEMA HITS SD
-http://kalitetv.world:8080/live/xmen/xmen/19963.ts
-#EXTINF:0,74 DE I SKY CLASSICA
-http://kalitetv.world:8080/live/xmen/xmen/19962.ts
-#EXTINF:0,75 DE I SKY COMEDY HD
-http://kalitetv.world:8080/live/xmen/xmen/19961.ts
-#EXTINF:0,-76 DE I SKY GOLDSTAR HD
-http://kalitetv.world:8080/live/xmen/xmen/19960.ts
-#EXTINF:0,-77 DE I SKY HISTORY HD
-http://kalitetv.world:8080/live/xmen/xmen/19959.ts
-#EXTINF:0,-78 DE I SKY MGM HD
-http://kalitetv.world:8080/live/xmen/xmen/19958.ts
-#EXTINF:0,79 DE I SKY CINEMA 24
-http://kalitetv.world:8080/live/xmen/xmen/19957.ts
-#EXTINF:0,80 DE I SKY CINEMA 24 HD
-http://kalitetv.world:8080/live/xmen/xmen/19956.ts
-#EXTINF:0,81 DE I SKY CINEMA PLUS 24
-http://kalitetv.world:8080/live/xmen/xmen/19955.ts
-#EXTINF:0,82 DE I SKY SONY CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/19953.ts
-#EXTINF:0,-82 DE I SKY ANIXE HD
-http://kalitetv.world:8080/live/xmen/xmen/19954.ts
-#EXTINF:0,83 DE I SKY SPIEGELGESCHICHTE HD
-http://kalitetv.world:8080/live/xmen/xmen/19952.ts
-#EXTINF:0,84 DE I SKY DISCOVERY CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/19951.ts
-#EXTINF:0,85 DE I SKY DISNEY XD
-http://kalitetv.world:8080/live/xmen/xmen/19950.ts
-#EXTINF:0,86 DE I SKY DISNEY JUNIOR
-http://kalitetv.world:8080/live/xmen/xmen/19949.ts
-#EXTINF:0,87 DE I SKY JUNIOR
-http://kalitetv.world:8080/live/xmen/xmen/19948.ts
-#EXTINF:0,88 DE I SKY DMAX HD
-http://kalitetv.world:8080/live/xmen/xmen/19947.ts
-#EXTINF:0,89 DE I SKY EMOTION HD
-http://kalitetv.world:8080/live/xmen/xmen/19946.ts
-#EXTINF:0,90 DE I SKY FOX SERIE HD
-http://kalitetv.world:8080/live/xmen/xmen/19945.ts
-#EXTINF:0,91 DE I SKY AXN HD
-http://kalitetv.world:8080/live/xmen/xmen/19944.ts
-#EXTINF:0,92 DE I SKY FOX
-http://kalitetv.world:8080/live/xmen/xmen/19943.ts
-#EXTINF:0,93 DE I SKY HEIMATKANAL HD
-http://kalitetv.world:8080/live/xmen/xmen/19942.ts
-#EXTINF:0,94 DE I SKY KRIMI HD
-http://kalitetv.world:8080/live/xmen/xmen/19941.ts
-#EXTINF:0,95 DE I SKY NAT GEO HD
-http://kalitetv.world:8080/live/xmen/xmen/19940.ts
-#EXTINF:0,96 DE I SKY NAT GEO WILD HD
-http://kalitetv.world:8080/live/xmen/xmen/19939.ts
-#EXTINF:0,97 DE I SKY NATIONAL GEOGRAPHIC HD
-http://kalitetv.world:8080/live/xmen/xmen/19938.ts
-#EXTINF:0,98 DE I SKY NOSTALGIE HD
-http://kalitetv.world:8080/live/xmen/xmen/19937.ts
-#EXTINF:0,99 DE I SKY PLANET HD
-http://kalitetv.world:8080/live/xmen/xmen/19936.ts
-#EXTINF:0,100 DE I SKY SPORT AUSTRIA SD
-http://kalitetv.world:8080/live/xmen/xmen/19935.ts
-#EXTINF:0,101 DE I SKY SYFY HD
-http://kalitetv.world:8080/live/xmen/xmen/19934.ts
-#EXTINF:0,102 DE I SKY TNT COMEDY HD
-http://kalitetv.world:8080/live/xmen/xmen/19933.ts
-#EXTINF:0,103 DE I SKY TNT FILM HD
-http://kalitetv.world:8080/live/xmen/xmen/19932.ts
-#EXTINF:0,104 DE I SKY TNT SERIES HD
-http://kalitetv.world:8080/live/xmen/xmen/19931.ts
-#EXTINF:0,105 DE I SKY 1
-http://kalitetv.world:8080/live/xmen/xmen/19930.ts
-#EXTINF:0,106 DE I Sky 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/19929.ts
-#EXTINF:0,107 DE I SKY 13 STREET HD
-http://kalitetv.world:8080/live/xmen/xmen/19928.ts
-#EXTINF:0,108 DE I SKY 13TH STREET HD
-http://kalitetv.world:8080/live/xmen/xmen/19927.ts
-#EXTINF:0,109 DE I SKY ATLANTIC HD
-http://kalitetv.world:8080/live/xmen/xmen/19926.ts
-#EXTINF:0,110 DE I SKY AXN HD
-http://kalitetv.world:8080/live/xmen/xmen/19925.ts
-#EXTINF:0,111 DE I SKY BOOMERANG
-http://kalitetv.world:8080/live/xmen/xmen/19924.ts
-#EXTINF:0,112 DE I SRF 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/19923.ts
-#EXTINF:0,113 DE I SUPER RTL HD
-http://kalitetv.world:8080/live/xmen/xmen/19922.ts
-#EXTINF:0,114 DE I TLC HD
-http://kalitetv.world:8080/live/xmen/xmen/19921.ts
-#EXTINF:0,115 DE I VOX HD
-http://kalitetv.world:8080/live/xmen/xmen/19920.ts
-#EXTINF:0,116 DE I WDR HD
-http://kalitetv.world:8080/live/xmen/xmen/19919.ts
-#EXTINF:0,117 DE I ZDF HD
-http://kalitetv.world:8080/live/xmen/xmen/19918.ts
-#EXTINF:0,118 DE I ZDF INFO HD
-http://kalitetv.world:8080/live/xmen/xmen/19917.ts
-#EXTINF:0,119 DE I KABEL 1 CLASSIC HD
-http://kalitetv.world:8080/live/xmen/xmen/19916.ts
-#EXTINF:0,120 DE I KABEL 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/19915.ts
-#EXTINF:0,121 DE I MDR HD
-http://kalitetv.world:8080/live/xmen/xmen/19914.ts
-#EXTINF:0,122 DE I NDR HD
-http://kalitetv.world:8080/live/xmen/xmen/19913.ts
-#EXTINF:0,123 DE I ORF 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/19912.ts
-#EXTINF:0,124 DE I PROSIEBEN FUN HD
-http://kalitetv.world:8080/live/xmen/xmen/19911.ts
-#EXTINF:0,125 DE I PROSIEBEN HD
-http://kalitetv.world:8080/live/xmen/xmen/19910.ts
-#EXTINF:0,126 DE I PROSIEBEN MAX HD
-http://kalitetv.world:8080/live/xmen/xmen/19909.ts
-#EXTINF:0,127 DE I RTL 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/19908.ts
-#EXTINF:0,128 DE I RTL CRIME HD
-http://kalitetv.world:8080/live/xmen/xmen/19907.ts
-#EXTINF:0,129 DE I RTL HD
-http://kalitetv.world:8080/live/xmen/xmen/19906.ts
-#EXTINF:0,130 DE I RTL LIVING HD
-http://kalitetv.world:8080/live/xmen/xmen/19905.ts
-#EXTINF:0,131 DE I RTL NITRO HD
-http://kalitetv.world:8080/live/xmen/xmen/19904.ts
-#EXTINF:0,132 DE I RTL PASSION HD
-http://kalitetv.world:8080/live/xmen/xmen/19903.ts
-#EXTINF:0,133 DE I SAT 1 EMOTIONS HD
-http://kalitetv.world:8080/live/xmen/xmen/19902.ts
-#EXTINF:0,134 DE I SAT 1 GOLD HD
-http://kalitetv.world:8080/live/xmen/xmen/19901.ts
-#EXTINF:0,135 DE I SAT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/19900.ts
-#EXTINF:0,136 DE I SIXX HD
-http://kalitetv.world:8080/live/xmen/xmen/19899.ts
-#EXTINF:0,-137 DE I DISNEY JUNIOR
-http://kalitetv.world:8080/live/xmen/xmen/19898.ts
-#EXTINF:0,-138 DE I JUNIOR HD
-http://kalitetv.world:8080/live/xmen/xmen/19897.ts
-#EXTINF:0,139 DE I DISNEY XD HD
-http://kalitetv.world:8080/live/xmen/xmen/19896.ts
-#EXTINF:0,140 DE I Nick HD
-http://kalitetv.world:8080/live/xmen/xmen/19895.ts
-#EXTINF:0,141 DE I NICK JR
-http://kalitetv.world:8080/live/xmen/xmen/19894.ts
-#EXTINF:0,142 DE I NICKELODEON HD
-http://kalitetv.world:8080/live/xmen/xmen/19893.ts
-#EXTINF:0,143 DE I DW
-http://kalitetv.world:8080/live/xmen/xmen/19892.ts
-#EXTINF:0,144 DE I ENTERTAINMENT HD
-http://kalitetv.world:8080/live/xmen/xmen/19891.ts
-#EXTINF:0,-145 DE I KIKA HD
-http://kalitetv.world:8080/live/xmen/xmen/19890.ts
-#EXTINF:0,-146 DE I KINOWELT
-http://kalitetv.world:8080/live/xmen/xmen/19889.ts
-#EXTINF:0,-147 DE I N24 HD
-http://kalitetv.world:8080/live/xmen/xmen/19888.ts
-#EXTINF:0,148 DE I PRO 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/19887.ts
-#EXTINF:0,149 DE I PRO 7 MAXX HD
-http://kalitetv.world:8080/live/xmen/xmen/19886.ts
-#EXTINF:0,-150 DE I RTL 2 ERSATZ
-http://kalitetv.world:8080/live/xmen/xmen/19885.ts
-#EXTINF:0,-151 DE I SAT 1 FULL HD
-http://kalitetv.world:8080/live/xmen/xmen/19884.ts
-#EXTINF:0,152 DE I CARTOON NETWORK HD
-http://kalitetv.world:8080/live/xmen/xmen/19883.ts
-#EXTINF:0,153 DE I DAS ERSTE HD
-http://kalitetv.world:8080/live/xmen/xmen/19882.ts
-#EXTINF:0,154 DE I DISNEY CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/19881.ts
-#EXTINF:0,155 DE I DISNEY CINEMAGIC HD
-http://kalitetv.world:8080/live/xmen/xmen/19880.ts
-#EXTINF:0,156 DE I DMAX HD
-http://kalitetv.world:8080/live/xmen/xmen/19879.ts
-#EXTINF:0,157 DE I ARD HD
-http://kalitetv.world:8080/live/xmen/xmen/19878.ts
-#EXTINF:0,158 DE I ARD HD ERSATZ
-http://kalitetv.world:8080/live/xmen/xmen/19877.ts
-#EXTINF:0,159 DE I ARTE
-http://kalitetv.world:8080/live/xmen/xmen/19876.ts
-#EXTINF:0,160 DE I AUTO MOTOR CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/19875.ts
-#EXTINF:0,161 DE I TNT FILM
-http://kalitetv.world:8080/live/xmen/xmen/19874.ts
-#EXTINF:0,162 DE I ZEE ONE BOLLYWOOD TV
-http://kalitetv.world:8080/live/xmen/xmen/19873.ts
-#EXTINF:0,163 DE I NAT GEOGRAPHICH HD
-http://kalitetv.world:8080/live/xmen/xmen/19872.ts
-#EXTINF:0,164 DE I RTL NITRO HD
-http://kalitetv.world:8080/live/xmen/xmen/19871.ts
-#EXTINF:0,-165 DE I TNT FILM HD
-http://kalitetv.world:8080/live/xmen/xmen/19870.ts
-#EXTINF:0,-166 DE I TOGGO PLUS HD
-http://kalitetv.world:8080/live/xmen/xmen/19869.ts
-#EXTINF:0,-167 DE I ZDF NEO HD
-http://kalitetv.world:8080/live/xmen/xmen/19868.ts
-#EXTINF:0,NL I FOX SPORT 1
-http://kalitetv.world:8080/live/xmen/xmen/16626.ts
-#EXTINF:0,NL I FOX SPORTS 1
-http://kalitetv.world:8080/live/xmen/xmen/16619.ts
-#EXTINF:0,NL I FOX SPORTS 2
-http://kalitetv.world:8080/live/xmen/xmen/16620.ts
-#EXTINF:0,NL I FOX SPORTS 3
-http://kalitetv.world:8080/live/xmen/xmen/16621.ts
-#EXTINF:0,NL I FOX SPORTS 4
-http://kalitetv.world:8080/live/xmen/xmen/16622.ts
-#EXTINF:0,NL I FOX SPORTS 5
-http://kalitetv.world:8080/live/xmen/xmen/16623.ts
-#EXTINF:0,NL I FOX SPORTS 6 HD
-http://kalitetv.world:8080/live/xmen/xmen/16594.ts
-#EXTINF:0,NL I ANIMALPLANET
-http://kalitetv.world:8080/live/xmen/xmen/16592.ts
-#EXTINF:0,NL I AT5
-http://kalitetv.world:8080/live/xmen/xmen/16593.ts
-#EXTINF:0,NL I DISCOVERY HD
-http://kalitetv.world:8080/live/xmen/xmen/16631.ts
-#EXTINF:0,NL I DISNEY CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/16603.ts
-#EXTINF:0,NL I FILM 1  COMEDY
-http://kalitetv.world:8080/live/xmen/xmen/16605.ts
-#EXTINF:0,NL I FILM 1 ACTION HD
-http://kalitetv.world:8080/live/xmen/xmen/16604.ts
-#EXTINF:0,NL I FILM 1 PREMIER HD
-http://kalitetv.world:8080/live/xmen/xmen/16606.ts
-#EXTINF:0,NL I FILM 1 SUNDANCE HD
-http://kalitetv.world:8080/live/xmen/xmen/16607.ts
-#EXTINF:0,NL I HBO 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16627.ts
-#EXTINF:0,NL I HBO 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/16628.ts
-#EXTINF:0,NL I HBO HD
-http://kalitetv.world:8080/live/xmen/xmen/16629.ts
-#EXTINF:0,NL I HISTORY
-http://kalitetv.world:8080/live/xmen/xmen/16630.ts
-#EXTINF:0,NL I NAT GEO HD
-http://kalitetv.world:8080/live/xmen/xmen/16608.ts
-#EXTINF:0,NL I NATIONAL GEO WILD HD
-http://kalitetv.world:8080/live/xmen/xmen/16632.ts
-#EXTINF:0,NL I NET5
-http://kalitetv.world:8080/live/xmen/xmen/16633.ts
-#EXTINF:0,NL I NICK JR
-http://kalitetv.world:8080/live/xmen/xmen/16634.ts
-#EXTINF:0,NL I NICKELODEON HD
-http://kalitetv.world:8080/live/xmen/xmen/16635.ts
-#EXTINF:0,NL I NICKTOONS
-http://kalitetv.world:8080/live/xmen/xmen/16636.ts
-#EXTINF:0,NL I NPO 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16609.ts
-#EXTINF:0,NL I NPO 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16610.ts
-#EXTINF:0,NL I NPO 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/16611.ts
-#EXTINF:0,NL I RTL 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/16612.ts
-#EXTINF:0,NL I RTL 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/16613.ts
-#EXTINF:0,NL I RTL 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/16614.ts
-#EXTINF:0,NL I RTL 8 HD
-http://kalitetv.world:8080/live/xmen/xmen/16615.ts
-#EXTINF:0,NL I RTL TELEKIDS
-http://kalitetv.world:8080/live/xmen/xmen/16616.ts
-#EXTINF:0,NL I RTLLOUNGE
-http://kalitetv.world:8080/live/xmen/xmen/16595.ts
-#EXTINF:0,NL I RTLZ
-http://kalitetv.world:8080/live/xmen/xmen/16596.ts
-#EXTINF:0,NL I RTV DRENTHE HD
-http://kalitetv.world:8080/live/xmen/xmen/16617.ts
-#EXTINF:0,NL I RTVNH
-http://kalitetv.world:8080/live/xmen/xmen/16597.ts
-#EXTINF:0,NL I SBS6
-http://kalitetv.world:8080/live/xmen/xmen/16637.ts
-#EXTINF:0,NL I SBS9
-http://kalitetv.world:8080/live/xmen/xmen/16638.ts
-#EXTINF:0,NL I TLC
-http://kalitetv.world:8080/live/xmen/xmen/16639.ts
-#EXTINF:0,NL I VERONICA HD
-http://kalitetv.world:8080/live/xmen/xmen/16618.ts
-#EXTINF:0,NL I ZIGGO SPORT EXTRA 1
-http://kalitetv.world:8080/live/xmen/xmen/16624.ts
-#EXTINF:0,NL I ZIGGO SPORT EXTRA 2
-http://kalitetv.world:8080/live/xmen/xmen/16625.ts
-#EXTINF:0,NL I ZIGGO SPORT SELECT
-http://kalitetv.world:8080/live/xmen/xmen/16598.ts
-#EXTINF:0,NL I ZIGGOSPORT
-http://kalitetv.world:8080/live/xmen/xmen/16599.ts
-#EXTINF:0,NL I ZIGGOSPORT.VOETBAL
-http://kalitetv.world:8080/live/xmen/xmen/16600.ts
-#EXTINF:0,NL I ZIGGOSPORTGOLF
-http://kalitetv.world:8080/live/xmen/xmen/16601.ts
-#EXTINF:0,NL I ZIGGOSPORTRACING
-http://kalitetv.world:8080/live/xmen/xmen/16602.ts
-#EXTINF:0,FR I  BEINSPORT 1 4K
-http://kalitetv.world:8080/live/xmen/xmen/16494.ts
-#EXTINF:0,FR I  BEINSPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16493.ts
-#EXTINF:0,FR I  BEINSPORTS 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16488.ts
-#EXTINF:0,FR I  BEIN SPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16505.ts
-#EXTINF:0,FR I  BEIN SPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16504.ts
-#EXTINF:0,FR I  BEIN SPORT 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/16503.ts
-#EXTINF:0,FR I  BEINSPORT 4 MAX
-http://kalitetv.world:8080/live/xmen/xmen/16492.ts
-#EXTINF:0,FR I  BEINSPORT 5 MAX
-http://kalitetv.world:8080/live/xmen/xmen/16491.ts
-#EXTINF:0,FR I  BEINSPORT 6 MAX
-http://kalitetv.world:8080/live/xmen/xmen/16490.ts
-#EXTINF:0,FR I  BEINSPORT 7 MAX
-http://kalitetv.world:8080/live/xmen/xmen/16489.ts
-#EXTINF:0,FR I  A LA CARTE 1 HD VIP
-http://kalitetv.world:8080/live/xmen/xmen/16523.ts
-#EXTINF:0,FR I  A LA CARTE 2 HD VIP
-http://kalitetv.world:8080/live/xmen/xmen/16524.ts
-#EXTINF:0,FR I  A LA CARTE 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/16525.ts
-#EXTINF:0,FR I  A LA CARTE 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/16526.ts
-#EXTINF:0,FR I  A LA CARTE 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/16451.ts
-#EXTINF:0,FR I  A LA CARTE 6 HD
-http://kalitetv.world:8080/live/xmen/xmen/16502.ts
-#EXTINF:0,FR I  A LA CARTE 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/16501.ts
-#EXTINF:0,FR I  A LA CARTE 8 HD
-http://kalitetv.world:8080/live/xmen/xmen/16499.ts
-#EXTINF:0,FR I  A LA CARTE 9 HD
-http://kalitetv.world:8080/live/xmen/xmen/16498.ts
-#EXTINF:0,FR I  AB MOTEUR HD
-http://kalitetv.world:8080/live/xmen/xmen/16497.ts
-#EXTINF:0,FR I  ACTION
-http://kalitetv.world:8080/live/xmen/xmen/16496.ts
-#EXTINF:0,FR I  ANIMAUX
-http://kalitetv.world:8080/live/xmen/xmen/16528.ts
-#EXTINF:0,FR I  ARTE
-http://kalitetv.world:8080/live/xmen/xmen/16495.ts
-#EXTINF:0,FR I  C STAR
-http://kalitetv.world:8080/live/xmen/xmen/16487.ts
-#EXTINF:0,FR I  CANAL
-http://kalitetv.world:8080/live/xmen/xmen/16536.ts
-#EXTINF:0,FR I  CANAL  ACTION HD
-http://kalitetv.world:8080/live/xmen/xmen/16506.ts
-#EXTINF:0,FR I  CANAL  DECALE HD
-http://kalitetv.world:8080/live/xmen/xmen/16507.ts
-#EXTINF:0,FR I  CANAL  FAMILY HD
-http://kalitetv.world:8080/live/xmen/xmen/16508.ts
-#EXTINF:0,FR I  CANAL  SERIES HD
-http://kalitetv.world:8080/live/xmen/xmen/16509.ts
-#EXTINF:0,FR I  CANAL CINEMA
-http://kalitetv.world:8080/live/xmen/xmen/16535.ts
-#EXTINF:0,FR I  CANAL J HD
-http://kalitetv.world:8080/live/xmen/xmen/16510.ts
-#EXTINF:0,FR I  CANAL PLUS CINEMA HD
-http://kalitetv.world:8080/live/xmen/xmen/16486.ts
-#EXTINF:0,FR I  CANAL PLUS FAMILY HD
-http://kalitetv.world:8080/live/xmen/xmen/16485.ts
-#EXTINF:0,FR I  CANAL PLUS SERIES HD
-http://kalitetv.world:8080/live/xmen/xmen/16484.ts
-#EXTINF:0,FR I  CANAL SPORT HD
-http://kalitetv.world:8080/live/xmen/xmen/16511.ts
-#EXTINF:0,FR I  CHESSE ET PACHE
-http://kalitetv.world:8080/live/xmen/xmen/16512.ts
-#EXTINF:0,FR I  CINE  CLASSIC HD
-http://kalitetv.world:8080/live/xmen/xmen/16513.ts
-#EXTINF:0,FR I  CINE  EMOTION HD
-http://kalitetv.world:8080/live/xmen/xmen/16514.ts
-#EXTINF:0,FR I  CINE  FAMIZ HD
-http://kalitetv.world:8080/live/xmen/xmen/16515.ts
-#EXTINF:0,FR I  CINE  PREMIER HD
-http://kalitetv.world:8080/live/xmen/xmen/16516.ts
-#EXTINF:0,FR I  CINE FRISSON HD
-http://kalitetv.world:8080/live/xmen/xmen/16483.ts
-#EXTINF:0,FR I  CINE FX
-http://kalitetv.world:8080/live/xmen/xmen/16517.ts
-#EXTINF:0,FR I  CINE POLAR
-http://kalitetv.world:8080/live/xmen/xmen/16482.ts
-#EXTINF:0,FR I  CINE POLAR HD
-http://kalitetv.world:8080/live/xmen/xmen/16518.ts
-#EXTINF:0,FR I  COMEDIE
-http://kalitetv.world:8080/live/xmen/xmen/16519.ts
-#EXTINF:0,FR I  COMEDIE PLUS HD
-http://kalitetv.world:8080/live/xmen/xmen/16481.ts
-#EXTINF:0,FR I  CSTAR HD
-http://kalitetv.world:8080/live/xmen/xmen/16480.ts
-#EXTINF:0,FR I  DISCOVERY
-http://kalitetv.world:8080/live/xmen/xmen/16479.ts
-#EXTINF:0,FR I  Discovery Science
-http://kalitetv.world:8080/live/xmen/xmen/16478.ts
-#EXTINF:0,FR I  DISNEY CINEMA
-http://kalitetv.world:8080/live/xmen/xmen/16477.ts
-#EXTINF:0,FR I  EQUIDIA LIVE
-http://kalitetv.world:8080/live/xmen/xmen/16476.ts
-#EXTINF:0,FR I  EUROSPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16521.ts
-#EXTINF:0,FR I  EUROSPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16520.ts
-#EXTINF:0,FR I  FOOT 24
-http://kalitetv.world:8080/live/xmen/xmen/16522.ts
-#EXTINF:0,FR I  FRANCE 2
-http://kalitetv.world:8080/live/xmen/xmen/16475.ts
-#EXTINF:0,FR I  FRANCE 3
-http://kalitetv.world:8080/live/xmen/xmen/16474.ts
-#EXTINF:0,FR I  FRANCE 4
-http://kalitetv.world:8080/live/xmen/xmen/16473.ts
-#EXTINF:0,FR I  France O HD
-http://kalitetv.world:8080/live/xmen/xmen/16472.ts
-#EXTINF:0,FR I  FRANCE_3HD
-http://kalitetv.world:8080/live/xmen/xmen/16532.ts
-#EXTINF:0,FR I  FRANCE_4HD
-http://kalitetv.world:8080/live/xmen/xmen/16531.ts
-#EXTINF:0,FR I  FRANCE-24
-http://kalitetv.world:8080/live/xmen/xmen/16529.ts
-#EXTINF:0,FR I  FRANCE-O
-http://kalitetv.world:8080/live/xmen/xmen/16534.ts
-#EXTINF:0,FR I  FRANCE2-HD
-http://kalitetv.world:8080/live/xmen/xmen/16533.ts
-#EXTINF:0,FR I  FRANCE5-HD
-http://kalitetv.world:8080/live/xmen/xmen/16530.ts
-#EXTINF:0,FR I  INFOSPORT HD
-http://kalitetv.world:8080/live/xmen/xmen/16471.ts
-#EXTINF:0,FR I  L EQUIPE 21 HD
-http://kalitetv.world:8080/live/xmen/xmen/16470.ts
-#EXTINF:0,FR I  M6
-http://kalitetv.world:8080/live/xmen/xmen/16537.ts
-#EXTINF:0,FR I  M6 HD
-http://kalitetv.world:8080/live/xmen/xmen/16469.ts
-#EXTINF:0,FR I  NAT GEO
-http://kalitetv.world:8080/live/xmen/xmen/16468.ts
-#EXTINF:0,FR I  OCS CHOC
-http://kalitetv.world:8080/live/xmen/xmen/16467.ts
-#EXTINF:0,FR I  OCS CHOC HD
-http://kalitetv.world:8080/live/xmen/xmen/16466.ts
-#EXTINF:0,FR I  OCS CITY
-http://kalitetv.world:8080/live/xmen/xmen/16465.ts
-#EXTINF:0,FR I  OCS CITY HD
-http://kalitetv.world:8080/live/xmen/xmen/16464.ts
-#EXTINF:0,FR I  OCS GEANTS HD
-http://kalitetv.world:8080/live/xmen/xmen/16463.ts
-#EXTINF:0,FR I  OCS MAX
-http://kalitetv.world:8080/live/xmen/xmen/16462.ts
-#EXTINF:0,FR I  OCS MAX HD
-http://kalitetv.world:8080/live/xmen/xmen/16461.ts
-#EXTINF:0,FR I  PARAMOUNT CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/16460.ts
-#EXTINF:0,FR I  PARIS PREMIERE
-http://kalitetv.world:8080/live/xmen/xmen/16459.ts
-#EXTINF:0,FR I  PIWI
-http://kalitetv.world:8080/live/xmen/xmen/16458.ts
-#EXTINF:0,FR I  PLANETE CI
-http://kalitetv.world:8080/live/xmen/xmen/16457.ts
-#EXTINF:0,FR I  RTL9
-http://kalitetv.world:8080/live/xmen/xmen/16540.ts
-#EXTINF:0,FR I  RTSDEUX
-http://kalitetv.world:8080/live/xmen/xmen/16538.ts
-#EXTINF:0,FR I  RTSUNHD
-http://kalitetv.world:8080/live/xmen/xmen/16539.ts
-#EXTINF:0,FR I  SERIE CLUB HD
-http://kalitetv.world:8080/live/xmen/xmen/16456.ts
-#EXTINF:0,FR I  SFR SPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16455.ts
-#EXTINF:0,FR I  SFR SPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16454.ts
-#EXTINF:0,FR I  SFR SPORT 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/16453.ts
-#EXTINF:0,FR I  SFR SPORT 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/16452.ts
-#EXTINF:0,FR I  TCM CINEMA
-http://kalitetv.world:8080/live/xmen/xmen/16500.ts
-#EXTINF:0,FR I  TF1HD
-http://kalitetv.world:8080/live/xmen/xmen/16542.ts
-#EXTINF:0,FR I  USHUAIA
-http://kalitetv.world:8080/live/xmen/xmen/16527.ts
-#EXTINF:0,FR I  W9
-http://kalitetv.world:8080/live/xmen/xmen/16541.ts
-#EXTINF:0,-----DANhttp://kalitetv.world:8080/live/xmen/xmen/15758.ts
-#EXTINF:0,DK: 6EREN HD
-http://kalitetv.world:8080/live/xmen/xmen/22687.ts
-#EXTINF:0,DK: Animal Planet
-http://kalitetv.world:8080/live/xmen/xmen/22686.ts
-#EXTINF:0,DK: Boomerang
-http://kalitetv.world:8080/live/xmen/xmen/22685.ts
-#EXTINF:0,DK: Canal 9
-http://kalitetv.world:8080/live/xmen/xmen/22684.ts
-#EXTINF:0,DK: Cartoon Network
-http://kalitetv.world:8080/live/xmen/xmen/22683.ts
-#EXTINF:0,DK: Comedy Central
-http://kalitetv.world:8080/live/xmen/xmen/22682.ts
-#EXTINF:0,DK: Discovery Channel
-http://kalitetv.world:8080/live/xmen/xmen/22681.ts
-#EXTINF:0,DK: Disney Channel
-http://kalitetv.world:8080/live/xmen/xmen/22680.ts
-#EXTINF:0,DK: Disney JR
-http://kalitetv.world:8080/live/xmen/xmen/22679.ts
-#EXTINF:0,DK: Disney XD
-http://kalitetv.world:8080/live/xmen/xmen/22678.ts
-#EXTINF:0,DK: DK 4
-http://kalitetv.world:8080/live/xmen/xmen/22677.ts
-#EXTINF:0,DK: DR 1
-http://kalitetv.world:8080/live/xmen/xmen/22676.ts
-#EXTINF:0,DK: DR 2
-http://kalitetv.world:8080/live/xmen/xmen/22675.ts
-#EXTINF:0,DK: DR 3
-http://kalitetv.world:8080/live/xmen/xmen/22674.ts
-#EXTINF:0,DK: DR K
-http://kalitetv.world:8080/live/xmen/xmen/22673.ts
-#EXTINF:0,DK: DR Ramasjang
-http://kalitetv.world:8080/live/xmen/xmen/22672.ts
-#EXTINF:0,DK: DR Ultra
-http://kalitetv.world:8080/live/xmen/xmen/22671.ts
-#EXTINF:0,DK: Eurosport 1
-http://kalitetv.world:8080/live/xmen/xmen/22670.ts
-#EXTINF:0,DK: Eurosport 2
-http://kalitetv.world:8080/live/xmen/xmen/22669.ts
-#EXTINF:0,DK: Investigation Discovery
-http://kalitetv.world:8080/live/xmen/xmen/22668.ts
-#EXTINF:0,DK: Kanal 4
-http://kalitetv.world:8080/live/xmen/xmen/22667.ts
-#EXTINF:0,DK: Kanal 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/22666.ts
-#EXTINF:0,DK: Nat Geo Wildi
-http://kalitetv.world:8080/live/xmen/xmen/22664.ts
-#EXTINF:0,DK: National Geographic
-http://kalitetv.world:8080/live/xmen/xmen/22663.ts
-#EXTINF:0,DK: Nickelodeon
-http://kalitetv.world:8080/live/xmen/xmen/22662.ts
-#EXTINF:0,DK: TLC
-http://kalitetv.world:8080/live/xmen/xmen/22661.ts
-#EXTINF:0,DK: TV 2 
-http://kalitetv.world:8080/live/xmen/xmen/22660.ts
-#EXTINF:0,DK: TV 2 Syd
-http://kalitetv.world:8080/live/xmen/xmen/22659.ts
-#EXTINF:0,DK: TV2
-http://kalitetv.world:8080/live/xmen/xmen/22658.ts
-#EXTINF:0,DK: TV2 Bornholm
-http://kalitetv.world:8080/live/xmen/xmen/22657.ts
-#EXTINF:0,DK: TV2 Charlie
-http://kalitetv.world:8080/live/xmen/xmen/22656.ts
-#EXTINF:0,DK: TV2 Fri
-http://kalitetv.world:8080/live/xmen/xmen/22655.ts
-#EXTINF:0,DK: TV2 Lorry
-http://kalitetv.world:8080/live/xmen/xmen/22654.ts
-#EXTINF:0,DK: TV2 News
-http://kalitetv.world:8080/live/xmen/xmen/22653.ts
-#EXTINF:0,DK: TV2 Sport
-http://kalitetv.world:8080/live/xmen/xmen/22652.ts
-#EXTINF:0,DK: TV2 Zulu
-http://kalitetv.world:8080/live/xmen/xmen/22651.ts
-#EXTINF:0,DK: TV3
-http://kalitetv.world:8080/live/xmen/xmen/22650.ts
-#EXTINF:0,DK: TV3 HD
-http://kalitetv.world:8080/live/xmen/xmen/22649.ts
-#EXTINF:0,DK: TV3 Max
-http://kalitetv.world:8080/live/xmen/xmen/22648.ts
-#EXTINF:0,DK: TV3 Puls
-http://kalitetv.world:8080/live/xmen/xmen/22647.ts
-#EXTINF:0,DK: TV3 Sport 1
-http://kalitetv.world:8080/live/xmen/xmen/22646.ts
-#EXTINF:0,DK: Viasat Film Action
-http://kalitetv.world:8080/live/xmen/xmen/22644.ts
-#EXTINF:0,DK: Viasat Film Comedy
-http://kalitetv.world:8080/live/xmen/xmen/22643.ts
-#EXTINF:0,DK: Viasat Film Family
-http://kalitetv.world:8080/live/xmen/xmen/22642.ts
-#EXTINF:0,DK: Viasat Film Hits
-http://kalitetv.world:8080/live/xmen/xmen/22641.ts
-#EXTINF:0,DK: Viasat Film Premiere
-http://kalitetv.world:8080/live/xmen/xmen/22640.ts
-#EXTINF:0,DK: Viasat Golf
-http://kalitetv.world:8080/live/xmen/xmen/22639.ts
-#EXTINF:0,IT I  Juventus TV
-http://kalitetv.world:8080/live/xmen/xmen/18768.ts
-#EXTINF:0,IT I  KISS KISS TV
-http://kalitetv.world:8080/live/xmen/xmen/18767.ts
-#EXTINF:0,IT I  M2o TV
-http://kalitetv.world:8080/live/xmen/xmen/18766.ts
-#EXTINF:0,IT I  Mediaset Extra
-http://kalitetv.world:8080/live/xmen/xmen/18765.ts
-#EXTINF:0,IT I  NOVE
-http://kalitetv.world:8080/live/xmen/xmen/18764.ts
-#EXTINF:0,IT I  Radio 105 TV
-http://kalitetv.world:8080/live/xmen/xmen/18763.ts
-#EXTINF:0,IT I  Radio Capital Tv
-http://kalitetv.world:8080/live/xmen/xmen/18762.ts
-#EXTINF:0,IT I  Radio Italia TV
-http://kalitetv.world:8080/live/xmen/xmen/18761.ts
-#EXTINF:0,IT I  Radio Montecarlo TV
-http://kalitetv.world:8080/live/xmen/xmen/18760.ts
-#EXTINF:0,IT I  Sky Supercalcio HD
-http://kalitetv.world:8080/live/xmen/xmen/18759.ts
-#EXTINF:0,IT I  Sky Tg 24
-http://kalitetv.world:8080/live/xmen/xmen/18758.ts
-#EXTINF:0,IT I  Torino Channel
-http://kalitetv.world:8080/live/xmen/xmen/18757.ts
-#EXTINF:0,IT I Alto Adige
-http://kalitetv.world:8080/live/xmen/xmen/19001.ts
-#EXTINF:0,IT I Animal planet
-http://kalitetv.world:8080/live/xmen/xmen/19000.ts
-#EXTINF:0,IT I Animal Planet HD
-http://kalitetv.world:8080/live/xmen/xmen/18999.ts
-#EXTINF:0,IT I AXN HD
-http://kalitetv.world:8080/live/xmen/xmen/18998.ts
-#EXTINF:0,IT I BABY TV
-http://kalitetv.world:8080/live/xmen/xmen/18997.ts
-#EXTINF:0,IT I BIKE CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/18996.ts
-#EXTINF:0,IT I BOING
-http://kalitetv.world:8080/live/xmen/xmen/18995.ts
-#EXTINF:0,IT I Canale 46
-http://kalitetv.world:8080/live/xmen/xmen/18994.ts
-#EXTINF:0,IT I CANALE 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/18993.ts
-#EXTINF:0,IT I Cartoon Network
-http://kalitetv.world:8080/live/xmen/xmen/18992.ts
-#EXTINF:0,IT I CARTOON NETWORK HD
-http://kalitetv.world:8080/live/xmen/xmen/18991.ts
-#EXTINF:0,IT I Cartoonito
-http://kalitetv.world:8080/live/xmen/xmen/18990.ts
-#EXTINF:0,IT I CIELO HD
-http://kalitetv.world:8080/live/xmen/xmen/18989.ts
-#EXTINF:0,IT I Cinema Cult HD
-http://kalitetv.world:8080/live/xmen/xmen/18988.ts
-#EXTINF:0,IT I DISCOVERY HD
-http://kalitetv.world:8080/live/xmen/xmen/18987.ts
-#EXTINF:0,IT I DISCOVERY T&L
-http://kalitetv.world:8080/live/xmen/xmen/18986.ts
-#EXTINF:0,IT I DISNEY CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/18985.ts
-#EXTINF:0,IT I Disney Channels
-http://kalitetv.world:8080/live/xmen/xmen/18984.ts
-#EXTINF:0,IT I DISNEY JUNIOR
-http://kalitetv.world:8080/live/xmen/xmen/18983.ts
-#EXTINF:0,IT I Disney XD
-http://kalitetv.world:8080/live/xmen/xmen/18982.ts
-#EXTINF:0,IT I DISNEY XD HD
-http://kalitetv.world:8080/live/xmen/xmen/18981.ts
-#EXTINF:0,IT I Dmax
-http://kalitetv.world:8080/live/xmen/xmen/18980.ts
-#EXTINF:0,IT I Eden TV
-http://kalitetv.world:8080/live/xmen/xmen/18979.ts
-#EXTINF:0,IT I Eurosport 1
-http://kalitetv.world:8080/live/xmen/xmen/18978.ts
-#EXTINF:0,IT I EUROSPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18977.ts
-#EXTINF:0,IT I EUROSPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18976.ts
-#EXTINF:0,IT I FOCUS
-http://kalitetv.world:8080/live/xmen/xmen/18975.ts
-#EXTINF:0,IT I FOX ANIMATION
-http://kalitetv.world:8080/live/xmen/xmen/18974.ts
-#EXTINF:0,IT I Fox Animation HD
-http://kalitetv.world:8080/live/xmen/xmen/18973.ts
-#EXTINF:0,IT I FOX COMEDY HD
-http://kalitetv.world:8080/live/xmen/xmen/18972.ts
-#EXTINF:0,IT I Fox Crime HD
-http://kalitetv.world:8080/live/xmen/xmen/18971.ts
-#EXTINF:0,IT I FOX HD
-http://kalitetv.world:8080/live/xmen/xmen/18970.ts
-#EXTINF:0,IT I FOX LIFE HD
-http://kalitetv.world:8080/live/xmen/xmen/18969.ts
-#EXTINF:0,IT I Fox Sport HD.
-http://kalitetv.world:8080/live/xmen/xmen/18968.ts
-#EXTINF:0,IT I Gambero Rosso
-http://kalitetv.world:8080/live/xmen/xmen/18967.ts
-#EXTINF:0,IT I Giallo
-http://kalitetv.world:8080/live/xmen/xmen/18966.ts
-#EXTINF:0,IT I History Channel
-http://kalitetv.world:8080/live/xmen/xmen/18965.ts
-#EXTINF:0,IT I HISTORY HD
-http://kalitetv.world:8080/live/xmen/xmen/18964.ts
-#EXTINF:0,IT I INTER CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/18963.ts
-#EXTINF:0,IT I IRIS
-http://kalitetv.world:8080/live/xmen/xmen/18962.ts
-#EXTINF:0,IT I Italia 1
-http://kalitetv.world:8080/live/xmen/xmen/18961.ts
-#EXTINF:0,IT I Italia 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18960.ts
-#EXTINF:0,IT I ITALIA 1 MEDIASET HD
-http://kalitetv.world:8080/live/xmen/xmen/18959.ts
-#EXTINF:0,IT I Italia 2
-http://kalitetv.world:8080/live/xmen/xmen/18958.ts
-#EXTINF:0,IT I Italia 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18957.ts
-#EXTINF:0,IT I JUVENTUS CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/18956.ts
-#EXTINF:0,IT I Juventus TV
-http://kalitetv.world:8080/live/xmen/xmen/18955.ts
-#EXTINF:0,IT I K2
-http://kalitetv.world:8080/live/xmen/xmen/18954.ts
-#EXTINF:0,IT I KISS KISS TV
-http://kalitetv.world:8080/live/xmen/xmen/18953.ts
-#EXTINF:0,IT I LA 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/18952.ts
-#EXTINF:0,IT I La 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/18951.ts
-#EXTINF:0,IT I LA 7D
-http://kalitetv.world:8080/live/xmen/xmen/18950.ts
-#EXTINF:0,IT I LA7 HD
-http://kalitetv.world:8080/live/xmen/xmen/18949.ts
-#EXTINF:0,IT I LA7D HD
-http://kalitetv.world:8080/live/xmen/xmen/18948.ts
-#EXTINF:0,IT I LUNA SPORT
-http://kalitetv.world:8080/live/xmen/xmen/18947.ts
-#EXTINF:0,IT I Luna tv Sport
-http://kalitetv.world:8080/live/xmen/xmen/18946.ts
-#EXTINF:0,IT I M2o TV
-http://kalitetv.world:8080/live/xmen/xmen/18944.ts
-#EXTINF:0,IT I MARCO POLO
-http://kalitetv.world:8080/live/xmen/xmen/18943.ts
-#EXTINF:0,IT I Masha e Orso Channel
-http://kalitetv.world:8080/live/xmen/xmen/18942.ts
-#EXTINF:0,IT I MEDIASAT EXTRA
-http://kalitetv.world:8080/live/xmen/xmen/18941.ts
-#EXTINF:0,IT I Mediaset Extra
-http://kalitetv.world:8080/live/xmen/xmen/18940.ts
-#EXTINF:0,IT I MEDIASET IRIS
-http://kalitetv.world:8080/live/xmen/xmen/18939.ts
-#EXTINF:0,IT I MILAN CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/18938.ts
-#EXTINF:0,IT I NAT GEO PEOPLE HD
-http://kalitetv.world:8080/live/xmen/xmen/18937.ts
-#EXTINF:0,IT I NAT GEO WILD HD
-http://kalitetv.world:8080/live/xmen/xmen/18936.ts
-#EXTINF:0,IT I National Geo HD
-http://kalitetv.world:8080/live/xmen/xmen/18935.ts
-#EXTINF:0,IT I National Geographic HD
-http://kalitetv.world:8080/live/xmen/xmen/18934.ts
-#EXTINF:0,IT I NOVE
-http://kalitetv.world:8080/live/xmen/xmen/18933.ts
-#EXTINF:0,IT I Paramount Channel
-http://kalitetv.world:8080/live/xmen/xmen/18932.ts
-#EXTINF:0,IT I PARAMOUNT HD
-http://kalitetv.world:8080/live/xmen/xmen/18931.ts
-#EXTINF:0,IT I PESCA E CACCIA
-http://kalitetv.world:8080/live/xmen/xmen/18930.ts
-#EXTINF:0,IT I PREMIUCALCIO HD.
-http://kalitetv.world:8080/live/xmen/xmen/18929.ts
-#EXTINF:0,IT I Premium Action  24 HD
-http://kalitetv.world:8080/live/xmen/xmen/18928.ts
-#EXTINF:0,IT I Premium Action HD
-http://kalitetv.world:8080/live/xmen/xmen/18927.ts
-#EXTINF:0,IT I Premium Calcio 1
-http://kalitetv.world:8080/live/xmen/xmen/18926.ts
-#EXTINF:0,IT I PREMIUM CALCIO 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18925.ts
-#EXTINF:0,IT I Premium Calcio 2
-http://kalitetv.world:8080/live/xmen/xmen/18924.ts
-#EXTINF:0,IT I PREMIUM CALCIO 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18923.ts
-#EXTINF:0,IT I Premium Calcio 3
-http://kalitetv.world:8080/live/xmen/xmen/18922.ts
-#EXTINF:0,IT I PREMIUM CALCIO 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/18921.ts
-#EXTINF:0,IT I PREMIUM CALCIO 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/18920.ts
-#EXTINF:0,IT I PREMIUM CALCIO 7 HD
-http://kalitetv.world:8080/live/xmen/xmen/18919.ts
-#EXTINF:0,IT I PREMIUM CALCIO HD
-http://kalitetv.world:8080/live/xmen/xmen/18918.ts
-#EXTINF:0,IT I Premium Cartoon Network
-http://kalitetv.world:8080/live/xmen/xmen/18917.ts
-#EXTINF:0,IT I Premium Cinema  24
-http://kalitetv.world:8080/live/xmen/xmen/18916.ts
-#EXTINF:0,IT I PREMIUM CINEMA  24 HD
-http://kalitetv.world:8080/live/xmen/xmen/18915.ts
-#EXTINF:0,IT:Premium Emotion
-http://kalitetv.world:8080/live/xmen/xmen/18770.ts
-#EXTINF:0,IT:Premium-Studio Universal
-http://kalitetv.world:8080/live/xmen/xmen/18769.ts
-#EXTINF:0,IT I Premium Cinema 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18914.ts
-#EXTINF:0,IT I Premium Cinema 2   24
-http://kalitetv.world:8080/live/xmen/xmen/18913.ts
-#EXTINF:0,IT I Premium Cinema 2 24 HD
-http://kalitetv.world:8080/live/xmen/xmen/18912.ts
-#EXTINF:0,IT I PREMIUM CINEMA 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18911.ts
-#EXTINF:0,IT I PREMIUM CINEMA HD
-http://kalitetv.world:8080/live/xmen/xmen/18910.ts
-#EXTINF:0,IT I Premium Cinema HD (ENG)
-http://kalitetv.world:8080/live/xmen/xmen/18909.ts
-#EXTINF:0,IT I Premium Comedy
-http://kalitetv.world:8080/live/xmen/xmen/18908.ts
-#EXTINF:0,IT I PREMIUM COMEDY HD
-http://kalitetv.world:8080/live/xmen/xmen/18907.ts
-#EXTINF:0,IT I Premium Crime  24
-http://kalitetv.world:8080/live/xmen/xmen/18906.ts
-#EXTINF:0,IT I Premium Crime 24
-http://kalitetv.world:8080/live/xmen/xmen/18905.ts
-#EXTINF:0,IT I Premium Crime 24 HD
-http://kalitetv.world:8080/live/xmen/xmen/18904.ts
-#EXTINF:0,IT I Premium Crime HD
-http://kalitetv.world:8080/live/xmen/xmen/18903.ts
-#EXTINF:0,IT I Premium Discovery HD
-http://kalitetv.world:8080/live/xmen/xmen/18902.ts
-#EXTINF:0,IT I PREMIUM DISNEY JUNIOR
-http://kalitetv.world:8080/live/xmen/xmen/18901.ts
-#EXTINF:0,IT I Premium Emotion
-http://kalitetv.world:8080/live/xmen/xmen/18900.ts
-#EXTINF:0,IT I PREMIUM EMOTION HD
-http://kalitetv.world:8080/live/xmen/xmen/18899.ts
-#EXTINF:0,IT I Premium Energy  1
-http://kalitetv.world:8080/live/xmen/xmen/18898.ts
-#EXTINF:0,IT I PREMIUM EUROSPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18897.ts
-#EXTINF:0,IT I PREMIUM EUROSPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18896.ts
-#EXTINF:0,IT I Premium Extra 1
-http://kalitetv.world:8080/live/xmen/xmen/18895.ts
-#EXTINF:0,IT I Premium Extra 2
-http://kalitetv.world:8080/live/xmen/xmen/18894.ts
-#EXTINF:0,IT I Premium Joi  24
-http://kalitetv.world:8080/live/xmen/xmen/18893.ts
-#EXTINF:0,IT I PREMIUM JOI HD
-http://kalitetv.world:8080/live/xmen/xmen/18892.ts
-#EXTINF:0,IT I Premium Joy
-http://kalitetv.world:8080/live/xmen/xmen/18891.ts
-#EXTINF:0,IT I Premium Joy  24
-http://kalitetv.world:8080/live/xmen/xmen/18890.ts
-#EXTINF:0,IT I Premium Joy HD
-http://kalitetv.world:8080/live/xmen/xmen/18889.ts
-#EXTINF:0,IT I Premium Sport 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18888.ts
-#EXTINF:0,IT I Premium Sport 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18887.ts
-#EXTINF:0,IT I PREMIUM SPORT HD
-http://kalitetv.world:8080/live/xmen/xmen/18886.ts
-#EXTINF:0,IT I Premium Sport SD
-http://kalitetv.world:8080/live/xmen/xmen/18885.ts
-#EXTINF:0,IT I Premium Stories
-http://kalitetv.world:8080/live/xmen/xmen/18884.ts
-#EXTINF:0,IT I Premium Studio Universal
-http://kalitetv.world:8080/live/xmen/xmen/18883.ts
-#EXTINF:0,IT I Premium-Calcio 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18882.ts
-#EXTINF:0,IT I Premium-Cinema  24
-http://kalitetv.world:8080/live/xmen/xmen/18881.ts
-#EXTINF:0,IT I Premium-Cinema 2  24
-http://kalitetv.world:8080/live/xmen/xmen/18880.ts
-#EXTINF:0,IT I Premium-Crime  24
-http://kalitetv.world:8080/live/xmen/xmen/18879.ts
-#EXTINF:0,IT I Premium-Energy
-http://kalitetv.world:8080/live/xmen/xmen/18878.ts
-#EXTINF:0,IT I PRIMAFILA 1/2 Live (Fast & Furious 8)
-http://kalitetv.world:8080/live/xmen/xmen/18877.ts
-#EXTINF:0,IT I PRIMAFILA 11/12 Live (Bleed
-http://kalitetv.world:8080/live/xmen/xmen/18876.ts
-#EXTINF:0,IT I PRIMAFILA 13/14 Live (Incarnate Non potrai nasconderti)
-http://kalitetv.world:8080/live/xmen/xmen/18875.ts
-#EXTINF:0,IT I PRIMAFILA 15/16 (Power Rangers)
-http://kalitetv.world:8080/live/xmen/xmen/18874.ts
-#EXTINF:0,IT I PRIMAFILA 17/18 Live (Baby Boss)
-http://kalitetv.world:8080/live/xmen/xmen/18873.ts
-#EXTINF:0,IT I PRIMAFILA 19 Live (Moglie e marito)
-http://kalitetv.world:8080/live/xmen/xmen/18872.ts
-#EXTINF:0,IT I PRIMAFILA 3/4 Live (Guardiani della Galassia Vol 2)
-http://kalitetv.world:8080/live/xmen/xmen/18871.ts
-#EXTINF:0,IT I PRIMAFILA 5/6 Live (King Arthur-Il potere della spada)
-http://kalitetv.world:8080/live/xmen/xmen/18870.ts
-#EXTINF:0,IT I PRIMAFILA 7/8 Live (Gold
-http://kalitetv.world:8080/live/xmen/xmen/18869.ts
-#EXTINF:0,IT I PRIMAFILA 9/10 Live (I Puffi-Viaggio nella foresta segreta)
-http://kalitetv.world:8080/live/xmen/xmen/18868.ts
-#EXTINF:0,IT I PRIMAFILA PRO Live 3D (Animali fantastici e dove trovarli 3D)
-http://kalitetv.world:8080/live/xmen/xmen/18867.ts
-#EXTINF:0,IT I PRIMAFILA PRO Live 3D (Oceania)
-http://kalitetv.world:8080/live/xmen/xmen/18866.ts
-#EXTINF:0,IT I Radio 105 TV
-http://kalitetv.world:8080/live/xmen/xmen/18865.ts
-#EXTINF:0,IT I Radio Capital Tv
-http://kalitetv.world:8080/live/xmen/xmen/18864.ts
-#EXTINF:0,IT I Radio Montecarlo TV
-http://kalitetv.world:8080/live/xmen/xmen/18863.ts
-#EXTINF:0,IT I Rai 1
-http://kalitetv.world:8080/live/xmen/xmen/18862.ts
-#EXTINF:0,IT I RAI 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18861.ts
-#EXTINF:0,IT I Rai 2
-http://kalitetv.world:8080/live/xmen/xmen/18860.ts
-#EXTINF:0,IT I RAI 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18859.ts
-#EXTINF:0,IT I Rai 3
-http://kalitetv.world:8080/live/xmen/xmen/18858.ts
-#EXTINF:0,IT I RAI 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/18857.ts
-#EXTINF:0,IT I Rai 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/18856.ts
-#EXTINF:0,IT I Rai 5
-http://kalitetv.world:8080/live/xmen/xmen/18855.ts
-#EXTINF:0,IT I Rai 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/18854.ts
-#EXTINF:0,IT I RAI GLUP
-http://kalitetv.world:8080/live/xmen/xmen/18853.ts
-#EXTINF:0,IT I Rai Gulp
-http://kalitetv.world:8080/live/xmen/xmen/18852.ts
-#EXTINF:0,IT I Rai Movie
-http://kalitetv.world:8080/live/xmen/xmen/18851.ts
-#EXTINF:0,IT I Rai Nettuno
-http://kalitetv.world:8080/live/xmen/xmen/18850.ts
-#EXTINF:0,IT I Rai News 24
-http://kalitetv.world:8080/live/xmen/xmen/18849.ts
-#EXTINF:0,IT I Rai Premium
-http://kalitetv.world:8080/live/xmen/xmen/18848.ts
-#EXTINF:0,IT I Rai Scuola
-http://kalitetv.world:8080/live/xmen/xmen/18847.ts
-#EXTINF:0,IT I Rai Sport 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18846.ts
-#EXTINF:0,IT I Rai Sport 2
-http://kalitetv.world:8080/live/xmen/xmen/18845.ts
-#EXTINF:0,IT I Rai Sport 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18844.ts
-#EXTINF:0,IT I Rai Yoyo
-http://kalitetv.world:8080/live/xmen/xmen/18843.ts
-#EXTINF:0,IT I Real Time  1
-http://kalitetv.world:8080/live/xmen/xmen/18842.ts
-#EXTINF:0,IT I Real Time HD
-http://kalitetv.world:8080/live/xmen/xmen/18841.ts
-#EXTINF:0,IT I RETE 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/18840.ts
-#EXTINF:0,IT I ReteBiella TV
-http://kalitetv.world:8080/live/xmen/xmen/18839.ts
-#EXTINF:0,IT I Roma Channel
-http://kalitetv.world:8080/live/xmen/xmen/18838.ts
-#EXTINF:0,IT I RSI LA 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18837.ts
-#EXTINF:0,IT I RSI LA 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18836.ts
-#EXTINF:0,IT I RSI LA2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18835.ts
-#EXTINF:0,IT I RTV 105
-http://kalitetv.world:8080/live/xmen/xmen/18834.ts
-#EXTINF:0,IT I San Marino Rtv Sport
-http://kalitetv.world:8080/live/xmen/xmen/18833.ts
-#EXTINF:0,IT I Sky 3D
-http://kalitetv.world:8080/live/xmen/xmen/18832.ts
-#EXTINF:0,IT I SKY ATLANTIC HD
-http://kalitetv.world:8080/live/xmen/xmen/18831.ts
-#EXTINF:0,IT I SKY CALCIO 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18830.ts
-#EXTINF:0,IT I SKY CALCIO 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18829.ts
-#EXTINF:0,IT I SKY CALCIO 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/18828.ts
-#EXTINF:0,IT I SKY CALCIO 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/18827.ts
-#EXTINF:0,IT I SKY CALCIO 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/18826.ts
-#EXTINF:0,IT I SKY CALCIO 6 HD
-http://kalitetv.world:8080/live/xmen/xmen/18825.ts
-#EXTINF:0,IT I Sky Cinema  1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18824.ts
-#EXTINF:0,IT I Sky Cinema  24 HD
-http://kalitetv.world:8080/live/xmen/xmen/18823.ts
-#EXTINF:0,IT I Sky Cinema Classic HD
-http://kalitetv.world:8080/live/xmen/xmen/18822.ts
-#EXTINF:0,IT I SKY CINEMA CLASSICS HD
-http://kalitetv.world:8080/live/xmen/xmen/18821.ts
-#EXTINF:0,IT I SKY CINEMA COMEDY HD
-http://kalitetv.world:8080/live/xmen/xmen/18820.ts
-#EXTINF:0,IT I SKY CINEMA CULT HD
-http://kalitetv.world:8080/live/xmen/xmen/18819.ts
-#EXTINF:0,IT I Sky Cinema Family  1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18818.ts
-#EXTINF:0,IT I Sky Cinema Family HD
-http://kalitetv.world:8080/live/xmen/xmen/18817.ts
-#EXTINF:0,IT I Sky Cinema Hits HD
-http://kalitetv.world:8080/live/xmen/xmen/18816.ts
-#EXTINF:0,IT I Sky Cinema Max   1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18815.ts
-#EXTINF:0,IT I SKY CINEMA MAX HD
-http://kalitetv.world:8080/live/xmen/xmen/18814.ts
-#EXTINF:0,IT I SKY CINEMA PASSION HD
-http://kalitetv.world:8080/live/xmen/xmen/18813.ts
-#EXTINF:0,IT I SKY MOTO GP HD
-http://kalitetv.world:8080/live/xmen/xmen/18812.ts
-#EXTINF:0,IT I SKY PRIMAFILA 1
-http://kalitetv.world:8080/live/xmen/xmen/18811.ts
-#EXTINF:0,IT I SKY PRIMAFILA 10
-http://kalitetv.world:8080/live/xmen/xmen/18810.ts
-#EXTINF:0,IT I SKY PRIMAFILA 2
-http://kalitetv.world:8080/live/xmen/xmen/18809.ts
-#EXTINF:0,IT I SKY PRIMAFILA 3
-http://kalitetv.world:8080/live/xmen/xmen/18808.ts
-#EXTINF:0,IT I SKY PRIMAFILA 4
-http://kalitetv.world:8080/live/xmen/xmen/18807.ts
-#EXTINF:0,IT I SKY PRIMAFILA 5
-http://kalitetv.world:8080/live/xmen/xmen/18806.ts
-#EXTINF:0,IT I SKY PRIMAFILA 6
-http://kalitetv.world:8080/live/xmen/xmen/18805.ts
-#EXTINF:0,IT I SKY PRIMAFILA 7
-http://kalitetv.world:8080/live/xmen/xmen/18804.ts
-#EXTINF:0,IT I SKY PRIMAFILA 8
-http://kalitetv.world:8080/live/xmen/xmen/18803.ts
-#EXTINF:0,IT I SKY PRIMAFILA 9
-http://kalitetv.world:8080/live/xmen/xmen/18802.ts
-#EXTINF:0,IT I SKY SPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18801.ts
-#EXTINF:0,IT I SKY SPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/18800.ts
-#EXTINF:0,IT I SKY SPORT 24 HD
-http://kalitetv.world:8080/live/xmen/xmen/18799.ts
-#EXTINF:0,IT I SKY SPORT 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/18798.ts
-#EXTINF:0,IT I SKY SPORT F1 HD
-http://kalitetv.world:8080/live/xmen/xmen/18797.ts
-#EXTINF:0,IT I Sky Sport MotoGP HD
-http://kalitetv.world:8080/live/xmen/xmen/18796.ts
-#EXTINF:0,IT I Sky Supercalcio HD
-http://kalitetv.world:8080/live/xmen/xmen/18795.ts
-#EXTINF:0,IT I Sky Tg 24
-http://kalitetv.world:8080/live/xmen/xmen/18794.ts
-#EXTINF:0,IT I SKY TG24 HD
-http://kalitetv.world:8080/live/xmen/xmen/18793.ts
-#EXTINF:0,IT I Sky Uno
-http://kalitetv.world:8080/live/xmen/xmen/18792.ts
-#EXTINF:0,IT I Sky Uno HD
-http://kalitetv.world:8080/live/xmen/xmen/18791.ts
-#EXTINF:0,IT I SkyTG24
-http://kalitetv.world:8080/live/xmen/xmen/18790.ts
-#EXTINF:0,IT I SPORT ITALIA
-http://kalitetv.world:8080/live/xmen/xmen/18789.ts
-#EXTINF:0,IT I SportItalia
-http://kalitetv.world:8080/live/xmen/xmen/18788.ts
-#EXTINF:0,IT I SUPER TENNIS HD
-http://kalitetv.world:8080/live/xmen/xmen/18787.ts
-#EXTINF:0,IT I TcsTV
-http://kalitetv.world:8080/live/xmen/xmen/18786.ts
-#EXTINF:0,IT I Tele Chiara
-http://kalitetv.world:8080/live/xmen/xmen/18785.ts
-#EXTINF:0,IT I Tele Padova Telecitt
-http://kalitetv.world:8080/live/xmen/xmen/18784.ts
-#EXTINF:0,IT I TeleDehonTV
-http://kalitetv.world:8080/live/xmen/xmen/18783.ts
-#EXTINF:0,IT I TeleRadioSciacca
-http://kalitetv.world:8080/live/xmen/xmen/18782.ts
-#EXTINF:0,IT I TeleVenezia
-http://kalitetv.world:8080/live/xmen/xmen/18781.ts
-#EXTINF:0,IT I TG Com 24 Premium
-http://kalitetv.world:8080/live/xmen/xmen/18780.ts
-#EXTINF:0,IT I TG Norba 24
-http://kalitetv.world:8080/live/xmen/xmen/18779.ts
-#EXTINF:0,IT I TOP CRIME
-http://kalitetv.world:8080/live/xmen/xmen/18778.ts
-#EXTINF:0,IT I TOP Crime Mediaset
-http://kalitetv.world:8080/live/xmen/xmen/18777.ts
-#EXTINF:0,IT I Torino Channel
-http://kalitetv.world:8080/live/xmen/xmen/18776.ts
-#EXTINF:0,IT I Trentino TV
-http://kalitetv.world:8080/live/xmen/xmen/18775.ts
-#EXTINF:0,IT I TRM TV
-http://kalitetv.world:8080/live/xmen/xmen/18774.ts
-#EXTINF:0,IT I Tv Avicenza
-http://kalitetv.world:8080/live/xmen/xmen/18773.ts
-#EXTINF:0,IT I TV2000
-http://kalitetv.world:8080/live/xmen/xmen/18772.ts
-#EXTINF:0,IT I Vetrina Primafila
-http://kalitetv.world:8080/live/xmen/xmen/18771.ts
-#EXTINF:0,AL I  BALKANIKA
-http://kalitetv.world:8080/live/xmen/xmen/23582.ts
-#EXTINF:0,AL I  FOLK PLUS
-http://kalitetv.world:8080/live/xmen/xmen/23581.ts
-#EXTINF:0,AL I  FOLKLORIT
-http://kalitetv.world:8080/live/xmen/xmen/23580.ts
-#EXTINF:0,AL I  KLAN KOSOVA
-http://kalitetv.world:8080/live/xmen/xmen/23579.ts
-#EXTINF:0,AL I  KTV HD
-http://kalitetv.world:8080/live/xmen/xmen/23578.ts
-#EXTINF:0,AL I  KUJTESA SPORT 1
-http://kalitetv.world:8080/live/xmen/xmen/23577.ts
-#EXTINF:0,AL I  KUJTESA SPORT 2
-http://kalitetv.world:8080/live/xmen/xmen/23576.ts
-#EXTINF:0,AL I  MUSE
-http://kalitetv.world:8080/live/xmen/xmen/23575.ts
-#EXTINF:0,AL I  RTV21 PLUS
-http://kalitetv.world:8080/live/xmen/xmen/23572.ts
-#EXTINF:0,AL I  RTV21 SAT
-http://kalitetv.world:8080/live/xmen/xmen/23571.ts
-#EXTINF:0,AL I  SPORT KOSOVA 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/23570.ts
-#EXTINF:0,AL I  STV FOLK
-http://kalitetv.world:8080/live/xmen/xmen/23569.ts
-#EXTINF:0,AL I  SUPER SPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/23568.ts
-#EXTINF:0,AL I  SUPER SPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/23567.ts
-#EXTINF:0,AL I  SUPER SPORT 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/23566.ts
-#EXTINF:0,AL I  SUPER SPORT 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/23565.ts
-#EXTINF:0,AL I  SUPER SPORT 5
-http://kalitetv.world:8080/live/xmen/xmen/23564.ts
-#EXTINF:0,AL I  TIRANA TV
-http://kalitetv.world:8080/live/xmen/xmen/23563.ts
-#EXTINF:0,AL I  TRING COMEDY
-http://kalitetv.world:8080/live/xmen/xmen/23562.ts
-#EXTINF:0,AL I  TRING SHGIP
-http://kalitetv.world:8080/live/xmen/xmen/23561.ts
-#EXTINF:0,AL I  TRING SPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/23560.ts
-#EXTINF:0,AL I  TRING SPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/23559.ts
-#EXTINF:0,AL I  TRING SPORT 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/23558.ts
-#EXTINF:0,AL I  TRING SPORT 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/23557.ts
-#EXTINF:0,AL I SPORT KOSOVA 2
-http://kalitetv.world:8080/live/xmen/xmen/23556.ts
-#EXTINF:0,PT I  AXN BLACK HD
-http://kalitetv.world:8080/live/xmen/xmen/23609.ts
-#EXTINF:0,PT I  AXN WHITE HD
-http://kalitetv.world:8080/live/xmen/xmen/23608.ts
-#EXTINF:0,PT I  CACA E PESCA HD
-http://kalitetv.world:8080/live/xmen/xmen/23607.ts
-#EXTINF:0,PT I  CANAL PANDA
-http://kalitetv.world:8080/live/xmen/xmen/23606.ts
-#EXTINF:0,PT I  CANAL Q HD
-http://kalitetv.world:8080/live/xmen/xmen/23605.ts
-#EXTINF:0,PT I  CARTOON NETWORK
-http://kalitetv.world:8080/live/xmen/xmen/23604.ts
-#EXTINF:0,PT I  EUROSPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/23603.ts
-#EXTINF:0,PT I  EUROSPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/23602.ts
-#EXTINF:0,PT I  EUROSPORT NEWS
-http://kalitetv.world:8080/live/xmen/xmen/23601.ts
-#EXTINF:0,PT I  FOX COMEDY
-http://kalitetv.world:8080/live/xmen/xmen/23600.ts
-#EXTINF:0,PT I  FOX CRIME HD
-http://kalitetv.world:8080/live/xmen/xmen/23599.ts
-#EXTINF:0,PT I  FOX HD
-http://kalitetv.world:8080/live/xmen/xmen/23598.ts
-#EXTINF:0,PT I  KOMBAT SPORTS
-http://kalitetv.world:8080/live/xmen/xmen/23597.ts
-#EXTINF:0,PT I  MOTORS TV
-http://kalitetv.world:8080/live/xmen/xmen/23596.ts
-#EXTINF:0,PT I  NAT GEO WILD HD
-http://kalitetv.world:8080/live/xmen/xmen/23595.ts
-#EXTINF:0,PT I  NATIONAL GEOGRAPHIC HD
-http://kalitetv.world:8080/live/xmen/xmen/23594.ts
-#EXTINF:0,PT I  NICLELODEON HD
-http://kalitetv.world:8080/live/xmen/xmen/23593.ts
-#EXTINF:0,PT I  RTP AFRICA HD
-http://kalitetv.world:8080/live/xmen/xmen/23592.ts
-#EXTINF:0,PT I  SIC HD
-http://kalitetv.world:8080/live/xmen/xmen/23591.ts
-#EXTINF:0,PT I  SPORT TV 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/23590.ts
-#EXTINF:0,PT I  SPORT TV 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/23589.ts
-#EXTINF:0,PT I  SPORT TV 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/23588.ts
-#EXTINF:0,PT I  SPORT TV 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/23587.ts
-#EXTINF:0,PT I  SPORT TV 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/23586.ts
-#EXTINF:0,PT I  SPORTING TV HD
-http://kalitetv.world:8080/live/xmen/xmen/23585.ts
-#EXTINF:0,PT I  SYFY
-http://kalitetv.world:8080/live/xmen/xmen/23584.ts
-#EXTINF:0,PT I  TVCINE 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/23583.ts
-#EXTINF:0,UK I  SKY SPORTS 1
-http://kalitetv.world:8080/live/xmen/xmen/16584.ts
-#EXTINF:0,UK I  SKY SPORTS 2
-http://kalitetv.world:8080/live/xmen/xmen/16585.ts
-#EXTINF:0,UK I  SKY SPORTS 3 UK
-http://kalitetv.world:8080/live/xmen/xmen/16586.ts
-#EXTINF:0,UK I  SKY SPORTS 4 UK
-http://kalitetv.world:8080/live/xmen/xmen/16587.ts
-#EXTINF:0,UK I  SKY SPORTS 5
-http://kalitetv.world:8080/live/xmen/xmen/16588.ts
-#EXTINF:0,UK I  SKY SPORTS F1
-http://kalitetv.world:8080/live/xmen/xmen/16589.ts
-#EXTINF:0,UK I  SKY SPORTS NEWS HD
-http://kalitetv.world:8080/live/xmen/xmen/16590.ts
-#EXTINF:0,UK I  SKY ATLANTIC HD
-http://kalitetv.world:8080/live/xmen/xmen/16576.ts
-#EXTINF:0,UK I  SKY MOVIES ACTION
-http://kalitetv.world:8080/live/xmen/xmen/16577.ts
-#EXTINF:0,UK I  SKY MOVIES COMEDY
-http://kalitetv.world:8080/live/xmen/xmen/16578.ts
-#EXTINF:0,UK I  SKY MOVIES CRIME
-http://kalitetv.world:8080/live/xmen/xmen/16579.ts
-#EXTINF:0,UK I  SKY MOVIES FAMILY HD
-http://kalitetv.world:8080/live/xmen/xmen/16580.ts
-#EXTINF:0,UK I  SKY MOVIES GREATS HD
-http://kalitetv.world:8080/live/xmen/xmen/16581.ts
-#EXTINF:0,UK I  SKY MOVIES SELECT HD
-http://kalitetv.world:8080/live/xmen/xmen/16582.ts
-#EXTINF:0,UK I  SKY ONE HD
-http://kalitetv.world:8080/live/xmen/xmen/16583.ts
-#EXTINF:0,UK I  BBC FOUR
-http://kalitetv.world:8080/live/xmen/xmen/16544.ts
-#EXTINF:0,UK I  BBC ONE
-http://kalitetv.world:8080/live/xmen/xmen/16545.ts
-#EXTINF:0,UK I  BBC THREE
-http://kalitetv.world:8080/live/xmen/xmen/16546.ts
-#EXTINF:0,UK I  BBC TWO
-http://kalitetv.world:8080/live/xmen/xmen/16547.ts
-#EXTINF:0,UK I  BOX NATION
-http://kalitetv.world:8080/live/xmen/xmen/16548.ts
-#EXTINF:0,UK I  BT SPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16549.ts
-#EXTINF:0,UK I  BT SPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16550.ts
-#EXTINF:0,UK I  BT SPORT EUROPE HD
-http://kalitetv.world:8080/live/xmen/xmen/16551.ts
-#EXTINF:0,UK I  BT SPORTS 3 HD/SD
-http://kalitetv.world:8080/live/xmen/xmen/16552.ts
-#EXTINF:0,UK I  BT SPORTS ESPN
-http://kalitetv.world:8080/live/xmen/xmen/16591.ts
-#EXTINF:0,UK I  CBS ACTION
-http://kalitetv.world:8080/live/xmen/xmen/16563.ts
-#EXTINF:0,UK I  CBS DRAMA
-http://kalitetv.world:8080/live/xmen/xmen/16564.ts
-#EXTINF:0,UK I  CBS REALITY
-http://kalitetv.world:8080/live/xmen/xmen/16565.ts
-#EXTINF:0,UK I  DISCOVERY
-http://kalitetv.world:8080/live/xmen/xmen/16553.ts
-#EXTINF:0,UK I  DISCOVERY HISTORY
-http://kalitetv.world:8080/live/xmen/xmen/16554.ts
-#EXTINF:0,UK I  DISNEY CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/16555.ts
-#EXTINF:0,UK I  ESPN HD
-http://kalitetv.world:8080/live/xmen/xmen/16567.ts
-#EXTINF:0,UK I  EURO SPORTS 2
-http://kalitetv.world:8080/live/xmen/xmen/16568.ts
-#EXTINF:0,UK I  EUROSPORT 1
-http://kalitetv.world:8080/live/xmen/xmen/16569.ts
-#EXTINF:0,UK I  ITV 1
-http://kalitetv.world:8080/live/xmen/xmen/16573.ts
-#EXTINF:0,UK I  ITV 2
-http://kalitetv.world:8080/live/xmen/xmen/16572.ts
-#EXTINF:0,UK I  ITV 3
-http://kalitetv.world:8080/live/xmen/xmen/16571.ts
-#EXTINF:0,UK I  ITV 4
-http://kalitetv.world:8080/live/xmen/xmen/16570.ts
-#EXTINF:0,UK I  NAT GEO WILD UK
-http://kalitetv.world:8080/live/xmen/xmen/16574.ts
-#EXTINF:0,UK I  NATIONAL GEOGRAPHIC UK
-http://kalitetv.world:8080/live/xmen/xmen/16575.ts
-#EXTINF:0,UK I  UK-ANIMAL-PLANET
-http://kalitetv.world:8080/live/xmen/xmen/16543.ts
-#EXTINF:0,-----AMERIKA-----
-http://kalitetv.world:8080/live/xmen/xmen/11661.ts
-#EXTINF:0,USA I  AFN Sports HD
-http://kalitetv.world:8080/live/xmen/xmen/16670.ts
-#EXTINF:0,USA I  BEIN SPORT USA
-http://kalitetv.world:8080/live/xmen/xmen/16669.ts
-#EXTINF:0,USA I  CBS HD
-http://kalitetv.world:8080/live/xmen/xmen/16668.ts
-#EXTINF:0,USA I  CBSN HD
-http://kalitetv.world:8080/live/xmen/xmen/16667.ts
-#EXTINF:0,USA I  Cinemax
-http://kalitetv.world:8080/live/xmen/xmen/16666.ts
-#EXTINF:0,USA I  CINEMAX HD
-http://kalitetv.world:8080/live/xmen/xmen/16665.ts
-#EXTINF:0,USA I  CNN
-http://kalitetv.world:8080/live/xmen/xmen/16664.ts
-#EXTINF:0,USA I  DISCOVERY CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/16663.ts
-#EXTINF:0,USA I  Fight Sport 1
-http://kalitetv.world:8080/live/xmen/xmen/16662.ts
-#EXTINF:0,USA I  FOX HD
-http://kalitetv.world:8080/live/xmen/xmen/16661.ts
-#EXTINF:0,USA I  FX
-http://kalitetv.world:8080/live/xmen/xmen/16660.ts
-#EXTINF:0,USA I  FX HD
-http://kalitetv.world:8080/live/xmen/xmen/16659.ts
-#EXTINF:0,USA I  HALLMARK
-http://kalitetv.world:8080/live/xmen/xmen/16658.ts
-#EXTINF:0,USA I  HBO
-http://kalitetv.world:8080/live/xmen/xmen/16657.ts
-#EXTINF:0,USA I  HBO COMEDY
-http://kalitetv.world:8080/live/xmen/xmen/16656.ts
-#EXTINF:0,USA I  HBO SIGNATURE
-http://kalitetv.world:8080/live/xmen/xmen/16655.ts
-#EXTINF:0,USA I  HBO ZONE
-http://kalitetv.world:8080/live/xmen/xmen/16654.ts
-#EXTINF:0,USA I  NAT GEO HD
-http://kalitetv.world:8080/live/xmen/xmen/16653.ts
-#EXTINF:0,USA I  NBC HD
-http://kalitetv.world:8080/live/xmen/xmen/16652.ts
-#EXTINF:0,USA I  NFL Network HD
-http://kalitetv.world:8080/live/xmen/xmen/16651.ts
-#EXTINF:0,USA I  SPORTS NET 360 HD
-http://kalitetv.world:8080/live/xmen/xmen/16650.ts
-#EXTINF:0,USA I  SPORTS NET ONE HD
-http://kalitetv.world:8080/live/xmen/xmen/16649.ts
-#EXTINF:0,USA I  SPORTS NET ONTARIO HD
-http://kalitetv.world:8080/live/xmen/xmen/16648.ts
-#EXTINF:0,USA I  SportsNet One HD
-http://kalitetv.world:8080/live/xmen/xmen/16647.ts
-#EXTINF:0,USA I  STARZ HD
-http://kalitetv.world:8080/live/xmen/xmen/16646.ts
-#EXTINF:0,USA I  SYFY HD
-http://kalitetv.world:8080/live/xmen/xmen/16645.ts
-#EXTINF:0,USA I  Tsn-Sport 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16644.ts
-#EXTINF:0,USA I  Tsn-Sport 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16643.ts
-#EXTINF:0,USA I  Tsn-Sport 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/16640.ts
-#EXTINF:0,USA I  Tsn-Sport 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/16642.ts
-#EXTINF:0,USA I  Tsn-Sport 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/16641.ts
-#EXTINF:0,RU I  2X2
-http://kalitetv.world:8080/live/xmen/xmen/16754.ts
-#EXTINF:0,RU I  AMEDIA PREMINYUM HD
-http://kalitetv.world:8080/live/xmen/xmen/16727.ts
-#EXTINF:0,RU I  ANIMAL PLANET
-http://kalitetv.world:8080/live/xmen/xmen/16728.ts
-#EXTINF:0,RU I  CTC
-http://kalitetv.world:8080/live/xmen/xmen/16755.ts
-#EXTINF:0,RU I  DISCOVERY CHANNEL HD
-http://kalitetv.world:8080/live/xmen/xmen/16732.ts
-#EXTINF:0,RU I  DISCOVERY SCIENCE HD
-http://kalitetv.world:8080/live/xmen/xmen/16733.ts
-#EXTINF:0,RU I  DISNEY CHANNEL RU
-http://kalitetv.world:8080/live/xmen/xmen/16734.ts
-#EXTINF:0,RU I  DOM KINO RUSSIA
-http://kalitetv.world:8080/live/xmen/xmen/16735.ts
-#EXTINF:0,RU I  DOMASHNIY TV
-http://kalitetv.world:8080/live/xmen/xmen/16756.ts
-#EXTINF:0,RU I  NAT GEO WILD
-http://kalitetv.world:8080/live/xmen/xmen/16738.ts
-#EXTINF:0,RU I  NTV
-http://kalitetv.world:8080/live/xmen/xmen/16739.ts
-#EXTINF:0,RU I  NTV FUTBOL 1
-http://kalitetv.world:8080/live/xmen/xmen/16757.ts
-#EXTINF:0,RU I  NTV FUTBOL 2
-http://kalitetv.world:8080/live/xmen/xmen/16758.ts
-#EXTINF:0,RU I  NTV FUTBOL 3
-http://kalitetv.world:8080/live/xmen/xmen/16759.ts
-#EXTINF:0,RU I  ONE HD
-http://kalitetv.world:8080/live/xmen/xmen/16725.ts
-#EXTINF:0,RU I  PERVIY TV
-http://kalitetv.world:8080/live/xmen/xmen/16740.ts
-#EXTINF:0,RU I  RADA
-http://kalitetv.world:8080/live/xmen/xmen/16753.ts
-#EXTINF:0,RU I  REN TV
-http://kalitetv.world:8080/live/xmen/xmen/16750.ts
-#EXTINF:0,RU I  RU TV
-http://kalitetv.world:8080/live/xmen/xmen/16742.ts
-#EXTINF:0,RU I  RU TV MOLDOVA
-http://kalitetv.world:8080/live/xmen/xmen/16724.ts
-#EXTINF:0,RU I  RUSSIA 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16731.ts
-#EXTINF:0,RU I  RUSYA 24
-http://kalitetv.world:8080/live/xmen/xmen/16736.ts
-#EXTINF:0,RU I  SHANSON TV
-http://kalitetv.world:8080/live/xmen/xmen/16743.ts
-#EXTINF:0,RU I  STS
-http://kalitetv.world:8080/live/xmen/xmen/16741.ts
-#EXTINF:0,RU I  TBK
-http://kalitetv.world:8080/live/xmen/xmen/16751.ts
-#EXTINF:0,RU I  TBN
-http://kalitetv.world:8080/live/xmen/xmen/16726.ts
-#EXTINF:0,RU I  THT
-http://kalitetv.world:8080/live/xmen/xmen/16744.ts
-#EXTINF:0,RU I  TOCHKA TV
-http://kalitetv.world:8080/live/xmen/xmen/16737.ts
-#EXTINF:0,RU I  TV 1000 ACTION
-http://kalitetv.world:8080/live/xmen/xmen/16745.ts
-#EXTINF:0,RU I  TV1000 COMEDY HD
-http://kalitetv.world:8080/live/xmen/xmen/16746.ts
-#EXTINF:0,RU I  TV1000 MEGAHIT HD
-http://kalitetv.world:8080/live/xmen/xmen/16747.ts
-#EXTINF:0,RU I  TV1000 PREMIUM HD
-http://kalitetv.world:8080/live/xmen/xmen/16748.ts
-#EXTINF:0,RU I  TVM CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/16752.ts
-#EXTINF:0,RU I  WBC HD
-http://kalitetv.world:8080/live/xmen/xmen/16749.ts
-#EXTINF:0,RU I  YURGAN
-http://kalitetv.world:8080/live/xmen/xmen/16729.ts
-#EXTINF:0,RO: Acasa TV
-http://kalitetv.world:8080/live/xmen/xmen/16928.ts
-#EXTINF:0,RO: Agro TV
-http://kalitetv.world:8080/live/xmen/xmen/16927.ts
-#EXTINF:0,RO: Antena 1
-http://kalitetv.world:8080/live/xmen/xmen/16926.ts
-#EXTINF:0,RO: Antena 3
-http://kalitetv.world:8080/live/xmen/xmen/16925.ts
-#EXTINF:0,RO: Antena Stars
-http://kalitetv.world:8080/live/xmen/xmen/16924.ts
-#EXTINF:0,RO: AXN
-http://kalitetv.world:8080/live/xmen/xmen/16923.ts
-#EXTINF:0,RO: AXN BLACK
-http://kalitetv.world:8080/live/xmen/xmen/16922.ts
-#EXTINF:0,RO: AXN WHITE
-http://kalitetv.world:8080/live/xmen/xmen/16921.ts
-#EXTINF:0,RO: B1
-http://kalitetv.world:8080/live/xmen/xmen/16920.ts
-#EXTINF:0,RO: Boomerang
-http://kalitetv.world:8080/live/xmen/xmen/16919.ts
-#EXTINF:0,RO: Bucaresti TV
-http://kalitetv.world:8080/live/xmen/xmen/16918.ts
-#EXTINF:0,RO: CINEMAX 2
-http://kalitetv.world:8080/live/xmen/xmen/16917.ts
-#EXTINF:0,RO: Digi 24
-http://kalitetv.world:8080/live/xmen/xmen/16916.ts
-#EXTINF:0,RO: DIGI ANIMAL WORLD
-http://kalitetv.world:8080/live/xmen/xmen/16915.ts
-#EXTINF:0,RO: DIGI FILM
-http://kalitetv.world:8080/live/xmen/xmen/16914.ts
-#EXTINF:0,RO: Digi Life
-http://kalitetv.world:8080/live/xmen/xmen/16913.ts
-#EXTINF:0,RO: Digi Sport 1
-http://kalitetv.world:8080/live/xmen/xmen/16912.ts
-#EXTINF:0,RO: Digi Sport 2
-http://kalitetv.world:8080/live/xmen/xmen/16911.ts
-#EXTINF:0,RO: Digi Sport 3
-http://kalitetv.world:8080/live/xmen/xmen/16910.ts
-#EXTINF:0,RO: Digi Sport 4
-http://kalitetv.world:8080/live/xmen/xmen/16909.ts
-#EXTINF:0,RO: DIGI WORLD
-http://kalitetv.world:8080/live/xmen/xmen/16908.ts
-#EXTINF:0,RO: Disney Junior
-http://kalitetv.world:8080/live/xmen/xmen/16907.ts
-#EXTINF:0,RO: Etno Tv
-http://kalitetv.world:8080/live/xmen/xmen/16906.ts
-#EXTINF:0,RO: Eurosport
-http://kalitetv.world:8080/live/xmen/xmen/16905.ts
-#EXTINF:0,RO: EUROSPORT 1
-http://kalitetv.world:8080/live/xmen/xmen/16904.ts
-#EXTINF:0,RO: Eurosport 2
-http://kalitetv.world:8080/live/xmen/xmen/16903.ts
-#EXTINF:0,RO: Favorit Tv
-http://kalitetv.world:8080/live/xmen/xmen/16902.ts
-#EXTINF:0,RO: FISHING & HUNTING
-http://kalitetv.world:8080/live/xmen/xmen/16901.ts
-#EXTINF:0,RO: Happy Channel
-http://kalitetv.world:8080/live/xmen/xmen/16900.ts
-#EXTINF:0,RO: HBO 3
-http://kalitetv.world:8080/live/xmen/xmen/16899.ts
-#EXTINF:0,RO: HBO Romania
-http://kalitetv.world:8080/live/xmen/xmen/16898.ts
-#EXTINF:0,RO: History
-http://kalitetv.world:8080/live/xmen/xmen/16897.ts
-#EXTINF:0,RO: History Channel
-http://kalitetv.world:8080/live/xmen/xmen/16896.ts
-#EXTINF:0,RO: Kanal D
-http://kalitetv.world:8080/live/xmen/xmen/16895.ts
-#EXTINF:0,RO: Kiss
-http://kalitetv.world:8080/live/xmen/xmen/16894.ts
-#EXTINF:0,RO: KISS TV
-http://kalitetv.world:8080/live/xmen/xmen/16893.ts
-#EXTINF:0,RO: Look Plus
-http://kalitetv.world:8080/live/xmen/xmen/16892.ts
-#EXTINF:0,RO: Look tv
-http://kalitetv.world:8080/live/xmen/xmen/16891.ts
-#EXTINF:0,RO: Megamax
-http://kalitetv.world:8080/live/xmen/xmen/16890.ts
-#EXTINF:0,RO: Minimax
-http://kalitetv.world:8080/live/xmen/xmen/16889.ts
-#EXTINF:0,RO: National Geo Wild
-http://kalitetv.world:8080/live/xmen/xmen/16886.ts
-#EXTINF:0,RO: National Geographic
-http://kalitetv.world:8080/live/xmen/xmen/16885.ts
-#EXTINF:0,RO: Neptun
-http://kalitetv.world:8080/live/xmen/xmen/16884.ts
-#EXTINF:0,RO: Nickelodeon
-http://kalitetv.world:8080/live/xmen/xmen/16883.ts
-#EXTINF:0,RO: Paramount Channel
-http://kalitetv.world:8080/live/xmen/xmen/16882.ts
-#EXTINF:0,RO: Prima Love
-http://kalitetv.world:8080/live/xmen/xmen/16881.ts
-#EXTINF:0,RO: Prima TV
-http://kalitetv.world:8080/live/xmen/xmen/16880.ts
-#EXTINF:0,RO: Pro TV
-http://kalitetv.world:8080/live/xmen/xmen/16879.ts
-#EXTINF:0,RO: Procinema
-http://kalitetv.world:8080/live/xmen/xmen/16878.ts
-#EXTINF:0,RO: Realitatea Tv
-http://kalitetv.world:8080/live/xmen/xmen/16877.ts
-#EXTINF:0,RO: Romania TV
-http://kalitetv.world:8080/live/xmen/xmen/16876.ts
-#EXTINF:0,RO: Sport ro
-http://kalitetv.world:8080/live/xmen/xmen/16875.ts
-#EXTINF:0,RO: Sportro
-http://kalitetv.world:8080/live/xmen/xmen/16874.ts
-#EXTINF:0,RO: Taraf Tv
-http://kalitetv.world:8080/live/xmen/xmen/16873.ts
-#EXTINF:0,RO: TNT
-http://kalitetv.world:8080/live/xmen/xmen/16872.ts
-#EXTINF:0,RO: TV 1000
-http://kalitetv.world:8080/live/xmen/xmen/16871.ts
+#EXTINF:0,Rai 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/378
+#EXTINF:0,Rai 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/377
+#EXTINF:0,Rai 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/376
+#EXTINF:0,Rete 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/375
+#EXTINF:0,Canale 5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/374
+#EXTINF:0,Italia 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/373
+#EXTINF:0,La5
+http://212.8.243.65:2095/mario11/7ULA8op2CK/372
+#EXTINF:0,La7
+http://212.8.243.65:2095/mario11/7ULA8op2CK/371
+#EXTINF:0,Rai 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/370
+#EXTINF:0,Rai 5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/369
+#EXTINF:0,Rai Gulp HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/368
+#EXTINF:0,Rai Movie HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/367
+#EXTINF:0,Rai News 24 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/366
+#EXTINF:0,Rai Premium HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/365
+#EXTINF:0,Rai Sport + HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/363
+#EXTINF:0,Rai Storia HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/364
+#EXTINF:0,Rai Yoyo HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/362
+#EXTINF:0,Mediaset 20
+http://212.8.243.65:2095/mario11/7ULA8op2CK/361
+#EXTINF:0,Iris
+http://212.8.243.65:2095/mario11/7ULA8op2CK/360
+#EXTINF:0,Italia 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/359
+#EXTINF:0,TV2000
+http://212.8.243.65:2095/mario11/7ULA8op2CK/358
+#EXTINF:0,Mediaset Extra 1 GF
+http://212.8.243.65:2095/mario11/7ULA8op2CK/357
+#EXTINF:0,Mediaset Extra 2 GF
+http://212.8.243.65:2095/mario11/7ULA8op2CK/356
+#EXTINF:0,EuroNews
+http://212.8.243.65:2095/mario11/7ULA8op2CK/355
+#EXTINF:0,TgCom 24
+http://212.8.243.65:2095/mario11/7ULA8op2CK/354
+#EXTINF:0,Sky TG24 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/353
+#EXTINF:0,RSI LA 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/453
+#EXTINF:0,RSI LA 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/452
+#EXTINF:0,---Cinema---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/352
+#EXTINF:0,Sky Cinema Uno HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/351
+#EXTINF:0,Sky Cinema Uno  +1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/350
+#EXTINF:0,Sky Cinema  +24 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/349
+#EXTINF:0,Sky Cinema Classics HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/348
+#EXTINF:0,Sky Cinema Comedy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/347
+#EXTINF:0,Sky Cinema Family HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/346
+#EXTINF:0,Sky Cinema Cult HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/345
+#EXTINF:0,Sky Cinema Hits HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/344
+#EXTINF:0,Sky Cinema Max HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/343
+#EXTINF:0,Sky Cinema Max  1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/342
+#EXTINF:0,Sky Cinema Family +1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/341
+#EXTINF:0,Sky Cinema Passion HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/340
+#EXTINF:0,Sky Atlantic SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/338
+#EXTINF:0,Sky Atlantic +1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/339
+#EXTINF:0,Cielo HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/337
+#EXTINF:0,Dmax HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/336
+#EXTINF:0,Gambero Rosso HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/335
+#EXTINF:0,Real Time HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/334
+#EXTINF:0,Sky MTV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/333
+#EXTINF:0,Sky 3D
+http://212.8.243.65:2095/mario11/7ULA8op2CK/332
+#EXTINF:0,Sky Arte HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/331
+#EXTINF:0,Sky Uno SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/328
+#EXTINF:0,Sky Uno HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/329
+#EXTINF:0,Sky Uno +1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/330
+#EXTINF:0,Fox HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/324
+#EXTINF:0,Fox Life HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/323
+#EXTINF:0,Fox Crime HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/325
+#EXTINF:0,Fox Comedy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/326
+#EXTINF:0,Fox Animation HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/327
+#EXTINF:0,Cine Sony
+http://212.8.243.65:2095/mario11/7ULA8op2CK/322
+#EXTINF:0,Spike
+http://212.8.243.65:2095/mario11/7ULA8op2CK/321
+#EXTINF:0,---Primafila---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/320
+#EXTINF:0,Primafila 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/319
+#EXTINF:0,Primafila 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/318
+#EXTINF:0,Primafila 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/317
+#EXTINF:0,Primafila 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/316
+#EXTINF:0,Primafila 5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/315
+#EXTINF:0,Primafila 6 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/314
+#EXTINF:0,Primafila 7 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/313
+#EXTINF:0,Primafila 8 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/312
+#EXTINF:0,Primafila 9 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/311
+#EXTINF:0,Primafila 10 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/310
+#EXTINF:0,---Calcio---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/307
+#EXTINF:0,Sky Sport 24 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/306
+#EXTINF:0,Sky Sport F1 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/305
+#EXTINF:0,Sky Sport Uno FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/304
+#EXTINF:0,Sky Sport Arena FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/303
+#EXTINF:0,Sky Sport Football FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/301
+#EXTINF:0,Sky Sport Seria A FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/302
+#EXTINF:0,Sky Sport MotoGP FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/300
+#EXTINF:0,Sky Sport NBA HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/299
+#EXTINF:0,Sky Calcio 1 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/297
+#EXTINF:0,Sky Calcio 2 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/296
+#EXTINF:0,Sky Calcio 3 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/295
+#EXTINF:0,Sky Calcio 4 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/294
+#EXTINF:0,Sky Calcio 5 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/293
+#EXTINF:0,Sky Calcio 6 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/292
+#EXTINF:0,Sky Calcio 7 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/291
+#EXTINF:0,Sky Calcio 8 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/290
+#EXTINF:0,Sky Calcio 9 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/289
+#EXTINF:0,Sky Calcio 10 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/288
+#EXTINF:0,Eurosport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/286
+#EXTINF:0,EuroSport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/285
+#EXTINF:0,Sky Sport F1 SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/284
+#EXTINF:0,Sky Sport Uno SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/283
+#EXTINF:0,Sky Sport Seria A SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/279
+#EXTINF:0,Sky Sport Arena SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/282
+#EXTINF:0,Sky Sport Football SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/278
+#EXTINF:0,Sky Sport Golf SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/281
+#EXTINF:0,Sky Calcio 1 SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/277
+#EXTINF:0,Sky Calcio 2 SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/276
+#EXTINF:0,Sky Calcio 3 SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/275
+#EXTINF:0,Sky Calcio 4 SD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/274
+#EXTINF:0,DAZN SPORT 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/273
+#EXTINF:0,DAZN SPORT 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/272
+#EXTINF:0,DAZN SPORT 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/271
+#EXTINF:0,DAZN SPORT 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/270
+#EXTINF:0,DAZN SPORT 5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3507
+#EXTINF:0,DAZN SPORT 6 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3506
+#EXTINF:0,DAZN SPORT 7 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3505
+#EXTINF:0,Top Calcio 24
+http://212.8.243.65:2095/mario11/7ULA8op2CK/269
+#EXTINF:0,Motor Trend
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3612
+#EXTINF:0,AutoMotor TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/268
+#EXTINF:0,Bike Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/267
+#EXTINF:0,Inter Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/266
+#EXTINF:0,Milan Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/263
+#EXTINF:0,Roma Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/264
+#EXTINF:0,Torino Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/262
+#EXTINF:0,Lazio Style
+http://212.8.243.65:2095/mario11/7ULA8op2CK/265
+#EXTINF:0,Sport Italia
+http://212.8.243.65:2095/mario11/7ULA8op2CK/261
+#EXTINF:0,Super Tennis HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/260
+#EXTINF:0,---Bambini---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/241
+#EXTINF:0,Baby Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/240
+#EXTINF:0,K2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/239
+#EXTINF:0,Nickelodeon
+http://212.8.243.65:2095/mario11/7ULA8op2CK/238
+#EXTINF:0,NickJR
+http://212.8.243.65:2095/mario11/7ULA8op2CK/237
+#EXTINF:0,Boing
+http://212.8.243.65:2095/mario11/7ULA8op2CK/236
+#EXTINF:0,Dea Junior
+http://212.8.243.65:2095/mario11/7ULA8op2CK/235
+#EXTINF:0,Dea Kids
+http://212.8.243.65:2095/mario11/7ULA8op2CK/234
+#EXTINF:0,Disney Channel HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/233
+#EXTINF:0,Disney Junior
+http://212.8.243.65:2095/mario11/7ULA8op2CK/232
+#EXTINF:0,Disney XD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/231
+#EXTINF:0,Fresbee
+http://212.8.243.65:2095/mario11/7ULA8op2CK/230
+#EXTINF:0,Cartoonito
+http://212.8.243.65:2095/mario11/7ULA8op2CK/229
+#EXTINF:0,---Mediaset Premium---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/228
+#EXTINF:0,Focus
+http://212.8.243.65:2095/mario11/7ULA8op2CK/227
+#EXTINF:0,Pesca
+http://212.8.243.65:2095/mario11/7ULA8op2CK/226
+#EXTINF:0,Caccia
+http://212.8.243.65:2095/mario11/7ULA8op2CK/225
+#EXTINF:0,Comedy Central
+http://212.8.243.65:2095/mario11/7ULA8op2CK/224
+#EXTINF:0,Laeffe
+http://212.8.243.65:2095/mario11/7ULA8op2CK/223
+#EXTINF:0,Lei
+http://212.8.243.65:2095/mario11/7ULA8op2CK/222
+#EXTINF:0,Marcopolo
+http://212.8.243.65:2095/mario11/7ULA8op2CK/221
+#EXTINF:0,Paramount Channel HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/220
+#EXTINF:0,Studio Universal
+http://212.8.243.65:2095/mario11/7ULA8op2CK/219
+#EXTINF:0,Top Crime
+http://212.8.243.65:2095/mario11/7ULA8op2CK/218
+#EXTINF:0,TV8
+http://212.8.243.65:2095/mario11/7ULA8op2CK/217
+#EXTINF:0,---Premium Cinema---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/216
+#EXTINF:0,Premium Cinema  24 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/213
+#EXTINF:0,Premium Cinema Action HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/212
+#EXTINF:0,Premium Cinema Crime HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/211
+#EXTINF:0,Premium Cinema Emotion HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/210
+#EXTINF:0,Premium Cinema Energy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/209
+#EXTINF:0,Premium Cinema HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/215
+#EXTINF:0,Premium Comedy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/214
+#EXTINF:0,Premium Action
+http://212.8.243.65:2095/mario11/7ULA8op2CK/207
+#EXTINF:0,Premium Cinema
+http://212.8.243.65:2095/mario11/7ULA8op2CK/208
+#EXTINF:0,Premium Comedy
+http://212.8.243.65:2095/mario11/7ULA8op2CK/205
+#EXTINF:0,Premium Crime
+http://212.8.243.65:2095/mario11/7ULA8op2CK/206
+#EXTINF:0,Premium Emotion
+http://212.8.243.65:2095/mario11/7ULA8op2CK/203
+#EXTINF:0,Premium Energy
+http://212.8.243.65:2095/mario11/7ULA8op2CK/204
+#EXTINF:0,Premium Joi
+http://212.8.243.65:2095/mario11/7ULA8op2CK/202
+#EXTINF:0,Premium Stories
+http://212.8.243.65:2095/mario11/7ULA8op2CK/201
+#EXTINF:0,---Cultura---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/192
+#EXTINF:0,NASA Live - Earth From Space
+http://212.8.243.65:2095/mario11/7ULA8op2CK/191
+#EXTINF:0,Animal Planet
+http://212.8.243.65:2095/mario11/7ULA8op2CK/190
+#EXTINF:0,Discovery HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/188
+#EXTINF:0,Discovery Sci HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/187
+#EXTINF:0,Discovery T&L HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/186
+#EXTINF:0,CI Crime   Inv HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/189
+#EXTINF:0,History HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/185
+#EXTINF:0,Nat Geo HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/184
+#EXTINF:0,NatGeo People HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/183
+#EXTINF:0,National Geo Wild HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/182
+#EXTINF:0,Zelog 243
+http://212.8.243.65:2095/mario11/7ULA8op2CK/181
+#EXTINF:0,=== Deutschland ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/499
+#EXTINF:0,DE: 3sat
+http://212.8.243.65:2095/mario11/7ULA8op2CK/479
+#EXTINF:0,DE: ORF 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/498
+#EXTINF:0,DE: ORF 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/497
+#EXTINF:0,DE: ZDF
+http://212.8.243.65:2095/mario11/7ULA8op2CK/496
+#EXTINF:0,DE: Arte HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/494
+#EXTINF:0,DE: RTL HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/491
+#EXTINF:0,DE: RTL 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/490
+#EXTINF:0,DE: RTL Crime HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/489
+#EXTINF:0,DE: RTL Living HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/488
+#EXTINF:0,DE: RTL Passion
+http://212.8.243.65:2095/mario11/7ULA8op2CK/487
+#EXTINF:0,DE: RTLNITRO HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/486
+#EXTINF:0,DE: RTLplus
+http://212.8.243.65:2095/mario11/7ULA8op2CK/485
+#EXTINF:0,DE: SRF 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/451
+#EXTINF:0,DE: SRF Zwei HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/450
+#EXTINF:0,DE: VOX HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/462
+#EXTINF:0,DE: WDR HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/461
+#EXTINF:0,DE- 13Th Street
+http://212.8.243.65:2095/mario11/7ULA8op2CK/460
+#EXTINF:0,DE: ANIXE HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/495
+#EXTINF:0,DE: Boomerang
+http://212.8.243.65:2095/mario11/7ULA8op2CK/408
+#EXTINF:0,DE: Cartoon Network
+http://212.8.243.65:2095/mario11/7ULA8op2CK/407
+#EXTINF:0,DE: Das Erste HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/493
+#EXTINF:0,DE: n-tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/480
+#EXTINF:0,DE: NDR HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/389
+#EXTINF:0,DE: Phoenix
+http://212.8.243.65:2095/mario11/7ULA8op2CK/388
+#EXTINF:0,DE: Sat.1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/484
+#EXTINF:0,DE: Sixx HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/483
+#EXTINF:0,DE: Tele 5
+http://212.8.243.65:2095/mario11/7ULA8op2CK/464
+#EXTINF:0,DE: TLC HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/463
+#EXTINF:0,DE: Heimatkanal
+http://212.8.243.65:2095/mario11/7ULA8op2CK/385
+#EXTINF:0,DE: KABEL eins HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/481
+#EXTINF:0,DE: Kinowelt TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/381
+#EXTINF:0,DE: Pro7 MAXX HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/387
+#EXTINF:0,DE: ProSieben HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/492
+#EXTINF:0,=== Sky Deutschland Kino ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/478
+#EXTINF:0,DE: Sky 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/482
+#EXTINF:0,DE: Sky Arts HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/477
+#EXTINF:0,DE: Sky Atlantic HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/476
+#EXTINF:0,DE- Sky Cinema    24
+http://212.8.243.65:2095/mario11/7ULA8op2CK/475
+#EXTINF:0,DE- Sky Cinema +1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/474
+#EXTINF:0,DE- Sky Cinema Action HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/473
+#EXTINF:0,DE- SKY Cinema Comedy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/472
+#EXTINF:0,DE- Sky Cinema Family HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/471
+#EXTINF:0,DE: Sky Cinema Emotion
+http://212.8.243.65:2095/mario11/7ULA8op2CK/470
+#EXTINF:0,DE: Sky Cinema HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/469
+#EXTINF:0,DE: Sky Cinema Hits
+http://212.8.243.65:2095/mario11/7ULA8op2CK/468
+#EXTINF:0,DE: Sky Cinema Nostalgie
+http://212.8.243.65:2095/mario11/7ULA8op2CK/467
+#EXTINF:0,DE: Sky Krimi
+http://212.8.243.65:2095/mario11/7ULA8op2CK/466
+#EXTINF:0,DE: Teleclub Cinema HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/448
+#EXTINF:0,DE: Teleclub Zoom HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/447
+#EXTINF:0,DE- TNT Film HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/456
+#EXTINF:0,DE: TNT Comedy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/455
+#EXTINF:0,DE: TNT Serie
+http://212.8.243.65:2095/mario11/7ULA8op2CK/454
+#EXTINF:0,DE: FILM CLUB HD 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/399
+#EXTINF:0,DE: FILM CLUB HD 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/398
+#EXTINF:0,DE: FILM CLUB HD 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/397
+#EXTINF:0,DE: FILM CLUB HD 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/396
+#EXTINF:0,DE: Fox HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/459
+#EXTINF:0,DE: Sony TV HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/457
+#EXTINF:0,=== Sky Deutschland Sports ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/444
+#EXTINF:0,DE: Sky Sport Austria
+http://212.8.243.65:2095/mario11/7ULA8op2CK/441
+#EXTINF:0,DE: Sky Sport News HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/440
+#EXTINF:0,DE: Sky Sport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/439
+#EXTINF:0,DE: Sky Sport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/438
+#EXTINF:0,DE: Sky Sport 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/437
+#EXTINF:0,DE: Sky Sport 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/436
+#EXTINF:0,DE: Sky Sport 5
+http://212.8.243.65:2095/mario11/7ULA8op2CK/435
+#EXTINF:0,DE: Sky Sport 6
+http://212.8.243.65:2095/mario11/7ULA8op2CK/434
+#EXTINF:0,DE: Sky Sport 7
+http://212.8.243.65:2095/mario11/7ULA8op2CK/433
+#EXTINF:0,DE: Sky Sport 8
+http://212.8.243.65:2095/mario11/7ULA8op2CK/432
+#EXTINF:0,DE: Sky Sport 9
+http://212.8.243.65:2095/mario11/7ULA8op2CK/431
+#EXTINF:0,DE: Sky Sport 10
+http://212.8.243.65:2095/mario11/7ULA8op2CK/430
+#EXTINF:0,DE: Sky Sport 11
+http://212.8.243.65:2095/mario11/7ULA8op2CK/429
+#EXTINF:0,DE: Sky Sport Bundesliga 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/428
+#EXTINF:0,DE: Sky Sport Bundesliga 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/427
+#EXTINF:0,DE: Sky Sport Bundesliga 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/426
+#EXTINF:0,DE: Sky Sport Bundesliga 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/425
+#EXTINF:0,DE: Sky Sport Bundesliga 5
+http://212.8.243.65:2095/mario11/7ULA8op2CK/424
+#EXTINF:0,DE: Sky Sport Bundesliga 6
+http://212.8.243.65:2095/mario11/7ULA8op2CK/423
+#EXTINF:0,DE: Sky Sport Bundesliga 7
+http://212.8.243.65:2095/mario11/7ULA8op2CK/422
+#EXTINF:0,DE: Sky Sport Bundesliga 8
+http://212.8.243.65:2095/mario11/7ULA8op2CK/421
+#EXTINF:0,DE: Sky Sport Bundesliga 9
+http://212.8.243.65:2095/mario11/7ULA8op2CK/420
+#EXTINF:0,DE: Sky Sport Bundesliga 10
+http://212.8.243.65:2095/mario11/7ULA8op2CK/419
+#EXTINF:0,DE: Dazn 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/418
+#EXTINF:0,DE: Dazn 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/417
+#EXTINF:0,DE: FC Bayern TV HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/414
+#EXTINF:0,DE: Teleclub Sport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/446
+#EXTINF:0,DE: Teleclub Sport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/445
+#EXTINF:0,DE: Auto Motor Sport HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/379
+#EXTINF:0,DE: Eurosport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/416
+#EXTINF:0,DE: Eurosport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/415
+#EXTINF:0,DE: Motorvision TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/413
+#EXTINF:0,DE: Sport 1  HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/442
+#EXTINF:0,DE: Sportdigital HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/443
+#EXTINF:0,=== Kinder ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/412
+#EXTINF:0,DE: SUPER RTL HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/403
+#EXTINF:0,DE: TOGGO plus
+http://212.8.243.65:2095/mario11/7ULA8op2CK/401
+#EXTINF:0,DE: Junior
+http://212.8.243.65:2095/mario11/7ULA8op2CK/405
+#EXTINF:0,DE: KIKA HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/404
+#EXTINF:0,DE: Nickelodeon HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/406
+#EXTINF:0,DE- Disney Cinemagic HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/411
+#EXTINF:0,DE- Disney Junior HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/410
+#EXTINF:0,DE- Disney XD HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/409
+#EXTINF:0,=== Sky Deutschland Kultur ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/395
+#EXTINF:0,DE: SYFY HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/465
+#EXTINF:0,DE: Discovery Channel HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/392
+#EXTINF:0,DE: Disney Channel HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/400
+#EXTINF:0,DE : A&E
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5046
+#EXTINF:0,DE: DMAX
+http://212.8.243.65:2095/mario11/7ULA8op2CK/402
+#EXTINF:0,DE: History HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/391
+#EXTINF:0,DE: Planet HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/390
+#EXTINF:0,DE- Nat Geo HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/394
+#EXTINF:0,DE- NAT GEO WILD HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/393
+#EXTINF:0,UK: === England ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/630
+#EXTINF:0,UK: BBC One
+http://212.8.243.65:2095/mario11/7ULA8op2CK/628
+#EXTINF:0,UK: BBC Two
+http://212.8.243.65:2095/mario11/7ULA8op2CK/627
+#EXTINF:0,UK: CHANNEL 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/622
+#EXTINF:0,UK: CHANNEL 5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/621
+#EXTINF:0,UK: iTV1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/626
+#EXTINF:0,UK: iTV2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/625
+#EXTINF:0,UK: iTV3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/624
+#EXTINF:0,UK: iTV4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/623
+#EXTINF:0,UK: === Uk News ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/619
+#EXTINF:0,UK: BBC News HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/629
+#EXTINF:0,UK: CNN
+http://212.8.243.65:2095/mario11/7ULA8op2CK/618
+#EXTINF:0,UK: Sky News
+http://212.8.243.65:2095/mario11/7ULA8op2CK/617
+#EXTINF:0,UK: ===Sky UK Movies===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/600
+#EXTINF:0,UK: Sky Cinema Action & Adventure
+http://212.8.243.65:2095/mario11/7ULA8op2CK/598
+#EXTINF:0,UK: Sky Cinema Comedy
+http://212.8.243.65:2095/mario11/7ULA8op2CK/597
+#EXTINF:0,UK: Sky Cinema Crime & Thriller
+http://212.8.243.65:2095/mario11/7ULA8op2CK/606
+#EXTINF:0,UK: Sky Cinema Disney
+http://212.8.243.65:2095/mario11/7ULA8op2CK/596
+#EXTINF:0,UK: Sky Cinema Drama & Romance
+http://212.8.243.65:2095/mario11/7ULA8op2CK/595
+#EXTINF:0,UK: Sky Cinema Greats
+http://212.8.243.65:2095/mario11/7ULA8op2CK/592
+#EXTINF:0,UK: Sky Cinema Hits
+http://212.8.243.65:2095/mario11/7ULA8op2CK/593
+#EXTINF:0,UK: Sky Cinema Premiere
+http://212.8.243.65:2095/mario11/7ULA8op2CK/599
+#EXTINF:0,UK: Sky Cinema Sci Fi & Horror
+http://212.8.243.65:2095/mario11/7ULA8op2CK/591
+#EXTINF:0,UK: Sky Cinema Select
+http://212.8.243.65:2095/mario11/7ULA8op2CK/607
+#EXTINF:0,UK: Sky Movies Family
+http://212.8.243.65:2095/mario11/7ULA8op2CK/594
+#EXTINF:0,UK: Sky Atlantic UK
+http://212.8.243.65:2095/mario11/7ULA8op2CK/590
+#EXTINF:0,UK: Sky 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/620
+#EXTINF:0,UK: === Sky Uk & BT Sports ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/616
+#EXTINF:0,UK: Sky Sports Action HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/610
+#EXTINF:0,UK: Sky Sports Arena HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/609
+#EXTINF:0,UK: Sky Sports Cricket HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/608
+#EXTINF:0,UK: Sky Sports F1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/604
+#EXTINF:0,UK: Sky Sports Football
+http://212.8.243.65:2095/mario11/7ULA8op2CK/613
+#EXTINF:0,UK: Sky Sports Main Event
+http://212.8.243.65:2095/mario11/7ULA8op2CK/612
+#EXTINF:0,UK: Sky Sports Mix
+http://212.8.243.65:2095/mario11/7ULA8op2CK/605
+#EXTINF:0,UK: Sky Sports News
+http://212.8.243.65:2095/mario11/7ULA8op2CK/615
+#EXTINF:0,UK: Sky Sports Premier League
+http://212.8.243.65:2095/mario11/7ULA8op2CK/614
+#EXTINF:0,UK: Sky Sports The Open HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/611
+#EXTINF:0,UK: BT Sport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/603
+#EXTINF:0,UK: BT Sport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/602
+#EXTINF:0,UK: BT Sport ESPN
+http://212.8.243.65:2095/mario11/7ULA8op2CK/601
+#EXTINF:0,UK: === Sky Uk Documentary ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/589
+#EXTINF:0,UK: Discovery HD UK
+http://212.8.243.65:2095/mario11/7ULA8op2CK/588
+#EXTINF:0,UK: Discovery History
+http://212.8.243.65:2095/mario11/7ULA8op2CK/585
+#EXTINF:0,UK: National Geographic HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/587
+#EXTINF:0,UK: === UK Kids ===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/583
+#EXTINF:0,UK: Disney Junior UK
+http://212.8.243.65:2095/mario11/7ULA8op2CK/581
+#EXTINF:0,UK: Disney XD UK
+http://212.8.243.65:2095/mario11/7ULA8op2CK/582
+#EXTINF:0,UK: Nick Junior
+http://212.8.243.65:2095/mario11/7ULA8op2CK/580
+#EXTINF:0,****USA****
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4700
+#EXTINF:0,USA: ABC HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4699
+#EXTINF:0,USA: AMC
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4691
+#EXTINF:0,USA: CW 11 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4693
+#EXTINF:0,USA: TLC
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4684
+#EXTINF:0,USA: TBS
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4690
+#EXTINF:0,USA: CBS Action
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4695
+#EXTINF:0,USA: CBS News
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4694
+#EXTINF:0,USA: USA Network
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4698
+#EXTINF:0,USA: Viceland HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4687
+#EXTINF:0,USA: The Weather Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4681
+#EXTINF:0,USA: NBC (EAST)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4697
+#EXTINF:0,USA: Bravo HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4688
+#EXTINF:0,USA: CNBC HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4686
+#EXTINF:0,USA: CNN
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4692
+#EXTINF:0,USA: COMEDY CENTRAL
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4685
+#EXTINF:0,USA: Fox News
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4696
+#EXTINF:0,USA: NFL Network HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4683
+#EXTINF:0,USA: SPIKE TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4689
+#EXTINF:0,USA: WWE Network
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4680
+#EXTINF:0,########## FRANCE  ##########
+http://212.8.243.65:2095/mario11/7ULA8op2CK/762
+#EXTINF:0,FR: TF1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/760
+#EXTINF:0,FR: 13EME RUE
+http://212.8.243.65:2095/mario11/7ULA8op2CK/746
+#EXTINF:0,FR: 6ter HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/751
+#EXTINF:0,FR: ARTE
+http://212.8.243.65:2095/mario11/7ULA8op2CK/747
+#EXTINF:0,FR: C8
+http://212.8.243.65:2095/mario11/7ULA8op2CK/749
+#EXTINF:0,FR: FRANCE 24
+http://212.8.243.65:2095/mario11/7ULA8op2CK/640
+#EXTINF:0,FR: FRANCE O
+http://212.8.243.65:2095/mario11/7ULA8op2CK/754
+#EXTINF:0,FR: FRANCE 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/758
+#EXTINF:0,FR: France 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/757
+#EXTINF:0,FR: FRANCE 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/756
+#EXTINF:0,FR: FRANCE 5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/755
+#EXTINF:0,FR: M6 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/753
+#EXTINF:0,FR: W9
+http://212.8.243.65:2095/mario11/7ULA8op2CK/750
+#EXTINF:0,FR: TMC HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/752
+#EXTINF:0,FR: TV5 MONDE EUROPE
+http://212.8.243.65:2095/mario11/7ULA8op2CK/694
+#EXTINF:0,FR: TV5 Monde Info
+http://212.8.243.65:2095/mario11/7ULA8op2CK/748
+#EXTINF:0,= = = = = Sport FR = = = = =
+http://212.8.243.65:2095/mario11/7ULA8op2CK/744
+#EXTINF:0,FR: AB MOTEURS
+http://212.8.243.65:2095/mario11/7ULA8op2CK/721
+#EXTINF:0,FR: BEINSPORT 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/743
+#EXTINF:0,FR: BEINSPORT 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/742
+#EXTINF:0,FR: BEIN SPORT 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/741
+#EXTINF:0,FR: BEINSPORT MAX 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/734
+#EXTINF:0,FR: BEINSPORT MAX 5
+http://212.8.243.65:2095/mario11/7ULA8op2CK/733
+#EXTINF:0,FR:.BEINSPORT MAX 6
+http://212.8.243.65:2095/mario11/7ULA8op2CK/732
+#EXTINF:0,FR: BEINSPORT MAX 7
+http://212.8.243.65:2095/mario11/7ULA8op2CK/731
+#EXTINF:0,FR: SFR Sport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/740
+#EXTINF:0,FR: SFR Sport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/739
+#EXTINF:0,FR: SFR Sport 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/738
+#EXTINF:0,FR: EUROSPORT 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/720
+#EXTINF:0,FR: EUROSPORT 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/719
+#EXTINF:0,FR: FOOT 24
+http://212.8.243.65:2095/mario11/7ULA8op2CK/723
+#EXTINF:0,FR: CANAL + SPORT 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/725
+#EXTINF:0,FR: CANAL PLUS SPORT
+http://212.8.243.65:2095/mario11/7ULA8op2CK/726
+#EXTINF:0,= = = = = Chaines Canal  FR = = = = =
+http://212.8.243.65:2095/mario11/7ULA8op2CK/717
+#EXTINF:0,FR: CANAL  CINEMA HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/713
+#EXTINF:0,FR: CANAL ACTION HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/711
+#EXTINF:0,FR: CANAL FAMILY HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/714
+#EXTINF:0,FR: CANAL PLUS HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/716
+#EXTINF:0,FR: Canal  SERIES HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/712
+#EXTINF:0,FR: Canal Decale HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/710
+#EXTINF:0,FR: CINE  CLASSIC
+http://212.8.243.65:2095/mario11/7ULA8op2CK/705
+#EXTINF:0,FR: CINE  PREMIER HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/715
+#EXTINF:0,FR: CINE FX
+http://212.8.243.65:2095/mario11/7ULA8op2CK/700
+#EXTINF:0,FR: Comedie Plus HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/706
+#EXTINF:0,FR: OCS CHOC
+http://212.8.243.65:2095/mario11/7ULA8op2CK/697
+#EXTINF:0,FR: OCS CITY HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/696
+#EXTINF:0,FR: OCS GEANTS
+http://212.8.243.65:2095/mario11/7ULA8op2CK/698
+#EXTINF:0,FR: OCS MAX
+http://212.8.243.65:2095/mario11/7ULA8op2CK/699
+#EXTINF:0,FR: PARIS PREMIERE HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/704
+#EXTINF:0,= = = = = SÈries et divertissement FR = = = = =
+http://212.8.243.65:2095/mario11/7ULA8op2CK/695
+#EXTINF:0,FR: NT1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/688
+#EXTINF:0,FR: RTL9 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/689
+#EXTINF:0,FR: RTS UN HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/693
+#EXTINF:0,FR: RTS DEUX
+http://212.8.243.65:2095/mario11/7ULA8op2CK/692
+#EXTINF:0,FR: Rmc Decouverte
+http://212.8.243.65:2095/mario11/7ULA8op2CK/685
+#EXTINF:0,FR: PARAMOUNT CHANNEL
+http://212.8.243.65:2095/mario11/7ULA8op2CK/690
+#EXTINF:0,FR: Action HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/678
+#EXTINF:0,FR: ANIMAUX HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/677
+#EXTINF:0,FR: USHUAIA TV HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/686
+#EXTINF:0,FR: Equidia Live HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/680
+#EXTINF:0,FR: Game One
+http://212.8.243.65:2095/mario11/7ULA8op2CK/649
+#EXTINF:0,FR: BOOMERANG
+http://212.8.243.65:2095/mario11/7ULA8op2CK/642
+#EXTINF:0,FR: GULLI
+http://212.8.243.65:2095/mario11/7ULA8op2CK/684
+#EXTINF:0,= = = = = DÈcouverte FR = = = = =
+http://212.8.243.65:2095/mario11/7ULA8op2CK/671
+#EXTINF:0,FR: CHASSE & PECHE  HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/670
+#EXTINF:0,FR: Discovery Science_HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/667
+#EXTINF:0,FR: NATIONAL GEO HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/669
+#EXTINF:0,FR: NATIONAL GEO WILD HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/668
+#EXTINF:0,FR: Planete
+http://212.8.243.65:2095/mario11/7ULA8op2CK/666
+#EXTINF:0,FR: SYFY HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/702
+#EXTINF:0,= = = = = Enfants FR = = = = =
+http://212.8.243.65:2095/mario11/7ULA8op2CK/652
+#EXTINF:0,FR: MANGAS
+http://212.8.243.65:2095/mario11/7ULA8op2CK/643
+#EXTINF:0,FR: PIWI
+http://212.8.243.65:2095/mario11/7ULA8op2CK/644
+#EXTINF:0,FR: TELETOON  HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/651
+#EXTINF:0,FR: TIJI
+http://212.8.243.65:2095/mario11/7ULA8op2CK/645
+#EXTINF:0,= = = = = Film FR = = = = =
+http://212.8.243.65:2095/mario11/7ULA8op2CK/637
+#EXTINF:0,FR: A LA CARTE 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/636
+#EXTINF:0,FR: A LA CARTE 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/635
+#EXTINF:0,FR: A LA CARTE 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/634
+#EXTINF:0,FR: A LA CARTE 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/633
+#EXTINF:0,FR: A LA CARTE 5
+http://212.8.243.65:2095/mario11/7ULA8op2CK/632
+#EXTINF:0,FR: A LA CARTE 6
+http://212.8.243.65:2095/mario11/7ULA8op2CK/631
+#EXTINF:0,##########   Belgium   ##########
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4679
+#EXTINF:0,BE: AB3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4673
+#EXTINF:0,BE: Antenne Centre TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4668
+#EXTINF:0,BE: BX1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4669
+#EXTINF:0,BE: CANAL ZOOM
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4663
+#EXTINF:0,BE: CAZ
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4667
+#EXTINF:0,BE: Jim TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4666
+#EXTINF:0,BE: KetOp12
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4672
+#EXTINF:0,BE: La Une HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4677
+#EXTINF:0,BE: LA Deux HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4676
+#EXTINF:0,BE: La Trois HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4675
+#EXTINF:0,BE: RTL Tvi HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4678
+#EXTINF:0,Be: RTS Deux
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4674
+#EXTINF:0,BE: Teleclub Action
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4671
+#EXTINF:0,BE: Teleclub Cinema
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4670
+#EXTINF:0,BE: TVL (Dutch)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4662
+#EXTINF:0,BE: Vitaya
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4665
+#EXTINF:0,BE: VTM HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4664
+#EXTINF:0,---Gjenerale---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/176
+#EXTINF:0,TVSH HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/175
+#EXTINF:0,TVSH [SD]
+http://212.8.243.65:2095/mario11/7ULA8op2CK/174
+#EXTINF:0,Top Channel FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/173
+#EXTINF:0,Top Channel HD [SD]
+http://212.8.243.65:2095/mario11/7ULA8op2CK/172
+#EXTINF:0,Klan FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/171
+#EXTINF:0,Klan HD [SD]
+http://212.8.243.65:2095/mario11/7ULA8op2CK/170
+#EXTINF:0,Klan Plus HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/169
+#EXTINF:0,Vizion Plus
+http://212.8.243.65:2095/mario11/7ULA8op2CK/168
+#EXTINF:0,---Lajme---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/167
+#EXTINF:0,Kanali 7
+http://212.8.243.65:2095/mario11/7ULA8op2CK/166
+#EXTINF:0,Abc News HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/165
+#EXTINF:0,Top News
+http://212.8.243.65:2095/mario11/7ULA8op2CK/164
+#EXTINF:0,News 24
+http://212.8.243.65:2095/mario11/7ULA8op2CK/163
+#EXTINF:0,Ora News
+http://212.8.243.65:2095/mario11/7ULA8op2CK/162
+#EXTINF:0,FAX News
+http://212.8.243.65:2095/mario11/7ULA8op2CK/161
+#EXTINF:0,Report TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/160
+#EXTINF:0,AL: T7
+http://212.8.243.65:2095/mario11/7ULA8op2CK/159
+#EXTINF:0,Channel One HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/127
+#EXTINF:0,Scan TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/158
+#EXTINF:0,--RTSH--
+http://212.8.243.65:2095/mario11/7ULA8op2CK/157
+#EXTINF:0,Rtsh 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/156
+#EXTINF:0,Rtsh 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/155
+#EXTINF:0,RTSH 24
+http://212.8.243.65:2095/mario11/7ULA8op2CK/151
+#EXTINF:0,Rtsh 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/154
+#EXTINF:0,RTSH Femije
+http://212.8.243.65:2095/mario11/7ULA8op2CK/148
+#EXTINF:0,Rtsh Film HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/153
+#EXTINF:0,RTSH Gjirokastra
+http://212.8.243.65:2095/mario11/7ULA8op2CK/147
+#EXTINF:0,RTSH Korca
+http://212.8.243.65:2095/mario11/7ULA8op2CK/146
+#EXTINF:0,RTSH Kuvend
+http://212.8.243.65:2095/mario11/7ULA8op2CK/145
+#EXTINF:0,RTSH Muzike
+http://212.8.243.65:2095/mario11/7ULA8op2CK/149
+#EXTINF:0,RTSH Plus
+http://212.8.243.65:2095/mario11/7ULA8op2CK/150
+#EXTINF:0,Rtsh Shqip HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/152
+#EXTINF:0,Rtsh Sport
+http://212.8.243.65:2095/mario11/7ULA8op2CK/79
+#EXTINF:0,---Filma---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/144
+#EXTINF:0,Film Nje HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/143
+#EXTINF:0,Film Dy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/142
+#EXTINF:0,Family HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/141
+#EXTINF:0,Film Komedi
+http://212.8.243.65:2095/mario11/7ULA8op2CK/136
+#EXTINF:0,Film Aksion
+http://212.8.243.65:2095/mario11/7ULA8op2CK/138
+#EXTINF:0,Film Thriller
+http://212.8.243.65:2095/mario11/7ULA8op2CK/137
+#EXTINF:0,Film Drame
+http://212.8.243.65:2095/mario11/7ULA8op2CK/135
+#EXTINF:0,Film Hits
+http://212.8.243.65:2095/mario11/7ULA8op2CK/133
+#EXTINF:0,Film Autor
+http://212.8.243.65:2095/mario11/7ULA8op2CK/134
+#EXTINF:0,Eurofilm
+http://212.8.243.65:2095/mario11/7ULA8op2CK/132
+#EXTINF:0,AL: Digi Gold 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/131
+#EXTINF:0,AL: Digi Gold 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/130
+#EXTINF:0,AL: Digi Gold 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/129
+#EXTINF:0,AL: Digi Gold 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/128
+#EXTINF:0,T HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/126
+#EXTINF:0,T HD [SD]
+http://212.8.243.65:2095/mario11/7ULA8op2CK/125
+#EXTINF:0,Stinet
+http://212.8.243.65:2095/mario11/7ULA8op2CK/124
+#EXTINF:0,Jolly HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/54
+#EXTINF:0,Tring Super HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/118
+#EXTINF:0,Tring Action
+http://212.8.243.65:2095/mario11/7ULA8op2CK/123
+#EXTINF:0,Tring Comedy
+http://212.8.243.65:2095/mario11/7ULA8op2CK/121
+#EXTINF:0,Tring Fantasy
+http://212.8.243.65:2095/mario11/7ULA8op2CK/122
+#EXTINF:0,Tring Shqip
+http://212.8.243.65:2095/mario11/7ULA8op2CK/119
+#EXTINF:0,Tring Life
+http://212.8.243.65:2095/mario11/7ULA8op2CK/120
+#EXTINF:0,Tring 3 Plus
+http://212.8.243.65:2095/mario11/7ULA8op2CK/117
+#EXTINF:0,Fox
+http://212.8.243.65:2095/mario11/7ULA8op2CK/52
+#EXTINF:0,Fox Life
+http://212.8.243.65:2095/mario11/7ULA8op2CK/51
+#EXTINF:0,AL: FOX Crime
+http://212.8.243.65:2095/mario11/7ULA8op2CK/50
+#EXTINF:0,===007 TV===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3495
+#EXTINF:0,007 Aksion HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3492
+#EXTINF:0,007 Femije HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3494
+#EXTINF:0,007 Portokalli HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3496
+#EXTINF:0,007 Shqip HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3609
+#EXTINF:0,>>>>Shqip TV<<<<<
+http://212.8.243.65:2095/mario11/7ULA8op2CK/116
+#EXTINF:0,AL: ShqipTv Aksion
+http://212.8.243.65:2095/mario11/7ULA8op2CK/115
+#EXTINF:0,AL: ShqipTV Film HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/114
+#EXTINF:0,AL: ShqipTv Horror HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/113
+#EXTINF:0,AL: ShqipTv Humor HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/112
+#EXTINF:0,AL: ShqipTv Komedi HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/111
+#EXTINF:0,AL:ShqipTv Fantasy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/110
+#EXTINF:0,AL:SHQIPTV Hindi HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/109
+#EXTINF:0,AL: KS Aksion HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/104
+#EXTINF:0,AL: KS Comedy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/103
+#EXTINF:0,AL: KS Drama HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/102
+#EXTINF:0,AL: KS Premiere 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/108
+#EXTINF:0,AL: KS Premiere 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/107
+#EXTINF:0,AL: KS Premiere 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/106
+#EXTINF:0,AL: KS HUMOR
+http://212.8.243.65:2095/mario11/7ULA8op2CK/105
+#EXTINF:0,X Premium 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4404
+#EXTINF:0,X Premium 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4403
+#EXTINF:0,X Premium 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4402
+#EXTINF:0,X Premium 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4401
+#EXTINF:0,X Action HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4400
+#EXTINF:0,X Comedy HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4399
+#EXTINF:0,X Dark HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4398
+#EXTINF:0,X Drama HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4397
+#EXTINF:0,X Family HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4395
+#EXTINF:0,X Histori HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4392
+#EXTINF:0,X Humor HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4389
+#EXTINF:0,X Natyra HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4390
+#EXTINF:0,X Sci-Fi HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4388
+#EXTINF:0,X Shkenca HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4391
+#EXTINF:0,X Thriller HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4396
+#EXTINF:0,X Western HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4393
+#EXTINF:0,===Sporte===
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1486
+#EXTINF:0,AL SS-1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/100
+#EXTINF:0,AL SS-1 HD (BACKUP)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/99
+#EXTINF:0,AL SS-2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/98
+#EXTINF:0,AL SS-2 HD (BACKUP)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/97
+#EXTINF:0,AL SS-3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/96
+#EXTINF:0,AL SS-3 HD (BACKUP)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/95
+#EXTINF:0,AL SS-4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/94
+#EXTINF:0,AL SS-4 HD (BACKUP)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/93
+#EXTINF:0,AL SS-5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/92
+#EXTINF:0,AL SS-6 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/91
+#EXTINF:0,SuperSport News
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4378
+#EXTINF:0,SuperSport 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4377
+#EXTINF:0,SuperSport 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4376
+#EXTINF:0,SuperSport 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4375
+#EXTINF:0,SuperSport 5
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4374
+#EXTINF:0,SuperSport 6
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4373
+#EXTINF:0,Eurosport
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4372
+#EXTINF:0,Eurosport 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4371
+#EXTINF:0,Tring Sport News HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/90
+#EXTINF:0,Tring Sport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/89
+#EXTINF:0,Tring Sport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/88
+#EXTINF:0,Tring Sport 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/87
+#EXTINF:0,Tring Sport 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/86
+#EXTINF:0,SS Kosova 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/85
+#EXTINF:0,SS Kosova 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/84
+#EXTINF:0,K  Sport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/83
+#EXTINF:0,K  Sport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/82
+#EXTINF:0,K  Sport 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/81
+#EXTINF:0,K  Sport 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/80
+#EXTINF:0,Telesport
+http://212.8.243.65:2095/mario11/7ULA8op2CK/78
+#EXTINF:0,---Kulture---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/77
+#EXTINF:0,EXP Histori
+http://212.8.243.65:2095/mario11/7ULA8op2CK/76
+#EXTINF:0,EXP Natyra
+http://212.8.243.65:2095/mario11/7ULA8op2CK/75
+#EXTINF:0,EXP Shkenca
+http://212.8.243.65:2095/mario11/7ULA8op2CK/74
+#EXTINF:0,Travel Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/73
+#EXTINF:0,Tring History
+http://212.8.243.65:2095/mario11/7ULA8op2CK/72
+#EXTINF:0,Tring Planet
+http://212.8.243.65:2095/mario11/7ULA8op2CK/71
+#EXTINF:0,Tring World
+http://212.8.243.65:2095/mario11/7ULA8op2CK/70
+#EXTINF:0,Nat Geo Tring
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1487
+#EXTINF:0,---Tematike---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/56
+#EXTINF:0,ACTV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1485
+#EXTINF:0,TNT TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/55
+#EXTINF:0,Living HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/53
+#EXTINF:0,Smile
+http://212.8.243.65:2095/mario11/7ULA8op2CK/49
+#EXTINF:0,Tema Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/48
+#EXTINF:0,Muse
+http://212.8.243.65:2095/mario11/7ULA8op2CK/47
+#EXTINF:0,Era Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/46
+#EXTINF:0,AL: TV Saranda
+http://212.8.243.65:2095/mario11/7ULA8op2CK/45
+#EXTINF:0,AL: Tele Joni
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3502
+#EXTINF:0,TV Rozafa Shkoder
+http://212.8.243.65:2095/mario11/7ULA8op2CK/44
+#EXTINF:0,Star Plus Shkodra
+http://212.8.243.65:2095/mario11/7ULA8op2CK/43
+#EXTINF:0,AL TV Dukagjini
+http://212.8.243.65:2095/mario11/7ULA8op2CK/42
+#EXTINF:0,TV Kopliku
+http://212.8.243.65:2095/mario11/7ULA8op2CK/41
+#EXTINF:0,TV 1 Shkoder
+http://212.8.243.65:2095/mario11/7ULA8op2CK/40
+#EXTINF:0,AL: JUG TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/39
+#EXTINF:0,Klan Kosova HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/38
+#EXTINF:0,AL: ALSAT M  HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/37
+#EXTINF:0,AL: ARTA NEWS
+http://212.8.243.65:2095/mario11/7ULA8op2CK/35
+#EXTINF:0,AL: Besa TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/34
+#EXTINF:0,AL: Dasma TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/33
+#EXTINF:0,AL: Kitchen24 shqip
+http://212.8.243.65:2095/mario11/7ULA8op2CK/36
+#EXTINF:0,AL: MTV Kosova
+http://212.8.243.65:2095/mario11/7ULA8op2CK/32
+#EXTINF:0,AL: Tribuna Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/30
+#EXTINF:0,AL: TV Mitrovica
+http://212.8.243.65:2095/mario11/7ULA8op2CK/29
+#EXTINF:0,AL: TV Opoja
+http://212.8.243.65:2095/mario11/7ULA8op2CK/28
+#EXTINF:0,AL: TV Tetova
+http://212.8.243.65:2095/mario11/7ULA8op2CK/27
+#EXTINF:0,AL:Camel TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/26
+#EXTINF:0,AL:Syri Blue HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/23
+#EXTINF:0,LUXE TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3503
+#EXTINF:0,---Femije---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/22
+#EXTINF:0,Kids
+http://212.8.243.65:2095/mario11/7ULA8op2CK/21
+#EXTINF:0,Cufo TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/20
+#EXTINF:0,Bang Bang
+http://212.8.243.65:2095/mario11/7ULA8op2CK/19
+#EXTINF:0,Baby TV Digitalb
+http://212.8.243.65:2095/mario11/7ULA8op2CK/18
+#EXTINF:0,Junior TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/17
+#EXTINF:0,Tip TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/16
+#EXTINF:0,Tring Tring
+http://212.8.243.65:2095/mario11/7ULA8op2CK/15
+#EXTINF:0,Disney Channel Albania
+http://212.8.243.65:2095/mario11/7ULA8op2CK/14
+#EXTINF:0,---Kosovare---
+http://212.8.243.65:2095/mario11/7ULA8op2CK/13
+#EXTINF:0,Ktv HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/12
+#EXTINF:0,RRokum
+http://212.8.243.65:2095/mario11/7ULA8op2CK/11
+#EXTINF:0,RTK 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/10
+#EXTINF:0,RTK 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/9
+#EXTINF:0,RTK 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/8
+#EXTINF:0,RTK 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/7
+#EXTINF:0,RTV 21
+http://212.8.243.65:2095/mario11/7ULA8op2CK/6
+#EXTINF:0,RTV 21 Junior
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5
+#EXTINF:0,RTV 21 M
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1
+#EXTINF:0,RTV 21 Plus
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4
+#EXTINF:0,RTV 21 Popullore
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3
+#EXTINF:0,AL : TV Shenja
+http://212.8.243.65:2095/mario11/7ULA8op2CK/2
+#EXTINF:0,mk: Kanal 5
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4365
+#EXTINF:0,mk: MRT 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4366
+#EXTINF:0,mk: Sitel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4364
+#EXTINF:0,mk: Telma
+http://212.8.243.65:2095/mario11/7ULA8op2CK/4367
+#EXTINF:0,GR: ERT HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/515
+#EXTINF:0,GR: ERT 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/514
+#EXTINF:0,GR: ERT 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/513
+#EXTINF:0,GR: ERT 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/512
+#EXTINF:0,GR: ANT1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/510
+#EXTINF:0,GR: SKAI
+http://212.8.243.65:2095/mario11/7ULA8op2CK/511
+#EXTINF:0,GR: STAR
+http://212.8.243.65:2095/mario11/7ULA8op2CK/509
+#EXTINF:0,GR: EPSILON
+http://212.8.243.65:2095/mario11/7ULA8op2CK/508
+#EXTINF:0,GR: ALPHA
+http://212.8.243.65:2095/mario11/7ULA8op2CK/507
+#EXTINF:0,GR: ITV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3498
+#EXTINF:0,GR: M.tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3499
+#EXTINF:0,GR: START TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3500
+#EXTINF:0,GR: VOULI
+http://212.8.243.65:2095/mario11/7ULA8op2CK/3501
+#EXTINF:0,GR: Cosmote Cinema 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/505
+#EXTINF:0,GR: Cosmote Cinema 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/504
+#EXTINF:0,GR: Cosmote Cinema 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/503
+#EXTINF:0,GR: Cosmote Cinema 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/502
+#EXTINF:0,GR: VILLAGE Cinema
+http://212.8.243.65:2095/mario11/7ULA8op2CK/500
+#EXTINF:0,GR: Cosmote Sport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/523
+#EXTINF:0,GR: Cosmote Sport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/522
+#EXTINF:0,GR: Cosmote Sport 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/521
+#EXTINF:0,GR: Cosmote Sport 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/520
+#EXTINF:0,GR: Cosmote Sport 5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/519
+#EXTINF:0,GR: Cosmote Sport 6 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/518
+#EXTINF:0,GR: Cosmote Sport 7 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/517
+#EXTINF:0,GR: Cosmote Sport 8 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/516
+#EXTINF:0,GR: ANIMAL PLANET
+http://212.8.243.65:2095/mario11/7ULA8op2CK/527
+#EXTINF:0,GR: DISCOVERY
+http://212.8.243.65:2095/mario11/7ULA8op2CK/525
+#EXTINF:0,GR: NAT GEO WILD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/528
+#EXTINF:0,GR: NICKELODEON
+http://212.8.243.65:2095/mario11/7ULA8op2CK/524
+#EXTINF:0,GR: Discovery Showcase HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/526
+#EXTINF:0,ES: #0 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/816
+#EXTINF:0,ES: AMC HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/815
+#EXTINF:0,ES: Antena 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/814
+#EXTINF:0,ES: AXN HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/813
+#EXTINF:0,ES: AXN White HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/812
+#EXTINF:0,ES: Bein La Liga HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/811
+#EXTINF:0,ES: Bein Sports HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/810
+#EXTINF:0,ES: Calle 13 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/809
+#EXTINF:0,ES: Comedy Central HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/808
+#EXTINF:0,ES: Cosmo HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/807
+#EXTINF:0,ES: Cuatro HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/806
+#EXTINF:0,ES: Eurosport 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/805
+#EXTINF:0,ES: Fox HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/804
+#EXTINF:0,ES: Fox Life HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/803
+#EXTINF:0,ES: Hollywood HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/802
+#EXTINF:0,ES: La 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/801
+#EXTINF:0,ES: La Liga TV Bar HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/800
+#EXTINF:0,ES: Mega TV HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/798
+#EXTINF:0,ES: Moviestar Accion HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/797
+#EXTINF:0,ES: Moviestar Comedia HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/796
+#EXTINF:0,ES: Moviestar Dcine HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/795
+#EXTINF:0,ES: Moviestar Deportes 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/794
+#EXTINF:0,ES: Moviestar Deportes 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/793
+#EXTINF:0,ES: Moviestar Estrenos HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/792
+#EXTINF:0,ES: Moviestar F1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/791
+#EXTINF:0,ES: Moviestar Futbol HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/790
+#EXTINF:0,ES: Moviestar Golf HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/789
+#EXTINF:0,ES: Moviestar MotoGP HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/788
+#EXTINF:0,ES: Moviestar Series HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/787
+#EXTINF:0,ES: Moviestar Series Xtra HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/786
+#EXTINF:0,ES: Moviestar Xtra HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/785
+#EXTINF:0,ES: Nat Geo HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/784
+#EXTINF:0,ES: Nat Geo Wild HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/783
+#EXTINF:0,ES: NIckelodeon HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/782
+#EXTINF:0,ES: SYFY HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/781
+#EXTINF:0,ES: TCM HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/780
+#EXTINF:0,ES: Telecinco HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/779
+#EXTINF:0,ES: TNT HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/778
+#EXTINF:0,ES: Viajar HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/777
+#EXTINF:0,NL: --------NETHERLAND--------
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5157
+#EXTINF:0,NL: NPO 1HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5156
+#EXTINF:0,NL: NPO 2HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5155
+#EXTINF:0,NL: NPO 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5154
+#EXTINF:0,NL: RTL4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5153
+#EXTINF:0,NL: RTL5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5152
+#EXTINF:0,NL: SBS6 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5151
+#EXTINF:0,NL: RTL7 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5150
+#EXTINF:0,NL: RTL 8 Telekids
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5149
+#EXTINF:0,NL: SBS 9
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5148
+#EXTINF:0,NL: RTL Z
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5147
+#EXTINF:0,NL: RTL LOUNGE
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5146
+#EXTINF:0,NL: Net 5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5145
+#EXTINF:0,NL: NPO Politiek
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5144
+#EXTINF:0,NL: FOX HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5143
+#EXTINF:0,NL: Film FAMILY
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5142
+#EXTINF:0,NL: Film DRAMA
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5141
+#EXTINF:0,NL: Film Action
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5140
+#EXTINF:0,NL: Comedy Central
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5138
+#EXTINF:0,NL: Comedy Central Extra.
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5139
+#EXTINF:0,NL: Crime & Investigation
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5137
+#EXTINF:0,NL: RTL Crime
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5136
+#EXTINF:0,NL: DISCOVERY
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5135
+#EXTINF:0,NL: National Geographic HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5134
+#EXTINF:0,NL: Disney Channel HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5133
+#EXTINF:0,NL: Disney Junior
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5132
+#EXTINF:0,NL: Fox Sports 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5125
+#EXTINF:0,NL: Fox Sports 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5124
+#EXTINF:0,NL: Fox Sports 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5123
+#EXTINF:0,NL: Fox Sports 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5122
+#EXTINF:0,NL: Fox Sports 5 Hd
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5121
+#EXTINF:0,NL: Fox Sports 6 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5120
+#EXTINF:0,NL: Ziggo Sport eXtra 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5128
+#EXTINF:0,NL: Ziggo Sport eXtra 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5127
+#EXTINF:0,NL: Ziggo Sport Golf
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5131
+#EXTINF:0,NL: Ziggo Sport Racing
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5130
+#EXTINF:0,NL: Ziggo Sport Select HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5126
+#EXTINF:0,NL: Ziggo Sport Voetbal HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5129
+#EXTINF:0,----------- TR -----------------
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1403
+#EXTINF:0,TR: Atv Tv HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1399
+#EXTINF:0,TR: FOX TV HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1388
+#EXTINF:0,TR: KANAL 7 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1385
+#EXTINF:0,TR: Kanal Avrupa
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1384
+#EXTINF:0,TR: Show Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1375
+#EXTINF:0,TR: STAR TV HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1371
+#EXTINF:0,TR: TGRT HABER
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1370
+#EXTINF:0,TR: TRT 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1369
+#EXTINF:0,TR: TRT «ocuk
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1368
+#EXTINF:0,TR: TRT HABER
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1367
+#EXTINF:0,TR: TRT Okul
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1365
+#EXTINF:0,TR: TRT SPOR HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1364
+#EXTINF:0,TR: TRT T¸rk
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1363
+#EXTINF:0,TR:  Habert¸rk
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1402
+#EXTINF:0,TR: Animal Planet
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1400
+#EXTINF:0,TR: Belgesel HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1398
+#EXTINF:0,TR: BEYAZ TV HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1397
+#EXTINF:0,TR: Cem Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1396
+#EXTINF:0,TR: CNN TURK
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1395
+#EXTINF:0,TR: DISCOVERY CHANNEL HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1394
+#EXTINF:0,TR: DISNEY CHANNEL
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1393
+#EXTINF:0,TR: EUROSPORT 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1391
+#EXTINF:0,TR: EUROSPORT 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1390
+#EXTINF:0,TR: Flash TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1389
+#EXTINF:0,TR: FX Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1387
+#EXTINF:0,TR: Halk Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1386
+#EXTINF:0,TR: KANAL D HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1383
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1379
+#EXTINF:0,TR: NATIONAL GEOGRAPHIC WILD HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1378
+#EXTINF:0,TR: Semerkand
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1376
+#EXTINF:0,TR: SHOWMAX
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1374
+#EXTINF:0,TR: SINEMAX T‹RK
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1373
+#EXTINF:0,TR: Sky T¸rk 360
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1372
+#EXTINF:0,TR: Yol Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1361
+#EXTINF:0,TR:A_SPOR
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1360
+#EXTINF:0,TR:GS TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1358
+#EXTINF:0,---- Sporte ----
+http://212.8.243.65:2095/mario11/7ULA8op2CK/101
+#EXTINF:0,AR: beINSPORT 01 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/773
+#EXTINF:0,AR: beINSPORT 02 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/772
+#EXTINF:0,AR: beINSPORT 03 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/771
+#EXTINF:0,AR: beINSPORT 04 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/770
+#EXTINF:0,AR: beINSPORT 05 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/769
+#EXTINF:0,AR: beINSPORT 06 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/768
+#EXTINF:0,AR: beINSPORT 07 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/767
+#EXTINF:0,AR: beINSPORT 08 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/766
+#EXTINF:0,AR: beINSPORT 9 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/764
+#EXTINF:0,AR: beINSPORT 10 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/765
+#EXTINF:0,AR: --------FILM&SERIES--------
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5085
+#EXTINF:0,AR: Bein Movies 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/776
+#EXTINF:0,AR: Bein Movies 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/775
+#EXTINF:0,AR: Bein Movies 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/774
+#EXTINF:0,AR: MBC
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5084
+#EXTINF:0,AR: MBC 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5083
+#EXTINF:0,AR: MBC 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5082
+#EXTINF:0,AR: MBC 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5081
+#EXTINF:0,AR: MBC Action
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5079
+#EXTINF:0,AR: MBC Bollywood
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5078
+#EXTINF:0,AR: MBC Drama
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5077
+#EXTINF:0,AR: MBC Masr
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5076
+#EXTINF:0,AR: MBC Masr2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5075
+#EXTINF:0,AR: MBC MAX
+http://212.8.243.65:2095/mario11/7ULA8op2CK/5080
 #EXTINF:0,RO: TVR 1
-http://kalitetv.world:8080/live/xmen/xmen/16870.ts
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1459
 #EXTINF:0,RO: TVR 2
-http://kalitetv.world:8080/live/xmen/xmen/16869.ts
-#EXTINF:0,RO: U TV
-http://kalitetv.world:8080/live/xmen/xmen/16868.ts
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1458
+#EXTINF:0,RO: TVR 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1477
+#EXTINF:0,RO: Antena 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1471
+#EXTINF:0,RO: Boomerang
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1482
+#EXTINF:0,RO: Pro TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1464
+#EXTINF:0,RO: Procinema
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1463
+#EXTINF:0,RO: Realitatea Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1472
+#EXTINF:0,RO: Romania TV
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1462
+#EXTINF:0,RO: Sport
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1461
+#EXTINF:0,RO: TLC
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1484
+#EXTINF:0,RO: TV Paprika
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1483
+#EXTINF:0,RO: Digi 24
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1481
+#EXTINF:0,RO: Digi film
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1480
+#EXTINF:0,RO: Digi Life
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1470
+#EXTINF:0,RO: DIGI SPORT 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1456
+#EXTINF:0,RO: DIGI SPORT 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1454
+#EXTINF:0,RO: DIGI SPORT 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1453
+#EXTINF:0,RO: Etno Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1479
+#EXTINF:0,RO: Favorit Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1478
+#EXTINF:0,RO: Kanal D
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1468
+#EXTINF:0,RO: Megamax
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1467
+#EXTINF:0,RO: Minimax
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1474
+#EXTINF:0,RO: Nickelodeon
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1473
+#EXTINF:0,RO: Disney Junior
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1469
+#EXTINF:0,RO: National Geo Wild
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1466
+#EXTINF:0,RO: National Geographic
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1465
 #EXTINF:0,RO: Viasat History
-http://kalitetv.world:8080/live/xmen/xmen/16867.ts
-#EXTINF:0,RO: Viasat Nature
-http://kalitetv.world:8080/live/xmen/xmen/16866.ts
-#EXTINF:0,RO: Viasat Network
-http://kalitetv.world:8080/live/xmen/xmen/16865.ts
-#EXTINF:0,BG I  ACTION PLUS HD
-http://kalitetv.world:8080/live/xmen/xmen/16671.ts
-#EXTINF:0,BG I  BALCANIKA MUZIC HD
-http://kalitetv.world:8080/live/xmen/xmen/16672.ts
-#EXTINF:0,BG I  BNT 1
-http://kalitetv.world:8080/live/xmen/xmen/16673.ts
-#EXTINF:0,BG I  BNT 2
-http://kalitetv.world:8080/live/xmen/xmen/16674.ts
-#EXTINF:0,BG I  BTV
-http://kalitetv.world:8080/live/xmen/xmen/16675.ts
-#EXTINF:0,BG I  BTV ACTION
-http://kalitetv.world:8080/live/xmen/xmen/16676.ts
-#EXTINF:0,BG I  BTV CINEMA
-http://kalitetv.world:8080/live/xmen/xmen/16677.ts
-#EXTINF:0,BG I  BTV COMEDY
-http://kalitetv.world:8080/live/xmen/xmen/16678.ts
-#EXTINF:0,BG I  BTV LADY
-http://kalitetv.world:8080/live/xmen/xmen/16679.ts
-#EXTINF:0,BG I  CARTOON NETWORK
-http://kalitetv.world:8080/live/xmen/xmen/16680.ts
-#EXTINF:0,BG I  CINEMA PLUS
-http://kalitetv.world:8080/live/xmen/xmen/16681.ts
-#EXTINF:0,BG I  CITY TV
-http://kalitetv.world:8080/live/xmen/xmen/16682.ts
-#EXTINF:0,BG I  DIEMA FAMILY
-http://kalitetv.world:8080/live/xmen/xmen/16683.ts
-#EXTINF:0,BG I  DIEMA SPORT 1
-http://kalitetv.world:8080/live/xmen/xmen/16684.ts
-#EXTINF:0,BG I  DIEMA SPORT 2
-http://kalitetv.world:8080/live/xmen/xmen/16685.ts
-#EXTINF:0,BG I  DIEMA TV
-http://kalitetv.world:8080/live/xmen/xmen/16686.ts
-#EXTINF:0,BG I  DISCOVERY CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/16687.ts
-#EXTINF:0,BG I  DISNEY CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/16688.ts
-#EXTINF:0,BG I  DUCK TV
-http://kalitetv.world:8080/live/xmen/xmen/16689.ts
-#EXTINF:0,BG I  F
-http://kalitetv.world:8080/live/xmen/xmen/16690.ts
-#EXTINF:0,BG I  FEN TV
-http://kalitetv.world:8080/live/xmen/xmen/16691.ts
-#EXTINF:0,BG I  KANAL 3
-http://kalitetv.world:8080/live/xmen/xmen/16692.ts
-#EXTINF:0,BG I  NAT GEO CHANNEL
-http://kalitetv.world:8080/live/xmen/xmen/16693.ts
-#EXTINF:0,BG I  NAT GEO WILD
-http://kalitetv.world:8080/live/xmen/xmen/16694.ts
-#EXTINF:0,BG I  NOVA SPORT
-http://kalitetv.world:8080/live/xmen/xmen/16695.ts
-#EXTINF:0,BG I  NOVA TV
-http://kalitetv.world:8080/live/xmen/xmen/16696.ts
-#EXTINF:0,BG I  SPORT PLUS
-http://kalitetv.world:8080/live/xmen/xmen/16697.ts
-#EXTINF:0,BG I  THE VOICE
-http://kalitetv.world:8080/live/xmen/xmen/16698.ts
-#EXTINF:0,BG I  TV PLUS
-http://kalitetv.world:8080/live/xmen/xmen/16699.ts
-#EXTINF:0,GR I Alert TV
-http://kalitetv.world:8080/live/xmen/xmen/16822.ts
-#EXTINF:0,GR I Alpha
-http://kalitetv.world:8080/live/xmen/xmen/16821.ts
-#EXTINF:0,GR I Ant1
-http://kalitetv.world:8080/live/xmen/xmen/16820.ts
-#EXTINF:0,GR I Astra
-http://kalitetv.world:8080/live/xmen/xmen/16819.ts
-#EXTINF:0,GR I Attica
-http://kalitetv.world:8080/live/xmen/xmen/16818.ts
-#EXTINF:0,GR I BBC
-http://kalitetv.world:8080/live/xmen/xmen/16817.ts
-#EXTINF:0,GR I Blue Sky
-http://kalitetv.world:8080/live/xmen/xmen/16816.ts
-#EXTINF:0,GR I Diavata TV
-http://kalitetv.world:8080/live/xmen/xmen/16815.ts
-#EXTINF:0,GR I ERT 1
-http://kalitetv.world:8080/live/xmen/xmen/16814.ts
-#EXTINF:0,GR I ERT 2
-http://kalitetv.world:8080/live/xmen/xmen/16813.ts
-#EXTINF:0,GR I ERT HD
-http://kalitetv.world:8080/live/xmen/xmen/16812.ts
-#EXTINF:0,GR I Eurosport
-http://kalitetv.world:8080/live/xmen/xmen/16811.ts
-#EXTINF:0,GR I MEGA
-http://kalitetv.world:8080/live/xmen/xmen/16810.ts
-#EXTINF:0,GR I STAR
-http://kalitetv.world:8080/live/xmen/xmen/16809.ts
-#EXTINF:0,GR I TLC
-http://kalitetv.world:8080/live/xmen/xmen/16808.ts
-#EXTINF:0,GR I Zougla
-http://kalitetv.world:8080/live/xmen/xmen/16807.ts
-#EXTINF:0,EX-YU I  ALFA MK
-http://kalitetv.world:8080/live/xmen/xmen/16719.ts
-#EXTINF:0,EX-YU I  CINEMAX1
-http://kalitetv.world:8080/live/xmen/xmen/16701.ts
-#EXTINF:0,EX-YU I  CINESTAR PREMIERE 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16702.ts
-#EXTINF:0,EX-YU I  HRT 1
-http://kalitetv.world:8080/live/xmen/xmen/16703.ts
-#EXTINF:0,EX-YU I  HRT 2
-http://kalitetv.world:8080/live/xmen/xmen/16704.ts
-#EXTINF:0,EX-YU I  HRT 3
-http://kalitetv.world:8080/live/xmen/xmen/16705.ts
-#EXTINF:0,EX-YU I  HRT 4
-http://kalitetv.world:8080/live/xmen/xmen/16706.ts
-#EXTINF:0,EX-YU I  NAT GEOGRAPHIC
-http://kalitetv.world:8080/live/xmen/xmen/16707.ts
-#EXTINF:0,EX-YU I  NOVA TV
-http://kalitetv.world:8080/live/xmen/xmen/16708.ts
-#EXTINF:0,EX-YU I  OBN TV
-http://kalitetv.world:8080/live/xmen/xmen/16709.ts
-#EXTINF:0,EX-YU I  PINK  SCI-FI
-http://kalitetv.world:8080/live/xmen/xmen/16716.ts
-#EXTINF:0,EX-YU I  PINK ACTION
-http://kalitetv.world:8080/live/xmen/xmen/16710.ts
-#EXTINF:0,EX-YU I  PINK EXTRA
-http://kalitetv.world:8080/live/xmen/xmen/16700.ts
-#EXTINF:0,EX-YU I  PINK HOROR
-http://kalitetv.world:8080/live/xmen/xmen/16711.ts
-#EXTINF:0,EX-YU I  PINK PLUS
-http://kalitetv.world:8080/live/xmen/xmen/16712.ts
-#EXTINF:0,EX-YU I  PINK PREMIUM
-http://kalitetv.world:8080/live/xmen/xmen/16713.ts
-#EXTINF:0,EX-YU I  PINK REALITY
-http://kalitetv.world:8080/live/xmen/xmen/16714.ts
-#EXTINF:0,EX-YU I  PINK ROMANCE
-http://kalitetv.world:8080/live/xmen/xmen/16715.ts
-#EXTINF:0,EX-YU I  PINK THRILLER
-http://kalitetv.world:8080/live/xmen/xmen/16717.ts
-#EXTINF:0,EX-YU I  PINK WESTERN
-http://kalitetv.world:8080/live/xmen/xmen/16718.ts
-#EXTINF:0,EX-YU I  RS1
-http://kalitetv.world:8080/live/xmen/xmen/16720.ts
-#EXTINF:0,EX-YU I  RTL HD
-http://kalitetv.world:8080/live/xmen/xmen/16721.ts
-#EXTINF:0,EX-YU I  RTRS
-http://kalitetv.world:8080/live/xmen/xmen/16722.ts
-#EXTINF:0,EX-YU I  RTS2
-http://kalitetv.world:8080/live/xmen/xmen/16723.ts
-#EXTINF:0,AR I ALJAZZERA HD
-http://kalitetv.world:8080/live/xmen/xmen/16804.ts
-#EXTINF:0,AR I ALJEZEERA
-http://kalitetv.world:8080/live/xmen/xmen/16803.ts
-#EXTINF:0,AR I BEIN MOVIES 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/16802.ts
-#EXTINF:0,AR I BEIN MOVIES 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/16801.ts
-#EXTINF:0,AR I BEIN MOVIES 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/16800.ts
-#EXTINF:0,AR I BEINSPORT
-http://kalitetv.world:8080/live/xmen/xmen/16760.ts
-#EXTINF:0,AR I BEINSPORT HD1
-http://kalitetv.world:8080/live/xmen/xmen/16761.ts
-#EXTINF:0,AR I BEINSPORT HD10
-http://kalitetv.world:8080/live/xmen/xmen/16762.ts
-#EXTINF:0,AR I BEINSPORT HD11
-http://kalitetv.world:8080/live/xmen/xmen/16763.ts
-#EXTINF:0,AR I BEINSPORT HD2
-http://kalitetv.world:8080/live/xmen/xmen/16764.ts
-#EXTINF:0,AR I BEINSPORT HD3
-http://kalitetv.world:8080/live/xmen/xmen/16765.ts
-#EXTINF:0,AR I BEINSPORT HD4
-http://kalitetv.world:8080/live/xmen/xmen/16766.ts
-#EXTINF:0,AR I BEINSPORT HD5
-http://kalitetv.world:8080/live/xmen/xmen/16767.ts
-#EXTINF:0,AR I BEINSPORT HD6
-http://kalitetv.world:8080/live/xmen/xmen/16768.ts
-#EXTINF:0,AR I BEINSPORT HD7
-http://kalitetv.world:8080/live/xmen/xmen/16769.ts
-#EXTINF:0,AR I BEINSPORT HD8
-http://kalitetv.world:8080/live/xmen/xmen/16770.ts
-#EXTINF:0,AR I BEINSPORT HD9
-http://kalitetv.world:8080/live/xmen/xmen/16771.ts
-#EXTINF:0,AR I CINEMA 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/25850.ts
-#EXTINF:0,AR I DUBAI TV HD
-http://kalitetv.world:8080/live/xmen/xmen/25849.ts
-#EXTINF:0,AR I KUWAIT TV 1
-http://kalitetv.world:8080/live/xmen/xmen/25848.ts
-#EXTINF:0,AR I KUWAIT TV 2
-http://kalitetv.world:8080/live/xmen/xmen/25847.ts
-#EXTINF:0,AR I KUWAIT TV 3
-http://kalitetv.world:8080/live/xmen/xmen/25846.ts
-#EXTINF:0,AR I MBC BOLLYWOOD
-http://kalitetv.world:8080/live/xmen/xmen/25845.ts
-#EXTINF:0,AR I MBC MASR
-http://kalitetv.world:8080/live/xmen/xmen/25844.ts
-#EXTINF:0,AR I MBC MASR 2
-http://kalitetv.world:8080/live/xmen/xmen/25843.ts
-#EXTINF:0,AR I MBC1 HD
-http://kalitetv.world:8080/live/xmen/xmen/25842.ts
-#EXTINF:0,AR I MOUSALSALAT HD
-http://kalitetv.world:8080/live/xmen/xmen/25841.ts
-#EXTINF:0,AR I NILE DRAMA
-http://kalitetv.world:8080/live/xmen/xmen/25840.ts
-#EXTINF:0,AR I NILE FAMILY
-http://kalitetv.world:8080/live/xmen/xmen/25839.ts
-#EXTINF:0,AR I OSN MBC DRAMA HD
-http://kalitetv.world:8080/live/xmen/xmen/25838.ts
-#EXTINF:0,AR I OSN MOVIES ACTION 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/25837.ts
-#EXTINF:0,AR I OSN MOVIES ACTION HD
-http://kalitetv.world:8080/live/xmen/xmen/25836.ts
-#EXTINF:0,AR I OSN MOVIES HD
-http://kalitetv.world:8080/live/xmen/xmen/25835.ts
-#EXTINF:0,AR I OSN MOVIES PREMIERE HD
-http://kalitetv.world:8080/live/xmen/xmen/25834.ts
-#EXTINF:0,AR I OSN ON DEMAND 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/25833.ts
-#EXTINF:0,AR I OSN SPORT 1 HD
-http://kalitetv.world:8080/live/xmen/xmen/25832.ts
-#EXTINF:0,AR I OSN SPORT 2 HD
-http://kalitetv.world:8080/live/xmen/xmen/25831.ts
-#EXTINF:0,AR I OSN SPORT 3 HD
-http://kalitetv.world:8080/live/xmen/xmen/25830.ts
-#EXTINF:0,AR I OSN SPORT 4 HD
-http://kalitetv.world:8080/live/xmen/xmen/25829.ts
-#EXTINF:0,AR I OSN SPORT 5 HD
-http://kalitetv.world:8080/live/xmen/xmen/25828.ts
-#EXTINF:0,AR I OSN YAHALA CINEMA HD
-http://kalitetv.world:8080/live/xmen/xmen/25827.ts
-#EXTINF:0,AR I OSN YAHALA DRAMA HD
-http://kalitetv.world:8080/live/xmen/xmen/25826.ts
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1475
+#EXTINF:0,RO:Taraf Tv
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1460
+#EXTINF:0,PL: Canal  HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1447
+#EXTINF:0,PL: Canal  Film HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1448
+#EXTINF:0,PL: CANAL  FAMILY HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1449
+#EXTINF:0,PL: Canal  Seriale HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1446
+#EXTINF:0,PL: Filmbox Family
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1431
+#EXTINF:0,PL: Filmbox HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1430
+#EXTINF:0,PL: FOX
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1429
+#EXTINF:0,PL: HBO 1 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1428
+#EXTINF:0,PL: HBO 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1427
+#EXTINF:0,PL: HBO 3 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1426
+#EXTINF:0,PL: Polsat
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1418
+#EXTINF:0,PL: Polsat 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1417
+#EXTINF:0,PL: Polsat Film HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1416
+#EXTINF:0,PL: Polsat News
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1415
+#EXTINF:0,PL: Comedy Central
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1443
+#EXTINF:0,PL: Canal  Sport HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1444
+#EXTINF:0,PL: Canal  Sport 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1445
+#EXTINF:0,PL: Eleven Sports 1 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1437
+#EXTINF:0,PL: Eleven Sports 2 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1436
+#EXTINF:0,PL: Eleven Sports 3 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1435
+#EXTINF:0,PL: Eleven Sports 4 FHD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1434
+#EXTINF:0,PL: Extreme Sports HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1433
+#EXTINF:0,PL: Polsat Sport Extra HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1414
+#EXTINF:0,PL: Polsat Sport Fight HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1413
+#EXTINF:0,PL: Polsat Sport HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1412
+#EXTINF:0,PL: Polsat Sport News HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1411
+#EXTINF:0,PL: TVP Sport HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1406
+#EXTINF:0,PL: DTX
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1438
+#EXTINF:0,PL: History
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1425
+#EXTINF:0,PL: Canal  Discovery HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1450
+#EXTINF:0,PL: Discovery Science HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1441
+#EXTINF:0,PL: Investigation Discovery
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1424
+#EXTINF:0,PL: Nat Geo
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1420
+#EXTINF:0,PL: Nat Geo Wild
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1419
+#EXTINF:0,PL: Discovery Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1442
+#EXTINF:0,PL: Boomerang
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1451
+#EXTINF:0,PL: Disney Junior
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1440
+#EXTINF:0,PL: Disney XD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1439
+#EXTINF:0,PL: MiniMini  HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/1422
+#EXTINF:0,*****DJECIJI KANALI*****
+http://212.8.243.65:2095/mario11/7ULA8op2CK/880
+#EXTINF:0,EX: HRT 1 (HR)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/932
+#EXTINF:0,EX: HRT 2 (HR)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/931
+#EXTINF:0,EX: HRT 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/930
+#EXTINF:0,EX: HRT 4
+http://212.8.243.65:2095/mario11/7ULA8op2CK/929
+#EXTINF:0,ES: La 2 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/799
+#EXTINF:0,EX: Al Jazeera Balkans
+http://212.8.243.65:2095/mario11/7ULA8op2CK/919
+#EXTINF:0,EX: AMC
+http://212.8.243.65:2095/mario11/7ULA8op2CK/906
+#EXTINF:0,*****PINKOVI*****
+http://212.8.243.65:2095/mario11/7ULA8op2CK/904
+#EXTINF:0,ex: PINK
+http://212.8.243.65:2095/mario11/7ULA8op2CK/903
+#EXTINF:0,EX: PINK 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/902
+#EXTINF:0,EX: PINK 3
+http://212.8.243.65:2095/mario11/7ULA8op2CK/901
+#EXTINF:0,EX: PINK ACTION
+http://212.8.243.65:2095/mario11/7ULA8op2CK/900
+#EXTINF:0,EX: PINK COMEDY
+http://212.8.243.65:2095/mario11/7ULA8op2CK/899
+#EXTINF:0,EX: PINK CRIME & MYSTERY
+http://212.8.243.65:2095/mario11/7ULA8op2CK/898
+#EXTINF:0,EX: PINK FILM
+http://212.8.243.65:2095/mario11/7ULA8op2CK/897
+#EXTINF:0,EX: PINK FOLK 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/886
+#EXTINF:0,EX: PINK HORROR
+http://212.8.243.65:2095/mario11/7ULA8op2CK/896
+#EXTINF:0,EX: PINK KIDS
+http://212.8.243.65:2095/mario11/7ULA8op2CK/879
+#EXTINF:0,EX: PINK PREMIUM
+http://212.8.243.65:2095/mario11/7ULA8op2CK/895
+#EXTINF:0,EX: PINK REALITY
+http://212.8.243.65:2095/mario11/7ULA8op2CK/894
+#EXTINF:0,EX: PINK ROMANCE
+http://212.8.243.65:2095/mario11/7ULA8op2CK/893
+#EXTINF:0,EX: PINK SCI-FI & FANTASY
+http://212.8.243.65:2095/mario11/7ULA8op2CK/892
+#EXTINF:0,EX: PINK SOAP
+http://212.8.243.65:2095/mario11/7ULA8op2CK/891
+#EXTINF:0,EX: PINK THRILLER
+http://212.8.243.65:2095/mario11/7ULA8op2CK/890
+#EXTINF:0,EX: PINK WESTERN
+http://212.8.243.65:2095/mario11/7ULA8op2CK/889
+#EXTINF:0,*****FILMSKI*****
+http://212.8.243.65:2095/mario11/7ULA8op2CK/914
+#EXTINF:0,EX: RTL
+http://212.8.243.65:2095/mario11/7ULA8op2CK/928
+#EXTINF:0,EX: RTL 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/927
+#EXTINF:0,EX: RTL CRIME
+http://212.8.243.65:2095/mario11/7ULA8op2CK/926
+#EXTINF:0,EX: RTL Kockica
+http://212.8.243.65:2095/mario11/7ULA8op2CK/875
+#EXTINF:0,EX: RTL LIVING
+http://212.8.243.65:2095/mario11/7ULA8op2CK/925
+#EXTINF:0,EX: RTL PASSION HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/924
+#EXTINF:0,EX: HBO 1
+http://212.8.243.65:2095/mario11/7ULA8op2CK/912
+#EXTINF:0,EX: HBO 2
+http://212.8.243.65:2095/mario11/7ULA8op2CK/911
+#EXTINF:0,EX: HBO HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/913
+#EXTINF:0,EX: Fox Movies
+http://212.8.243.65:2095/mario11/7ULA8op2CK/907
+#EXTINF:0,EX: FOX HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/909
+#EXTINF:0,EX: Fox Life CRO
+http://212.8.243.65:2095/mario11/7ULA8op2CK/908
+#EXTINF:0,EX: Fox Crime CRO
+http://212.8.243.65:2095/mario11/7ULA8op2CK/910
+#EXTINF:0,EX: ARENA 1HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/861
+#EXTINF:0,EX: ARENA 2HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/860
+#EXTINF:0,EX: ARENA 3HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/859
+#EXTINF:0,EX: ARENA 4HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/858
+#EXTINF:0,EX: ARENA 5 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/857
+#EXTINF:0,EX: ARENA 6 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/856
+#EXTINF:0,EX: SPORT KLUB 1  (SR)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/855
+#EXTINF:0,EX: SPORT KLUB 2 (RS)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/854
+#EXTINF:0,EX: SPORT KLUB 3 HD (SR)
+http://212.8.243.65:2095/mario11/7ULA8op2CK/853
+#EXTINF:0,EX: SPORT KLUB 4 HD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/852
+#EXTINF:0,EX: SPORT KLUB 5
+http://212.8.243.65:2095/mario11/7ULA8op2CK/851
+#EXTINF:0,EX: SPORT KLUB 6
+http://212.8.243.65:2095/mario11/7ULA8op2CK/850
+#EXTINF:0,EX: TK TUZLA
+http://212.8.243.65:2095/mario11/7ULA8op2CK/916
+#EXTINF:0,EX: TV SARAJEVO
+http://212.8.243.65:2095/mario11/7ULA8op2CK/915
+#EXTINF:0,*****DOCUMENTARNI*****
+http://212.8.243.65:2095/mario11/7ULA8op2CK/874
+#EXTINF:0,EX: Discovery Channel
+http://212.8.243.65:2095/mario11/7ULA8op2CK/872
+#EXTINF:0,EX: Nat Geo WILD
+http://212.8.243.65:2095/mario11/7ULA8op2CK/873
+#EXTINF:0,EX: National Geographic
+http://212.8.243.65:2095/mario11/7ULA8op2CK/871
+#EXTINF:0,EX: Viasat Explorer
+http://212.8.243.65:2095/mario11/7ULA8op2CK/870
+#EXTINF:0,EX: Viasat History
+http://212.8.243.65:2095/mario11/7ULA8op2CK/868
+#EXTINF:0,EX: Viasat Nature
+http://212.8.243.65:2095/mario11/7ULA8op2CK/869
