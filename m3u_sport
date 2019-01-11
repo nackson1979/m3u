@@ -1,25 +1,155 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 01
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13294
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 02
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13296
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 03
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13297
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 04
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13298
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 05
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13299
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 06
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13301
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 07
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13302
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 08
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13303
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 09
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13304
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 11
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13306
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn Sports 12
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13307
-#EXTINF:-1 tvg-logo="https://www.iptvsource.com/wp-content/uploads/2017/12/sprt.png",Bn  sports 10
-http://185.59.220.177:2095/rayjoecamp/6Hmko58bQ0/13305
+#EXTINF:-1,|AR| BEIN SPORTS 1
+http://premium-play.org:8000/saidclt201/XmQat4ju/2826
+#EXTINF:-1,|AR| BEIN SPORTS 2
+http://premium-play.org:8000/saidclt201/XmQat4ju/2827
+#EXTINF:-1,|AR| BEIN SPORTS 3
+http://premium-play.org:8000/saidclt201/XmQat4ju/2828
+#EXTINF:-1,|AR| BEIN SPORTS 4
+http://premium-play.org:8000/saidclt201/XmQat4ju/2829
+#EXTINF:-1,|AR| BEIN SPORTS 5
+http://premium-play.org:8000/saidclt201/XmQat4ju/2830
+#EXTINF:-1,|AR| BEIN SPORTS 6
+http://premium-play.org:8000/saidclt201/XmQat4ju/2831
+#EXTINF:-1,|AR| BEIN SPORTS 7
+http://premium-play.org:8000/saidclt201/XmQat4ju/2832
+#EXTINF:-1,|AR| BEIN SPORTS 8
+http://premium-play.org:8000/saidclt201/XmQat4ju/2833
+#EXTINF:-1,|AR| BEIN SPORTS 9
+http://premium-play.org:8000/saidclt201/XmQat4ju/2834
+#EXTINF:-1,|AR| BEIN SPORTS 10
+http://premium-play.org:8000/saidclt201/XmQat4ju/2835
+#EXTINF:-1,|AR| BEIN SPORTS 11 UK
+http://premium-play.org:8000/saidclt201/XmQat4ju/9817
+#EXTINF:-1,|AR| BEIN SPORTS 12 UK
+http://premium-play.org:8000/saidclt201/XmQat4ju/9818
+#EXTINF:-1,|AR| BEIN SPORTS 13 UK
+http://premium-play.org:8000/saidclt201/XmQat4ju/9819
+#EXTINF:-1,|FR| RMC SPORT NEWS
+http://premium-play.org:8000/saidclt201/XmQat4ju/5820
+#EXTINF:-1,|FR| RMC SPORT 1 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/7971
+#EXTINF:-1,|FR| RMC SPORT 1
+http://premium-play.org:8000/saidclt201/XmQat4ju/5562
+#EXTINF:-1,|FR| RMC SPORT 1 ACCESS HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17723
+#EXTINF:-1,|FR| RMC SPORT 2 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/5563
+#EXTINF:-1,|FR| RMC SPORT 2
+http://premium-play.org:8000/saidclt201/XmQat4ju/9824
+#EXTINF:-1,|FR| RMC SPORT 2 ACCESS HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17722
+#EXTINF:-1,|FR| RMC SPORT 3 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/5564
+#EXTINF:-1,|FR| RMC SPORT 3
+http://premium-play.org:8000/saidclt201/XmQat4ju/17720
+#EXTINF:-1,|FR| RMC SPORT 3 ACCESS HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17721
+#EXTINF:-1,|FR| RMC SPORT 4 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/9724
+#EXTINF:-1,|FR| RMC SPORT 4
+http://premium-play.org:8000/saidclt201/XmQat4ju/9825
+#EXTINF:-1,|FR| RMC SPORT LIVE 5 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17719
+#EXTINF:-1,|FR| RMC SPORT LIVE 6 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17718
+#EXTINF:-1,|FR| RMC SPORT LIVE 7 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17717
+#EXTINF:-1,|FR| RMC SPORT LIVE 8 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17716
+#EXTINF:-1,|FR| RMC SPORT LIVE 9 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17715
+#EXTINF:-1,|FR| RMC SPORT LIVE 10 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17714
+#EXTINF:-1,|FR| RMC SPORT LIVE 11 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17713
+#EXTINF:-1,|FR| RMC SPORT LIVE 12 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/17712
+#EXTINF:-1,|FR| BEIN SPORTS 1 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8952
+#EXTINF:-1,|FR| BEIN SPORTS 1
+http://premium-play.org:8000/saidclt201/XmQat4ju/7459
+#EXTINF:-1,|FR| BEIN SPORTS 2 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8951
+#EXTINF:-1,|FR| BEIN SPORTS 2
+http://premium-play.org:8000/saidclt201/XmQat4ju/7460
+#EXTINF:-1,|FR| BEIN SPORTS 3 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8950
+#EXTINF:-1,|FR| BEIN SPORTS 3
+http://premium-play.org:8000/saidclt201/XmQat4ju/7461
+#EXTINF:-1,|FR| INFOSPORT+ HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8942
+#EXTINF:-1,|FR| EUROSPORT 1 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8941
+#EXTINF:-1,|FR| EUROSPORT 2 HD
+http://premium-play.org:8000/saidclt201/XmQat4ju/8940
+
+
+#EXTINF:-1,Sky Sport 24 HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/63.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/64.ts
+#EXTINF:-1,Sky Sport Arena HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/65.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/70.ts
+#EXTINF:-1,Sky Sport MotoGP HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/71.ts
+#EXTINF:-1,Sky Sport NBA HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/67.ts
+#EXTINF:-1,Sky Sport Golf HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/68.ts
+#EXTINF:-1,EuroSport HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/72.ts
+#EXTINF:-1,EuroSport 2 HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/73.ts
+#EXTINF:-1,Rai Sport + HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/76.ts
+#EXTINF:-1,Sportitalia
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/69.ts
+#EXTINF:-1,DAZN SPORT 1
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6951.ts
+#EXTINF:-1,DAZN SPORT 2
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6952.ts
+#EXTINF:-1,DAZN SPORT 3
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6953.ts
+#EXTINF:-1,DAZN SPORT 4
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6954.ts
+#EXTINF:-1,DAZN SPORT 5
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6955.ts
+#EXTINF:-1,DAZN SPORT 6
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6956.ts
+#EXTINF:-1,DAZN SPORT 7
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6957.ts
+#EXTINF:-1,DAZN SPORT 8
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6958.ts
+#EXTINF:-1,DAZN SPORT 9
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6959.ts
+#EXTINF:-1,DAZN SPORT 10
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6960.ts
+#EXTINF:-1,DAZN SPORT 11
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6961.ts
+#EXTINF:-1,DAZN SPORT 12
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6962.ts
+#EXTINF:-1,DAZN SPORT 13
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6963.ts
+#EXTINF:-1,DAZN SPORT 14
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6964.ts
+#EXTINF:-1,Sky Sport 24 Super HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6531.ts
+#EXTINF:-1,Sky Sport 1 Super HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6530.ts
+#EXTINF:-1,Sky Sport  Arena  Super HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6529.ts
+#EXTINF:-1,Sky Sport Football  Super HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6528.ts
+#EXTINF:-1,Sky Sport Golf  Super HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6527.ts
+#EXTINF:-1,Sky Sport NBA Super HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6526.ts
+#EXTINF:-1,Sky Sport F1  SuperHD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6525.ts
+#EXTINF:-1,Sky Moto GP Super HD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6524.ts
+#EXTINF:-1,Sky Sport Serie A SuperHD
+http://iptvblu.dyndns.org:8000/live/CG259/ewPD3HDBlQ/6523.ts
