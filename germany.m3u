@@ -1,281 +1,395 @@
 #EXTM3U
-#EXTINF:0,AT: ORF 1 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/409.ts
-#EXTINF:0,AT: ORF 2 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/408.ts
-#EXTINF:0,AT: ATV HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2080.ts
-#EXTINF:0,AT: ATV 2
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2079.ts
-#EXTINF:0,AT: PULS 4
-http://212.232.29.250:8000/live/alisan1234/alisan1234/405.ts
-#EXTINF:0,DAS ERSTE HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/404.ts
-#EXTINF:0,FOX HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/382.ts
-#EXTINF:0,KABEL EINS HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/381.ts
-#EXTINF:0,KABEL 1
-http://212.232.29.250:8000/live/alisan1234/alisan1234/428.ts
-#EXTINF:0,KABEL EINS CLASSIC HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/380.ts
-#EXTINF:0,PROSIEBEN HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/379.ts
-#EXTINF:0,PRO 7
-http://212.232.29.250:8000/live/alisan1234/alisan1234/421.ts
-#EXTINF:0,PRO 7 MAXX
-http://212.232.29.250:8000/live/alisan1234/alisan1234/424.ts
-#EXTINF:0,PROSIEBEN Fun HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/377.ts
-#EXTINF:0,PROSIEBEN MAXX HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/378.ts
-#EXTINF:0,SUPER RTL HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/389.ts
-#EXTINF:0,SuperRTL
-http://212.232.29.250:8000/live/alisan1234/alisan1234/410.ts
-#EXTINF:0,RTL HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/396.ts
-#EXTINF:0,RTL
-http://212.232.29.250:8000/live/alisan1234/alisan1234/429.ts
-#EXTINF:0,RTL2 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/395.ts
-#EXTINF:0,RTL2
-http://212.232.29.250:8000/live/alisan1234/alisan1234/430.ts
-#EXTINF:0,RTL Crime HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/394.ts
-#EXTINF:0,RTL Living HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/393.ts
-#EXTINF:0,RTL ll You HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/392.ts
-#EXTINF:0,RTL Nitro HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/391.ts
-#EXTINF:0,RTL Passion HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/390.ts
-#EXTINF:0,SAT.1 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/387.ts
-#EXTINF:0,SAT1
-http://212.232.29.250:8000/live/alisan1234/alisan1234/431.ts
-#EXTINF:0,SAT.1 Emotions HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/385.ts
-#EXTINF:0,SAT.1 Gold HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/386.ts
-#EXTINF:0,SAT1 GOLD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/432.ts
-#EXTINF:0,ZDF HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/401.ts
+#EXTINF:0,Zee One FHD
+http://smart-hdip.com:6204/lava1/lava1/12389
+#EXTINF:0,Zee One
+http://smart-hdip.com:6204/lava1/lava1/12388
+#EXTINF:0,ZDF FHD
+http://smart-hdip.com:6204/lava1/lava1/12210
+#EXTINF:0,ZDF HD.
+http://smart-hdip.com:6204/lava1/lava1/12209
 #EXTINF:0,ZDF
-http://212.232.29.250:8000/live/alisan1234/alisan1234/416.ts
-#EXTINF:0,ZDF NEO HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/400.ts
-#EXTINF:0,ZDF NEO
-http://212.232.29.250:8000/live/alisan1234/alisan1234/417.ts
-#EXTINF:0,SERVUS TV HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/384.ts
-#EXTINF:0,VOX HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/397.ts
-#EXTINF:0,VOX
-http://212.232.29.250:8000/live/alisan1234/alisan1234/411.ts
-#EXTINF:0,ZEE ONE HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/348.ts
-#EXTINF:0,3SAT HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/399.ts
-#EXTINF:0,3Sat
-http://212.232.29.250:8000/live/alisan1234/alisan1234/420.ts
+http://smart-hdip.com:6204/lava1/lava1/12208
+#EXTINF:0,ZDF Neo FHD
+http://smart-hdip.com:6204/lava1/lava1/12206
+#EXTINF:0,ZDF Neo HD.
+http://smart-hdip.com:6204/lava1/lava1/12205
+#EXTINF:0,ZDF Neo
+http://smart-hdip.com:6204/lava1/lava1/12204
+#EXTINF:0,ZDF Info HD
+http://smart-hdip.com:6204/lava1/lava1/12207
+#EXTINF:0,VOX FHD
+http://smart-hdip.com:6204/lava1/lava1/12236
+#EXTINF:0,VOX  HD
+http://smart-hdip.com:6204/lava1/lava1/12235
+#EXTINF:0,VOX SD
+http://smart-hdip.com:6204/lava1/lava1/12234
+#EXTINF:0,Dmax HD.
+http://smart-hdip.com:6204/lava1/lava1/12361
+#EXTINF:0,RTL FHD
+http://smart-hdip.com:6204/lava1/lava1/12243
+#EXTINF:0,RTL HD.
+http://smart-hdip.com:6204/lava1/lava1/12242
+#EXTINF:0,RTL SD
+http://smart-hdip.com:6204/lava1/lava1/12241
+#EXTINF:0,RTL II FHD
+http://smart-hdip.com:6204/lava1/lava1/12240
+#EXTINF:0,RTL II HD
+http://smart-hdip.com:6204/lava1/lava1/12239
+#EXTINF:0,RTL II
+http://smart-hdip.com:6204/lava1/lava1/12238
+#EXTINF:0,RTL Nitro HD
+http://smart-hdip.com:6204/lava1/lava1/12217
+#EXTINF:0,RTL Living HD
+http://smart-hdip.com:6204/lava1/lava1/12362
+#EXTINF:0,RTL Passion HD
+http://smart-hdip.com:6204/lava1/lava1/12364
+#EXTINF:0,RTL Passion SD
+http://smart-hdip.com:6204/lava1/lava1/12363
+#EXTINF:0,RTL Crime SD
+http://smart-hdip.com:6204/lava1/lava1/12365
+#EXTINF:0,RTL Plus SD
+http://smart-hdip.com:6204/lava1/lava1/12237
+#EXTINF:0,Super RTL FHD
+http://smart-hdip.com:6204/lava1/lava1/12259
+#EXTINF:0,Super RTL HD
+http://smart-hdip.com:6204/lava1/lava1/12258
+#EXTINF:0,Super RTL SD
+http://smart-hdip.com:6204/lava1/lava1/12257
+#EXTINF:0,Arte FHD
+http://smart-hdip.com:6204/lava1/lava1/12202
+#EXTINF:0,Das Erste FHD
+http://smart-hdip.com:6204/lava1/lava1/12213
+#EXTINF:0,Das Erste HD.
+http://smart-hdip.com:6204/lava1/lava1/12212
+#EXTINF:0,Das Erste
+http://smart-hdip.com:6204/lava1/lava1/12211
+#EXTINF:0,Sat.1 FHD
+http://smart-hdip.com:6204/lava1/lava1/12233
+#EXTINF:0,Sat.1 HD.
+http://smart-hdip.com:6204/lava1/lava1/12232
+#EXTINF:0,Sat.1
+http://smart-hdip.com:6204/lava1/lava1/12231
+#EXTINF:0,Sat.1 Gold FHD
+http://smart-hdip.com:6204/lava1/lava1/12220
+#EXTINF:0,Sat.1 Gold SD
+http://smart-hdip.com:6204/lava1/lava1/12218
+#EXTINF:0,Pro7 FHD
+http://smart-hdip.com:6204/lava1/lava1/12229
+#EXTINF:0,Pro7 Fun  FHD
+http://smart-hdip.com:6204/lava1/lava1/12230
+#EXTINF:0,Pro7 Maxx FHD
+http://smart-hdip.com:6204/lava1/lava1/12226
+#EXTINF:0,Pro 7 Maxx HD
+http://smart-hdip.com:6204/lava1/lava1/12225
+#EXTINF:0,Pro7 Maxx SD
+http://smart-hdip.com:6204/lava1/lava1/12224
+#EXTINF:0,Pro 7 HD
+http://smart-hdip.com:6204/lava1/lava1/12228
+#EXTINF:0,Pro7
+http://smart-hdip.com:6204/lava1/lava1/12227
+#EXTINF:0,N-TV HD
+http://smart-hdip.com:6204/lava1/lava1/12245
+#EXTINF:0,Phoenix
+http://smart-hdip.com:6204/lava1/lava1/12273
+#EXTINF:0,Kabel eins HD.
+http://smart-hdip.com:6204/lava1/lava1/12215
+#EXTINF:0,Kabel eins Doku
+http://smart-hdip.com:6204/lava1/lava1/12281
+#EXTINF:0,Kabel eins Classic HD
+http://smart-hdip.com:6204/lava1/lava1/12214
+#EXTINF:0,Sat1 Emotions
+http://smart-hdip.com:6204/lava1/lava1/12216
+#EXTINF:0,Sat1 Gold HD
+http://smart-hdip.com:6204/lava1/lava1/12219
+#EXTINF:0,Sixx FHD
+http://smart-hdip.com:6204/lava1/lava1/12223
+#EXTINF:0,SIXX HD.
+http://smart-hdip.com:6204/lava1/lava1/12222
+#EXTINF:0,Sixx SD
+http://smart-hdip.com:6204/lava1/lava1/12221
+#EXTINF:0,Tele 5 HD
+http://smart-hdip.com:6204/lava1/lava1/12192
 #EXTINF:0,13th Street HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/366.ts
-#EXTINF:0,ARTE HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/372.ts
-#EXTINF:0,KIKA HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/376.ts
-#EXTINF:0,KIKA
-http://212.232.29.250:8000/live/alisan1234/alisan1234/426.ts
-#EXTINF:0,KINOWELT HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/375.ts
-#EXTINF:0,N24 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/374.ts
-#EXTINF:0,N24
-http://212.232.29.250:8000/live/alisan1234/alisan1234/425.ts
-#EXTINF:0,NTV HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/368.ts
-#EXTINF:0,EURONEWS
-http://212.232.29.250:8000/live/alisan1234/alisan1234/347.ts
-#EXTINF:0,HEIMATKANAL
-http://212.232.29.250:8000/live/alisan1234/alisan1234/361.ts
-#EXTINF:0,ONE HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/373.ts
-#EXTINF:0,PHOENIX HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/370.ts
-#EXTINF:0,PLANET HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/369.ts
-#EXTINF:0,AXN HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/371.ts
-#EXTINF:0,SIXX HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/383.ts
-#EXTINF:0,SRF HD 1
-http://212.232.29.250:8000/live/alisan1234/alisan1234/403.ts
-#EXTINF:0,SRF HD 2
-http://212.232.29.250:8000/live/alisan1234/alisan1234/402.ts
-#EXTINF:0,Romance TV HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/364.ts
-#EXTINF:0,UNIVERSAL HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/359.ts
-#EXTINF:0,VIVA/COMEDY CENTRAL HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/358.ts
-#EXTINF:0,SONY Entertainment TV HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/330.ts
-#EXTINF:0,SPIEGEL TV Geschichte
-http://212.232.29.250:8000/live/alisan1234/alisan1234/363.ts
-#EXTINF:0,SPIEGEL TV Wissen HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/362.ts
-#EXTINF:0,SYFY HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/329.ts
-#EXTINF:0,TELE 5 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/360.ts
-#EXTINF:0,TLC HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/325.ts
-#EXTINF:0,TNT Comedy HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/326.ts
+http://smart-hdip.com:6204/lava1/lava1/12372
+#EXTINF:0,3Sat HD
+http://smart-hdip.com:6204/lava1/lava1/12203
 #EXTINF:0,TNT Film HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/327.ts
+http://smart-hdip.com:6204/lava1/lava1/12371
 #EXTINF:0,TNT Serie HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/328.ts
-#EXTINF:0,DISNEY Channel HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/355.ts
-#EXTINF:0,DISNEY Cinemagic HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/354.ts
-#EXTINF:0,DISNEY Jr. HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/353.ts
-#EXTINF:0,DISNEY XD HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/352.ts
-#EXTINF:0,JUNIOR [6:00-20:00]
-http://212.232.29.250:8000/live/alisan1234/alisan1234/349.ts
-#EXTINF:0,NICK Jr. HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/351.ts
-#EXTINF:0,NICKELODEON HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/350.ts
-#EXTINF:0,TOGGO Plus
-http://212.232.29.250:8000/live/alisan1234/alisan1234/388.ts
-#EXTINF:0,Nickelodeon
-http://212.232.29.250:8000/live/alisan1234/alisan1234/427.ts
-#EXTINF:0,CARTOON NETWORK HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/356.ts
-#EXTINF:0,BOOMERANG HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/367.ts
-#EXTINF:0,DMAX HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/398.ts
-#EXTINF:0,DMAX
-http://212.232.29.250:8000/live/alisan1234/alisan1234/419.ts
-#EXTINF:0,NAT GEO HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/298.ts
-#EXTINF:0,NAT GEO People HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/297.ts
-#EXTINF:0,NAT GEO Wild HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/296.ts
-#EXTINF:0,DISCOVERY Channel HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/294.ts
-#EXTINF:0,HISTORY Channel HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/293.ts
-#EXTINF:0,ANIMAL Planet HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/295.ts
-#EXTINF:0,SKY STORE 1
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2829.ts
-#EXTINF:0,SKY STORE 2
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2828.ts
-#EXTINF:0,SKY STORE 3
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2827.ts
-#EXTINF:0,SKY STORE 4
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2826.ts
-#EXTINF:0,SKY STORE 5
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2825.ts
-#EXTINF:0,SKY STORE 6
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2824.ts
-#EXTINF:0,SKY STORE 7
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2823.ts
-#EXTINF:0,SKY STORE 8
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2822.ts
-#EXTINF:0,SKY STORE 9
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2821.ts
-#EXTINF:0,SKY STORE 10
-http://212.232.29.250:8000/live/alisan1234/alisan1234/2820.ts
-#EXTINF:0,SKY 1 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/343.ts
-#EXTINF:0,SKY CINEMA HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/342.ts
-#EXTINF:0,SKY CINEMA  1 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/341.ts
-#EXTINF:0,SKY CINEMA  24 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/340.ts
-#EXTINF:0,SKY CINEMA FAMILY HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/339.ts
-#EXTINF:0,SKY COMEDY
-http://212.232.29.250:8000/live/alisan1234/alisan1234/337.ts
-#EXTINF:0,SKY EMOTION
-http://212.232.29.250:8000/live/alisan1234/alisan1234/336.ts
-#EXTINF:0,SKY HITS HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/335.ts
-#EXTINF:0,SKY KRIMI
-http://212.232.29.250:8000/live/alisan1234/alisan1234/332.ts
-#EXTINF:0,SKY NOSTALGIE
-http://212.232.29.250:8000/live/alisan1234/alisan1234/334.ts
-#EXTINF:0,SKY ACTION HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/338.ts
-#EXTINF:0,SKY ATLANTIC HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/333.ts
-#EXTINF:0,SKY Bundesliga 1 HD [24/7]
-http://212.232.29.250:8000/live/alisan1234/alisan1234/312.ts
-#EXTINF:0,SKY Bundesliga 2 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/311.ts
-#EXTINF:0,SKY Bundesliga 3 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/310.ts
-#EXTINF:0,SKY Bundesliga 4 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/309.ts
-#EXTINF:0,SKY Bundesliga 5
-http://212.232.29.250:8000/live/alisan1234/alisan1234/308.ts
-#EXTINF:0,SKY Bundesliga 6
-http://212.232.29.250:8000/live/alisan1234/alisan1234/307.ts
-#EXTINF:0,SKY Bundesliga 7
-http://212.232.29.250:8000/live/alisan1234/alisan1234/306.ts
-#EXTINF:0,SKY Bundesliga 8
-http://212.232.29.250:8000/live/alisan1234/alisan1234/305.ts
-#EXTINF:0,SKY Bundesliga 9
-http://212.232.29.250:8000/live/alisan1234/alisan1234/304.ts
-#EXTINF:0,SKY Bundesliga 10
-http://212.232.29.250:8000/live/alisan1234/alisan1234/303.ts
-#EXTINF:0,SKY Sport 1 HD [24/7]
-http://212.232.29.250:8000/live/alisan1234/alisan1234/323.ts
-#EXTINF:0,SKY Sport 2 HD [24/7]
-http://212.232.29.250:8000/live/alisan1234/alisan1234/322.ts
-#EXTINF:0,SKY Sport 3 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/321.ts
-#EXTINF:0,SKY Sport 4 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/320.ts
-#EXTINF:0,SKY Sport 5 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/319.ts
-#EXTINF:0,SKY Sport 6
-http://212.232.29.250:8000/live/alisan1234/alisan1234/318.ts
-#EXTINF:0,SKY Sport 7
-http://212.232.29.250:8000/live/alisan1234/alisan1234/317.ts
-#EXTINF:0,SKY Sport 8
-http://212.232.29.250:8000/live/alisan1234/alisan1234/316.ts
-#EXTINF:0,SKY Sport 9
-http://212.232.29.250:8000/live/alisan1234/alisan1234/315.ts
-#EXTINF:0,SKY Sport 10
-http://212.232.29.250:8000/live/alisan1234/alisan1234/314.ts
-#EXTINF:0,SKY Sport Austria HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/313.ts
-#EXTINF:0,SKY Sports News HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/324.ts
-#EXTINF:0,SPORT 1 US HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/300.ts
-#EXTINF:0,SPORT DIGITAL HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/299.ts
-#EXTINF:0,EUROSPORT 1 HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/346.ts
-#EXTINF:0,Eurosport
-http://212.232.29.250:8000/live/alisan1234/alisan1234/422.ts
-#EXTINF:0,EUROSPORT 2
-http://212.232.29.250:8000/live/alisan1234/alisan1234/345.ts
-#EXTINF:0,EUROSPORT 2 XTRA
-http://212.232.29.250:8000/live/alisan1234/alisan1234/344.ts
-#EXTINF:0,Auto Motor Sport Channel HD
-http://212.232.29.250:8000/live/alisan1234/alisan1234/365.ts
+http://smart-hdip.com:6204/lava1/lava1/12370
+#EXTINF:0,TNT Comedy HD
+http://smart-hdip.com:6204/lava1/lava1/12369
+#EXTINF:0,TLC HD
+http://smart-hdip.com:6204/lava1/lava1/12278
+#EXTINF:0,SyFy SD
+http://smart-hdip.com:6204/lava1/lava1/12375
+#EXTINF:0,Sky 1 HD
+http://smart-hdip.com:6204/lava1/lava1/12379
+#EXTINF:0,Sky Arts HD
+http://smart-hdip.com:6204/lava1/lava1/12276
+#EXTINF:0,Sky Atlantic
+http://smart-hdip.com:6204/lava1/lava1/12378
+#EXTINF:0,Sky Krimi SD
+http://smart-hdip.com:6204/lava1/lava1/12377
+#EXTINF:0,Sky Cinema HD
+http://smart-hdip.com:6204/lava1/lava1/12398
+#EXTINF:0,Sky Cinema  1 HD
+http://smart-hdip.com:6204/lava1/lava1/12397
+#EXTINF:0,Sky Cinema Hits HD
+http://smart-hdip.com:6204/lava1/lava1/12393
+#EXTINF:0,Sky Cinema  24 HD
+http://smart-hdip.com:6204/lava1/lava1/12396
+#EXTINF:0,Sky Cinema Action HD
+http://smart-hdip.com:6204/lava1/lava1/12395
+#EXTINF:0,Sky Cinema Comedy SD
+http://smart-hdip.com:6204/lava1/lava1/12392
+#EXTINF:0,Sky Cinema Emotion SD
+http://smart-hdip.com:6204/lava1/lava1/12391
+#EXTINF:0,Sky Cinema Family HD
+http://smart-hdip.com:6204/lava1/lava1/12394
+#EXTINF:0,Sky Cinema Nostalgie SD
+http://smart-hdip.com:6204/lava1/lava1/12390
+#EXTINF:0,Sky Select 1 FHD
+http://smart-hdip.com:6204/lava1/lava1/12387
+#EXTINF:0,Sky Select 2 FHD
+http://smart-hdip.com:6204/lava1/lava1/12386
+#EXTINF:0,Sky Select 3 FHD
+http://smart-hdip.com:6204/lava1/lava1/12385
+#EXTINF:0,Sky Select 4 FHD
+http://smart-hdip.com:6204/lava1/lava1/12384
+#EXTINF:0,Sky Select 5 FHD
+http://smart-hdip.com:6204/lava1/lava1/12383
+#EXTINF:0,Sky Select 6 HD
+http://smart-hdip.com:6204/lava1/lava1/12382
+#EXTINF:0,Sky Select 7 FHD
+http://smart-hdip.com:6204/lava1/lava1/12381
+#EXTINF:0,Sky Select 8 FHD
+http://smart-hdip.com:6204/lava1/lava1/12380
+#EXTINF:0,A&E
+http://smart-hdip.com:6204/lava1/lava1/12272
+#EXTINF:0,Arte HD.
+http://smart-hdip.com:6204/lava1/lava1/12201
+#EXTINF:0,ATV HD
+http://smart-hdip.com:6204/lava1/lava1/12200
+#EXTINF:0,AXN HD
+http://smart-hdip.com:6204/lava1/lava1/12374
+#EXTINF:0,Anixe Serie FHD
+http://smart-hdip.com:6204/lava1/lava1/12191
+#EXTINF:0,E! HD
+http://smart-hdip.com:6204/lava1/lava1/12366
+#EXTINF:0,EuroNews
+http://smart-hdip.com:6204/lava1/lava1/12244
+#EXTINF:0,Fashion TV
+http://smart-hdip.com:6204/lava1/lava1/12279
+#EXTINF:0,Fox HD
+http://smart-hdip.com:6204/lava1/lava1/12376
+#EXTINF:0,Genius Plus
+http://smart-hdip.com:6204/lava1/lava1/12190
+#EXTINF:0,History FHD
+http://smart-hdip.com:6204/lava1/lava1/12283
+#EXTINF:0,HSE24 FHD
+http://smart-hdip.com:6204/lava1/lava1/12189
+#EXTINF:0,Junior HD
+http://smart-hdip.com:6204/lava1/lava1/12263
+#EXTINF:0,Juwelo FHD
+http://smart-hdip.com:6204/lava1/lava1/12188
+#EXTINF:0,Kika HD
+http://smart-hdip.com:6204/lava1/lava1/12262
+#EXTINF:0,Kinowelt HD
+http://smart-hdip.com:6204/lava1/lava1/12368
+#EXTINF:0,Romance TV
+http://smart-hdip.com:6204/lava1/lava1/12193
+#EXTINF:0,N24 Doku
+http://smart-hdip.com:6204/lava1/lava1/12282
+#EXTINF:0,NDR HD
+http://smart-hdip.com:6204/lava1/lava1/12199
+#EXTINF:0,One HD
+http://smart-hdip.com:6204/lava1/lava1/12198
+#EXTINF:0,ORF 1 HD
+http://smart-hdip.com:6204/lava1/lava1/12196
+#EXTINF:0,ORF 2 HD
+http://smart-hdip.com:6204/lava1/lava1/12195
+#EXTINF:0,ORF Eins FHD
+http://smart-hdip.com:6204/lava1/lava1/12197
+#EXTINF:0,Planet HD
+http://smart-hdip.com:6204/lava1/lava1/12285
+#EXTINF:0,Sony Enterainment HD
+http://smart-hdip.com:6204/lava1/lava1/12367
+#EXTINF:0,Spiegel Tv Geschichte HD
+http://smart-hdip.com:6204/lava1/lava1/12275
+#EXTINF:0,Spiegel TV Wissen HD
+http://smart-hdip.com:6204/lava1/lava1/12274
+#EXTINF:0,Toggo Plus
+http://smart-hdip.com:6204/lava1/lava1/12260
+#EXTINF:0,Universal Channel HD
+http://smart-hdip.com:6204/lava1/lava1/12373
+#EXTINF:0,Travel Channel FHD
+http://smart-hdip.com:6204/lava1/lava1/12280
+#EXTINF:0,Nat Geo HD
+http://smart-hdip.com:6204/lava1/lava1/12288
+#EXTINF:0,Nat Geo Wild HD
+http://smart-hdip.com:6204/lava1/lava1/12287
+#EXTINF:0,Animal Planet HD
+http://smart-hdip.com:6204/lava1/lava1/12286
+#EXTINF:0,Discovery Channel HD
+http://smart-hdip.com:6204/lava1/lava1/12284
+#EXTINF:0,Baby TV
+http://smart-hdip.com:6204/lava1/lava1/12264
+#EXTINF:0,Nickelodeon HD
+http://smart-hdip.com:6204/lava1/lava1/12261
+#EXTINF:0,Boomerang
+http://smart-hdip.com:6204/lava1/lava1/12266
+#EXTINF:0,Cartoon Network HD
+http://smart-hdip.com:6204/lava1/lava1/12267
+#EXTINF:0,Disney Channel HD
+http://smart-hdip.com:6204/lava1/lava1/12271
+#EXTINF:0,Disney CineMagic SD
+http://smart-hdip.com:6204/lava1/lava1/12270
+#EXTINF:0,Disney Junior HD
+http://smart-hdip.com:6204/lava1/lava1/12269
+#EXTINF:0,Disney XD SD
+http://smart-hdip.com:6204/lava1/lava1/12268
+#EXTINF:0,Fix & Foxi
+http://smart-hdip.com:6204/lava1/lava1/12265
+#EXTINF:0,Sky Sport News FHD
+http://smart-hdip.com:6204/lava1/lava1/12352
+#EXTINF:0,Sky Sport News HD.
+http://smart-hdip.com:6204/lava1/lava1/12351
+#EXTINF:0,Sky Sport  Austria FHD
+http://smart-hdip.com:6204/lava1/lava1/12354
+#EXTINF:0,Sky Sport Austria SD
+http://smart-hdip.com:6204/lava1/lava1/12353
+#EXTINF:0,Auto Motor Sport HD
+http://smart-hdip.com:6204/lava1/lava1/12356
+#EXTINF:0,ORF Sport  HD
+http://smart-hdip.com:6204/lava1/lava1/12194
+#EXTINF:0,Motorvision HD
+http://smart-hdip.com:6204/lava1/lava1/12355
+#EXTINF:0,Sport1 US FHD
+http://smart-hdip.com:6204/lava1/lava1/12358
+#EXTINF:0,Sportdigital HD
+http://smart-hdip.com:6204/lava1/lava1/12357
+#EXTINF:0,DAZN  1 FHD
+http://smart-hdip.com:6204/lava1/lava1/12339
+#EXTINF:0,DAZN  2 FHD
+http://smart-hdip.com:6204/lava1/lava1/12338
+#EXTINF:0,EuroSport 1 FHD
+http://smart-hdip.com:6204/lava1/lava1/12350
+#EXTINF:0,EuroSport 1 HD.
+http://smart-hdip.com:6204/lava1/lava1/12349
+#EXTINF:0,EuroSport 2 FHD
+http://smart-hdip.com:6204/lava1/lava1/12348
+#EXTINF:0,EuroSport 2 HD.
+http://smart-hdip.com:6204/lava1/lava1/12347
+#EXTINF:0,EuroSport 2 Xtra FHD
+http://smart-hdip.com:6204/lava1/lava1/12346
+#EXTINF:0,EuroSport 2 Xtra HD
+http://smart-hdip.com:6204/lava1/lava1/12345
+#EXTINF:0,EuroSport360 1 FHD
+http://smart-hdip.com:6204/lava1/lava1/12344
+#EXTINF:0,Eurosport360 2 FHD
+http://smart-hdip.com:6204/lava1/lava1/12343
+#EXTINF:0,EuroSport360 3 FHD
+http://smart-hdip.com:6204/lava1/lava1/12342
+#EXTINF:0,EuroSport360 4 FHD
+http://smart-hdip.com:6204/lava1/lava1/12341
+#EXTINF:0,Eurosport360 5 FHD
+http://smart-hdip.com:6204/lava1/lava1/12340
+#EXTINF:0,Sky Sport 1
+http://smart-hdip.com:6204/lava1/lava1/12335
+#EXTINF:0,Sky Sport 1 FHD
+http://smart-hdip.com:6204/lava1/lava1/12337
+#EXTINF:0,Sky Sport 1 HD
+http://smart-hdip.com:6204/lava1/lava1/12336
+#EXTINF:0,Sky Sport 2
+http://smart-hdip.com:6204/lava1/lava1/12332
+#EXTINF:0,Sky Sport 2 FHD
+http://smart-hdip.com:6204/lava1/lava1/12334
+#EXTINF:0,Sky Sport 2 HD
+http://smart-hdip.com:6204/lava1/lava1/12333
+#EXTINF:0,Sky Sport 3
+http://smart-hdip.com:6204/lava1/lava1/12329
+#EXTINF:0,Sky Sport 3 FHD
+http://smart-hdip.com:6204/lava1/lava1/12331
+#EXTINF:0,Sky Sport 3 HD
+http://smart-hdip.com:6204/lava1/lava1/12330
+#EXTINF:0,Sky Sport 4
+http://smart-hdip.com:6204/lava1/lava1/12326
+#EXTINF:0,Sky Sport 4 FHD
+http://smart-hdip.com:6204/lava1/lava1/12328
+#EXTINF:0,Sky Sport 4 HD
+http://smart-hdip.com:6204/lava1/lava1/12327
+#EXTINF:0,Sky Sport 5
+http://smart-hdip.com:6204/lava1/lava1/12323
+#EXTINF:0,Sky Sport 5 FHD
+http://smart-hdip.com:6204/lava1/lava1/12325
+#EXTINF:0,Sky Sport 5 HD
+http://smart-hdip.com:6204/lava1/lava1/12324
+#EXTINF:0,Sky Sport 6
+http://smart-hdip.com:6204/lava1/lava1/12320
+#EXTINF:0,Sky Sport 6 FHD
+http://smart-hdip.com:6204/lava1/lava1/12322
+#EXTINF:0,Sky Sport 6 HD
+http://smart-hdip.com:6204/lava1/lava1/12321
+#EXTINF:0,Sky Sport 7
+http://smart-hdip.com:6204/lava1/lava1/12317
+#EXTINF:0,Sky Sport 7 FHD
+http://smart-hdip.com:6204/lava1/lava1/12319
+#EXTINF:0,Sky Sport 7 HD
+http://smart-hdip.com:6204/lava1/lava1/12318
+#EXTINF:0,Sky Sport 8 FHD
+http://smart-hdip.com:6204/lava1/lava1/12316
+#EXTINF:0,Sky Sport 8 HD
+http://smart-hdip.com:6204/lava1/lava1/12315
+#EXTINF:0,Sky Sport 9 FHD
+http://smart-hdip.com:6204/lava1/lava1/12314
+#EXTINF:0,Sky Sport 9 HD
+http://smart-hdip.com:6204/lava1/lava1/12313
+#EXTINF:0,Sky Sport 10 FHD
+http://smart-hdip.com:6204/lava1/lava1/12312
+#EXTINF:0,Sky Sport 10 HD
+http://smart-hdip.com:6204/lava1/lava1/12311
+#EXTINF:0,Sky Sport 11 FHD
+http://smart-hdip.com:6204/lava1/lava1/12310
+#EXTINF:0,Sky Sport 11 HD
+http://smart-hdip.com:6204/lava1/lava1/12309
+#EXTINF:0,Sky Sport Bundesliga 1 FHD
+http://smart-hdip.com:6204/lava1/lava1/12308
+#EXTINF:0,Sky Sport Bundesliga 1 HD
+http://smart-hdip.com:6204/lava1/lava1/12307
+#EXTINF:0,Sky Sport Bundesliga 10 FHD
+http://smart-hdip.com:6204/lava1/lava1/12290
+#EXTINF:0,Sky Sport Bundesliga 10 HD
+http://smart-hdip.com:6204/lava1/lava1/12289
+#EXTINF:0,Sky Sport Bundesliga 2 FHD
+http://smart-hdip.com:6204/lava1/lava1/12306
+#EXTINF:0,Sky Sport Bundesliga 2 HD
+http://smart-hdip.com:6204/lava1/lava1/12305
+#EXTINF:0,Sky Sport Bundesliga 3 FHD
+http://smart-hdip.com:6204/lava1/lava1/12304
+#EXTINF:0,Sky Sport Bundesliga 3 HD
+http://smart-hdip.com:6204/lava1/lava1/12303
+#EXTINF:0,Sky Sport Bundesliga 4 FHD
+http://smart-hdip.com:6204/lava1/lava1/12302
+#EXTINF:0,Sky Sport Bundesliga 4 HD
+http://smart-hdip.com:6204/lava1/lava1/12301
+#EXTINF:0,Sky Sport Bundesliga 5 FHD
+http://smart-hdip.com:6204/lava1/lava1/12300
+#EXTINF:0,Sky Sport Bundesliga 5 HD
+http://smart-hdip.com:6204/lava1/lava1/12299
+#EXTINF:0,Sky Sport Bundesliga 6 FHD
+http://smart-hdip.com:6204/lava1/lava1/12298
+#EXTINF:0,Sky Sport Bundesliga 6 HD
+http://smart-hdip.com:6204/lava1/lava1/12297
+#EXTINF:0,Sky Sport Bundesliga 7 FHD
+http://smart-hdip.com:6204/lava1/lava1/12296
+#EXTINF:0,Sky Sport Bundesliga 7 HD
+http://smart-hdip.com:6204/lava1/lava1/12295
+#EXTINF:0,Sky Sport Bundesliga 8 FHD
+http://smart-hdip.com:6204/lava1/lava1/12294
+#EXTINF:0,Sky Sport Bundesliga 8 HD
+http://smart-hdip.com:6204/lava1/lava1/12293
+#EXTINF:0,Sky Sport Bundesliga 9 FHD
+http://smart-hdip.com:6204/lava1/lava1/12292
+#EXTINF:0,Sky Sport Bundesliga 9 HD
+http://smart-hdip.com:6204/lava1/lava1/12291
