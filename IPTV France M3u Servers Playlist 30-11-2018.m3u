@@ -1,98 +1,1556 @@
 #EXTM3U
-
-#EXTINF:-1,6TER
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/376
-#EXTINF:-1,AB Moteurs HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/286
-#EXTINF:-1,AB1
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/379
-#EXTINF:-1,Action HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/375
-#EXTINF:-1,Animaux
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/378
-#EXTINF:-1,Arte HD
-#EXTINF:-1,Disney Channel
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/338
-#EXTINF:-1,Disney Junior
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/337
-#EXTINF:-1,Disney XD HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/339
-#EXTINF:-1,France 2 HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/392
-#EXTINF:-1,France 24 HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/387
-#EXTINF:-1,France 3 HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/391
-#EXTINF:-1,France 4 HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/389
-#EXTINF:-1,France 5 HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/388
-#EXTINF:-1,TF1 HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/394
-#EXTINF:-1,TMC
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/303
-#EXTINF:-1,Toute LHistoire HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/280
-#EXTINF:-1,Trace Urban HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/302
-#EXTINF:-1,TV Breizh HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/301
-#EXTINF:-1,TV5 Monde HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/300
-#EXTINF:-1,Ushauia TV HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/279
-#EXTINF:-1,W9
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/384
-#EXTINF:-1,Weo HD
-http://217.182.134.24:80/MlRRupQoZZ/pI5TGS3aDY/382
-#EXTM3U
-#EXTINF:-1,TF1
-http://5.254.66.128:8000/can/29082018/3105
+#EXTINF:-1,Chasse & peche
+http://smart-hdip.com:6204/lava1/lava1/7589
+#EXTINF:-1,Trek My
+http://smart-hdip.com:6204/lava1/lava1/7593
+#EXTINF:-1,Canal Décalé HD
+http://smart-hdip.com:6204/lava1/lava1/8073
+#EXTINF:-1,Canal Sport HD
+http://smart-hdip.com:6204/lava1/lava1/8072
+#EXTINF:-1,Canal Cinema HD
+http://smart-hdip.com:6204/lava1/lava1/8071
+#EXTINF:-1,Canal HD
+http://smart-hdip.com:6204/lava1/lava1/8070
+#EXTINF:-1,Canal Family HD
+http://smart-hdip.com:6204/lava1/lava1/8069
+#EXTINF:-1,Canal serie HD
+http://smart-hdip.com:6204/lava1/lava1/8068
+#EXTINF:-1,Canal J
+http://smart-hdip.com:6204/lava1/lava1/8067
+#EXTINF:-1,Cartoon network Fr
+http://smart-hdip.com:6204/lava1/lava1/8066
+#EXTINF:-1,Chérie 25 HD
+http://smart-hdip.com:6204/lava1/lava1/8065
+#EXTINF:-1,Cine Frisson
+http://smart-hdip.com:6204/lava1/lava1/8064
+#EXTINF:-1,Cine Premier
+http://smart-hdip.com:6204/lava1/lava1/8063
+#EXTINF:-1,Cine Classic HD
+http://smart-hdip.com:6204/lava1/lava1/8062
+#EXTINF:-1,Cine emotion HD
+http://smart-hdip.com:6204/lava1/lava1/8061
+#EXTINF:-1,Cine Famiz HD
+http://smart-hdip.com:6204/lava1/lava1/8060
+#EXTINF:-1,Cine FX
+http://smart-hdip.com:6204/lava1/lava1/8059
+#EXTINF:-1,Cine Polar
+http://smart-hdip.com:6204/lava1/lava1/8058
+#EXTINF:-1,France 2
+http://smart-hdip.com:6204/lava1/lava1/8044
+#EXTINF:-1,France 3
+http://smart-hdip.com:6204/lava1/lava1/8042
+#EXTINF:-1,France 4
+http://smart-hdip.com:6204/lava1/lava1/8041
+#EXTINF:-1,France 5
+http://smart-hdip.com:6204/lava1/lava1/8040
 #EXTINF:-1,France O
-http://5.254.66.128:8000/can/29082018/3095
-#EXTINF:-1,France 2 HD
-http://5.254.66.128:8000/can/29082018/3096
-#EXTINF:-1,France 3 HD
-http://5.254.66.128:8000/can/29082018/3097
-#EXTINF:-1,France 4 HD
-http://5.254.66.128:8000/can/29082018/3098
-#EXTINF:-1,France 5 HD
-http://5.254.66.128:8000/can/29082018/3099
-#EXTINF:-1,France 24
-http://5.254.66.128:8000/can/29082018/3100
-#EXTINF:-1,TV5 Monde Europe
-http://5.254.66.128:8000/can/29082018/3107
+http://smart-hdip.com:6204/lava1/lava1/8039
+#EXTINF:-1,A la carte 1 HD
+http://smart-hdip.com:6204/lava1/lava1/8090
+#EXTINF:-1,A la carte 2 HD
+http://smart-hdip.com:6204/lava1/lava1/8089
+#EXTINF:-1,A la carte 3 HD
+http://smart-hdip.com:6204/lava1/lava1/8088
+#EXTINF:-1,A la carte 5 HD
+http://smart-hdip.com:6204/lava1/lava1/8086
+#EXTINF:-1,Berbere Jeunesse
+http://smart-hdip.com:6204/lava1/lava1/8083
+#EXTINF:-1,Berbere Music
+http://smart-hdip.com:6204/lava1/lava1/8082
+#EXTINF:-1,Berbere Television
+http://smart-hdip.com:6204/lava1/lava1/8081
+#EXTINF:-1,BFM TV
+http://smart-hdip.com:6204/lava1/lava1/8079
+#EXTINF:-1,Arte HD
+http://smart-hdip.com:6204/lava1/lava1/8085
+#EXTINF:-1,13eme Rue HD
+http://smart-hdip.com:6204/lava1/lava1/8092
+#EXTINF:-1,6TER HD
+http://smart-hdip.com:6204/lava1/lava1/8091
+#EXTINF:-1,C 8 HD
+http://smart-hdip.com:6204/lava1/lava1/8076
+#EXTINF:-1,C News
+http://smart-hdip.com:6204/lava1/lava1/8075
+#EXTINF:-1,C Star HD
+http://smart-hdip.com:6204/lava1/lava1/8074
+#EXTINF:-1,Comédie HD
+http://smart-hdip.com:6204/lava1/lava1/8057
+#EXTINF:-1,E! Entertainment HD
+http://smart-hdip.com:6204/lava1/lava1/8049
+#EXTINF:-1,Equidia Live HD
+http://smart-hdip.com:6204/lava1/lava1/8048
+#EXTINF:-1,Euronews Fr
+http://smart-hdip.com:6204/lava1/lava1/8047
+#EXTINF:-1,FRANCE 24 NEWS FR
+http://smart-hdip.com:6204/lava1/lava1/8043
+#EXTINF:-1,Game One HD
+http://smart-hdip.com:6204/lava1/lava1/8038
+#EXTINF:-1,Golf HD
+http://smart-hdip.com:6204/lava1/lava1/8037
+#EXTINF:-1,Gulli
+http://smart-hdip.com:6204/lava1/lava1/8036
+#EXTINF:-1,HD1 HD
+http://smart-hdip.com:6204/lava1/lava1/8035
+#EXTINF:-1,Histoire
+http://smart-hdip.com:6204/lava1/lava1/8034
+#EXTINF:-1,LCI
+http://smart-hdip.com:6204/lava1/lava1/8030
 #EXTINF:-1,M6 HD
-http://5.254.66.128:8000/can/29082018/3101
-#EXTINF:-1,RTL 9
-http://5.254.66.128:8000/can/29082018/3236
-#EXTINF:-1,Nat Geo Wild HD
-http://5.254.66.128:8000/can/29082018/3103
-#EXTINF:-1,Nat Geo HD
-http://5.254.66.128:8000/can/29082018/3102
-#EXTINF:-1,HISTOIRE
-http://5.254.66.128:8000/can/29082018/3277
-#EXTINF:-1,Science&amp;Vie TV
-http://5.254.66.128:8000/can/29082018/3276
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://5.254.66.128:8000/can/29082018/3270
-#EXTINF:-1,DISCOVERY FRANCE
-http://5.254.66.128:8000/can/29082018/3269
-#EXTINF:-1,NT1 HD
-http://5.254.66.128:8000/can/29082018/3238
+http://smart-hdip.com:6204/lava1/lava1/8029
 #EXTINF:-1,NRJ 12 HD
-http://5.254.66.128:8000/can/29082018/3245
-#EXTINF:-1,DISNEY CHANEL
-http://5.254.66.128:8000/can/29082018/10084
-#EXTINF:-1,DISNEY JUNIOR
-http://5.254.66.128:8000/can/29082018/10086
-#EXTINF:-1,Disney XD
-http://5.254.66.128:8000/can/29082018/10087
-#EXTINF:-1,NICKELODEON
-http://5.254.66.128:8000/can/29082018/3259
-#EXTINF:-1,MTV DANCE
-http://5.254.66.128:8000/can/29082018/3339
-#EXTINF:-1,MANGAS
-http://5.254.66.128:8000/can/29082018/3256
-#EXTINF:-1,M6 MUSIC HITS
-http://5.254.66.128:8000/can/29082018/3337
+http://smart-hdip.com:6204/lava1/lava1/8024
+#EXTINF:-1,Numéro 23
+http://smart-hdip.com:6204/lava1/lava1/8023
+#EXTINF:-1,OCS CHOC HD
+http://smart-hdip.com:6204/lava1/lava1/8022
+#EXTINF:-1,OCS City HD
+http://smart-hdip.com:6204/lava1/lava1/8021
+#EXTINF:-1,OCS Geant HD
+http://smart-hdip.com:6204/lava1/lava1/8020
+#EXTINF:-1,OCS Max HD
+http://smart-hdip.com:6204/lava1/lava1/8019
+#EXTINF:-1,Paramount Channel HD
+http://smart-hdip.com:6204/lava1/lava1/8018
+#EXTINF:-1,Paris Premiere HD
+http://smart-hdip.com:6204/lava1/lava1/8017
+#EXTINF:-1,RMC Découverte
+http://smart-hdip.com:6204/lava1/lava1/8013
+#EXTINF:-1,RTL 9 HD
+http://smart-hdip.com:6204/lava1/lava1/8012
+#EXTINF:-1,RTS Deux HD
+http://smart-hdip.com:6204/lava1/lava1/8011
+#EXTINF:-1,RTS Un HD
+http://smart-hdip.com:6204/lava1/lava1/8010
+#EXTINF:-1,Serie Club HD
+http://smart-hdip.com:6204/lava1/lava1/8009
+#EXTINF:-1,Syfy HD
+http://smart-hdip.com:6204/lava1/lava1/8005
+#EXTINF:-1,TCM Cinema HD
+http://smart-hdip.com:6204/lava1/lava1/8004
+#EXTINF:-1,Teletoon HD
+http://smart-hdip.com:6204/lava1/lava1/8003
+#EXTINF:-1,Téva HD
+http://smart-hdip.com:6204/lava1/lava1/8002
+#EXTINF:-1,TMC HD
+http://smart-hdip.com:6204/lava1/lava1/8000
+#EXTINF:-1,TV5 Europe
+http://smart-hdip.com:6204/lava1/lava1/7999
+#EXTINF:-1,Voyage
+http://smart-hdip.com:6204/lava1/lava1/7997
+#EXTINF:-1,W9 HD
+http://smart-hdip.com:6204/lava1/lava1/7996
+#EXTINF:-1,Planet A&E HD
+http://smart-hdip.com:6204/lava1/lava1/8015
+#EXTINF:-1,Planete CI HD
+http://smart-hdip.com:6204/lava1/lava1/8014
+#EXTINF:-1,Ushuaia HD
+http://smart-hdip.com:6204/lava1/lava1/7998
+#EXTINF:-1,Discovery channel HD
+http://smart-hdip.com:6204/lava1/lava1/8056
+#EXTINF:-1,Discovery Investigation HD
+http://smart-hdip.com:6204/lava1/lava1/8055
+#EXTINF:-1,Discovery Science HD
+http://smart-hdip.com:6204/lava1/lava1/8054
+#EXTINF:-1,National Geo HD
+http://smart-hdip.com:6204/lava1/lava1/8028
+#EXTINF:-1,National Geo Wild HD
+http://smart-hdip.com:6204/lava1/lava1/8027
+#EXTINF:-1,Nickelodeon HD FR
+http://smart-hdip.com:6204/lava1/lava1/8026
+#EXTINF:-1,Nickelodeon Junior FR
+http://smart-hdip.com:6204/lava1/lava1/8025
+#EXTINF:-1,Disney Channel FR
+http://smart-hdip.com:6204/lava1/lava1/8053
+#EXTINF:-1,Disney Cinema Fr HD
+http://smart-hdip.com:6204/lava1/lava1/8052
+#EXTINF:-1,Disney Junior FR
+http://smart-hdip.com:6204/lava1/lava1/8051
+#EXTINF:-1,Disney XD FR
+http://smart-hdip.com:6204/lava1/lava1/8050
+#EXTINF:-1,Boomerang France HD
+http://smart-hdip.com:6204/lava1/lava1/8077
+#EXTINF:-1,Piwi
+http://smart-hdip.com:6204/lava1/lava1/8016
+#EXTINF:-1,TF1 HD
+http://smart-hdip.com:6204/lava1/lava1/8001
+#EXTINF:-1,Eurosport 1 Fr
+http://smart-hdip.com:6204/lava1/lava1/8046
+#EXTINF:-1,InfoSport
+http://smart-hdip.com:6204/lava1/lava1/8033
+#EXTINF:-1,Fr- SFR SPORT 1 FHD
+http://smart-hdip.com:6204/lava1/lava1/14046
+#EXTINF:-1,Fr- SFR SPORT 2 FHD
+http://smart-hdip.com:6204/lava1/lava1/14045
+#EXTINF:-1,Fr- SFR SPORT 3 FHD
+http://smart-hdip.com:6204/lava1/lava1/14044
+#EXTINF:-1,Fr- SFR SPORT 4 FHD
+http://smart-hdip.com:6204/lava1/lava1/14043
+#EXTINF:-1,Fr- SFR SPORT 5 FHD
+http://smart-hdip.com:6204/lava1/lava1/14042
+#EXTINF:-1,Fr- BEIN SPORT 1 HD
+http://smart-hdip.com:6204/lava1/lava1/14041
+#EXTINF:-1,Fr- BEIN SPORT 2 HD
+http://smart-hdip.com:6204/lava1/lava1/14040
+#EXTINF:-1,Fr- BEIN SPORT 3 HD
+http://smart-hdip.com:6204/lava1/lava1/14039
+#EXTINF:-1,Fr- BEIN MAX 4 HD
+http://smart-hdip.com:6204/lava1/lava1/14038
+#EXTINF:-1,Fr- BEIN MAX 5 HD
+http://smart-hdip.com:6204/lava1/lava1/14037
+#EXTINF:-1,Fr- BEIN MAX 6 HD
+http://smart-hdip.com:6204/lava1/lava1/14036
+#EXTINF:-1,Fr- BEIN MAX 7 HD
+http://smart-hdip.com:6204/lava1/lava1/14035
+#EXTINF:-1,Fr- BEIN MAX 8 HD
+http://smart-hdip.com:6204/lava1/lava1/14034
+#EXTINF:-1,Fr- BEIN MAX 9 HD
+http://smart-hdip.com:6204/lava1/lava1/14033
+#EXTINF:-1,Fr- BEIN MAX 10 HD
+http://smart-hdip.com:6204/lava1/lava1/14032
+
+#EXTINF:-1,FR - 6 Ter HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12626
+#EXTINF:-1,FR - A HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12622
+#EXTINF:-1,FR - AB 1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12671
+#EXTINF:-1,FR - AB 3 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12670
+#EXTINF:-1,FR - AB Moteurs HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12575
+#EXTINF:-1,FR - Action HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12647
+#EXTINF:-1,FR - Animaux HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12604
+#EXTINF:-1,FR - Arte HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12676
+#EXTINF:-1,FR - Bein Max 10 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12581
+#EXTINF:-1,FR - Bein Max 4 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12587
+#EXTINF:-1,FR - Bein Max 5 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12586
+#EXTINF:-1,FR - Bein Max 6 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12585
+#EXTINF:-1,FR - Bein Max 7 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12584
+#EXTINF:-1,FR - Bein Max 8 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12583
+#EXTINF:-1,FR - Bein Max 9 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12582
+#EXTINF:-1,FR - Bein Sport 1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12590
+#EXTINF:-1,FR - Bein Sport 2 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12589
+#EXTINF:-1,FR - Bein Sport 3 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12588
+#EXTINF:-1,FR - BET HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12630
+#EXTINF:-1,FR - BFM Business HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12597
+#EXTINF:-1,FR - BFM Sport HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12571
+#EXTINF:-1,FR - Boing HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12555
+#EXTINF:-1,FR - Boomerang HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12562
+#EXTINF:-1,FR - Brava HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12552
+#EXTINF:-1,FR - C8 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12629
+#EXTINF:-1,FR - Canal Cinema HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12665
+#EXTINF:-1,FR - Canal Decale HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12661
+#EXTINF:-1,FR - Canal Family HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12662
+#EXTINF:-1,FR - Canal HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12666
+#EXTINF:-1,FR - Canal Series HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12663
+#EXTINF:-1,FR - Canal Sport HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12664
+#EXTINF:-1,FR - Canal J HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12554
+#EXTINF:-1,FR - Cartoon Network
+http://smart.itiptv.com:25461/Gazi/Gazi/12561
+#EXTINF:-1,FR - Chasse & Peche
+http://smart.itiptv.com:25461/Gazi/Gazi/12600
+#EXTINF:-1,FR - Cherie 25
+http://smart.itiptv.com:25461/Gazi/Gazi/12624
+#EXTINF:-1,FR - CINE Emotion HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12656
+#EXTINF:-1,FR - CINE Classic HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12654
+#EXTINF:-1,FR - CINE Club HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12658
+#EXTINF:-1,FR - CINE Famiz HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12655
+#EXTINF:-1,FR - CINE Frisson HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12657
+#EXTINF:-1,FR - CINE Polar HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12659
+#EXTINF:-1,FR - CINE Premiere HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12660
+#EXTINF:-1,FR - Cine Fx HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12646
+#EXTINF:-1,FR - Cnews HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12667
+#EXTINF:-1,FR - Comedie HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12570
+#EXTINF:-1,FR - Crime Disctrict HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12543
+#EXTINF:-1,FR - Cstar HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12599
+#EXTINF:-1,FR - Discovery ID HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12612
+#EXTINF:-1,FR - Discovery Science HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12613
+#EXTINF:-1,FR - Discovery TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12614
+#EXTINF:-1,FR - Disney Channel
+http://smart.itiptv.com:25461/Gazi/Gazi/12568
+#EXTINF:-1,FR - Disney Channel 1
+http://smart.itiptv.com:25461/Gazi/Gazi/12569
+#EXTINF:-1,FR - Disney Cinema HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12558
+#EXTINF:-1,FR - Disney Jr HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12567
+#EXTINF:-1,FR - E! Entertaiment
+http://smart.itiptv.com:25461/Gazi/Gazi/12548
+#EXTINF:-1,FR - ELLE Girl HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12547
+#EXTINF:-1,FR - Equidia Live HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12574
+#EXTINF:-1,FR - Equipe HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12580
+#EXTINF:-1,FR - Euronews HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12668
+#EXTINF:-1,FR - Eurosport 1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12577
+#EXTINF:-1,FR - Eurosport 2 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12578
+#EXTINF:-1,FR - Fashion TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12572
+#EXTINF:-1,FR - Foot 24
+http://smart.itiptv.com:25461/Gazi/Gazi/12573
+#EXTINF:-1,FR - France 2 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12682
+#EXTINF:-1,FR - France 24 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12669
+#EXTINF:-1,FR - France 3 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12681
+#EXTINF:-1,FR - France 4 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12680
+#EXTINF:-1,FR - FRANCE 5 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12679
+#EXTINF:-1,FR - France Info HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12595
+#EXTINF:-1,FR - FRANCE Ô HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12678
+#EXTINF:-1,FR - Game One HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12636
+#EXTINF:-1,FR - Golf Channel HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12535
+#EXTINF:-1,FR - Golf HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12536
+#EXTINF:-1,FR - Gong HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12557
+#EXTINF:-1,FR - Gulli HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12556
+#EXTINF:-1,FR - HD1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12546
+#EXTINF:-1,FR - Histoire HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12608
+#EXTINF:-1,FR - I Tele HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12544
+#EXTINF:-1,FR - Infosport HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12579
+#EXTINF:-1,FR - J One HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12637
+#EXTINF:-1,FR - LCI HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12596
+#EXTINF:-1,FR - LCP HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12549
+#EXTINF:-1,FR - LFM TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12542
+#EXTINF:-1,FR - M6 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12677
+#EXTINF:-1,FR - M6 Music HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12553
+#EXTINF:-1,FR - Mangas HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12635
+#EXTINF:-1,FR - MCM HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12550
+#EXTINF:-1,FR - Mezzo HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12551
+#EXTINF:-1,FR - Motorsport TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12541
+#EXTINF:-1,FR - Mtv France HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12643
+#EXTINF:-1,FR - Mtv Hits HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12642
+#EXTINF:-1,FR - Mtv Music Dance HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12641
+#EXTINF:-1,FR - Mtv Music HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12640
+#EXTINF:-1,FR - My Cuisine TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12611
+#EXTINF:-1,FR - Nat Geo Wild HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12615
+#EXTINF:-1,FR - National Geo HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12616
+#EXTINF:-1,FR - Nick 4 Teen HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12565
+#EXTINF:-1,FR - Nick Jr HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12566
+#EXTINF:-1,FR - Nollywood FR HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12545
+#EXTINF:-1,FR - NRJ 12 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12638
+#EXTINF:-1,FR - NRJ Hits HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12639
+#EXTINF:-1,FR - NT1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12538
+#EXTINF:-1,FR - Numero 23 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12625
+#EXTINF:-1,FR - Ocs Choc HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12651
+#EXTINF:-1,FR - Ocs City HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12652
+#EXTINF:-1,FR - Ocs Geant HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12650
+#EXTINF:-1,FR - Ocs Max HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12653
+#EXTINF:-1,FR - OM TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12576
+#EXTINF:-1,FR - One TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12540
+#EXTINF:-1,FR - Paramount Channel HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12649
+#EXTINF:-1,FR - Paris Premiere HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12632
+#EXTINF:-1,FR - Piwi HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12563
+#EXTINF:-1,FR - Planete HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12620
+#EXTINF:-1,FR - Planete A&E HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12619
+#EXTINF:-1,FR - Planete CI HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12618
+#EXTINF:-1,FR - RFM TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12537
+#EXTINF:-1,FR - RMC Decouverte HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12598
+#EXTINF:-1,FR - RMC Sport 1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12534
+#EXTINF:-1,FR - RMC Sport 2 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12533
+#EXTINF:-1,FR - RMC Sport 5
+http://smart.itiptv.com:25461/Gazi/Gazi/12532
+#EXTINF:-1,FR - RMC Sport 6
+http://smart.itiptv.com:25461/Gazi/Gazi/12531
+#EXTINF:-1,FR - RMC Sport 7
+http://smart.itiptv.com:25461/Gazi/Gazi/12530
+#EXTINF:-1,FR - RMC Sport 8
+http://smart.itiptv.com:25461/Gazi/Gazi/12529
+#EXTINF:-1,FR - RMC Sport 9
+http://smart.itiptv.com:25461/Gazi/Gazi/12528
+#EXTINF:-1,FR - RTL 9 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12631
+#EXTINF:-1,FR - RTS DEUX HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12674
+#EXTINF:-1,FR - RTS UN HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12675
+#EXTINF:-1,FR - Sciences & Vie HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12606
+#EXTINF:-1,FR - Seasons HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12601
+#EXTINF:-1,FR - Serie Club HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12644
+#EXTINF:-1,FR - Sfr Sport 1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12594
+#EXTINF:-1,FR - Sfr Sport 2 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12593
+#EXTINF:-1,FR - Sfr Sport 3 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12592
+#EXTINF:-1,FR - Sfr Sport 5 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12591
+#EXTINF:-1,FR - Sundance TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12648
+#EXTINF:-1,FR - Syfy HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12645
+#EXTINF:-1,FR - TCM Cinema HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12603
+#EXTINF:-1,FR - Teletoon 1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12559
+#EXTINF:-1,FR - Teva HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12633
+#EXTINF:-1,FR - TF 1 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12683
+#EXTINF:-1,FR - TF1 Series
+http://smart.itiptv.com:25461/Gazi/Gazi/12673
+#EXTINF:-1,FR - TF1 Series Films
+http://smart.itiptv.com:25461/Gazi/Gazi/12672
+#EXTINF:-1,FR - TFX HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12539
+#EXTINF:-1,FR - The Museum Channel HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12605
+#EXTINF:-1,FR - Tiji HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12564
+#EXTINF:-1,FR - TMC HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12627
+#EXTINF:-1,FR - Toonami HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12560
+#EXTINF:-1,FR - Toute Histoire HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12607
+#EXTINF:-1,FR - Trace Urban
+http://smart.itiptv.com:25461/Gazi/Gazi/12621
+#EXTINF:-1,FR - Trek HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12602
+#EXTINF:-1,FR - TV Breizh HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12634
+#EXTINF:-1,FR - TV5 Monde Europe HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12623
+#EXTINF:-1,FR - Ushuaia TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12609
+#EXTINF:-1,FR - Viceland HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12617
+#EXTINF:-1,FR - Voyage TV HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12610
+#EXTINF:-1,FR - W9 HD
+http://smart.itiptv.com:25461/Gazi/Gazi/12628
+
+#EXTINF:-1,FR:TF1_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8398
+#EXTINF:-1,FR:TF1_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/3984
+#EXTINF:-1,FR:TF1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32637
+#EXTINF:-1,FR:TF1_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35764
+#EXTINF:-1,FR:TF1_1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32638
+#EXTINF:-1,FR:FRANCE_2_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8446
+#EXTINF:-1,FR:FRANCE_2_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4725
+#EXTINF:-1,FR:FRANCE_2_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32734
+#EXTINF:-1,FR:FRANCE2_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35789
+#EXTINF:-1,FR:FRANCE_3_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8445
+#EXTINF:-1,FR:FRANCE_3_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4727
+#EXTINF:-1,FR:FRANCE_3_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32733
+#EXTINF:-1,FR:FRANCE3_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35788
+#EXTINF:-1,FR:FRANCE_4_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8444
+#EXTINF:-1,FR:FRANCE_4_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4728
+#EXTINF:-1,FR:FRANCE_4_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32732
+#EXTINF:-1,FR:FRANCE4_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35787
+#EXTINF:-1,FR:FRANCE_5_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8443
+#EXTINF:-1,FR:FRANCE_5_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4729
+#EXTINF:-1,FR:FRANCE_5_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32731
+#EXTINF:-1,FR:FRANCE5_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35786
+#EXTINF:-1,FR:FRANCE_O_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8441
+#EXTINF:-1,FR:FRANCE_O_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/7663
+#EXTINF:-1,FR:FRANCE_Ô_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32729
+#EXTINF:-1,FR:FRANCE_O_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35790
+#EXTINF:-1,FR:FRANCE_INFO_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32730
+#EXTINF:-1,FR:M6_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8432
+#EXTINF:-1,FR:M6_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/3989
+#EXTINF:-1,FR:M6_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32707
+#EXTINF:-1,FR:M6_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35782
+#EXTINF:-1,FR:M6_MUSIC_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32706
+#EXTINF:-1,FR:6TER_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8494
+#EXTINF:-1,FR:6TER_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5230
+#EXTINF:-1,FR:6TER_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32810
+#EXTINF:-1,FR:6TER_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35822
+#EXTINF:-1,FR:TVBREIZH_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8393
+#EXTINF:-1,FR:TV_BREIZH_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6050
+#EXTINF:-1,FR:TV_BREIZH_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32620
+#EXTINF:-1,FR:TMC_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8396
+#EXTINF:-1,FR:TMC_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8400
+#EXTINF:-1,FR:TMC_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32632
+#EXTINF:-1,FR:TMC_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35761
+#EXTINF:-1,FR:TMC_1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32633
+#EXTINF:-1,FR:TCM_CINEMA_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5416
+#EXTINF:-1,FR:TCM_CINEMA_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32642
+#EXTINF:-1,FR:PARIS_PREMIERE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5429
+#EXTINF:-1,FR:PARIS_PREMIERE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/21465
+#EXTINF:-1,FR:PARIS_PREMIERE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32669
+#EXTINF:-1,FR:ARTE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8489
+#EXTINF:-1,FR:ARTE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5414
+#EXTINF:-1,FR:ARTE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32801
+#EXTINF:-1,FR:ARTE_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35819
+#EXTINF:-1,FR:NUMERO_23_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8418
+#EXTINF:-1,FR:NUMERO_23_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4369
+#EXTINF:-1,FR:NUMERO23_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35775
+#EXTINF:-1,FR:C8_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8473
+#EXTINF:-1,FR:C8_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5227
+#EXTINF:-1,FR:C8_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32778
+#EXTINF:-1,FR:C8_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35812
+#EXTINF:-1,------|INFORMATION FR|------
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6382
+#EXTINF:-1,FR:LCI_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6049
+#EXTINF:-1,FR:LCI_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4367
+#EXTINF:-1,FR:LCI_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32712
+#EXTINF:-1,FR:LCI_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35783
+#EXTINF:-1,FR:iTELE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5421
+#EXTINF:-1,AR: FRANCE 24
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5651
+#EXTINF:-1,FR:FRANCE 24
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5649
+#EXTINF:-1,FR:C_NEWS_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8474
+#EXTINF:-1,FR:C_NEWS_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35813
+#EXTINF:-1,FR:TV5_MONDE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8392
+#EXTINF:-1,FR:EURONEWS_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8450
+#EXTINF:-1,FR:BFM_TV_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5420
+#EXTINF:-1,FR:BFM_TV_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8484
+#EXTINF:-1,FR:BFM_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32784
+#EXTINF:-1,FR:BFMTV_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35815
+#EXTINF:-1,FR:BFM_BUSINESS_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8485
+#EXTINF:-1,FR:BFM_BUSINESS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32786
+#EXTINF:-1,FR:BFM_PARIS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32785
+#EXTINF:-1,FR:LCP 100%
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/31451
+#EXTINF:-1,FR:LCP/PUBLIC SENAT
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/31450
+#EXTINF:-1,------|DIVERTISSEMENT|------
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6383
+#EXTINF:-1,FR:13EME_RUE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8495
+#EXTINF:-1,FR:13EME_RUE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4731
+#EXTINF:-1,FR:13EME_RUE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32811
+#EXTINF:-1,FR:CHERIE_25_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8471
+#EXTINF:-1,FR:CHERIE_25_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5229
+#EXTINF:-1,FR:CHERIE_25_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32767
+#EXTINF:-1,FR:COMEDIE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8463
+#EXTINF:-1,FR:COMEDIE+_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4882
+#EXTINF:-1,FR:COMEDIE__FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32758
+#EXTINF:-1,FR:AB1_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8493
+#EXTINF:-1,FR:AB1_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4883
+#EXTINF:-1,FR:AB1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32807
+#EXTINF:-1,FR:AB3_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8492
+#EXTINF:-1,FR:AB3_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32806
+#EXTINF:-1,FR:NRJ_12_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8420
+#EXTINF:-1,FR:NRJ_12_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6054
+#EXTINF:-1,FR:NRJ_12_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32681
+#EXTINF:-1,FR:NRJ12_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35776
+#EXTINF:-1,FR:TFX_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5225
+#EXTINF:-1,FR:TFX HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8419
+#EXTINF:-1,FR:TFX_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32635
+#EXTINF:-1,FR:TFX_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35762
+#EXTINF:-1,FR:W9_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8388
+#EXTINF:-1,FR:W9_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5222
+#EXTINF:-1,FR:W9_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32609
+#EXTINF:-1,FR:W9_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35759
+#EXTINF:-1,FR:RTL9_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8410
+#EXTINF:-1,FR:RTL9_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/24352
+#EXTINF:-1,FR:RTL9_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32651
+#EXTINF:-1,FR:SERIE_CLUB_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4879
+#EXTINF:-1,FR:SERIE_CLUB_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32646
+#EXTINF:-1,FR:TF1-serie_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8436
+#EXTINF:-1,FR:TF1_series_Films_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5425
+#EXTINF:-1,FR:TF1_SERIES_/_FILMS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32636
+#EXTINF:-1,FR:TF1_SERIESFILMS_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35763
+#EXTINF:-1,FR:PARAMOUNT_CHANNEL_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8417
+#EXTINF:-1,FR:PARAMOUNT_CHANNEL_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4887
+#EXTINF:-1,FR:PARAMOUNT_CHANNEL_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32671
+#EXTINF:-1,FR:PARAMOUNT_DECALE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32670
+#EXTINF:-1,FR:SYFY_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8401
+#EXTINF:-1,FR:SYFY_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5436
+#EXTINF:-1,FR:SYFY_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32643
+#EXTINF:-1,------|CANAL+|------
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6379
+#EXTINF:-1,FR:CANAL+_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8481
+#EXTINF:-1,FR:CANAL+_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4246
+#EXTINF:-1,FR:CANAL__FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32774
+#EXTINF:-1,FR:CANAL_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35808
+#EXTINF:-1,FR:CANAL_CINEMA_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8480
+#EXTINF:-1,FR:CANAL_CINEMA_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5432
+#EXTINF:-1,FR:CANAL_CINEMA_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35811
+#EXTINF:-1,FR:CANAL__CINEMA_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32777
+#EXTINF:-1,FR:CANAL_DECALE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8479
+#EXTINF:-1,FR:CANAL_DECALE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4272
+#EXTINF:-1,FR:CANAL__DECALE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32776
+#EXTINF:-1,FR:CANAL_DECALE_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35810
+#EXTINF:-1,FR:CANAL_FAMILY_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8478
+#EXTINF:-1,FR:CANAL_FAMILY_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4273
+#EXTINF:-1,FR:CANAL__FAMILY_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32775
+#EXTINF:-1,FR:CANAL_FAMILY_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35809
+#EXTINF:-1,FR:CANAL_SERIES_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8477
+#EXTINF:-1,FR:CANAL_SERIES_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4259
+#EXTINF:-1,FR:CANAL__SERIES_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32773
+#EXTINF:-1,FR:CANAL_SERIES_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35807
+#EXTINF:-1,FR:CANAL_SPORT_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8476
+#EXTINF:-1,FR:CANAL_SPORT_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4271
+#EXTINF:-1,FR:CANAL__SPORT_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32772
+#EXTINF:-1,FR:CANAL_SPORT_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35806
+#EXTINF:-1,------|CINE+|------
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8806
+#EXTINF:-1,FR:CANAL_ALPHA_JU_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32771
+#EXTINF:-1,FR:CANAL_J_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32770
+#EXTINF:-1,FR:CANALJ_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35805
+#EXTINF:-1,FR:CINE_CLUB_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8468
+#EXTINF:-1,FR:CINE__CLUB_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32765
+#EXTINF:-1,FR:CINE_PREMIER_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8470
+#EXTINF:-1,FR:CINE_PREMIER_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4874
+#EXTINF:-1,FR:CINE__PREMIER_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32761
+#EXTINF:-1,FR:CINE_PREMIER_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35799
+#EXTINF:-1,FR:CINE_CLASSIC_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8469
+#EXTINF:-1,FR:CINE_CLASSIC_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4873
+#EXTINF:-1,FR:CINE__CLASSIC_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32766
+#EXTINF:-1,FR:CINE_CLASSIC_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35803
+#EXTINF:-1,FR:CINE_EMOTION_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8467
+#EXTINF:-1,FR:CINE_EMOTION_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4876
+#EXTINF:-1,FR:CINE__EMOTION_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32764
+#EXTINF:-1,FR:CINE_EMOTION_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35802
+#EXTINF:-1,FR:CINE_FAMIZ_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8466
+#EXTINF:-1,FR:CINE_FAMIZ_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4872
+#EXTINF:-1,FR:CINE__FAMIZ_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32763
+#EXTINF:-1,FR:CINE_FAMIZ_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35801
+#EXTINF:-1,FR:CINE_FRISSON_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8465
+#EXTINF:-1,FR:CINE_FRISSON_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4875
+#EXTINF:-1,FR:CINE__FRISSON_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32762
+#EXTINF:-1,FR:CINE_FRISSON_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35800
+#EXTINF:-1,FR:CINE_FX_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8464
+#EXTINF:-1,FR:CINE_FX_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32760
+#EXTINF:-1,FR:CINE_ POLAR_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4878
+#EXTINF:-1,FR:POLAR__FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32664
+#EXTINF:-1,FR:OCS_MAX
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6714
+#EXTINF:-1,FR:OCS_MAX_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32676
+#EXTINF:-1,FR:OCS_MAX_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35771
+#EXTINF:-1,FR:OCS_CHOC
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4267
+#EXTINF:-1,FR:OCS_CHOC_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32679
+#EXTINF:-1,FR:OCS_CHOC_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35774
+#EXTINF:-1,FR:OCS_CITY
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6713
+#EXTINF:-1,FR:OCS_CITY_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32678
+#EXTINF:-1,FR:OCS_CITY_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35773
+#EXTINF:-1,FR:OCS_Geants_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4266
+#EXTINF:-1,FR:OCS_GEANTS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32677
+#EXTINF:-1,FR:OCS_GEANTS_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35772
+#EXTINF:-1,FR:ACTION_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8491
+#EXTINF:-1,FR:ACTION_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4880
+#EXTINF:-1,FR:ACTION_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32805
+#EXTINF:-1,FR:ACTION_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35821
+#EXTINF:-1,FR:C_STAR_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8461
+#EXTINF:-1,FR:C_STAR_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5228
+#EXTINF:-1,FR:C_STAR_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32780
+#EXTINF:-1,FR:CSTAR_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35798
+#EXTINF:-1,FR:C_STAR_HITS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32779
+#EXTINF:-1,------|CINEMA|------
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6378
+#EXTINF:-1,BOX_OFFICE.1
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6234
+#EXTINF:-1,BOX_OFFICE.2
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6223
+#EXTINF:-1,BOX_OFFICE.3
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6216
+#EXTINF:-1,BOX_OFFICE.4
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6215
+#EXTINF:-1,BOX_OFFICE.5
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6214
+#EXTINF:-1,BOX_OFFICE.6
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6213
+#EXTINF:-1,BOX_OFFICE.7
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6212
+#EXTINF:-1,BOX_OFFICE.9
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6210
+#EXTINF:-1,BOX_OFFICE.11
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6232
+#EXTINF:-1,BOX_OFFICE.12
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6231
+#EXTINF:-1,BOX_OFFICE.13
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6230
+#EXTINF:-1,BOX_OFFICE.14
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6229
+#EXTINF:-1,BOX_OFFICE.15
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6228
+#EXTINF:-1,BOX_OFFICE.16
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6227
+#EXTINF:-1,BOX_OFFICE.17
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6226
+#EXTINF:-1,BOX_OFFICE.18
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6225
+#EXTINF:-1,BOX_OFFICE.20
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6222
+#EXTINF:-1,BOX_OFFICE.22
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6220
+#EXTINF:-1,BOX_OFFICE.21
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6221
+#EXTINF:-1,BOX_OFFICE.23
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6219
+#EXTINF:-1,BOX_OFFICE.24
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6218
+#EXTINF:-1,BOX_OFFICE.25
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6217
+#EXTINF:-1,A LA CARTE 1
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10299
+#EXTINF:-1,A LA CARTE 2
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10298
+#EXTINF:-1,A LA CARTE 3
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10297
+#EXTINF:-1,A LA CARTE 4
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10296
+#EXTINF:-1,A LA CARTE 5
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10295
+#EXTINF:-1,A LA CARTE 6
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10294
+#EXTINF:-1,A LA CARTE 7
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10293
+#EXTINF:-1,A LA CARTE 8
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10292
+#EXTINF:-1,A LA CARTE 9
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10291
+#EXTINF:-1,------|CULTURE|------
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6374
+#EXTINF:-1,FR:ANIMAUX_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10064
+#EXTINF:-1,FR:ANIMAUX_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8490
+#EXTINF:-1,FR:ANIMAUX_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32802
+#EXTINF:-1,FR:ANIMAUX_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35820
+#EXTINF:-1,FR:CHASSE_ET_PECHE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4745
+#EXTINF:-1,FR:CHASSE_ET_PECHE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10057
+#EXTINF:-1,FR:CHASSE_&_PÊCHE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32768
+#EXTINF:-1,FR:SCIENCE_ET_VIE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8407
+#EXTINF:-1,FR:SCIENCE_ET_VIE-TV_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10061
+#EXTINF:-1,FR:SCIENCES_&_VIE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32648
+#EXTINF:-1,FR:DISCOVERY_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8460
+#EXTINF:-1,FR:DISCOVERY_CHANNEL
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10059
+#EXTINF:-1,FR:DISCOVERY_CHANNEL_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32754
+#EXTINF:-1,FR:DISCOVERY_SCIENCE
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10060
+#EXTINF:-1,FR:DISCOVERY SCIENCE HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4269
+#EXTINF:-1,FR:DISCOVERY-SCIENCE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8459
+#EXTINF:-1,FR:DISCOVERY_SCIENCE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32751
+#EXTINF:-1,FR:DISCOVERY_SC_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35795
+#EXTINF:-1,FR:DISCOVERY_INVESTIGATION_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32752
+#EXTINF:-1,FR:DISCOVERY_FAMILY_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32753
+#EXTINF:-1,FR:DISCOVERY_FAMILY_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35797
+#EXTINF:-1,FR:DISCOVERY_ID_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35796
+#EXTINF:-1,FR:PLANETE+_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4263
+#EXTINF:-1,FR:PLANETE+_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8415
+#EXTINF:-1,FR:PLANETE__FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32665
+#EXTINF:-1,FR:PLANETE_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35770
+#EXTINF:-1,FR:PLANETE_AE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5565
+#EXTINF:-1,FR:PLANETE_AE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8414
+#EXTINF:-1,FR:PLANETE__A&E_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32667
+#EXTINF:-1,FR:PLANETE_CI_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8413
+#EXTINF:-1,FR:PLANETE_CI_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5564
+#EXTINF:-1,FR:PLANETE__CI_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32666
+#EXTINF:-1,FR:RMC_DECOUVERTE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4749
+#EXTINF:-1,FR:RMC DECOUVERTE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8411
+#EXTINF:-1,FR:RMC_DECOUVERTE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32659
+#EXTINF:-1,FR:USHUAIA_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8391
+#EXTINF:-1,FR:USHUAIA_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4258
+#EXTINF:-1,FR:USHUAIA_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32616
+#EXTINF:-1,FR:USHUAIA_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35760
+#EXTINF:-1,FR:VOYAGE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8389
+#EXTINF:-1,FR:VOYAGE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4751
+#EXTINF:-1,FR:VOYAGE_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32610
+#EXTINF:-1,FR:NAT GEO WILD SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8424
+#EXTINF:-1,FR:NAT GEO WILD HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5560
+#EXTINF:-1,FR:NAT_GEO_WILD_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32692
+#EXTINF:-1,FR:NAT_GEO_WILD_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35778
+#EXTINF:-1,FR:NATIONAL GEOGRAPHIC SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8423
+#EXTINF:-1,FR:NATIONAL GEOGRAPHIC HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5559
+#EXTINF:-1,FR:NATIONAL_GEO_CHANNEL_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32691
+#EXTINF:-1,FR:NATIONAL_GEO_CHANNEL_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35777
+#EXTINF:-1,FR:TOUTE HISTOIRE
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4740
+#EXTINF:-1,FR:TOUTE HISTOIRE HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10062
+#EXTINF:-1,FR:TOUTE_L'HISTOIRE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32630
+#EXTINF:-1,FR:E!_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8454
+#EXTINF:-1,FR:E!_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10063
+#EXTINF:-1,FR:E!_ENTERTAINMENT_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32744
+#EXTINF:-1,FR:SEASON_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5563
+#EXTINF:-1,FR:SEASON_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8406
+#EXTINF:-1,FR:SEASON_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32647
+#EXTINF:-1,FR:HISTOIRE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8435
+#EXTINF:-1,FR:HISTOIRE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32720
+#EXTINF:-1,FR:MEZZO SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8428
+#EXTINF:-1,FR:MEZZO LIVE SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8427
+#EXTINF:-1,FR:MEZZO_LIVE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32700
+#EXTINF:-1,FR:RFM TV SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8412
+#EXTINF:-1,FR:RFM_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32660
+#EXTINF:-1,FR:CRIME DISTRICT SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8462
+#EXTINF:-1,FR:CRIME_DISTRICT_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32756
+#EXTINF:-1,FR:ELLE GIRL SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8453
+#EXTINF:-1,FR:ELLE_GIRLS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32743
+#EXTINF:-1,FR:MCM_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8430
+#EXTINF:-1,FR:MCM_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32703
+#EXTINF:-1,FR:MCM TOP SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8429
+#EXTINF:-1,FR:MCM_TOP_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32702
+#EXTINF:-1,FR:MCM_TOP_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35780
+#EXTINF:-1,FR:MTV FRANCE SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8425
+#EXTINF:-1,FR:MTV_FHD__FRANCE
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32698
+#EXTINF:-1,FR:MTV_HITS_FRANCE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32697
+#EXTINF:-1,FR:TRACE_URBAN_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8395
+#EXTINF:-1,FR:TRACE_AFRICA_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32629
+#EXTINF:-1,FR:TRACE_SPORT_STARS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32625
+#EXTINF:-1,FR:TRACE_TROPICAL_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32623
+#EXTINF:-1,FR:TRACE_URBAN_FHD_FR
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32622
+#EXTINF:-1,FR:TREK_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8394
+#EXTINF:-1,FR:TREK_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32621
+#EXTINF:-1,FR:M6_MUSIC
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5444
+#EXTINF:-1,FR:M6_MUSIC_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35781
+#EXTINF:-1,FR:TEVA_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6111
+#EXTINF:-1,FR:TEVA_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32639
+#EXTINF:-1,FR:TEVA_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35765
+#EXTINF:-1,FR:A__FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32809
+#EXTINF:-1,FR:AEROSTAR_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32804
+#EXTINF:-1,FR:ALTICE_STUDIO_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32803
+#EXTINF:-1,FR:BE_CURIOUS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32798
+#EXTINF:-1,FR:BET_FHD_FRANCE
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32787
+#EXTINF:-1,FR:BRAVA_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32781
+#EXTINF:-1,FR:ULTRA_NATURE_UFHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32617
+#EXTINF:-1,FR:VIVOLTA SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8390
+#EXTINF:-1,FR:VIVOLTA_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32611
+#EXTINF:-1,FR:BBLACK_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32799
+#EXTINF:-1,FR:CNEWS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32759
+#EXTINF:-1,FR:COMEDY_CENTRAL_FRANCE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32757
+#EXTINF:-1,FR:DJAZZ_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32745
+#EXTINF:-1,FR:ES1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32741
+#EXTINF:-1,FR:ES1_FHD_(H265)
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32740
+#EXTINF:-1,FR:GRAND_LILLE_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32722
+#EXTINF:-1,FR:I-24_NEWS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32719
+#EXTINF:-1,FR:IDF_1_FHD/SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32718
+#EXTINF:-1,FR:LA_CHAINE_PARLEMENTAIRE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32713
+#EXTINF:-1,FR:LIVE_PEPPA_PIG_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32711
+#EXTINF:-1,FR:LUXE_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32709
+#EXTINF:-1,FR:MB_LIVE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32704
+#EXTINF:-1,FR:MELODY_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32701
+#EXTINF:-1,FR:MUSCULATION_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32696
+#EXTINF:-1,FR:MUSEUM_CHANNEL_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32695
+#EXTINF:-1,FR:MYCUISINE
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35534
+#EXTINF:-1,FR:MY_CUISINE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32694
+#EXTINF:-1,FR:MY_CUISINE_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35779
+#EXTINF:-1,FR:MYZEN_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32693
+#EXTINF:-1,FR:NOLLYWOOD_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32684
+#EXTINF:-1,FR:NON_STOP_PEOPLE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32683
+#EXTINF:-1,FR:NRJ_HITS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32680
+#EXTINF:-1,FR:OKLM_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32675
+#EXTINF:-1,FR:OL_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32674
+#EXTINF:-1,FR:ONE_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32673
+#EXTINF:-1,FR:ONZEO_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32672
+#EXTINF:-1,FR:RTS_DEUX_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32650
+#EXTINF:-1,FR:RTS_UN_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32649
+#EXTINF:-1,FR:STAR_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32645
+#EXTINF:-1,FR:SUNDANCE_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32644
+#EXTINF:-1,FR:TV5_MONDE_FBS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32619
+#EXTINF:-1,FR:TV8_MONT_BLANC_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32618
+#EXTINF:-1,FR:VIA_GRAND_PARIS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32613
+#EXTINF:-1,FR:VICELAND_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32612
+#EXTINF:-1,FR:WARNER_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32608
+#EXTINF:-1,FR:WEO_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32607
+#EXTINF:-1,------|JEUNESSE|------
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6376
+#EXTINF:-1,FR:DISNEY_CINEMA_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8457
+#EXTINF:-1,FR:DISNEY_CINEMA_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5447
+#EXTINF:-1,FR:DISNEY_CINEMA_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32748
+#EXTINF:-1,FR:DISNEY_CHANNEL +1_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5793
+#EXTINF:-1,FR:DISNEY_CHANNEL__1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32750
+#EXTINF:-1,DISNEY CHANNEL SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5537
+#EXTINF:-1,FR:DISNEY_CHANNEL_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35794
+#EXTINF:-1,FR:DISNEY_CHANNEL_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32749
+#EXTINF:-1,FR:DISNEY_CHANNEL_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8458
+#EXTINF:-1,FR:DISNEY XD SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8455
+#EXTINF:-1,FR:DISNEY XD HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5536
+#EXTINF:-1,FR:DISNEY_XD_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32746
+#EXTINF:-1,FR:DISNEY_JUNIOR_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8456
+#EXTINF:-1,FR:DISNEY_JUNIOR_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32747
+#EXTINF:-1,FR:DISNEY_JUNIOR_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35793
+#EXTINF:-1,FR:CANAL_J_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8475
+#EXTINF:-1,FR:GULLI_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8437
+#EXTINF:-1,FR:GULLI_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/11158
+#EXTINF:-1,FR:GULLI__FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32721
+#EXTINF:-1,FR:GULLI_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35785
+#EXTINF:-1,FR:NICKELODEON__1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32688
+#EXTINF:-1,FR:NICKELODEON_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8422
+#EXTINF:-1,FR:NICKELODEON_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32686
+#EXTINF:-1,FR:NICKELODEON 4TEEN SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10469
+#EXTINF:-1,FR:NICKELODEON_4_TEEN_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32687
+#EXTINF:-1,FR:NICKELODEON-JUNIOR_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8421
+#EXTINF:-1,FR:NICK_JUNIOR_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32689
+#EXTINF:-1,FR:PIWI_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8416
+#EXTINF:-1,FR:PIWI_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5451
+#EXTINF:-1,FR:PIWI__FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32668
+#EXTINF:-1,FR:GINX_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10074
+#EXTINF:-1,FR:J-ONE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/25535
+#EXTINF:-1,FR:J-ONE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32716
+#EXTINF:-1,FR:GAME_ONE_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8440
+#EXTINF:-1,FR:GAME_ONE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32727
+#EXTINF:-1,FR:MANGAS_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8431
+#EXTINF:-1,FR:MANGAS HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4899
+#EXTINF:-1,FR:MANGAS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32705
+#EXTINF:-1,FR:TIJI_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8397
+#EXTINF:-1,FR:TIJI_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4896
+#EXTINF:-1,FR:TIJI_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32634
+#EXTINF:-1,FR:TELETOON+_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5539
+#EXTINF:-1,FR:TELETOON__1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32640
+#EXTINF:-1,FR:TELETOON_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5450
+#EXTINF:-1,FR:TELETOON_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8399
+#EXTINF:-1,FR:TELETOON___FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32641
+#EXTINF:-1,FR:TOONAMI_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/10076
+#EXTINF:-1,FR:TOONAMI_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32631
+#EXTINF:-1,FR:CARTOON_NETWORK_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8472
+#EXTINF:-1,FR:CARTOON_NETWORK_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32769
+#EXTINF:-1,FR:CARTOON_N_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35804
+#EXTINF:-1,FR:BOOMERANG_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5449
+#EXTINF:-1,FR:BOOMERANG_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8482
+#EXTINF:-1,FR:BOOMERANG_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32782
+#EXTINF:-1,FR:BOOMERANG_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35814
+#EXTINF:-1,FR:BOING_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4251
+#EXTINF:-1,FR:BOING_FR_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8483
+#EXTINF:-1,FR:BOING_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32783
+#EXTINF:-1,NICKELODEON HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4902
+#EXTINF:-1,FR:ZOUZOU TV
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/4898
+#EXTINF:-1,FR:BABY_TV_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32800
+#EXTINF:-1,------|SPORTS|------
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6380
+#EXTINF:-1,FR:L'EQUIPE_21_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8433
+#EXTINF:-1,FR:L'EQUIPE_21_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32715
+#EXTINF:-1,FR:L'EQUIPE_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35784
+#EXTINF:-1,FR:EQUIDIA_LIVE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32742
+#EXTINF:-1,FR:EQUIDIA LIVE SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8451
+#EXTINF:-1,FR:EQUIDIA-LIVE_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5531
+#EXTINF:-1,FR:EQUIDIA LIFE SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8452
+#EXTINF:-1,EUROSPORT FHD solo
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/21733
+#EXTINF:-1,FR:EUROSPORT 1 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5533
+#EXTINF:-1,FR:EUROSPORT 1 FR SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8448
+#EXTINF:-1,FR:EUROSPORT_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32737
+#EXTINF:-1,FR:EUROSPORT 2 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5534
+#EXTINF:-1,FR:EUROSPORT 2 SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8449
+#EXTINF:-1,FR:EUROSPORT_2_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32738
+#EXTINF:-1,FR:INFOSPORT_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/7613
+#EXTINF:-1,FR:INFOSPORT_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8434
+#EXTINF:-1,FR:INFOSPORT__FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32717
+#EXTINF:-1,FR:GOLF CHANNEL SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8438
+#EXTINF:-1,FR:GOLF_CHANNEL_FRANCE_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32724
+#EXTINF:-1,FR:GOLF+ SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8439
+#EXTINF:-1,FR:GOLF+ HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6145
+#EXTINF:-1,FR:GOLF__FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32725
+#EXTINF:-1,FR:RMC_STORY_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32652
+#EXTINF:-1,FR:RMC_NEWS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32658
+#EXTINF:-1,FR:RMC_SPORT_1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32657
+#EXTINF:-1,FR:RMC_SPORT_2_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32656
+#EXTINF:-1,FR:RMC_SPORT_3_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32655
+#EXTINF:-1,FR:RMC_SPORT_4_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32654
+#EXTINF:-1,FR:RMC_SPORT_5_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32653
+#EXTINF:-1,FR:RMC_SPORT1_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35769
+#EXTINF:-1,FR:RMC_SPORT2_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35768
+#EXTINF:-1,FR:RMC_SPORT3_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35767
+#EXTINF:-1,FR:RMC_SPORT4_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35766
+#EXTINF:-1,FR:RMC Sport Access 1 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28194
+#EXTINF:-1,FR:RMC Sport Access 2 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28193
+#EXTINF:-1,FR:RMC Sport Access 3 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28192
+#EXTINF:-1,FR:RMC_SPORT 1 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6053
+#EXTINF:-1,FR:RMC_SPORT 2 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6052
+#EXTINF:-1,FR:RMC_SPORT 3 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8403
+#EXTINF:-1,FR:RMC_SPORT 4 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8402
+#EXTINF:-1,FR:RMC SPORT1 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28191
+#EXTINF:-1,FR:RMC_SPORT2_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28190
+#EXTINF:-1,FR:RMC SPORT3 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28189
+#EXTINF:-1,FR:RMC SPORT4 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28188
+#EXTINF:-1,FR:RMC SPORT 5 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28187
+#EXTINF:-1,FR:RMC Sport Live 6 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28186
+#EXTINF:-1,FR:RMC Sport Live 7 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28185
+#EXTINF:-1,FR:RMC Sport Live 8 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28184
+#EXTINF:-1,FR:RMC Sport Live 9 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28183
+#EXTINF:-1,FR:RMC Sport Live 10 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28182
+#EXTINF:-1,FR:RMC Sport Live 11 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28181
+#EXTINF:-1,FR:RMC Sport Live 12 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28180
+#EXTINF:-1,FR:RMC Sport Live 13 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28179
+#EXTINF:-1,FR:RMC Sport Live 14 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28178
+#EXTINF:-1,FR:RMC Sport Live 15 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28177
+#EXTINF:-1,FR:RMC Sport Live 16 HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28176
+#EXTINF:-1,FR:RMC Sport News HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/28195
+#EXTINF:-1,FR:EXTREME SPORTS SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8447
+#EXTINF:-1,FR:EXTREME_SPORTS_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32736
+#EXTINF:-1,FR:MOTORSPORT TV SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8426
+#EXTINF:-1,FR:FOOT__24/24_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32735
+#EXTINF:-1,FR:NAUTICAL_CHANNEL_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32690
+#EXTINF:-1,------|BEINSPORT-FR |------
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/6192
+#EXTINF:-1,FR:BEINSPORT_1_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32797
+#EXTINF:-1,FR:BEINSPORT_2_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32796
+#EXTINF:-1,FR:BEINSPORT_3_FHD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/32795
+#EXTINF:-1,FR:beIN_SPORT1_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35818
+#EXTINF:-1,FR:beIN_SPORT2_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35817
+#EXTINF:-1,FR:beIN_SPORT3_H265
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/35816
+#EXTINF:-1,FR:BEINSPORT_1_FR_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5525
+#EXTINF:-1,FR:BEINSPORT_2_FR_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/5526
+#EXTINF:-1,FR:BEINSPORT_3_FR_HD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/7466
+#EXTINF:-1,FR:BEINSPORT_1_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8488
+#EXTINF:-1,FR:BEINSPORT_2_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8487
+#EXTINF:-1,FR:BEINSPORT_3_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/8486
+#EXTINF:-1,FR:BEINSPORT_MAX_4_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/7464
+#EXTINF:-1,FR:BEINSPORT_MAX_5_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/7462
+#EXTINF:-1,FR:BEINSPORT_MAX_6_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/7461
+#EXTINF:-1,FR:BEINSPORT_MAX_7_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/7459
+#EXTINF:-1,FR:BEINSPORT_MAX_8_SD
+http://163.172.51.191:25461/OfTTWAjEZ3/F1JQV6SgRH/7457
+
+#EXTINF:-1,EuroSport 1 (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/12.ts
+#EXTINF:-1,EuroSport 2 (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/13.ts
+#EXTINF:-1,beIN Sports 1 HD (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/14.ts
+#EXTINF:-1,beIN Sports 2 HD (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/15.ts
+#EXTINF:-1,beIN Sports 3 HD (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/16.ts
